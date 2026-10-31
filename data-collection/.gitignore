@@ -1,0 +1,4 @@
+data/raw/
+data/last_run.json
+.venv/
+__pycache__/

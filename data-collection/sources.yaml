@@ -1,0 +1,161 @@
+# Machine-readable source list. Human notes live in sources.md.
+# format: pdf | html | docx | law
+# section: output folder under data/clean/
+# manual: site blocks automated download; place the file in data/raw/<id>.<ext> by hand.
+
+- id: woo-instructie-2024
+  title: BZK Woo-instructie 2024
+  section: juridisch
+  format: pdf
+  url: https://www.open-overheid.nl/site/binaries/site-content/collections/documents/2024/7/16/woo-instructie-2024/78903_bzk_woo-instructie_TG.pdf
+
+- id: infographic-woo
+  title: Infographic Wet open overheid
+  section: juridisch
+  format: pdf
+  url: https://www.open-overheid.nl/site/binaries/site-content/collections/documents/2023/5/1/infographic-wet-open-overheid/Infographic+Wet+open+overheid.pdf
+
+- id: woo-in-40-vragen
+  title: De Wet open overheid in 40 vragen
+  section: juridisch
+  format: pdf
+  url: https://www.open-overheid.nl/site/binaries/site-content/collections/documents/2023/5/1/de-woo-in-40-vragen/De+Wet+open+overheid+in+40+vragen-v3.pdf
+
+- id: werkdefinitie-2i
+  title: Werkdefinitie informatiecategorie Woo-verzoeken en -besluiten v1.1
+  section: juridisch
+  format: pdf
+  url: https://www.open-overheid.nl/site/binaries/site-content/collections/documents/2023/07/20/werkdefinitie-woo-informatiecategorie-woo-verzoeken-en--besluiten/werkdefinitie-woo-verzoeken-en-besluiten-versie-1-1.pdf
+
+- id: wet-woo
+  title: Wet open overheid
+  section: juridisch
+  format: law
+  bwb: BWBR0045754
+
+- id: wet-awb
+  title: Algemene wet bestuursrecht (hoofdstukken 3, 4, 6, 7, 8)
+  section: juridisch
+  format: law
+  bwb: BWBR0005537
+  chapters: ["3", "4", "6", "7", "8"]
+
+- id: wet-archiefwet
+  title: Archiefwet 1995
+  section: juridisch
+  format: law
+  bwb: BWBR0007376
+
+- id: wet-omgevingswet
+  title: Omgevingswet
+  section: juridisch
+  format: law
+  bwb: BWBR0037885
+  chapters: ["16", "20"]
+
+- id: handreiking-szw
+  title: Handreiking Woo-afhandelingsproces SZW (jan 2024)
+  section: werkproces
+  format: pdf
+  url: https://www.open-overheid.nl/site/binaries/site-content/collections/documents/2024/1/22/woo-handreiking-szw/Handreiking_Woo-afhandelingsproces_SZW__jan_2024_.pdf
+
+- id: handreiking-arbeidsinspectie
+  title: Handreiking Woo-afhandelingsproces Arbeidsinspectie (jan 2024)
+  section: werkproces
+  format: pdf
+  url: https://www.open-overheid.nl/site/binaries/site-content/collections/documents/2024/1/22/woo-handreiking-szw/Handreiking_Woo-afhandelingsproces_Arbeidsinspectie__jan_2024_.pdf
+
+- id: procedure-ocw
+  title: Beschrijving departementale Woo-procedure OCW
+  section: werkproces
+  format: pdf
+  url: https://www.kcbr.nl/sites/default/files/2024-06/Beschrijving%20departementale%20Woo-procedure%20OCW%20%28toegankelijk%29.pdf
+
+- id: groningen-stappenplan
+  title: Gemeente Groningen stappenplan afhandeling Woo
+  section: werkproces
+  format: pdf
+  manual: true
+  url: https://gemeente.groningen.nl/file/5-stappenplan-afhandeling-woo
+
+- id: groningen-handreiking
+  title: Gemeente Groningen handreiking behandeling Woo
+  section: werkproces
+  format: pdf
+  manual: true
+  url: https://gemeente.groningen.nl/file/3-handreiking-behandeling-woo
+
+- id: raalte-procedureel
+  title: Raalte handleiding procedurele behandeling Woo
+  section: werkproces
+  format: pdf
+  manual: true
+  url: https://ris.gemeenteraadhuizen.nl/Documenten/Handleiding-procedurele-behandeling-Woo.pdf
+
+- id: raalte-praktisch
+  title: Raalte handleiding praktische afhandeling Woo-verzoek
+  section: werkproces
+  format: pdf
+  manual: true
+  url: https://ris.gemeenteraadhuizen.nl/Documenten/Handleiding-praktische-afhandeling-Woo-verzoek.pdf
+
+- id: vng-contactpersoon
+  title: VNG handleiding contactpersoon Woo
+  section: werkproces
+  format: pdf
+  manual: true
+  url: https://vng.nl/sites/default/files/2022-04/handleiding-contactpersoon-woo.pdf
+
+- id: woo-witboek
+  title: Woo Witboek (VVOJ / Open State)
+  section: verzoeker
+  format: html
+  url: https://woo-witboek.openstate.eu/
+
+- id: rijksoverheid-woo-verzoek-indienen
+  title: Rijksoverheid SZW - Woo-verzoek indienen
+  section: verzoeker
+  format: html
+  url: https://www.rijksoverheid.nl/ministeries/ministerie-van-sociale-zaken-en-werkgelegenheid/contact/woo-verzoek-indienen
+
+- id: kcbr-modelbesluit-10
+  title: KCBR modelbesluit - verzoek niet onder reikwijdte Woo
+  section: templates
+  format: docx
+  url: https://www.kcbr.nl/sites/default/files/2024-05/10.%20Modelbesluit%20-%20verzoek%20niet%20onder%20reikwijdte%20Woo%20toegankelijk.docx
+
+- id: kcbr-modelbesluit-11
+  title: KCBR modelbesluit - documenten aangetroffen
+  section: templates
+  format: docx
+  url: https://www.kcbr.nl/sites/default/files/2024-05/11.%20Modelbesluit%20-%20documenten%20aangetroffen-nieuw%20toegankelijk.docx
+
+- id: kcbr-modelbesluit-17
+  title: KCBR modelbesluit - geen documenten
+  section: templates
+  format: docx
+  url: https://www.kcbr.nl/sites/default/files/2024-05/17.%20Modelbesluit%20-%20geen%20documenten%20toegankelijk.docx
+
+- id: lto-bezwaar
+  title: LTO handreiking bezwaar en voorlopige voorziening
+  section: templates
+  format: pdf
+  url: https://lto.nl/wp-content/uploads/2024/05/Handreiking-bezwaar-en-voorlopige-voorziening.pdf
+
+- id: acoi-journalisten
+  title: ACOI - journalisten kritisch over afhandeling Woo-verzoeken
+  section: actualiteit
+  format: html
+  url: https://www.acoi.nl/actueel/nieuws/journalisten-kritisch-over-de-afhandeling-van-Woo-verzoeken/
+
+- id: openstate-reactie-bzk-2025
+  title: Open State reactie op formatiepaper BZK (2025)
+  section: actualiteit
+  format: pdf
+  url: https://openstate.eu/wp-content/uploads/sites/14/2025/12/Woo-reactie-op-formatiepaper-van-BZK.pdf
+
+- id: kamervragen-puntensysteem-utrecht
+  title: Kamervragen puntensysteem Woo-verzoekers Utrecht
+  section: actualiteit
+  format: pdf
+  url: https://zoek.officielebekendmakingen.nl/ah-tk-20242025-1456.pdf
