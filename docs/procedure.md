@@ -24,6 +24,7 @@ Daarna: [rechtsmiddelen](rechtsmiddelen.md).
 ## Indienen
 
 - Iedereen kan een verzoek doen. Mondeling of schriftelijk, ook elektronisch op de aangegeven wijze ([art. 4.1 lid 1-2 Woo](../wetten/woo/artikel_4-1.md)).
+- Onder de Wob mocht het bestuursorgaan een formulier niet verplicht stellen ([ECLI:NL:RVS:2016:2273](../uitspraken/ECLI-NL-RVS-2016-2273.md), r.o. 4.2). De Woo laat het bestuursorgaan de elektronische weg aangeven (art. 4.1 lid 2). Of een webformulier nu verplicht mag zijn, is niet zeker [niet geverifieerd]. Een brief blijft altijd mogelijk.
 - U hoeft geen belang te stellen (art. 4.1 lid 3). U noemt de aangelegenheid of het document (art. 4.1 lid 4).
 - Een verzoek aan een instelling, dienst of bedrijf onder verantwoordelijkheid van een bestuursorgaan: het verantwoordelijke bestuursorgaan beslist (art. 4.1 lid 1).
 - Vanaf ontvangst moet het bestuursorgaan de gevraagde documenten bewaren ([art. 4.1a Woo](../wetten/woo/artikel_4-1a.md)). Noem dit artikel als u vreest dat berichten of mailboxen worden gewist.
@@ -34,14 +35,16 @@ Daarna: [rechtsmiddelen](rechtsmiddelen.md).
 - Is het verzoek te algemeen? Dan vraagt het bestuursorgaan binnen twee weken om precisering. Het moet u daarbij helpen ([art. 4.1 lid 5 Woo](../wetten/woo/artikel_4-1.md)).
 - Werkt u niet mee, dan kan het besluiten het verzoek niet te behandelen. Dat besluit komt binnen twee weken na de precisering of na afloop van de gestelde termijn (art. 4.1 lid 6).
 - Een verzoek om precisering schort de beslistermijn op tot het verzoek voldoende is gepreciseerd. Bron: instructie § 3.3.1, via [art. 4:15 lid 1 onder a](../wetten/awb/artikel_4-15.md) en [art. 4:5 Awb](../wetten/awb/artikel_4-5.md). [niet geverifieerd]
+- De termijn van twee weken voor het verzoek om precisering is geen fatale termijn ([ECLI:NL:RBNNE:2026:2349](../uitspraken/ECLI-NL-RBNNE-2026-2349.md)). Een later verzoek om precisering is dus niet ongeldig.
+- Preciseer, wijzig niet. Een reactie die het onderwerp verschuift, telt niet als meewerken (ECLI:NL:RBNNE:2026:2349).
 - Praktijk: antwoord snel en concreet. Vraag om een gesprek als de vraag vaag is. Leg de precisering schriftelijk vast.
-- Komt het verzoek om precisering na meer dan twee weken? Dan is het te laat volgens art. 4.1 lid 5. Wijs daarop, maar preciseer toch. Zo voorkomt u discussie over opschorting.
 
 ## Niet behandelen bij ander doel (art. 4.6 Woo)
 
 - Het bestuursorgaan kan een verzoek niet behandelen als u kennelijk een ander doel hebt dan publieke informatie, of als het verzoek evident geen bestuurlijke aangelegenheid betreft ([art. 4.6 Woo](../wetten/woo/artikel_4-6.md)).
 - Termijn: binnen twee weken na ontvangst, of onverwijld nadat het andere doel is gebleken.
-- Een geschil met het bestuursorgaan is op zich geen misbruik. De rechter neemt misbruik niet snel aan. Bron: instructie § 3.3.3. [niet geverifieerd]
+- Een geschil met het bestuursorgaan is op zich geen misbruik (instructie § 3.3.3). Werklast alleen is geen grond. Misbruik kan wel als het verzoek het functioneren van het bestuursorgaan moet verstoren ([ECLI:NL:RVS:2019:899](../uitspraken/ECLI-NL-RVS-2019-899.md), r.o. 5).
+- Een rechtsmiddel niet-ontvankelijk verklaren wegens misbruik vereist zwaarwichtige gronden ([ECLI:NL:RVS:2014:4129](../uitspraken/tekst/ECLI-NL-RVS-2014-4129.md), r.o. 6.1).
 
 ## Doorzenden en vorderen (art. 4.2 Woo)
 

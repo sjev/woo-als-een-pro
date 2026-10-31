@@ -1,12 +1,11 @@
 ---
-title: Zoekslag inzichtelijk: systemen, zoektermen, personen, schifting (bevestiging onder de Woo-praktijk)
+title: 'Zoekslag inzichtelijk: systemen, zoektermen, personen, schifting'
 summary: De Afdeling herhaalt de vier elementen van een inzichtelijke zoekslag en oordeelt dat zoeken in archiefsystemen, mailboxen en telefoons van betrokken medewerkers hier voldoende was.
 ecli: ECLI:NL:RVS:2024:480
 datum: 2024-02-07
 instantie: ABRvS
 onderwerpen: [zoekslag, mailboxen, telefoons, oud-medewerkers]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:480
----
+url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:480---
 
 ## Kern
 
