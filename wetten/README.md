@@ -10,6 +10,8 @@ Geldende wetstekst uit het [Basiswettenbestand](https://wetten.overheid.nl). Eé
 | [`archiefwet/`](archiefwet/_wet.md) | Archiefwet 1995 | BWBR0007376 |
 | [`omgevingswet/`](omgevingswet/_wet.md) | Omgevingswet | BWBR0037885 |
 | [`wm/`](wm/_wet.md) | Wet milieubeheer | BWBR0003245 |
+| [`uavg/`](uavg/_wet.md) | Uitvoeringswet AVG | BWBR0040940 |
+| [`aarhus/`](aarhus/_wet.md) | Verdrag van Aarhus (Nederlandse vertaling; authentiek is Engels en Frans) | BWBV0001700 |
 
 ## Indeling
 

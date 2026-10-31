@@ -3,7 +3,7 @@ bwb_id: BWBR0007376
 title: Archiefwet 1995
 short_title: Archiefwet 1995
 valid_from: '2024-06-19'
-fetched_at: '2026-10-31T23:18:47+00:00'
+fetched_at: '2026-10-31T23:21:14+00:00'
 source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0007376/2024-06-19_0/xml/BWBR0007376_2024-06-19_0.xml
 ---
 

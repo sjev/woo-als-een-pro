@@ -3,7 +3,7 @@ bwb_id: BWBR0045754
 title: Wet open overheid
 short_title: Wet open overheid
 valid_from: '2026-08-15'
-fetched_at: '2026-10-31T23:18:55+00:00'
+fetched_at: '2026-10-31T23:21:22+00:00'
 source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0045754/2026-08-15_0/xml/BWBR0045754_2026-08-15_0.xml
 ---
 

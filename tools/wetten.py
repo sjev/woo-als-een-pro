@@ -173,7 +173,9 @@ def fetch(bwb_id: str) -> Law:
     url, title, valid_from = current_toestand(bwb_id)
     root = ET.fromstring(get(url))
     law = Law(bwb_id, title, text(root.find(".//citeertitel")) or title, valid_from, url)
-    wettekst = root.find(".//wettekst")
+    # Treaties hold one <verdrag> per language; prefer the Dutch translation.
+    dutch = root.find(".//verdrag[@{http://www.w3.org/XML/1998/namespace}lang='nl']")
+    wettekst = (dutch if dutch is not None else root).find(".//wettekst")
     if wettekst is not None:
         collect(wettekst, "", [], law.articles)
     for el in root.iterfind(".//wetgeving/*/bijlage"):
@@ -188,7 +190,7 @@ def frontmatter(meta: dict[str, str], body: str) -> str:
 
 
 def article_file(a: Article) -> str:
-    return "artikel_" + a.nr.replace(".", "-").replace(":", "-") + ".md"
+    return "artikel_" + a.nr.replace(".", "-").replace(":", "-").replace(" ", "") + ".md"
 
 
 def bijlage_file(b: Article) -> str:
