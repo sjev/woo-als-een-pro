@@ -9,6 +9,7 @@ Every script runs through `uv` (PEP 723 inline dependencies) unless noted.
 | [`links.py`](links.py) | Module for `build.py`: clickable references and bookmarks in the complete PDF |
 | [`style.tex`](style.tex) | LaTeX house style for letters |
 | [`wetten.py`](wetten.py) | Fetch current law text into [`../wetten/`](../wetten/README.md), one file per article |
+| [`termijn.py`](termijn.py) | Compute the last day of a term under the Algemene termijnenwet |
 | [`collect/`](collect/README.md) | Fetch secondary sources and convert them to markdown in [`../bronnen/`](../bronnen/README.md) |
 
 ## build.py
@@ -44,4 +45,19 @@ tools/wetten.py update woo           # one law
 tools/wetten.py add BWBR0005537 awb  # new law
 ```
 
-Source: the BWB XML repository (version in force today), resolved through the SRU service of zoekservice.overheid.nl. `update` replaces the folder of the law.
+Also fetches appendices (`bijlage*.md`). Source: the BWB XML repository (version in force today), resolved through the SRU service of zoekservice.overheid.nl. `update` replaces the folder of the law.
+
+## termijn.py
+
+```bash
+tools/termijn.py 2026-11-02 4w        # Woo decision term (art. 4.4 lid 1 Woo)
+tools/termijn.py 2026-11-02 4w 2w     # with deferral (art. 4.4 lid 2 Woo)
+tools/termijn.py 2026-11-02 6w 12d    # plus 12 days of suspension
+```
+
+- The date is the event: receipt, notice, decision. The term starts the next day.
+- Periods add up first. The Atw then applies once, to the end of the total term. This is an assumption for chained terms; check it per case.
+- Atw rules: weekend and holiday extension (art. 1), at least two workdays (art. 2), holidays incl. Good Friday and 5 May (art. 3), not for terms over twelve weeks or 90 days (art. 4).
+- Not supported: terms counted backward (art. 1 lid 2), months, years before 2014.
+
+Tests: `uv run --with pytest pytest tools/`.

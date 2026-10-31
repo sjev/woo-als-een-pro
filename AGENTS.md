@@ -49,4 +49,5 @@ Zie [`tools/README.md`](tools/README.md). Kort:
 |---|---|
 | Brief (markdown) naar PDF | `tools/build.py` |
 | Wetstekst ophalen of bijwerken | `tools/wetten.py` |
+| Termijn berekenen (Algemene termijnenwet) | `tools/termijn.py` |
 | Bronnen ophalen en omzetten | `tools/collect/` |

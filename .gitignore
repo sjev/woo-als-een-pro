@@ -1,4 +1,4 @@
 out/
 __pycache__/
 temp/
-wip/
+wip/.pytest_cache/
