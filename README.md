@@ -21,10 +21,12 @@ Agents: lees eerst [`AGENTS.md`](AGENTS.md).
 
 1. [Stappenplan](docs/stappenplan.md) — van situatie naar termijn, actie, sjabloon en document
 2. [Procedure en termijnen](docs/procedure.md) — beslistermijn, verdaging, opschorting, zienswijze derden
-3. [Weigeringsgronden](docs/weigeringsgronden.md) — art. 5.1 en 5.2 Woo
-4. [Rechtsmiddelen](docs/rechtsmiddelen.md) — ingebrekestelling, bezwaar, beroep
-5. [Verhouding tot andere wetten](docs/andere-wetten.md) — Awb, Archiefwet, Omgevingswet, milieu-informatie
-6. [Praktijk](docs/praktijk.md) — verzoek formuleren, overleg, opvolging, lessen uit eigen zaken
+3. [Weigeringsgronden](docs/weigeringsgronden.md) — art. 5.1 en 5.3 Woo; toets een weigering
+4. [Persoonlijke beleidsopvattingen en concepten](docs/beleidsopvattingen.md) — art. 5.2 Woo
+5. [Milieu-informatie en emissiegegevens](docs/milieu-informatie.md) — art. 5.1 lid 6-7 Woo, art. 19.1a Wm, Aarhus
+6. [Rechtsmiddelen](docs/rechtsmiddelen.md) — ingebrekestelling, beroep niet tijdig, bezwaar, beroep, ACOI
+7. [Verhouding tot andere wetten](docs/andere-wetten.md) — bijzondere regimes, Awb, Archiefwet, AVG
+8. [Praktijk](docs/praktijk.md) — verzoek formuleren, overleg, opvolging, lessen uit eigen zaken
 
 Verder: [sjablonen](templates/README.md), [wetten](wetten/README.md), [uitspraken](uitspraken/README.md), [bronnen](bronnen/README.md), [tools](tools/README.md).
 Schrijfregels en conventies: [`AGENTS.md`](AGENTS.md).
