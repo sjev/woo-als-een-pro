@@ -10,6 +10,8 @@ Geldende wetstekst uit het [Basiswettenbestand](https://wetten.overheid.nl). EU-
 | [`archiefwet/`](archiefwet/_wet.md) | Archiefwet 1995 | BWBR0007376 |
 | [`omgevingswet/`](omgevingswet/_wet.md) | Omgevingswet | BWBR0037885 |
 | [`wm/`](wm/_wet.md) | Wet milieubeheer | BWBR0003245 |
+| [`gemeentewet/`](gemeentewet/_wet.md) | Gemeentewet | BWBR0005416 |
+| [`provinciewet/`](provinciewet/_wet.md) | Provinciewet | BWBR0005645 |
 | [`uavg/`](uavg/_wet.md) | Uitvoeringswet AVG | BWBR0040940 |
 | [`avg/`](avg/_wet.md) | Algemene verordening gegevensbescherming (EU 2016/679), tekst PB L 119; rectificaties niet verwerkt [niet geverifieerd] | CELEX:32016R0679 |
 | [`aarhus/`](aarhus/_wet.md) | Verdrag van Aarhus (Nederlandse vertaling; authentiek is Engels en Frans) | BWBV0001700 |

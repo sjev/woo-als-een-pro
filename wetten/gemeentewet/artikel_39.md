@@ -1,0 +1,9 @@
+---
+wet: Gemeentewet
+artikel: '39'
+hoofdstuk: III. Het college van burgemeester en wethouders
+valid_from: '2026-10-01'
+source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005416/2026-10-01_0/xml/BWBR0005416_2026-10-01_0.xml
+---
+
+De benoeming ter vervulling van een plaats die tussentijds openvalt, geschiedt zo spoedig mogelijk, tenzij de raad besluit het aantal wethouders te verminderen.
