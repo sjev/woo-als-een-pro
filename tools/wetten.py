@@ -187,6 +187,10 @@ def frontmatter(meta: dict[str, str], body: str) -> str:
     return f"---\n{dumped}---\n\n{body.strip()}\n"
 
 
+def article_file(a: Article) -> str:
+    return "artikel_" + a.nr.replace(".", "-").replace(":", "-") + ".md"
+
+
 def bijlage_file(b: Article) -> str:
     return b.nr.lower().replace(" ", "_") + ".md"
 
@@ -204,7 +208,8 @@ def toc(articles: list[Article]) -> str:
             if depth >= len(last_s) or last_s[depth] != sectie:
                 lines.append(f"\n### {sectie}\n")
         last_s = a.secties
-        lines.append(f"- Artikel {a.nr} — {a.titel}" if a.titel else f"- Artikel {a.nr}")
+        link = f"- [Artikel {a.nr}]({article_file(a)})"
+        lines.append(f"{link} — {a.titel}" if a.titel else link)
     return re.sub(r"\n{3,}", "\n\n", "\n".join(lines))
 
 
@@ -223,7 +228,7 @@ def write(slug: str, law: Law) -> None:
         "fetched_at": fetched_at,
         "source": law.source,
     }
-    bijlagen = "".join(f"\n- {b.nr} {b.titel}".rstrip() for b in law.bijlagen)
+    bijlagen = "".join(f"\n- [{b.nr}]({bijlage_file(b)}) {b.titel}".rstrip() for b in law.bijlagen)
     body = toc(law.articles) + (f"\n\n## Bijlagen\n{bijlagen}" if bijlagen else "")
     (folder / "_wet.md").write_text(frontmatter(wet, body), encoding="utf8")
     for b in law.bijlagen:
@@ -234,8 +239,7 @@ def write(slug: str, law: Law) -> None:
         if a.hoofdstuk:
             meta["hoofdstuk"] = a.hoofdstuk
         meta |= {"valid_from": law.valid_from, "source": law.source}
-        name = "artikel_" + a.nr.replace(".", "-").replace(":", "-") + ".md"
-        (folder / name).write_text(frontmatter(meta, a.text), encoding="utf8")
+        (folder / article_file(a)).write_text(frontmatter(meta, a.text), encoding="utf8")
 
 
 def add(bwb_id: str, slug: str) -> None:
