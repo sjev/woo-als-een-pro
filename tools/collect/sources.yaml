@@ -1,6 +1,7 @@
 # Machine-readable source list. Human notes live in sources.md.
-# format: pdf | html | docx | law
-# section: output folder under data/clean/
+# format: pdf | html | docx
+# section: output folder under bronnen/ (repo root)
+# Law text is not collected here: see tools/wetten.py.
 # manual: site blocks automated download; place the file in data/raw/<id>.<ext> by hand.
 
 - id: woo-instructie-2024
@@ -27,31 +28,9 @@
   format: pdf
   url: https://www.open-overheid.nl/site/binaries/site-content/collections/documents/2023/07/20/werkdefinitie-woo-informatiecategorie-woo-verzoeken-en--besluiten/werkdefinitie-woo-verzoeken-en-besluiten-versie-1-1.pdf
 
-- id: wet-woo
-  title: Wet open overheid
-  section: juridisch
-  format: law
-  bwb: BWBR0045754
 
-- id: wet-awb
-  title: Algemene wet bestuursrecht (hoofdstukken 3, 4, 6, 7, 8)
-  section: juridisch
-  format: law
-  bwb: BWBR0005537
-  chapters: ["3", "4", "6", "7", "8"]
 
-- id: wet-archiefwet
-  title: Archiefwet 1995
-  section: juridisch
-  format: law
-  bwb: BWBR0007376
 
-- id: wet-omgevingswet
-  title: Omgevingswet
-  section: juridisch
-  format: law
-  bwb: BWBR0037885
-  chapters: ["16", "20"]
 
 - id: handreiking-szw
   title: Handreiking Woo-afhandelingsproces SZW (jan 2024)
@@ -120,25 +99,25 @@
 
 - id: kcbr-modelbesluit-10
   title: KCBR modelbesluit - verzoek niet onder reikwijdte Woo
-  section: templates
+  section: voorbeelden
   format: docx
   url: https://www.kcbr.nl/sites/default/files/2024-05/10.%20Modelbesluit%20-%20verzoek%20niet%20onder%20reikwijdte%20Woo%20toegankelijk.docx
 
 - id: kcbr-modelbesluit-11
   title: KCBR modelbesluit - documenten aangetroffen
-  section: templates
+  section: voorbeelden
   format: docx
   url: https://www.kcbr.nl/sites/default/files/2024-05/11.%20Modelbesluit%20-%20documenten%20aangetroffen-nieuw%20toegankelijk.docx
 
 - id: kcbr-modelbesluit-17
   title: KCBR modelbesluit - geen documenten
-  section: templates
+  section: voorbeelden
   format: docx
   url: https://www.kcbr.nl/sites/default/files/2024-05/17.%20Modelbesluit%20-%20geen%20documenten%20toegankelijk.docx
 
 - id: lto-bezwaar
   title: LTO handreiking bezwaar en voorlopige voorziening
-  section: templates
+  section: voorbeelden
   format: pdf
   url: https://lto.nl/wp-content/uploads/2024/05/Handreiking-bezwaar-en-voorlopige-voorziening.pdf
 

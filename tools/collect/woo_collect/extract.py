@@ -9,7 +9,6 @@ import yaml
 from bs4 import BeautifulSoup
 from markdownify import markdownify
 
-from woo_collect.laws import law_to_markdown
 from woo_collect.sources import Source
 
 NOISE_TAGS = ["script", "style", "nav", "header", "footer", "aside", "form", "noscript", "svg", "button"]
@@ -78,8 +77,6 @@ def extract(source: Source) -> str:
             body = html_to_md(source.raw_path)
         case "docx":
             body = docx_to_md(source.raw_path)
-        case "law":
-            body = law_to_markdown(source.raw_path, source.chapters)
         case other:
             raise ValueError(f"unknown format {other}")
 

@@ -1,4 +1,4 @@
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from pathlib import Path
 
 import yaml
@@ -6,9 +6,9 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 RAW = DATA / "raw"
-CLEAN = DATA / "clean"
+CLEAN = ROOT.parent.parent / "bronnen"
 
-EXT = {"pdf": "pdf", "html": "html", "docx": "docx", "law": "xml"}
+EXT = {"pdf": "pdf", "html": "html", "docx": "docx"}
 
 
 @dataclass(frozen=True)
@@ -17,9 +17,7 @@ class Source:
     title: str
     section: str
     format: str
-    url: str | None = None
-    bwb: str | None = None
-    chapters: list[str] = field(default_factory=list)
+    url: str
     manual: bool = False
 
     @property

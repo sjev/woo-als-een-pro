@@ -5,9 +5,9 @@
 # ///
 """Fetch laws from the Basiswettenbestand and split them into one file per article.
 
-    ./fetch.py add BWBR0045754 woo    # add a law under wetten/woo/
-    ./fetch.py update                 # refetch every law in wetten/
-    ./fetch.py update woo awb         # refetch some laws
+    tools/wetten.py add BWBR0045754 woo    # add a law under wetten/woo/
+    tools/wetten.py update                 # refetch every law in wetten/
+    tools/wetten.py update woo awb         # refetch some laws
 """
 
 from __future__ import annotations
@@ -24,7 +24,7 @@ from xml.etree import ElementTree as ET
 
 import yaml
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent / "wetten"
 SRU_URL = "https://zoekservice.overheid.nl/sru/Search"
 SECTIONS = ("titeldeel", "afdeling", "paragraaf", "sub-paragraaf")
 NS = {

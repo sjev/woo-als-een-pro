@@ -1,8 +1,17 @@
 # Tools
 
-Bouw een brief uit [`../templates/`](../templates/) naar PDF.
+Software for the knowledge base. Code and docs in this folder are in English.
+Every script runs through `uv` (PEP 723 inline dependencies) unless noted.
 
-## Gebruik
+| Tool | Purpose |
+|---|---|
+| [`build.py`](build.py) | Render a markdown letter from [`../templates/`](../templates/README.md) to PDF |
+| [`links.py`](links.py) | Module for `build.py`: clickable references and bookmarks in the complete PDF |
+| [`style.tex`](style.tex) | LaTeX house style for letters |
+| [`wetten.py`](wetten.py) | Fetch current law text into [`../wetten/`](../wetten/README.md), one file per article |
+| [`collect/`](collect/README.md) | Fetch secondary sources and convert them to markdown in [`../bronnen/`](../bronnen/README.md) |
+
+## build.py
 
 ```bash
 tools/build.py brief.md                                # brief.pdf
@@ -10,19 +19,29 @@ tools/build.py brief.md --sign handtekening.png        # + brief-digitaal.pdf
 tools/build.py brief.md --bijlagen bijlagen/ --date 2026-11-01
 ```
 
-| Optie | Effect |
+| Option | Effect |
 |---|---|
-| `--bijlagen DIR` | Maakt `<brief>-compleet.pdf`: brief + gestempelde bijlagen + klikbare verwijzingen en bladwijzers |
-| `--sign PNG` | Zet de handtekening in de ruimte na "Hoogachtend," |
-| `--date JJJJ-MM-DD` | Vult `{{datum}}`; standaard vandaag |
-| `--out DIR` | Uitvoermap; standaard `<map van brief>/out` |
+| `--bijlagen DIR` | Writes `<brief>-compleet.pdf`: letter + stamped attachments + clickable references and bookmarks |
+| `--sign PNG` | Puts the signature in the space after "Hoogachtend," |
+| `--date YYYY-MM-DD` | Fills `{{datum}}`; default today |
+| `--out DIR` | Output folder; default `<letter folder>/out` |
 
-## Bijlagen
+Attachments (*bijlagen*):
 
-- Naam: `bijlage-NN[a-z]-<omschrijving>.md|pdf`. Delen `01a`, `01b` worden één bijlage.
-- Elke pagina krijgt een stempel "Bijlage N, blad x/y".
-- `links.py` maakt "bijlage N", "bijlage N, blad M" en "punt N" in de brief klikbaar. De brief moet eindigen met een kop `## Bijlagen` en een genummerde lijst.
+- Name: `bijlage-NN[a-z]-<description>.md|pdf`. Parts `01a`, `01b` become one attachment.
+- Each page gets the stamp "Bijlage N, blad x/y".
+- `links.py` makes "bijlage N", "bijlage N, blad M" and "punt N" clickable. The letter must end with a heading `## Bijlagen` and a numbered list.
 
-## Vereisten
+Known issue: an unfilled `[...]` directly after `\\` in the letter head breaks the LaTeX build.
 
-`uv`, `pandoc`, `pdflatex` (TeX Live met KOMA-Script), `poppler-utils` (`pdfunite`, `pdfinfo`, `pdftotext`). `uv` installeert `pikepdf`.
+Requires: `uv`, `pandoc`, `pdflatex` (TeX Live with KOMA-Script), `poppler-utils` (`pdfunite`, `pdfinfo`, `pdftotext`). `uv` installs `pikepdf`.
+
+## wetten.py
+
+```bash
+tools/wetten.py update               # all laws
+tools/wetten.py update woo           # one law
+tools/wetten.py add BWBR0005537 awb  # new law
+```
+
+Source: the BWB XML repository (version in force today), resolved through the SRU service of zoekservice.overheid.nl. `update` replaces the folder of the law.

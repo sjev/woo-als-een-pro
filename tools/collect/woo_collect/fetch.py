@@ -5,7 +5,6 @@ from datetime import datetime, timezone
 
 import httpx
 
-from woo_collect.laws import resolve_law_url
 from woo_collect.sources import RAW, Source
 
 USER_AGENT = "woo-als-een-pro-collector/0.1 (research; low volume)"
@@ -16,7 +15,6 @@ EXPECTED_TYPES = {
     "pdf": ("application/pdf",),
     "docx": ("application/vnd.openxmlformats", "application/octet-stream"),
     "html": ("text/html",),
-    "law": ("application/xml", "text/xml"),
 }
 
 
@@ -30,7 +28,7 @@ def fetch(source: Source, http: httpx.Client, refresh: bool = False) -> str:
     if source.manual:
         return f"manual: download {source.url} to {source.raw_path}"
 
-    url = resolve_law_url(source.bwb, http) if source.format == "law" else source.url
+    url = source.url
     time.sleep(DELAY_S)
     resp = http.get(url)
     content_type = resp.headers.get("content-type", "")

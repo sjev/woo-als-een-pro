@@ -1,7 +1,7 @@
 ---
 id: kcbr-modelbesluit-10
 title: KCBR modelbesluit - verzoek niet onder reikwijdte Woo
-section: templates
+section: voorbeelden
 format: docx
 url: https://www.kcbr.nl/sites/default/files/2024-05/10.%20Modelbesluit%20-%20verzoek%20niet%20onder%20reikwijdte%20Woo%20toegankelijk.docx
 final_url: https://www.kcbr.nl/sites/default/files/2024-05/10.%20Modelbesluit%20-%20verzoek%20niet%20onder%20reikwijdte%20Woo%20toegankelijk.docx

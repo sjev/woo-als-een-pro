@@ -13,4 +13,4 @@ Vul `[...]` in. Laat `{{datum}}` staan. Formele brieven (met LaTeX-briefhoofd) b
 | 5 | [bezwaar](bezwaar.md) | Pro-forma bezwaar tegen besluit | art. 6:6, 6:20 lid 3, 7:1a Awb | brief (PDF) |
 | 5 | [beroep](beroep.md) | Beroep tegen besluit; algemene schrijfregels | art. 8:1 Awb | brief (PDF) |
 
-Ervaringen achter deze sjablonen: [docs/06-praktijk.md](../docs/06-praktijk.md).
+Ervaringen achter deze sjablonen: [docs/praktijk.md](../docs/praktijk.md).

@@ -5,7 +5,7 @@ summary: Sjabloon voor een Woo-verzoek met afspraken over zoekslag, inventarisli
 
 # Woo-verzoek
 
-Bron: drie verzoeken uit 2026 (gemeente en provincie). Zie [praktijk](../docs/06-praktijk.md).
+Bron: drie verzoeken uit 2026 (gemeente en provincie). Zie [praktijk](../docs/praktijk.md).
 
 ## Regels
 

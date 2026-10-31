@@ -1,7 +1,7 @@
 ---
 id: lto-bezwaar
 title: LTO handreiking bezwaar en voorlopige voorziening
-section: templates
+section: voorbeelden
 format: pdf
 url: https://lto.nl/wp-content/uploads/2024/05/Handreiking-bezwaar-en-voorlopige-voorziening.pdf
 final_url: https://www.lto.nl/wp-content/uploads/2024/05/Handreiking-bezwaar-en-voorlopige-voorziening.pdf

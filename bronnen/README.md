@@ -1,10 +1,24 @@
-# Bronnen voor WOO verzoeken
+# Bronnen
+
+Secundaire bronnen over de Woo, omgezet naar markdown. Eén map per soort. Elk bestand heeft front matter met `url`, `fetched_at` en `sha256`.
+Een bron is achtergrond. Een juridisch feit steunt op [`wetten/`](../wetten/README.md) of [`uitspraken/`](../uitspraken/README.md).
+Ophalen en bijwerken: [`tools/collect/`](../tools/collect/README.md). Wijzig de bestanden niet met de hand.
+
+| Map | Inhoud |
+|---|---|
+| [`juridisch/`](juridisch/) | Instructies en uitleg van de overheid |
+| [`werkproces/`](werkproces/) | Hoe bestuursorganen een verzoek afhandelen |
+| [`verzoeker/`](verzoeker/) | Verzoekersperspectief en best practices |
+| [`voorbeelden/`](voorbeelden/) | Modelbesluiten en voorbeeldbrieven |
+| [`actualiteit/`](actualiteit/) | Discussie en signalen over de praktijk |
+
+Hieronder: alle bronnen met een korte notitie. Niet elke bron is opgehaald.
 
 ## Kennis en juridische basis
 - [BZK Woo-instructie 2024](https://www.open-overheid.nl/site/binaries/site-content/collections/documents/2024/7/16/woo-instructie-2024/78903_bzk_woo-instructie_TG.pdf): rijksbrede leidraad met procedure en inhoudelijke behandeling, inclusief toelichting op uitzonderingsgronden. Kern-naslag.
 - [Infographic Wet open overheid](https://www.open-overheid.nl/site/binaries/site-content/collections/documents/2023/5/1/infographic-wet-open-overheid/Infographic+Wet+open+overheid.pdf): snel overzicht van termijnen en verschillen met de Wob.
 - [De Woo in 40 vragen](https://www.open-overheid.nl/site/binaries/site-content/collections/documents/2023/5/1/de-woo-in-40-vragen/De+Wet+open+overheid+in+40+vragen-v3.pdf): vraag-en-antwoord over de kern van de wet.
-- Wetteksten op wetten.overheid.nl: [Woo](https://wetten.overheid.nl/BWBR0045754), [Awb](https://wetten.overheid.nl/BWBR0005537), [Archiefwet 1995](https://wetten.overheid.nl/BWBR0007376), [Omgevingswet](https://wetten.overheid.nl/BWBR0037885).
+- Wetteksten: zie [`wetten/`](../wetten/README.md).
 - [Werkdefinitie Woo-verzoeken en -besluiten](https://www.open-overheid.nl/documenten/2023/07/20/werkdefinitie-woo-informatiecategorie-woo-verzoeken-en--besluiten): wat overheden moeten publiceren na een besluit.
 
 ## Werkproces (hoe overheden afhandelen)
@@ -35,4 +49,4 @@
 - [Open State reactie op BZK-voorstellen (2025)](https://openstate.eu/wp-content/uploads/sites/14/2025/12/Woo-reactie-op-formatiepaper-van-BZK.pdf): actuele discussie over het inperken van de Woo.
 - [Kamervragen puntensysteem Utrecht](https://zoek.officielebekendmakingen.nl/ah-tk-20242025-1456.pdf): voorbeeld van hoe gemeenten verzoekers proberen te prioriteren.
 
-> Groningen, Raalte en VNG blokkeren automatische downloads. Haal deze bestanden handmatig op (zie `sources.yaml`, `manual: true`).
+> Groningen, Raalte en VNG blokkeren automatische downloads. Haal deze bestanden handmatig op (zie [`tools/collect/sources.yaml`](../tools/collect/sources.yaml), `manual: true`).

@@ -1,7 +1,7 @@
 ---
 id: kcbr-modelbesluit-11
 title: KCBR modelbesluit - documenten aangetroffen
-section: templates
+section: voorbeelden
 format: docx
 url: https://www.kcbr.nl/sites/default/files/2024-05/11.%20Modelbesluit%20-%20documenten%20aangetroffen-nieuw%20toegankelijk.docx
 final_url: https://www.kcbr.nl/sites/default/files/2024-05/11.%20Modelbesluit%20-%20documenten%20aangetroffen-nieuw%20toegankelijk.docx

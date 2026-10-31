@@ -1,7 +1,7 @@
 ---
 id: kcbr-modelbesluit-17
 title: KCBR modelbesluit - geen documenten
-section: templates
+section: voorbeelden
 format: docx
 url: https://www.kcbr.nl/sites/default/files/2024-05/17.%20Modelbesluit%20-%20geen%20documenten%20toegankelijk.docx
 final_url: https://www.kcbr.nl/sites/default/files/2024-05/17.%20Modelbesluit%20-%20geen%20documenten%20toegankelijk.docx
