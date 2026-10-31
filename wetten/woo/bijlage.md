@@ -1,0 +1,111 @@
+---
+wet: Wet open overheid
+bijlage: Bijlage
+titel: bij artikel 8.8 van de Wet open overheid
+valid_from: '2026-08-15'
+source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0045754/2026-08-15_0/xml/BWBR0045754_2026-08-15_0.xml
+---
+
+De artikelen 3.1, 3.3, 4.1, 5.1, eerste, tweede en vijfde lid, en 5.2 van de Wet open overheid zijn niet van toepassing voor zover de volgende bepalingen gelden.
+
+- Aanbestedingswet 2012: de artikelen 2.53, derde lid, voor zover openbaarmaking van informatie schade zou toebrengen aan de gerechtvaardigde economische belangen van een onderneming, 2.57, eerste lid, voor zover het door de ondernemer als vertrouwelijk aangemerkte informatie betreft, 2.57, tweede lid, voor zover de informatie kan worden gebruikt om de mededinging te vervalsen, 2.138, onderdelen b, c en d, en 2.163
+- Aanbestedingswet op defensie- en veiligheidsgebied: de artikelen 2.36, derde lid, voor zover openbaarmaking van informatie schade zou toebrengen aan de gerechtvaardigde economische belangen van een onderneming, 2.41, eerste lid, voor zover het door de ondernemer als vertrouwelijk aangemerkte informatie betreft, 2.41, tweede lid, voor zover de informatie kan worden gebruikt om de mededinging te vervalsen, 2.95, onderdelen b, c en d, en 2.127, onderdelen b, c en d,
+- Advocatenwet: de artikelen 8, 8a, 8b, 19, tweede lid, voor zover met gesloten deuren vergaderd wordt, en 45a
+- Algemene wet bestuursrecht: de artikelen 3:11, 3:44, voor zover betrekking hebbend op de terinzagelegging van andere documenten dan beschikkingen, 8:79, voor zover bij het bestuursorgaan berustende documenten zijn opgesteld als processtuk, en 9:36a, voor zover de documenten berusten bij de ombudsman
+- Algemene wet inzake rijksbelastingen: artikel 67
+- Arbeidsomstandighedenwet: de artikelen 7 en 26
+- Arbeidstijdenwet: artikel 8:4
+- Archiefwet 1995: de artikelen 14 tot en met 17
+- Bankwet 1998: artikel 20
+- Bekendmakingswet: artikel 13
+- Burgerlijk Wetboek: de artikelen 457 en 458 van Boek 7
+- Comptabiliteitswet 2016, hoofdstuk 7, paragraaf 5, voor zover de documenten berusten bij de Algemene Rekenkamer
+- Cyberbeveiligingswet: artikel 66
+- Douane-en Accijnswet BES: artikel 2.156
+- Energiewet: de artikelen 5.22, 5.24 en 5.25
+- Gemeentewet: de artikelen 23, vierde, vijfde en zesde lid, tweede volzin, 60, derde lid, tweede volzin, 61c, 87, 88, 89 en artikel 185, eerste, derde en zesde lid
+- Geneesmiddelenwet: artikel 100, zevende lid, voor zover recepten in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht aan een aangewezen toezichthouder zijn verstrekt, ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is
+- Gerechtsdeurwaarderswet: de artikelen 1a, 72 en 75, voor zover met gesloten deuren vergaderd wordt
+- Gezondheidswet: artikel 39, tweede lid, voor zover dossiers in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht aan een aangewezen toezichthouder zijn verstrekt ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is
+- Handelsregisterwet 2007: de artikelen 2122, 23 en 28
+- Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie: de artikelen 10, vierde lid, en 11
+- Instellingswet Autoriteit Consument en Markt: de artikelen 7, 12u, 12v en 12w
+- Invoerings- en aanpassingswet Wet op het financieel toezicht: artikel 13
+- Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba: artikel 18.4.7h, zesde lid, voor zover het dossier in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht aan een aangewezen toezichthouder is verstrekt, ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is
+- Invorderingswet 1990: artikel 67
+- Jeugdwet: artikel 9.2, vierde lid, voor zover dossiers in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht aan een aangewezen toezichthouder zijn verstrekt, ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is
+- Kadasterwet: hoofdstuk 7
+- Kernenergiewet: artikel 68
+- Kieswet: de artikelen I 3, I 17, I 19, M 8, N 12, O 4, O 5, P 23, P 25, S 15, U 16, U 18 en Y 17a
+- Participatiewet: artikel 65
+- Pensioenwet: de artikelen 164, 185, 191 en 203 tot en met 208
+- Pensioenwet BES: artikel 28
+- Pensioen- en spaarfondsenwet, zoals deze luidde op 31 december 2006: artikel 20a
+- Provinciewet: de artikelen 23, vierde, vijfde en zesde lid, tweede volzin, 60, derde lid, tweede volzin, 61c, 84, 85, 86, en artikel 186, eerste, derde en zesde lid
+- Registratiewet 1970: artikel 10
+- Rijkswet Onderzoeksraad voor veiligheid: artikel 59, vijfde lid, voor zover de documenten bij de Onderzoeksraad berusten, door de Onderzoeksraad aan een ander bestuursorgaan zijn verstrekt, dan wel door een ander bestuursorgaan zijn opgesteld ten behoeve van een door de Onderzoeksraad ingesteld onderzoek
+- Sanctiewet 1977: de artikelen 10g en 10h
+- TNO-wet: artikel 36
+- Uitvoeringswet cyberbeveiligingsverordening: de artikelen 2, tweede lid, 3, derde lid, 4, zesde lid, en 5, zevende lid
+- Waterschapswet: de artikelen 35, vierde en vijfde lid, 55b, 55c en 55d
+- Wegenverkeerswet 1994: artikel 43
+- Wet algemene bepalingen burgerservicenummer: de artikelen 9 en 11, eerste lid, en paragraaf 4.2
+- Wet basisregistratie adressen en gebouwen: artikel 32
+- Wet basisregistratie grootschalige topografie: artikel 22
+- Wet basisregistratie ondergrond: artikel 24
+- Wet basisregistratie personen: de artikelen 2.54, 2.55, 2.81, eerste en derde lid, hoofdstuk 3 en paragraaf 4.2.1
+- Wet bescherming klokkenluiders: de artikelen 1a, 3i, 3k, vierde lid, 6, tweede lid, en 17, zevende en achtste lid, voor zover de informatie berust bij het Huis voor klokkenluiders
+- Wet betreffende verplichte deelneming in een beroepspensioenregeling, zoals deze luidde op 31 december 2005: artikel 18b
+- Wet bevordering digitale weerbaarheid bedrijven: artikel 4, derde lid
+- Wet bevordering integriteitsbeoordelingen door het openbaar bestuur: de artikelen 20 en 28, tweede lid
+- Wet controle op rechtspersonen: paragraaf 4
+- Wet donorgegevens kunstmatige bevruchting: artikel 10, derde lid, voor zover gegevens in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht aan een aangewezen toezichthouder zijn verstrekt, ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is
+- Wet educatie en beroepsonderwijs: artikel 5.2.3, vijfde lid
+- Wet financiële betrekkingen buitenland 1994: artikel 8
+- Wet financiële markten BES: de artikelen 1:20 en 1:21
+- Wet financiering politieke partijen: artikel 25, vierde, vijfde en zesde lid
+- Wet handhaving consumentenbescherming: artikel 2.24, voor zover de documenten berusten bij de Autoriteit Consument en Markt
+- Wet justitiële en strafvorderlijke gegevens: de titels 2 tot en met 3b
+- Wet kinderopvang: artikel 1.57d
+- Wet kwaliteit, klachten en geschillen zorg:
+   1. de artikelen 9, zevende lid, en 23, voor zover de zorginstelling werkzaam is onder de verantwoordelijkheid van een bestuursorgaan
+   2. de artikelen 24, vijfde lid, en 25, vierde lid, voor zover gegevens of dossiers in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht aan een aangewezen toezichthouder zijn verstrekt, ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is
+- Wet langdurige zorg: artikel 10.4.1, derde lid, voor zover dossiers in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht aan een aangewezen toezichthouder zijn verstrekt, ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is
+- Wet luchtvaart: de artikelen 7.1 en 10.19
+- Wet maatschappelijke ondersteuning 2015: de artikelen 3a.2.1, derde lid, 4.3.1, derde lid, en 6.1, derde lid, voor zover dossiers in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht aan een aangewezen toezichthouder zijn verstrekt, ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is
+- Wet medische hulpmiddelen: artikel 9b
+- Wet melding collectief ontslag: artikel 8
+- Wet melding ongebruikelijke transacties, zoals deze luidde op 31 juli 2008: artikel 18
+- Wet op de beroepen in de individuele gezondheidszorg: artikel 87, derde lid, voor zover dossiers in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht aan een aangewezen toezichthouder zijn verstrekt, ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is
+- Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek: artikel 3a
+- Wet op de parlementaire enquête 2008: hoofdstuk 8, voor zover de documenten berusten bij de commissie, bedoeld in artikel 2, tweede lid, van die wet of, met ingang van de dag waarop de enquête is beëindigd, berusten bij de Eerste Kamer, Tweede Kamer of de verenigde vergadering der Staten-Generaal;
+- Wet op het Centraal bureau voor de statistiek: de artikelen 37 en 39 tot en met 42a
+- Wet op het financieel toezicht: artikel 1:42 en afdeling 1.5.1
+- Wet op het hoger onderwijs en wetenschappelijk onderzoek: artikel 1.25
+- Wet op het notarisambt: de artikelen 5, 76 en 79, voor zover met gesloten deuren vergaderd wordt
+- Wet op het onderwijstoezicht: artikel 6, vierde, zesde en zevende lid
+- Wet open overheid: de artikelen 3.3, vijfde lid, onderdelen a en b, 4.2, derde lid, 5.4a en 7.5, voor zover de documenten berusten bij het Adviescollege openbaarheid en informatiehuishouding
+- Wet opneming buitenlandse kinderen ter adoptie: de artikelen 17e en 17f
+- Wet personenvervoer 2000: artikel 46, derde lid
+- Wet politiegegevens: de artikelen 3, derde lid, en 7
+- Wet regels vervolgfuncties bewindspersonen: de artikelen 2, twaalfde lid, 3, vierde lid, en 4, vijfde lid
+- Wet register onderwijsdeelnemers: de artikelen 5 en 11 en de paragrafen 2.3 en 2.4
+- Wet structuur uitvoeringsorganisatie werk en inkomen: de artikelen 74 en 75
+- Wet ter voorkoming van witwassen en financieren van terrorisme: de artikelen 22 en 23
+- Wet ter voorkoming van witwassen en financieren van terrorisme BES: artikel 1.5
+- Wet toezicht accountantsorganisaties: artikel 43 en de hoofdstukken 5a, 5b en 5c
+- Wet toezicht effectenverkeer 1995: de artikelen 31, 40 en 48a
+- Wet toezicht financiële verslaggeving: de artikelen 2, 3 en 20
+- Wet toezicht trustkantoren 2018: hoofdstuk 7
+- Wet tuchtrechtspraak accountants: de artikelen 21e en 29a
+- Wet veiligheidsregio’s: artikel 49
+- Wet verplichte beroepspensioenregeling: de artikelen 159, 180 en 197 tot en met 202
+- Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000: artikel 17, tweede lid, juncto artikel 204 van de Pensioenwet
+- Wet verplichte geestelijke gezondheidszorg: artikel 13.1, vierde lid, voor zover het dossier in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht aan een aangewezen toezichthouder is verstrekt, ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is
+- Wet voortgezet onderwijs 2020: artikel 2.105, achtste lid
+- Wet waardering onroerende zaken: de artikelen 40, 40a en 40b
+- Wet weerbaarheid kritieke entiteiten: artikel 34
+- Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten: artikel 60, vierde lid, voor zover het dossier in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht aan een aangewezen toezichthouder is verstrekt, ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is
+- Wetboek van Burgerlijke rechtsvordering: artikel 29, voor zover bij het bestuursorgaan berustende documenten zijn opgesteld als processtuk
+- Wetboek van Strafvordering: de artikelen 30, 257h, tweede lid, 365, vierde en vijfde lid, en 415 juncto 365, vierde en vijfde lid
+- Zorgverzekeringswet: artikel 93

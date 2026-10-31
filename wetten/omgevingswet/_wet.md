@@ -3,7 +3,7 @@ bwb_id: BWBR0037885
 title: Omgevingswet
 short_title: Omgevingswet
 valid_from: '2026-07-01'
-fetched_at: '2026-10-31T22:26:16+00:00'
+fetched_at: '2026-10-31T23:18:23+00:00'
 source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037885/2026-07-01_0/xml/BWBR0037885_2026-07-01_0.xml
 ---
 
@@ -1350,3 +1350,7 @@ source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037885/202
 - Artikel 23.9 — (evaluatie)
 - Artikel 23.10 — (inwerkingtreding)
 - Artikel 23.11 — (citeertitel)
+
+## Bijlagen
+
+- Bijlage bij artikel 1.1 van deze wet

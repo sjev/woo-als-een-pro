@@ -3,7 +3,7 @@ bwb_id: BWBR0005537
 title: Algemene wet bestuursrecht
 short_title: Algemene wet bestuursrecht
 valid_from: '2026-08-15'
-fetched_at: '2026-10-31T22:26:13+00:00'
+fetched_at: '2026-10-31T23:18:21+00:00'
 source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml
 ---
 
@@ -908,3 +908,9 @@ source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/202
 - Artikel 11:2
 - Artikel 11:3
 - Artikel 11:4
+
+## Bijlagen
+
+- Bijlage 1 Regeling rechtstreeks beroep (artikel 7:1, eerste lid, onderdeel g)
+- Bijlage 2 Bevoegdheidsregeling bestuursrechtspraak (artikelen 8:5, 8:6, 8:7, 8:105 en 8:106)
+- Bijlage 3 Regeling verlaagd griffierecht (artikelen 8:41 en 8:109)

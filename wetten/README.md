@@ -15,6 +15,7 @@ Geldende wetstekst uit het [Basiswettenbestand](https://wetten.overheid.nl). Eé
 
 - `<wet>/_wet.md`: front matter (`bwb_id`, `title`, `valid_from`, `fetched_at`, `source`) en inhoudsopgave.
 - `<wet>/artikel_<nr>.md`: één artikel. Punt en dubbele punt worden een koppelteken: art. `5.1` → `artikel_5-1.md`, art. `6:12` → `artikel_6-12.md`, art. `15a` → `artikel_15a.md`.
+- `<wet>/bijlage.md` of `bijlage_<n>.md`: een bijlage bij de wet. Voorbeeld: [bijlage Woo](woo/bijlage.md) (bijzondere openbaarmakingsregelingen, art. 8.8 Woo).
 
 Citeer een artikel alleen uit deze bestanden. Noem `valid_from`. Wijzig niets met de hand.
 

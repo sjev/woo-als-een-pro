@@ -3,7 +3,7 @@ bwb_id: BWBR0003245
 title: Wet milieubeheer
 short_title: Wet milieubeheer
 valid_from: '2026-10-22'
-fetched_at: '2026-10-31T23:12:48+00:00'
+fetched_at: '2026-10-31T23:18:25+00:00'
 source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003245/2026-10-22_0/xml/BWBR0003245_2026-10-22_0.xml
 ---
 
@@ -1545,3 +1545,8 @@ source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003245/202
 - Artikel 22.2
 - Artikel 22.2a
 - Artikel 22.3
+
+## Bijlagen
+
+- Bijlage 1 bij de Wet milieubeheer
+- Bijlage 2 bij de Wet milieubeheer

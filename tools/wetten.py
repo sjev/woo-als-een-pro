@@ -52,6 +52,7 @@ class Law:
     valid_from: str
     source: str
     articles: list[Article] = field(default_factory=list)
+    bijlagen: list[Article] = field(default_factory=list)
 
 
 def get(url: str) -> str:
@@ -103,7 +104,7 @@ def content_text(children: Iterable[ET.Element], depth: int = 0) -> str:
             parts.append(pad + text(child))
         elif child.tag == "lijst":
             for li in child.findall("li"):
-                nr = li.findtext("li.nr") or "-"
+                nr = (li.findtext("li.nr") or "-").replace("•", "-")
                 body = [c for c in li if c.tag not in ("li.nr", "meta-data")]
                 head = body.pop(0) if body and body[0].tag == "al" else None
                 parts.append(f"{pad}{nr} {text(head)}".rstrip())
@@ -124,6 +125,21 @@ def article_text(artikel: ET.Element) -> str:
         body = content_text(child)
         blocks.append(f"{nr}. {body}" if nr else body)
     blocks.append(content_text(run))
+    return "\n\n".join(b for b in blocks if b)
+
+
+def bijlage_text(el: ET.Element) -> str:
+    """Appendices nest divisions and articles; each nested heading becomes ###."""
+    blocks: list[str] = []
+    for child in el:
+        if child.tag == "kop" and el.tag != "bijlage":
+            blocks.append("### " + text(child))
+        elif child.tag in ("al", "tussenkop", "lijst"):
+            blocks.append(content_text([child]))
+        elif child.tag == "artikel":
+            blocks.append(f"### {text(child.find('kop'))}\n\n{article_text(child)}")
+        elif child.tag not in ("kop", "meta-data"):
+            blocks.append(bijlage_text(child))
     return "\n\n".join(b for b in blocks if b)
 
 
@@ -160,12 +176,19 @@ def fetch(bwb_id: str) -> Law:
     wettekst = root.find(".//wettekst")
     if wettekst is not None:
         collect(wettekst, "", [], law.articles)
+    for el in root.iterfind(".//wetgeving/*/bijlage"):
+        label = el.get("label") or "Bijlage"
+        law.bijlagen.append(Article(label, "", [], text(el.find("kop/titel")), bijlage_text(el)))
     return law
 
 
 def frontmatter(meta: dict[str, str], body: str) -> str:
     dumped = yaml.safe_dump(meta, allow_unicode=True, sort_keys=False)
     return f"---\n{dumped}---\n\n{body.strip()}\n"
+
+
+def bijlage_file(b: Article) -> str:
+    return b.nr.lower().replace(" ", "_") + ".md"
 
 
 def toc(articles: list[Article]) -> str:
@@ -200,7 +223,12 @@ def write(slug: str, law: Law) -> None:
         "fetched_at": fetched_at,
         "source": law.source,
     }
-    (folder / "_wet.md").write_text(frontmatter(wet, toc(law.articles)), encoding="utf8")
+    bijlagen = "".join(f"\n- {b.nr} {b.titel}".rstrip() for b in law.bijlagen)
+    body = toc(law.articles) + (f"\n\n## Bijlagen\n{bijlagen}" if bijlagen else "")
+    (folder / "_wet.md").write_text(frontmatter(wet, body), encoding="utf8")
+    for b in law.bijlagen:
+        meta = {"wet": law.title, "bijlage": b.nr, "titel": b.titel, "valid_from": law.valid_from, "source": law.source}
+        (folder / bijlage_file(b)).write_text(frontmatter(meta, b.text), encoding="utf8")
     for a in law.articles:
         meta = {"wet": law.title, "artikel": a.nr}
         if a.hoofdstuk:

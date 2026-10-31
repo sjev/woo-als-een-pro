@@ -3,7 +3,7 @@ bwb_id: BWBR0045754
 title: Wet open overheid
 short_title: Wet open overheid
 valid_from: '2026-08-15'
-fetched_at: '2026-10-31T22:26:10+00:00'
+fetched_at: '2026-10-31T23:18:26+00:00'
 source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0045754/2026-08-15_0/xml/BWBR0045754_2026-08-15_0.xml
 ---
 
@@ -84,3 +84,7 @@ source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0045754/202
 - Artikel 10.2f — Vervallen hoofdstuk 6
 - Artikel 10.3 — Inwerkingtreding
 - Artikel 10.4 — Citeertitel
+
+## Bijlagen
+
+- Bijlage bij artikel 8.8 van de Wet open overheid
