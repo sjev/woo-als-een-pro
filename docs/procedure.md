@@ -67,7 +67,7 @@ Een verdaging is alleen geldig als zij aan alle eisen voldoet ([art. 4.4 lid 2 W
 | Voor afloop van de eerste termijn | Komt de mededeling na vier weken? Dan is de termijn al verstreken |
 
 - Is de verdaging ongeldig? Dan eindigt de termijn na vier weken. Leg dat schriftelijk vast. Sjabloon: [reactie-verdaging](../templates/reactie-verdaging.md).
-- Twijfelt u? Reken met de latere datum. Een te vroege ingebrekestelling telt niet ([rechtsmiddelen](rechtsmiddelen.md)).
+- Twijfelt u? Reken met de latere datum. Een te vroege ingebrekestelling telt niet ([rechtsmiddelen](rechtsmiddelen.md#ingebrekestelling-art-612-awb)).
 
 ## Opschorting
 

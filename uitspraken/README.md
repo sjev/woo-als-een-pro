@@ -43,7 +43,6 @@ Citeer rechtsoverwegingen letterlijk, met nummer. Neem alleen een uitspraak op d
 
 Uitspraken die de kennisbank nodig heeft. Haal een regel weg als het bestand er is.
 
-- Te vroege ingebrekestelling telt niet (art. 6:12 lid 2 Awb). Nodig voor [rechtsmiddelen](../docs/rechtsmiddelen.md).
 - Zakelijke sms- en WhatsApp-berichten vallen onder de Woo (ABRvS).
 - Zoekslag: aannemelijkheid dat er niet meer documenten zijn; bewijslast.
 - Art. 4:8 Awb (zienswijze derden) bij Woo-verzoeken.
