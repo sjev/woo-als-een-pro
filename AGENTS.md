@@ -22,7 +22,7 @@ Schrijfstijl in beide talen: ASD-STE100. Korte zinnen, één gedachte per zin, a
 1. [`docs/stappenplan.md`](docs/stappenplan.md): welke situatie, welke actie, welk sjabloon.
 2. `docs/<onderwerp>.md`: de regel en de praktijk. TOC in [`README.md`](README.md).
 3. `wetten/<wet>/artikel_<nr>.md`: de wetstekst zelf. Zoek met `grep -rl "<term>" wetten/<wet>/`.
-4. `uitspraken/`: jurisprudentie per ECLI.
+4. `uitspraken/`: jurisprudentie per ECLI. Index in [`uitspraken/README.md`](uitspraken/README.md). Volledige teksten: `grep -rl "<term>" uitspraken/tekst/`.
 5. `bronnen/`: handreikingen en achtergrond. Secundair; nooit de enige grondslag.
 
 ## Bronregels
@@ -39,7 +39,8 @@ Schrijfstijl in beide talen: ASD-STE100. Korte zinnen, één gedachte per zin, a
 - Eén onderwerp per document. Doel: < 200 regels.
 - Documenten in `docs/`, `templates/` en `uitspraken/` beginnen met YAML front matter: minimaal `title` en `summary`.
 - Bestandsnamen: kleine letters, koppeltekens, geen nummers vooraf. De volgorde staat in de TOC.
-- Wijzig `wetten/` en `bronnen/` niet met de hand. Gebruik de tools in [`tools/`](tools/README.md).
+- Wijzig `wetten/`, `bronnen/` en `uitspraken/tekst/` niet met de hand. Gebruik de tools in [`tools/`](tools/README.md).
+- Draai `tools/check_links.py` na elke wijziging in `docs/`, `templates/` of `uitspraken/`.
 
 ## Tools
 

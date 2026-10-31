@@ -13,17 +13,17 @@ Bron: drie verzoeken uit 2026 over één ruimtelijk dossier. Twee verzoeken bij 
 - Nummer elk onderdeel. Inperken, faseren en controleren gaat daarna per nummer.
 - Zet de afspraken over de afdoening al in het verzoek: inventarislijst, zoekverantwoording, fasering, vorm. Sjabloon: [verzoek](../templates/verzoek.md).
 - Vraag chatberichten en agenda's in aparte onderdelen. Anders worden zij niet doorzocht.
-- Milieu-informatie: noem art. 19.1a Wm en art. 5.1 lid 7 Woo. Voor emissiegegevens vervallen de meeste weigeringsgronden.
+- Milieu-informatie: noem dat in het verzoek, met artikelen ([milieu-informatie](milieu-informatie.md#zo-gebruikt-u-dit)).
 
 ## Verdaging en opschorting
 
-- Verdaging (art. 4.4 lid 2 Woo) mag alleen om omvang of gecompliceerdheid. Vakantie en reces zijn geen grond. Het bestuursorgaan houdt de verdaging toch vaak vol. Leg de einddatum schriftelijk vast. Sjabloon: [reactie-verdaging](../templates/reactie-verdaging.md).
-- "Een zienswijze schort de termijn op" klopt alleen na een mededeling dat art. 4:8 Awb wordt toegepast (art. 4.4 lid 3 Woo). Een losse aankondiging is niet genoeg.
-- Instemming met uitstel (art. 4:15 lid 2 onder a Awb) is een ruilmiddel. Geef haar alleen tegen een schriftelijk tijdpad. Zonder instemming loopt de termijn door.
+- Verdaging om vakantie of reces voldoet niet aan de eisen ([procedure](procedure.md#verdaging-art-44-lid-2-woo)). Het bestuursorgaan houdt de verdaging toch vaak vol. Leg de einddatum schriftelijk vast. Sjabloon: [reactie-verdaging](../templates/reactie-verdaging.md).
+- "Een zienswijze schort de termijn op" klopt alleen na de juiste mededeling ([procedure](procedure.md#opschorting)). Controleer die mededeling altijd.
+- Instemming met uitstel is een ruilmiddel. Geef haar alleen tegen een schriftelijk tijdpad ([overleg](overleg.md#wat-u-geeft)).
 
 ## Overleg en prioritering
 
-- Een gesprek met het bestuursorgaan is het overleg van art. 4.2a Woo. Leg het daarna per e-mail vast.
+- Een gesprek met het bestuursorgaan is het overleg van art. 4.2a Woo. Leg het daarna per e-mail vast ([overleg](overleg.md#vastleggen)).
 - Inperken tegen een tijdpad werkt alleen als het bestuursorgaan het tijdpad bevestigt. Zonder bevestiging: houd het hele verzoek in stand en zeg dat.
 - Splits naar herkomst. Stukken van andere bestuursorganen hebben geen zienswijze nodig en kunnen eerst.
 - Lever zoektermen als losse woorden en deelwoorden.
@@ -32,9 +32,9 @@ Bron: drie verzoeken uit 2026 over één ruimtelijk dossier. Twee verzoeken bij 
 
 ## Termijnbewaking
 
-- Reken elke termijn uit, met de Algemene termijnenwet (weekend → maandag).
-- Stel in gebreke op de dag na de laatste dag. Niet eerder. Sjabloon: [ingebrekestelling](../templates/ingebrekestelling.md).
-- Er is geen Awb-dwangsom bij niet tijdig beslissen (art. 8.2 Woo). Druk komt van het beroep en de dwangsom van de rechter (art. 8:55d Awb).
+- Reken elke termijn uit met `tools/termijn.py` ([stappenplan](stappenplan.md#termijn-berekenen)).
+- Stel in gebreke op de dag na de laatste dag. Niet eerder ([rechtsmiddelen](rechtsmiddelen.md#ingebrekestelling-art-612-awb)). Sjabloon: [ingebrekestelling](../templates/ingebrekestelling.md).
+- Druk komt niet van een Awb-dwangsom, maar van het beroep en de dwangsom van de rechter ([rechtsmiddelen](rechtsmiddelen.md#beroep-niet-tijdig-art-612-855b-855d-awb-art-84-woo)).
 - Twee weken na de ingebrekestelling: beroep. Sjabloon: [beroep-niet-tijdig](../templates/beroep-niet-tijdig.md).
 
 ## Besluit controleren
