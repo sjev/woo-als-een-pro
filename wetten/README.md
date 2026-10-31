@@ -1,6 +1,6 @@
 # Wetten
 
-Geldende wetstekst uit het [Basiswettenbestand](https://wetten.overheid.nl). Eén bestand per artikel.
+Geldende wetstekst uit het [Basiswettenbestand](https://wetten.overheid.nl). EU-recht uit de [Cellar](https://op.europa.eu/) van het Publicatiebureau. Eén bestand per artikel.
 
 | Map | Wet | BWB-ID |
 |---|---|---|
@@ -11,6 +11,7 @@ Geldende wetstekst uit het [Basiswettenbestand](https://wetten.overheid.nl). Eé
 | [`omgevingswet/`](omgevingswet/_wet.md) | Omgevingswet | BWBR0037885 |
 | [`wm/`](wm/_wet.md) | Wet milieubeheer | BWBR0003245 |
 | [`uavg/`](uavg/_wet.md) | Uitvoeringswet AVG | BWBR0040940 |
+| [`avg/`](avg/_wet.md) | Algemene verordening gegevensbescherming (EU 2016/679), tekst PB L 119; rectificaties niet verwerkt [niet geverifieerd] | CELEX:32016R0679 |
 | [`aarhus/`](aarhus/_wet.md) | Verdrag van Aarhus (Nederlandse vertaling; authentiek is Engels en Frans) | BWBV0001700 |
 
 ## Indeling

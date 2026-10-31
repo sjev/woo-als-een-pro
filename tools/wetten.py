@@ -8,6 +8,7 @@
     tools/wetten.py add BWBR0045754 woo    # add a law under wetten/woo/
     tools/wetten.py update                 # refetch every law in wetten/
     tools/wetten.py update woo awb         # refetch some laws
+    tools/wetten.py add CELEX:32016R0679 avg  # EU act (Dutch text, via the Cellar)
 """
 
 from __future__ import annotations
@@ -23,6 +24,8 @@ from pathlib import Path
 from xml.etree import ElementTree as ET
 
 import yaml
+
+import eurlex
 
 ROOT = Path(__file__).resolve().parent.parent / "wetten"
 SRU_URL = "https://zoekservice.overheid.nl/sru/Search"
@@ -169,7 +172,21 @@ def collect(el: ET.Element, hoofdstuk: str, secties: list[str], out: list[Articl
             out.append(Article(nr, hoofdstuk, secties, titel, article_text(child)))
 
 
+# The Cellar gives no citation title or validity date; record them here (date of application).
+EU_ACTS = {"32016R0679": ("Algemene verordening gegevensbescherming", "2018-05-25")}
+
+
+def fetch_eu(celex: str) -> Law:
+    title, url, articles = eurlex.fetch_act(celex)
+    short_title, valid_from = EU_ACTS.get(celex, (title, ""))
+    law = Law(f"CELEX:{celex}", short_title, short_title, valid_from, url)
+    law.articles = [Article(nr, chapter, [], titel, body) for nr, chapter, titel, body in articles]
+    return law
+
+
 def fetch(bwb_id: str) -> Law:
+    if bwb_id.startswith("CELEX:"):
+        return fetch_eu(bwb_id.removeprefix("CELEX:"))
     url, title, valid_from = current_toestand(bwb_id)
     root = ET.fromstring(get(url))
     law = Law(bwb_id, title, text(root.find(".//citeertitel")) or title, valid_from, url)

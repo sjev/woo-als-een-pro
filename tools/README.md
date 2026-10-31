@@ -43,9 +43,11 @@ Requires: `uv`, `pandoc`, `pdflatex` (TeX Live with KOMA-Script), `poppler-utils
 tools/wetten.py update               # all laws
 tools/wetten.py update woo           # one law
 tools/wetten.py add BWBR0005537 awb  # new law
+tools/wetten.py add CELEX:32016R0679 avg  # EU act
 ```
 
 Also fetches appendices (`bijlage*.md`). Source: the BWB XML repository (version in force today), resolved through the SRU service of zoekservice.overheid.nl. `update` replaces the folder of the law.
+Treaties (BWBV): the Dutch translation. EU acts (`CELEX:` ids): Dutch XHTML from the Publications Office Cellar via [`eurlex.py`](eurlex.py); EUR-Lex itself blocks scripts. Set title and date of application in `EU_ACTS` in `wetten.py`.
 
 ## termijn.py
 
