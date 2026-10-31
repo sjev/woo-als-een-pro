@@ -47,3 +47,5 @@ Uitspraken die de kennisbank nodig heeft. Haal een regel weg als het bestand er 
 - Zakelijke sms- en WhatsApp-berichten vallen onder de Woo (ABRvS).
 - Zoekslag: aannemelijkheid dat er niet meer documenten zijn; bewijslast.
 - Art. 4:8 Awb (zienswijze derden) bij Woo-verzoeken.
+- Verzoek om precisering (art. 4.1 lid 5 Woo) schort de beslistermijn op via art. 4:15 lid 1 onder a Awb. Nodig voor [procedure](../docs/procedure.md).
+- Misbruik van het recht op informatie wordt niet snel aangenomen (art. 4.6 Woo). Nodig voor [procedure](../docs/procedure.md).

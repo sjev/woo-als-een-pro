@@ -51,4 +51,5 @@ Zie [`tools/README.md`](tools/README.md). Kort:
 | Wetstekst ophalen of bijwerken | `tools/wetten.py` |
 | Termijn berekenen (Algemene termijnenwet) | `tools/termijn.py` |
 | Uitspraak ophalen (volledige tekst) | `tools/uitspraak.py` |
+| Links en ankers controleren | `tools/check_links.py` |
 | Bronnen ophalen en omzetten | `tools/collect/` |
