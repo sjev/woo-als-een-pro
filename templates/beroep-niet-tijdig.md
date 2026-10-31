@@ -9,10 +9,10 @@ Bouw met `tools/build.py <brief>.md --bijlagen bijlagen/ --sign handtekening.png
 
 ## Regels
 
-1. Instellen kan twee weken na ontvangst van de ingebrekestelling (art. 6:12 lid 2 Awb). Er is geen uiterste termijn, maar wacht niet lang.
+1. Wanneer, en wat de rechter kan: [rechtsmiddelen](../docs/rechtsmiddelen.md#beroep-niet-tijdig-art-612-855b-855d-awb-art-84-woo). Er is geen uiterste termijn, maar wacht niet lang.
 2. Meerdere verzoeken over hetzelfde onderwerp: één beroepschrift, vraag voeging (art. 8:14 Awb).
 3. Het procesverloop is een tabel met data. Elke regel heeft een bijlage.
-4. Toon in 3.1 dat de termijn **niet** is opgeschort: geen mededeling over art. 4:8 Awb (art. 4.4 lid 3 Woo) en geen onvoorwaardelijke instemming (art. 4:15 lid 2 onder a Awb).
+4. Toon in 3.1 dat de termijn **niet** is opgeschort. Loop de gronden voor opschorting na: [procedure](../docs/procedure.md#opschorting).
 5. Groot verzoek: de rechter kan een andere termijn bepalen (art. 8.4 lid 1 Woo). Stel zelf een fasering voor (art. 8:55d lid 3 Awb). Toon uw medewerking; zonder medewerking kan de rechter de proceskosten weigeren (art. 8.4 lid 3 Woo).
 6. Dwangsom: standaard volgens de beleidsregels van de rechtbanken. Vraag een hoger bedrag alleen als u weigerachtigheid met citaten kunt tonen.
 7. Beslist het bestuursorgaan tijdens het beroep, dan loopt het beroep door tegen dat besluit (art. 6:20 lid 3 Awb). Zie [bezwaar.md](bezwaar.md) en [beroep.md](beroep.md).

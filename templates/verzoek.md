@@ -5,14 +5,16 @@ summary: Sjabloon voor een Woo-verzoek met afspraken over zoekslag, inventarisli
 
 # Woo-verzoek
 
-Bron: drie verzoeken uit 2026 (gemeente en provincie). Zie [praktijk](../docs/praktijk.md).
+Bron: drie verzoeken uit 2026 (gemeente en provincie). Zie [praktijk](../docs/praktijk.md). Regels achter de blokken: [reikwijdte](../docs/reikwijdte.md), [zoekslag](../docs/zoekslag.md#wat-u-in-het-verzoek-vraagt), [beleidsopvattingen](../docs/beleidsopvattingen.md#zo-formuleert-u-het-verzoek), [milieu-informatie](../docs/milieu-informatie.md#zo-gebruikt-u-dit).
 
 ## Regels
 
 1. Eén verzoek per soort informatie. Splits **onderzoeksgegevens** (klein, snel, milieu-informatie) van **besluitvorming** (groot). Vraag de verzoeken niet aan elkaar te koppelen. Het kleine verzoek komt dan niet vast te zitten.
 2. Nummer de onderdelen doorlopend (1, 2, 3 …). Groepeer ze met letters (A, B …) als het verzoek groot is. Elk onderdeel is één soort document. Zo kunt u later per nummer inperken, faseren en controleren.
 3. Noem concrete documentsoorten: collegevoorstel, besluitenlijst, gespreksverslag, rekenbestand. Noem bekende zaaknummers, data en namen van overleggen.
-4. Vraag zakelijke sms-, WhatsApp- en Teams-berichten en agenda's in aparte onderdelen. Anders zoekt het bestuursorgaan daar niet.
+4. Vraag zakelijke sms-, WhatsApp- en Teams-berichten en agenda's in aparte onderdelen. Anders zoekt het bestuursorgaan daar niet. Ook berichten op privételefoons vallen eronder ([reikwijdte](../docs/reikwijdte.md#document)).
+4a. Vraag concepten uitdrukkelijk. Anders worden zij niet geïnventariseerd ([beleidsopvattingen](../docs/beleidsopvattingen.md#concepten)).
+4b. Vraag documenten, geen antwoorden of nieuwe overzichten ([reikwijdte](../docs/reikwijdte.md#document)).
 5. Zet de afspraken over de afdoening al in het verzoek (blok "Wijze van afdoening"). In een later geschil verwijst u ernaar.
 6. Noem zoektermen als losse woorden, niet als combinaties. Zoek "schiet", niet "schietbaan [plaats]".
 7. Sluit af met de zin dat het verzoek geen zienswijze of bezwaar is.
@@ -53,15 +55,16 @@ Op grond van artikel 5.2, eerste lid, Woo gelden feiten, prognoses, beleidsalter
 
 **Wijze van afdoening**
 
-1. Ik verzoek om een inventarislijst met per document: registratienummer, datum, afzender, geadresseerde, korte omschrijving en de beslissing. Bij weigering: een motivering per document en per weggelaten passage, met de uitzonderingsgrond.
+1. Ik verzoek om een inventarislijst, als spreadsheet (CSV of Excel), met per document: registratienummer, datum, afzender, geadresseerde, korte omschrijving en de beslissing. Bij weigering: een motivering per document en per weggelaten passage, met de uitzonderingsgrond.
 2. Bij weglakken van namen (artikel 5.1, tweede lid, onder e, Woo) blijven functie, rol en organisatie-eenheid zichtbaar.
 3. Betrek ook documenten die door derden zijn opgesteld en door u zijn ontvangen. Berust een document niet bij u, zend het verzoek dan door (artikel 4.2, eerste lid, Woo jo. artikel 2:3 Awb). Hoort het bij u te berusten maar ligt het bij een derde, vorder het dan op (artikel 4.2, tweede lid, Woo).
 4. Vindt u over een onderdeel niets, vermeld dat dan per onderdeel in het besluit, met de doorzochte systemen en archieven, de zoektermen en de periode. Zoektermen in ieder geval: [term]; [term]; [term].
 5. Al openbaar gemaakte stukken hoeven niet opnieuw, mits u de vindplaats met hyperlink noemt.
 6. Met gefaseerde afdoening ga ik akkoord, mits schriftelijk bevestigd met een tijdpad en mits de onderdelen [nummers] eerst worden afgedaan.
 7. Vraagt u een zienswijze van een derde, houd de overige documenten dan niet aan. Een verzoek om precisering van een onderdeel schort de behandeling van de andere onderdelen niet op.
-8. Vorm (artikel 4.5, eerste lid, Woo): doorzoekbare PDF. Bij e-mail de kopgegevens (datum, tijd, afzender, geadresseerde, cc, onderwerp) intact en de berichtenreeksen compleet, met bijlagen. [Bij rekenmodellen: ook de invoer- en rekenbestanden, zoals AERIUS-bestanden.]
-9. Graag een schriftelijke bevestiging van de ontvangstdatum en het zaaknummer.
+8. Vorm (artikel 4.5, eerste lid, Woo): losse, doorzoekbare bestanden (geen scan van een print). Bij e-mail de kopgegevens (datum, tijd, afzender, geadresseerde, cc, onderwerp) intact en de berichtenreeksen compleet, met bijlagen. [Bij rekenmodellen: ook de invoer- en rekenbestanden, zoals AERIUS-bestanden.]
+9. Bewaar de documenten waarop dit verzoek ziet, ook chatberichten op werk- en privételefoons (artikel 4.1a Woo).
+10. Graag een schriftelijke bevestiging van de ontvangstdatum en het zaaknummer.
 
 [Ik dien tegelijk een afzonderlijk verzoek in over [onderwerp]. Houd de behandeling van dit verzoek daar niet op.]
 

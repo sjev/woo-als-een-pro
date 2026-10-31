@@ -10,10 +10,10 @@ Verstuur binnen enkele dagen na de verdaging. Doel: de termijnen vastleggen en t
 ## Regels
 
 1. Eén zaak per e-mail. Noem het zaaknummer in het onderwerp.
-2. Toets de reden aan art. 4.4 lid 2 Woo: alleen **omvang of gecompliceerdheid van de informatie**. Vakantie, reces en werkdruk zijn geen grond.
+2. Toets de verdaging aan de vier eisen in [procedure](../docs/procedure.md#verdaging-art-44-lid-2-woo). Vakantie, reces en werkdruk gaan niet over de informatie.
 3. Is het verzoek echt groot? Erken dat. Vraag dan om de stand van de zoekslag. Dat maakt u geloofwaardig.
-4. Reken de data uit. Valt de einddatum in het weekend, dan schuift die naar maandag (Algemene termijnenwet).
-5. Geef **geen** instemming met opschorting (art. 4:15 lid 2 onder a Awb) zonder schriftelijk tijdpad. Instemming kost u de dwangsom en soms de proceskosten (art. 8.4 lid 3 Woo).
+4. Reken de data uit met `tools/termijn.py` ([stappenplan](../docs/stappenplan.md#termijn-berekenen)).
+5. Geef **geen** instemming met opschorting (art. 4:15 lid 2 onder a Awb) zonder schriftelijk tijdpad. Instemming zet de termijn stil; de ingebrekestelling schuift op ([overleg](../docs/overleg.md#wat-u-geeft)).
 6. Kondig de volgende stap concreet aan. Dreig niet.
 
 ## Template

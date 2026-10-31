@@ -9,8 +9,8 @@ summary: Korte ingebrekestelling na het verlopen van de beslistermijn (art. 6:12
 
 1. Verstuur op de dag na de laatste dag van de (verdaagde) termijn. Niet eerder: een te vroege ingebrekestelling telt niet ([rechtsmiddelen](../docs/rechtsmiddelen.md#ingebrekestelling-art-612-awb)).
 2. Kort houden. Geen argumenten, geen geschiedenis.
-3. Grondslag: art. 6:12 lid 2 Awb. Er is **geen** Awb-dwangsom bij niet tijdig beslissen op een Woo-verzoek (art. 8.2 Woo). Noem die dus niet.
-4. Twee weken na ontvangst kunt u direct beroep instellen bij de rechtbank. Bezwaar is niet nodig (art. 7:1 lid 1 onder f Awb).
+3. Grondslag: art. 6:12 lid 2 Awb. Noem geen Awb-dwangsom: die geldt niet bij de Woo ([rechtsmiddelen](../docs/rechtsmiddelen.md#ingebrekestelling-art-612-awb)).
+4. Twee weken na ontvangst kunt u direct beroep instellen bij de rechtbank, zonder bezwaar ([rechtsmiddelen](../docs/rechtsmiddelen.md#ingebrekestelling-art-612-awb)).
 5. Gebruik het webformulier "ingebrekestelling" als het bestuursorgaan dat heeft. U krijgt dan een registratienummer. Anders: e-mail met verzoek om ontvangstbevestiging.
 6. Eén ingebrekestelling per zaak.
 
