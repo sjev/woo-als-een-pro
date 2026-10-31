@@ -2,6 +2,13 @@
 
 Jurisprudentie over de Woo en de Awb. Eén bestand per uitspraak.
 
+| Pad | Inhoud | Hoe |
+|---|---|---|
+| `<ECLI>.md` | Kern, letterlijke rechtsoverwegingen, gebruik | Met de hand, na lezing van de volledige tekst |
+| [`tekst/<ECLI>.md`](tekst/) | Volledige tekst en metadata | `tools/uitspraak.py <ECLI>`. Niet met de hand wijzigen |
+
+Zoek in de volledige teksten met `grep -rl "<term>" uitspraken/tekst/`.
+
 ## Bestand
 
 Naam: het ECLI met koppeltekens, bijv. `ECLI-NL-RVS-JJJJ-NNNN.md`.
