@@ -1,0 +1,42 @@
+% House style for legal documents: ragged right, Charter body, sans headings.
+\usepackage[T1]{fontenc}
+\usepackage{charter}
+\renewcommand{\sfdefault}{qhv}  % TeX Gyre Heros for headings
+\renewcommand{\familydefault}{\rmdefault}
+\usepackage{textcomp}
+\usepackage{microtype}
+\usepackage{eurosym}
+\DeclareUnicodeCharacter{20AC}{\euro}
+
+% Justification hurts readability in legal text; headings must never stretch.
+\usepackage[document]{ragged2e}
+\setlength{\RaggedRightRightskip}{0pt plus 1.5em}  % tight, even rag
+
+% KOMA headings: sans, bold, flush left, no extra numbering.
+\setkomafont{disposition}{\normalfont\sffamily\bfseries}
+\addtokomafont{title}{\sffamily\bfseries}
+\addtokomafont{section}{\large}
+\addtokomafont{subsection}{\normalsize}
+\RedeclareSectionCommand[beforeskip=-2.2ex plus -1ex, afterskip=1.0ex]{section}
+\RedeclareSectionCommand[beforeskip=-2.0ex plus -1ex, afterskip=0.8ex]{subsection}
+
+% Numbered paragraphs hang at the margin and keep their own spacing.
+\usepackage{enumitem}
+\setlist[enumerate,1]{leftmargin=2.2em, labelsep=0.8em, labelwidth=1.4em,
+  align=left, itemsep=0.8ex, topsep=1.0ex, parsep=0pt}
+\setlist[itemize,1]{leftmargin=1.6em, itemsep=0.3ex, topsep=0.8ex, parsep=0pt}
+
+\setlength{\parskip}{0.9ex plus 0.2ex}
+\setlength{\parindent}{0pt}
+\linespread{1.08}
+
+% Block quotes get a rule, not italics.
+\usepackage{etoolbox}
+\AtBeginEnvironment{quote}{\small}
+
+% Page number in the foot, nothing in the head.
+\usepackage[automark]{scrlayer-scrpage}
+\pagestyle{scrheadings}
+\clearpairofpagestyles
+\setkomafont{pagenumber}{\normalfont\sffamily\small}
+\cfoot*{\pagemark}
