@@ -1,0 +1,9 @@
+---
+wet: Omgevingswet
+artikel: 5.29a
+hoofdstuk: 5. De omgevingsvergunning en het projectbesluit
+valid_from: '2026-07-01'
+source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037885/2026-07-01_0/xml/BWBR0037885_2026-07-01_0.xml
+---
+
+Voor een jachtgeweeractiviteit of een valkeniersactiviteit worden de regels, bedoeld in artikel 5.18, gesteld met het oog op de natuurbescherming of de veiligheid.

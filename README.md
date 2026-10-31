@@ -10,6 +10,7 @@ Documenten zijn kort. Zij verwijzen naar wetstekst en jurisprudentie.
 | [`docs/`](docs/) | Kennisbank in markdown |
 | [`templates/`](templates/) | Briefsjablonen: verzoek, reactie op verdaging, overleg, ingebrekestelling, beroep, bezwaar |
 | [`tools/`](tools/) | Scripts om brieven te bouwen |
+| [`wetten/`](wetten/) | Geldende wetstekst, één bestand per artikel |
 | [`data-collection/`](data-collection/) | Bronnen ophalen en omzetten naar markdown |
 
 ## Inhoud (TOC)

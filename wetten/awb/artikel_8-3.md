@@ -1,0 +1,14 @@
+---
+wet: Algemene wet bestuursrecht
+artikel: '8:3'
+hoofdstuk: 8. Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter
+valid_from: '2026-08-15'
+source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml
+---
+
+1. Geen beroep kan worden ingesteld tegen een besluit:
+a. inhoudende een algemeen verbindend voorschrift of een beleidsregel,
+b. inhoudende de intrekking of de vaststelling van de inwerkingtreding van een algemeen verbindend voorschrift of een beleidsregel,
+c. inhoudende de goedkeuring van een besluit, inhoudende een algemeen verbindend voorschrift of een beleidsregel of de intrekking of de vaststelling van de inwerkingtreding van een algemeen verbindend voorschrift of een beleidsregel.
+
+2. Geen beroep kan worden ingesteld tegen een besluit ter voorbereiding van een privaatrechtelijke rechtshandeling.

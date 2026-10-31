@@ -1,0 +1,9 @@
+---
+wet: Wet open overheid
+artikel: '8.5'
+hoofdstuk: 8. Overige bepalingen
+valid_from: '2026-08-15'
+source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0045754/2026-08-15_0/xml/BWBR0045754_2026-08-15_0.xml
+---
+
+Het bestuursorgaan is bevoegd tot oplegging van een last onder dwangsom ter handhaving van artikel 4.2, tweede lid.
