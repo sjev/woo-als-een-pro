@@ -5,7 +5,7 @@ instantie: Raad van State
 zaaknummer: 201903851/1/A3
 procedure: Hoger beroep
 url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:1071
-fetched_at: '2026-10-31T23:30:51+00:00'
+fetched_at: '2026-10-31T23:40:19+00:00'
 ---
 
 ## Inhoudsindicatie

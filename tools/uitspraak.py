@@ -37,14 +37,26 @@ def flat(el: ET.Element) -> str:
 
 
 def blocks(el: ET.Element) -> list[str]:
-    """Titles and innermost paragraphs, in document order."""
+    """Titles and innermost paragraphs, in document order. A <nr> (r.o. number) prefixes the next paragraph."""
     out: list[str] = []
-    for node in el.iter():
-        tag = node.tag.removeprefix(RS)
-        if tag == "title":
-            out.append("## " + flat(node))
-        elif tag == "para" and node.find(f".//{RS}para") is None and flat(node):
-            out.append(flat(node))
+    pending = ""
+
+    def walk(node: ET.Element) -> None:
+        nonlocal pending
+        for child in node:
+            tag = child.tag.removeprefix(RS)
+            if tag == "title":
+                out.append("## " + flat(child))
+            elif tag == "nr":
+                pending = flat(child)
+            elif tag == "para" and child.find(f".//{RS}para") is None:
+                if flat(child):
+                    out.append(f"{pending} {flat(child)}".strip())
+                    pending = ""
+            else:
+                walk(child)
+
+    walk(el)
     return out
 
 

@@ -5,7 +5,7 @@ instantie: Raad van State
 zaaknummer: 201806060/1/A3
 procedure: Hoger beroep
 url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2019:2718
-fetched_at: '2026-10-31T23:28:07+00:00'
+fetched_at: '2026-10-31T23:40:19+00:00'
 ---
 
 ## Inhoudsindicatie

@@ -1,5 +1,9 @@
-#!/usr/bin/env python3
-"""Check relative links and #anchors in the hand-written markdown of the knowledge base.
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.10"
+# dependencies = ["pyyaml"]
+# ///
+"""Check relative links, #anchors and front matter in the hand-written markdown of the knowledge base.
 
     tools/check_links.py            # docs/, templates/, uitspraken/*.md, top-level *.md
     tools/check_links.py FILE...    # only these files
@@ -10,6 +14,8 @@ from __future__ import annotations
 import re
 import sys
 from pathlib import Path
+
+import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 LINK = re.compile(r"\[[^\]]*\]\(([^)\s]+)\)")
@@ -31,8 +37,22 @@ def anchors(path: Path) -> set[str]:
     return {slug(m) for m in re.findall(r"^#+\s+(.+)$", text, re.M)}
 
 
+def front_matter(path: Path) -> list[str]:
+    """docs/, templates/ and uitspraken/ files need valid YAML with title and summary (AGENTS.md)."""
+    if path.name == "README.md" or path.parent.name not in ("docs", "templates", "uitspraken"):
+        return []
+    raw = path.read_text(encoding="utf8")
+    try:
+        meta = yaml.safe_load(raw.split("---")[1]) if raw.startswith("---") else None
+    except yaml.YAMLError as err:
+        return [f"{path.relative_to(ROOT)}: bad front matter: {err.problem}"]
+    if not isinstance(meta, dict) or not {"title", "summary"} <= meta.keys():
+        return [f"{path.relative_to(ROOT)}: front matter needs title and summary"]
+    return []
+
+
 def check(path: Path) -> list[str]:
-    errors: list[str] = []
+    errors = front_matter(path)
     text = CODE.sub("", path.read_text(encoding="utf8"))
     for target in LINK.findall(text):
         if re.match(r"[a-z]+:", target):

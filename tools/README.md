@@ -11,7 +11,7 @@ Every script runs through `uv` (PEP 723 inline dependencies) unless noted.
 | [`wetten.py`](wetten.py) | Fetch current law text into [`../wetten/`](../wetten/README.md), one file per article |
 | [`uitspraak.py`](uitspraak.py) | Fetch court rulings into [`../uitspraken/tekst/`](../uitspraken/README.md) |
 | [`termijn.py`](termijn.py) | Compute the last day of a term under the Algemene termijnenwet |
-| [`check_links.py`](check_links.py) | Check relative links and anchors in docs, templates and rulings |
+| [`check_links.py`](check_links.py) | Check links, anchors and front matter in docs, templates and rulings |
 | [`collect/`](collect/README.md) | Fetch secondary sources and convert them to markdown in [`../bronnen/`](../bronnen/README.md) |
 
 ## build.py

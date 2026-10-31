@@ -5,7 +5,7 @@ instantie: Rechtbank Zeeland-West-Brabant
 zaaknummer: BRE 24/7088
 procedure: Eerste aanleg - enkelvoudig
 url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:731
-fetched_at: '2026-10-31T23:24:26+00:00'
+fetched_at: '2026-10-31T23:40:18+00:00'
 ---
 
 ## Inhoudsindicatie
@@ -24,25 +24,25 @@ en
 
 1. In deze uitspraak beoordeelt de rechtbank het beroep dat belanghebbende heeft ingesteld, omdat de inspecteur volgens haar niet op tijd heeft beslist naar aanleiding van haar brief van 1 augustus 2024.
 
-Omdat het beroep kennelijk niet-ontvankelijk is doet de rechtbank uitspraak zonder zitting. Artikel 8:54 van de Algemene wet bestuursrecht (Awb) maakt dat mogelijk.
+1.1. Omdat het beroep kennelijk niet-ontvankelijk is doet de rechtbank uitspraak zonder zitting. Artikel 8:54 van de Algemene wet bestuursrecht (Awb) maakt dat mogelijk.
 
 ## Procesverloop
 
 2. De inspecteur heeft met dagtekening 21 juni 2024 een voorlopige aanslag inkomstenbelasting over het jaar 2023 opgelegd.
 
-Belanghebbende heeft met dagtekening 1 augustus 2024, ontvangen door de inspecteur op 5 augustus 2024, een brief met als koptekst “Bezwaarschrift” gestuurd.
+2.1. Belanghebbende heeft met dagtekening 1 augustus 2024, ontvangen door de inspecteur op 5 augustus 2024, een brief met als koptekst “Bezwaarschrift” gestuurd.
 
-Belanghebbende heeft de inspecteur op 18 september 2024 in gebreke gesteld, omdat de inspecteur niet (tijdig) heeft beslist op het bezwaarschrift.
+2.2. Belanghebbende heeft de inspecteur op 18 september 2024 in gebreke gesteld, omdat de inspecteur niet (tijdig) heeft beslist op het bezwaarschrift.
 
-Belanghebbende heeft met dagtekening 8 oktober 2024, ontvangen door de rechtbank op 9 oktober 2024, beroep ingesteld wegens het niet (tijdig) nemen van een uitspraak op bezwaar.
+2.3. Belanghebbende heeft met dagtekening 8 oktober 2024, ontvangen door de rechtbank op 9 oktober 2024, beroep ingesteld wegens het niet (tijdig) nemen van een uitspraak op bezwaar.
 
-De inspecteur heeft op 22 oktober 2024 het bezwaar kennelijk niet-ontvankelijk verklaard, omdat tegen een voorlopige aanslag geen bezwaar kan worden ingesteld.
+2.4. De inspecteur heeft op 22 oktober 2024 het bezwaar kennelijk niet-ontvankelijk verklaard, omdat tegen een voorlopige aanslag geen bezwaar kan worden ingesteld.
 
 Op 28 oktober 2024 heeft de inspecteur het verzoek om een dwangsom afgewezen.
 
-Belanghebbende stelt dat de inspecteur het bezwaarschrift als een verzoek om herziening of als verzoek om ambtshalve vermindering had kunnen en moeten aanmerken.
+2.5. Belanghebbende stelt dat de inspecteur het bezwaarschrift als een verzoek om herziening of als verzoek om ambtshalve vermindering had kunnen en moeten aanmerken.
 
-De inspecteur voert aan dat belanghebbende enkel bezwaar heeft gemaakt en niet tevens heeft verzocht om herziening van de voorlopige aanslag. De ingebrekestelling vermeldt enkel de aanvraag 'bezwaar' en niet (tevens) het 'verzoek'. De termijn sluit eveneens volledig aan bij het bezwaar en niet bij het verzoek. Zou dit al als verzoek aan te merken zijn, dan is de ingebrekestelling prematuur volgens de inspecteur.
+2.6. De inspecteur voert aan dat belanghebbende enkel bezwaar heeft gemaakt en niet tevens heeft verzocht om herziening van de voorlopige aanslag. De ingebrekestelling vermeldt enkel de aanvraag 'bezwaar' en niet (tevens) het 'verzoek'. De termijn sluit eveneens volledig aan bij het bezwaar en niet bij het verzoek. Zou dit al als verzoek aan te merken zijn, dan is de ingebrekestelling prematuur volgens de inspecteur.
 
 ## Beoordeling door de rechtbank
 
