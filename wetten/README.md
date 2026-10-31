@@ -9,6 +9,7 @@ Geldende wetstekst uit het [Basiswettenbestand](https://wetten.overheid.nl). Eé
 | [`termijnenwet/`](termijnenwet/_wet.md) | Algemene termijnenwet | BWBR0002448 |
 | [`archiefwet/`](archiefwet/_wet.md) | Archiefwet 1995 | BWBR0007376 |
 | [`omgevingswet/`](omgevingswet/_wet.md) | Omgevingswet | BWBR0037885 |
+| [`wm/`](wm/_wet.md) | Wet milieubeheer | BWBR0003245 |
 
 ## Indeling
 

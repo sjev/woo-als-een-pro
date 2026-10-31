@@ -147,7 +147,9 @@ def collect(el: ET.Element, hoofdstuk: str, secties: list[str], out: list[Articl
             word = text(child.find("kop/label")) or child.tag.capitalize()
             collect(child, hoofdstuk, [*secties, heading(child, word)], out)
         elif child.tag == "artikel" and not is_spent_amendment(child):
-            nr, titel = text(child.find("kop/nr")), text(child.find("kop/titel"))
+            # Repealed articles may lack <nr>; the label still carries the number.
+            nr = text(child.find("kop/nr")) or child.get("label", "").removeprefix("Artikel ").strip()
+            titel = text(child.find("kop/titel"))
             out.append(Article(nr, hoofdstuk, secties, titel, article_text(child)))
 
 
