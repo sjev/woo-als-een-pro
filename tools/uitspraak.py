@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import re
 import sys
+import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -83,12 +84,19 @@ def main(argv: list[str]) -> None:
     if not argv or not all(re.fullmatch(r"ECLI:[A-Z]{2}:[A-Z]+:\d{4}:[\w.]+", e) for e in argv):
         sys.exit(__doc__)
     OUT.mkdir(parents=True, exist_ok=True)
+    failed = 0
     for ecli in argv:
-        doc = fetch(ecli)
+        try:
+            doc = fetch(ecli)
+        except (urllib.error.HTTPError, LookupError) as err:
+            print(f"failed: {ecli}: {err}", file=sys.stderr)
+            failed += 1
+            continue
         path = OUT / file_name(ecli)
         path.write_text(doc, encoding="utf8")
         print(doc)
         print(f"saved: {path.relative_to(OUT.parent.parent)}", file=sys.stderr)
+    sys.exit(1 if failed else 0)
 
 
 if __name__ == "__main__":
