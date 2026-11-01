@@ -4,8 +4,11 @@ defaultContentLanguage = "nl"
 title = "Woo als een pro"
 enableRobotsTXT = true
 pluralizeListTitles = false
+# Keep file names as in the repo (ECLI in capitals), so relative links in the markdown output resolve.
+disablePathToLower = true
 
 [params]
+  description = "Praktische kennis voor Woo-verzoeken: wat mag, wat werkt, welke brief, welke termijn."
   # Target for links to files that are not on the site.
   repoURL = "https://github.com/sjev/woo-als-een-pro"
 
@@ -16,18 +19,6 @@ pluralizeListTitles = false
   displayPoweredBy = false
 
 [menus]
-  [[menus.main]]
-    name = "Kennisbank"
-    pageRef = "/docs"
-    weight = 10
-  [[menus.main]]
-    name = "Sjablonen"
-    pageRef = "/templates"
-    weight = 20
-  [[menus.main]]
-    name = "Uitspraken"
-    pageRef = "/uitspraken"
-    weight = 30
   [[menus.main]]
     name = "Zoeken"
     weight = 40
@@ -76,6 +67,19 @@ pluralizeListTitles = false
     source = "wetten"
     target = "content/wetten"
 
+# Humans read the home page in HTML. Agents read llms.txt and the markdown of each page.
+[outputs]
+  home = ["html", "llms", "markdown"]
+  page = ["html", "markdown"]
+  section = ["html", "markdown"]
+
+# A folder page is README.md, as in the repo. Links to README.md then resolve in the markdown output.
+[outputFormats.markdown]
+  baseName = "README"
+  mediaType = "text/markdown"
+  isPlainText = true
+  ugly = true
+
 # Rulings carry their date as `datum`; the sidebar then lists them by date.
 [frontmatter]
   date = ["date", "datum"]
@@ -83,9 +87,15 @@ pluralizeListTitles = false
 [markup.goldmark.renderer]
   unsafe = true
 
-# One sidebar tree for the whole site: Hextra starts it at the home page when that is a docs page.
+# One page for humans: no sidebar and no page-to-page navigation. Readers follow the links.
 [[cascade]]
   type = "docs"
+  [cascade.params]
+    prev = false
+    next = false
+  [cascade.params.sidebar]
+    hide = true
+    exclude = true
 
 # The READMEs have no front matter, so the site sets their title and order here.
 [[cascade]]
@@ -99,10 +109,3 @@ pluralizeListTitles = false
   weight = 3
   [cascade.target]
     path = "/uitspraken"
-
-# Readers reach law articles and full rulings through links, not through the sidebar.
-[[cascade]]
-  [cascade.params.sidebar]
-    exclude = true
-  [cascade.target]
-    path = "{/wetten,/wetten/**,/uitspraken/tekst/**}"

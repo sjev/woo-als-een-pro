@@ -85,6 +85,9 @@ Schrijfstijl in beide talen: ASD-STE100. Korte zinnen, één gedachte per zin, a
 
 De site (woo.dasopen.nl) is voor juristen, niet voor ontwikkelaars. Zet in `docs/`, `templates/` en `uitspraken/` geen tools, commando's, bestandsformaten of werkinstructies voor agents. Die horen in dit bestand of in [`tools/README.md`](tools/README.md).
 
+- Mensen: één pagina, "Woo doe je zo" (`site/content/_index.md`). Vijf stappen, kort, met links. Geen menu, geen zijbalk.
+- Agents: `/llms.txt` geeft de index. Elke pagina is ook markdown met front matter (bijv. `/docs/procedure.md`).
+
 ## Tools
 
 Zie [`tools/README.md`](tools/README.md). Kort:
