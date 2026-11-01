@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2024:480
 ecli: ECLI:NL:RVS:2024:480
 datum: '2024-02-07'
 instantie: Raad van State
 zaaknummer: 202203254/1/A3
 procedure: Eerste aanleg - enkelvoudig
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:480
-fetched_at: '2026-10-31T23:40:19+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:480
+fetched_at: '2026-11-01T18:10:59+00:00'
 ---
 
 ## Inhoudsindicatie

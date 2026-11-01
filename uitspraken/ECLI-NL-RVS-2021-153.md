@@ -5,7 +5,7 @@ ecli: ECLI:NL:RVS:2021:153
 datum: 2021-01-27
 instantie: ABRvS
 onderwerpen: [milieu-informatie, emissiegegevens, persoonlijke levenssfeer]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2021:153
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2021:153
 ---
 
 ## Kern
@@ -20,4 +20,4 @@ url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2021:153
 
 ## Gebruik
 
-Betoog bij gelakte uitstootcijfers, bronlocaties of rekenmodellen dat het emissiegegevens zijn. Dan vervallen alle gronden van art. 5.1 lid 1 en 2 Woo. Zie [milieu-informatie](../docs/milieu-informatie.md#emissiegegevens). Volledige tekst: [tekst/](tekst/ECLI-NL-RVS-2021-153.md).
+Betoog bij gelakte uitstootcijfers, bronlocaties of rekenmodellen dat het emissiegegevens zijn. Dan vervallen alle gronden van art. 5.1 lid 1 en 2 Woo. Zie [milieu-informatie](../docs/milieu-informatie.md#emissiegegevens). Lees de [volledige tekst](tekst/ECLI-NL-RVS-2021-153.md).

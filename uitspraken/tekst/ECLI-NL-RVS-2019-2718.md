@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2019:2718
 ecli: ECLI:NL:RVS:2019:2718
 datum: '2019-08-07'
 instantie: Raad van State
 zaaknummer: 201806060/1/A3
 procedure: Hoger beroep
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2019:2718
-fetched_at: '2026-10-31T23:40:19+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2019:2718
+fetched_at: '2026-11-01T18:10:58+00:00'
 ---
 
 ## Inhoudsindicatie

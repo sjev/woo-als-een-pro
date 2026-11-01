@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2022:3027
 ecli: ECLI:NL:RVS:2022:3027
 datum: '2022-10-19'
 instantie: Raad van State
 zaaknummer: 202102354/1/A3
 procedure: Hoger beroep
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2022:3027
-fetched_at: '2026-10-31T23:40:19+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2022:3027
+fetched_at: '2026-11-01T18:10:58+00:00'
 ---
 
 ## Inhoudsindicatie

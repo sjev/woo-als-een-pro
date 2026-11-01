@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2021:153
 ecli: ECLI:NL:RVS:2021:153
 datum: '2021-01-27'
 instantie: Raad van State
 zaaknummer: 202004073/1/A3
 procedure: Hoger beroep
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2021:153
-fetched_at: '2026-10-31T23:40:19+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2021:153
+fetched_at: '2026-11-01T18:10:58+00:00'
 ---
 
 ## Inhoudsindicatie

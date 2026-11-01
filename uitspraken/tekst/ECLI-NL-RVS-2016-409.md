@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2016:409
 ecli: ECLI:NL:RVS:2016:409
 datum: '2016-02-17'
 instantie: Raad van State
 zaaknummer: 201502101/1/A3
 procedure: Hoger beroep
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2016:409
-fetched_at: '2026-10-31T23:40:18+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2016:409
+fetched_at: '2026-11-01T18:10:58+00:00'
 ---
 
 ## Inhoudsindicatie

@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RBZWB:2026:731
 ecli: ECLI:NL:RBZWB:2026:731
 datum: '2026-02-06'
 instantie: Rechtbank Zeeland-West-Brabant
 zaaknummer: BRE 24/7088
 procedure: Eerste aanleg - enkelvoudig
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:731
-fetched_at: '2026-10-31T23:40:18+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:731
+fetched_at: '2026-11-01T18:10:57+00:00'
 ---
 
 ## Inhoudsindicatie

@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2023:4752
 ecli: ECLI:NL:RVS:2023:4752
 datum: '2023-12-20'
 instantie: Raad van State
 zaaknummer: 202200607/1/A3
 procedure: Hoger beroep
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2023:4752
-fetched_at: '2026-10-31T23:40:19+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2023:4752
+fetched_at: '2026-11-01T18:10:58+00:00'
 ---
 
 ## Inhoudsindicatie

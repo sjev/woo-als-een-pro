@@ -5,7 +5,7 @@ ecli: ECLI:NL:RVS:2016:2273
 datum: 2016-08-17
 instantie: ABRvS
 onderwerpen: [indienen, vormvrij, formulier]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2016:2273
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2016:2273
 ---
 
 ## Kern
@@ -20,4 +20,4 @@ Een Wob-verzoek is vormvrij. Een bestuursorgaan mag een formulier aanbieden, maa
 
 ## Gebruik
 
-Weigert een bestuursorgaan een verzoek per brief of e-mail met een verwijzing naar het webformulier? Wijs op deze uitspraak en op art. 4.1 lid 2 Woo (mondeling of schriftelijk). Zie [procedure](../docs/procedure.md#indienen). Volledige tekst: [tekst/](tekst/ECLI-NL-RVS-2016-2273.md).
+Weigert een bestuursorgaan een verzoek per brief of e-mail met een verwijzing naar het webformulier? Wijs op deze uitspraak en op art. 4.1 lid 2 Woo (mondeling of schriftelijk). Zie [procedure](../docs/procedure.md#indienen). Lees de [volledige tekst](tekst/ECLI-NL-RVS-2016-2273.md).

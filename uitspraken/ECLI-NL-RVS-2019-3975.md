@@ -5,7 +5,7 @@ ecli: ECLI:NL:RVS:2019:3975
 datum: 2019-11-27
 instantie: ABRvS
 onderwerpen: [persoonlijke beleidsopvattingen, intern beraad, concepten, verwevenheid]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2019:3975
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2019:3975
 ---
 
 ## Kern
@@ -22,4 +22,4 @@ Een document is voor intern beraad als het is opgesteld om door anderen binnen h
 
 ## Gebruik
 
-Vraag bij concepten om **feiten die niet in het definitieve stuk staan**. Betwist verwevenheid als feiten in losse zinnen of alinea's staan. Zie [beleidsopvattingen](../docs/beleidsopvattingen.md#concepten). Volledige tekst: [tekst/](tekst/ECLI-NL-RVS-2019-3975.md).
+Vraag bij concepten om **feiten die niet in het definitieve stuk staan**. Betwist verwevenheid als feiten in losse zinnen of alinea's staan. Zie [beleidsopvattingen](../docs/beleidsopvattingen.md#concepten). Lees de [volledige tekst](tekst/ECLI-NL-RVS-2019-3975.md).

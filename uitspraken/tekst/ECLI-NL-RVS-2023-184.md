@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2023:184
 ecli: ECLI:NL:RVS:2023:184
 datum: '2023-01-18'
 instantie: Raad van State
 zaaknummer: 202103357/1/A3
 procedure: Hoger beroep
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2023:184
-fetched_at: '2026-10-31T23:40:19+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2023:184
+fetched_at: '2026-11-01T18:10:58+00:00'
 ---
 
 ## Inhoudsindicatie

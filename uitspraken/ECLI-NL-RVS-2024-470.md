@@ -5,7 +5,7 @@ ecli: ECLI:NL:RVS:2024:470
 datum: 2024-02-07
 instantie: ABRvS
 onderwerpen: [reikwijdte, onder verantwoordelijkheid, staatsdeelneming]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:470
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:470
 ---
 
 ## Kern
@@ -20,4 +20,4 @@ Een instelling, dienst of bedrijf valt onder de Woo als het werkzaam is onder ve
 
 ## Gebruik
 
-Richt een verzoek over een overheidsbedrijf aan het verantwoordelijke bestuursorgaan. Vraag ook om de documenten die bij dat bestuursorgaan zelf berusten (correspondentie met het bedrijf). Zie [reikwijdte](../docs/reikwijdte.md#wie-valt-onder-de-woo). Volledige tekst: [tekst/](tekst/ECLI-NL-RVS-2024-470.md).
+Richt een verzoek over een overheidsbedrijf aan het verantwoordelijke bestuursorgaan. Vraag ook om de documenten die bij dat bestuursorgaan zelf berusten (correspondentie met het bedrijf). Zie [reikwijdte](../docs/reikwijdte.md#wie-valt-onder-de-woo). Lees de [volledige tekst](tekst/ECLI-NL-RVS-2024-470.md).

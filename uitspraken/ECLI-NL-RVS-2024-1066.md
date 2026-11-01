@@ -5,7 +5,7 @@ ecli: ECLI:NL:RVS:2024:1066
 datum: 2024-03-13
 instantie: ABRvS
 onderwerpen: [reikwijdte, vervaardigingsplicht, art. 4.2 Woo]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:1066
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:1066
 ---
 
 ## Kern
@@ -20,4 +20,4 @@ De Woo gaat alleen over al bestaande documenten. Ook als een document op grond v
 
 ## Gebruik
 
-Vraag om documenten, niet om antwoorden of overzichten die nog gemaakt moeten worden. Vraag wel om bestaande exports, lijsten en registers. Zie [reikwijdte](../docs/reikwijdte.md#document). Volledige tekst: [tekst/](tekst/ECLI-NL-RVS-2024-1066.md).
+Vraag om documenten, niet om antwoorden of overzichten die nog gemaakt moeten worden. Vraag wel om bestaande exports, lijsten en registers. Zie [reikwijdte](../docs/reikwijdte.md#document). Lees de [volledige tekst](tekst/ECLI-NL-RVS-2024-1066.md).

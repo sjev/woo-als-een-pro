@@ -5,7 +5,7 @@ ecli: ECLI:NL:RBZWB:2026:731
 datum: 2026-02-06
 instantie: Rechtbank Zeeland-West-Brabant
 onderwerpen: [ingebrekestelling, beroep niet tijdig]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:731
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2026:731
 ---
 
 ## Kern
@@ -20,4 +20,4 @@ Voor beroep wegens niet tijdig beslissen is een ingebrekestelling nodig ([art. 6
 
 ## Gebruik
 
-Het moment van **ontvangst** door het bestuursorgaan telt. Zie [rechtsmiddelen](../docs/rechtsmiddelen.md#ingebrekestelling-art-612-awb). Volledige tekst: [tekst/](tekst/ECLI-NL-RBZWB-2026-731.md).
+Het moment van **ontvangst** door het bestuursorgaan telt. Zie [rechtsmiddelen](../docs/rechtsmiddelen.md#ingebrekestelling-art-612-awb). Lees de [volledige tekst](tekst/ECLI-NL-RBZWB-2026-731.md).

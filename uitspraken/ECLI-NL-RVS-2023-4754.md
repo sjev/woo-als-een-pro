@@ -5,7 +5,7 @@ ecli: ECLI:NL:RVS:2023:4754
 datum: 2023-12-20
 instantie: ABRvS
 onderwerpen: [persoonlijke beleidsopvattingen, goede en democratische bestuursvoering, concepten]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2023:4754
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2023:4754
 ---
 
 ## Kern
@@ -18,4 +18,4 @@ Informatie over persoonlijke beleidsopvattingen verstrekken "met het oog op een 
 
 ## Gebruik
 
-Vraag in bezwaar uitdrukkelijk om toepassing van art. 5.2 lid 2 Woo. Onderbouw het belang: een actueel of omstreden besluit, publieke of politieke aandacht, of een onvolledig beeld van de besluitvorming zonder de opvattingen. Zie [beleidsopvattingen](../docs/beleidsopvattingen.md#goede-en-democratische-bestuursvoering-art-52-lid-2). Volledige tekst: [tekst/](tekst/ECLI-NL-RVS-2023-4754.md).
+Vraag in bezwaar uitdrukkelijk om toepassing van art. 5.2 lid 2 Woo. Onderbouw het belang: een actueel of omstreden besluit, publieke of politieke aandacht, of een onvolledig beeld van de besluitvorming zonder de opvattingen. Zie [beleidsopvattingen](../docs/beleidsopvattingen.md#goede-en-democratische-bestuursvoering-art-52-lid-2). Lees de [volledige tekst](tekst/ECLI-NL-RVS-2023-4754.md).

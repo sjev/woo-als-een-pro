@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2018:314
 ecli: ECLI:NL:RVS:2018:314
 datum: '2018-01-31'
 instantie: Raad van State
 zaaknummer: 201700728/1/A3
 procedure: Hoger beroep
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2018:314
-fetched_at: '2026-10-31T23:40:18+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2018:314
+fetched_at: '2026-11-01T18:10:58+00:00'
 ---
 
 ## Inhoudsindicatie

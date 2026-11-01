@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2016:2273
 ecli: ECLI:NL:RVS:2016:2273
 datum: '2016-08-17'
 instantie: Raad van State
 zaaknummer: 201506025/1/A3
 procedure: Hoger beroep
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2016:2273
-fetched_at: '2026-10-31T23:40:18+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2016:2273
+fetched_at: '2026-11-01T18:10:57+00:00'
 ---
 
 ## Inhoudsindicatie

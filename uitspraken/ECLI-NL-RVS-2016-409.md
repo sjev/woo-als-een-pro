@@ -5,7 +5,7 @@ ecli: ECLI:NL:RVS:2016:409
 datum: 2016-02-17
 instantie: ABRvS
 onderwerpen: [ingebrekestelling, beslistermijn, verdaging]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2016:409
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2016:409
 ---
 
 ## Kern
@@ -18,4 +18,4 @@ Een ingebrekestelling die het bestuursorgaan ontvangt voordat de (verdaagde) bes
 
 ## Gebruik
 
-Reken de termijn uit, inclusief verdaging en opschorting. Stel pas in gebreke na de laatste dag. Zie [rechtsmiddelen](../docs/rechtsmiddelen.md#ingebrekestelling-art-612-awb). Volledige tekst: [tekst/](tekst/ECLI-NL-RVS-2016-409.md).
+Reken de termijn uit, inclusief verdaging en opschorting. Stel pas in gebreke na de laatste dag. Zie [rechtsmiddelen](../docs/rechtsmiddelen.md#ingebrekestelling-art-612-awb). Lees de [volledige tekst](tekst/ECLI-NL-RVS-2016-409.md).

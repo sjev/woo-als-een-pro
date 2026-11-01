@@ -5,7 +5,7 @@ ecli: ECLI:NL:RVS:2018:314
 datum: 2018-01-31
 instantie: ABRvS
 onderwerpen: [intern beraad, verwevenheid, zelfstandig onderdeel, reeds openbaar]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2018:314
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2018:314
 ---
 
 ## Kern
@@ -20,4 +20,4 @@ Het bestuursorgaan beoordeelt een document voor intern beraad per zelfstandig on
 
 ## Gebruik
 
-Is een heel document gelakt, of een hele bijlage met cijfers? Dan is niet per alinea beoordeeld. Een financiële bijlage met alleen cijfers is feitelijk. Zie [zoekslag](../docs/zoekslag.md#lakken-toetsen) en [beleidsopvattingen](../docs/beleidsopvattingen.md#verwevenheid). Volledige tekst: [tekst/](tekst/ECLI-NL-RVS-2018-314.md).
+Is een heel document gelakt, of een hele bijlage met cijfers? Dan is niet per alinea beoordeeld. Een financiële bijlage met alleen cijfers is feitelijk. Zie [zoekslag](../docs/zoekslag.md#lakken-toetsen) en [beleidsopvattingen](../docs/beleidsopvattingen.md#verwevenheid). Lees de [volledige tekst](tekst/ECLI-NL-RVS-2018-314.md).

@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2020:2477
 ecli: ECLI:NL:RVS:2020:2477
 datum: '2020-10-21'
 instantie: Raad van State
 zaaknummer: 201905713/1/A3
 procedure: Eerste aanleg - meervoudig
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:2477
-fetched_at: '2026-10-31T23:40:19+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:2477
+fetched_at: '2026-11-01T18:10:58+00:00'
 ---
 
 ## Inhoudsindicatie

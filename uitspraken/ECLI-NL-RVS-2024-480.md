@@ -5,7 +5,8 @@ ecli: ECLI:NL:RVS:2024:480
 datum: 2024-02-07
 instantie: ABRvS
 onderwerpen: [zoekslag, mailboxen, telefoons, oud-medewerkers]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:480---
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:480
+---
 
 ## Kern
 
@@ -17,4 +18,4 @@ Herhaling van de regel uit [ECLI:NL:RVS:2022:3027](ECLI-NL-RVS-2022-3027.md). De
 
 ## Gebruik
 
-Noem in het verzoek de bronnen die u doorzocht wilt zien: mailboxen (ook van vertrokken medewerkers), telefoons, chatgroepen, agenda's, gedeelde mappen, zaaksysteem. Zie [zoekslag](../docs/zoekslag.md). Volledige tekst: [tekst/](tekst/ECLI-NL-RVS-2024-480.md).
+Noem in het verzoek de bronnen die u doorzocht wilt zien: mailboxen (ook van vertrokken medewerkers), telefoons, chatgroepen, agenda's, gedeelde mappen, zaaksysteem. Zie [zoekslag](../docs/zoekslag.md). Lees de [volledige tekst](tekst/ECLI-NL-RVS-2024-480.md).

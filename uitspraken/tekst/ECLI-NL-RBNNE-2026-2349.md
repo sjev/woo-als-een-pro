@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RBNNE:2026:2349
 ecli: ECLI:NL:RBNNE:2026:2349
 datum: '2026-05-13'
 instantie: Rechtbank Noord-Nederland
 zaaknummer: LEE 25/2396
 procedure: Eerste aanleg - enkelvoudig
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:2349
-fetched_at: '2026-10-31T23:40:18+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:2349
+fetched_at: '2026-11-01T18:10:57+00:00'
 ---
 
 ## Inhoudsindicatie

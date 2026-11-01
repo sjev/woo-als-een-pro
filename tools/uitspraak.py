@@ -71,12 +71,13 @@ def fetch(ecli: str) -> str:
     if desc is None:
         raise LookupError(f"No metadata for {ecli}.")
     meta = {
+        "title": f"Volledige tekst {ecli}",
         "ecli": ecli,
         "datum": desc.findtext(f"{DC}date"),
         "instantie": desc.findtext(f"{DC}creator"),
         "zaaknummer": desc.findtext(f"{PSI}zaaknummer"),
         "procedure": desc.findtext(f"{PSI}procedure"),
-        "url": PUBLIC + ecli,
+        "source": PUBLIC + ecli,
         "fetched_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
     }
     indicatie = root.find(f"{RS}inhoudsindicatie")

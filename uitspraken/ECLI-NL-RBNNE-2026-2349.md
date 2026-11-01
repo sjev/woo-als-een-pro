@@ -5,7 +5,7 @@ ecli: ECLI:NL:RBNNE:2026:2349
 datum: 2026-05-13
 instantie: Rechtbank Noord-Nederland
 onderwerpen: [precisering, art. 4.1 lid 5-6 Woo, niet behandelen, ingebrekestelling]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:2349
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:2349
 ---
 
 ## Kern
@@ -22,4 +22,4 @@ Het bestuursorgaan vroeg tweemaal om precisering van een zeer algemeen verzoek. 
 
 ## Gebruik
 
-Preciseer binnen het oorspronkelijke onderwerp. Reageer in bezwaar op wat het besluit al noemt (openbare bronnen). Stel niet in gebreke terwijl u zelf nog preciseert. Zie [procedure](../docs/procedure.md#precisering-art-41-lid-5-6-woo). Volledige tekst: [tekst/](tekst/ECLI-NL-RBNNE-2026-2349.md).
+Preciseer binnen het oorspronkelijke onderwerp. Reageer in bezwaar op wat het besluit al noemt (openbare bronnen). Stel niet in gebreke terwijl u zelf nog preciseert. Zie [procedure](../docs/procedure.md#precisering-art-41-lid-5-6-woo). Lees de [volledige tekst](tekst/ECLI-NL-RBNNE-2026-2349.md).

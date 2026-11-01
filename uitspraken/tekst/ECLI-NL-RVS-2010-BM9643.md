@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2010:BM9643
 ecli: ECLI:NL:RVS:2010:BM9643
 datum: '2010-06-30'
 instantie: Raad van State
 zaaknummer: 200908609/1/H3
 procedure: Hoger beroep
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2010:BM9643
-fetched_at: '2026-10-31T23:40:18+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2010:BM9643
+fetched_at: '2026-11-01T18:10:57+00:00'
 ---
 
 ## Inhoudsindicatie

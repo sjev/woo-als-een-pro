@@ -5,7 +5,7 @@ ecli: ECLI:NL:RVS:2019:899
 datum: 2019-03-20
 instantie: ABRvS
 onderwerpen: [document, berusten, whatsapp, sms, zoekslag, deelbesluiten]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2019:899
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2019:899
 ---
 
 ## Kern
@@ -22,4 +22,4 @@ Sms- en WhatsApp-berichten zijn documenten. De techniek van opslag beslist niet.
 
 ## Gebruik
 
-Vraag chatberichten (sms, WhatsApp, Signal, Teams) in een apart onderdeel, ook op privételefoons. Vraag in de zoekverantwoording wie zijn gevraagd hun telefoon te doorzoeken. Zie [reikwijdte](../docs/reikwijdte.md#document) en [zoekslag](../docs/zoekslag.md). Volledige tekst: [tekst/](tekst/ECLI-NL-RVS-2019-899.md).
+Vraag chatberichten (sms, WhatsApp, Signal, Teams) in een apart onderdeel, ook op privételefoons. Vraag in de zoekverantwoording wie zijn gevraagd hun telefoon te doorzoeken. Zie [reikwijdte](../docs/reikwijdte.md#document) en [zoekslag](../docs/zoekslag.md). Lees de [volledige tekst](tekst/ECLI-NL-RVS-2019-899.md).

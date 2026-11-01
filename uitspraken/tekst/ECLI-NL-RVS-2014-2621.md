@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2014:2621
 ecli: ECLI:NL:RVS:2014:2621
 datum: '2014-07-16'
 instantie: Raad van State
 zaaknummer: 201307984/1/A3
 procedure: Hoger beroep
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2014:2621
-fetched_at: '2026-10-31T23:40:18+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2014:2621
+fetched_at: '2026-11-01T18:10:57+00:00'
 ---
 
 ## Inhoudsindicatie

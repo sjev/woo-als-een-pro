@@ -5,7 +5,7 @@ ecli: ECLI:NL:RVS:2023:4752
 datum: 2023-12-20
 instantie: ABRvS
 onderwerpen: [persoonsgegevens, persoonlijke levenssfeer, art. 5.1 lid 2 onder e Woo]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2023:4752
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2023:4752
 ---
 
 ## Kern
@@ -20,4 +20,4 @@ Persoonsgegevens is een ruim begrip. Ook gegevens die alleen in combinatie met a
 
 ## Gebruik
 
-Verwacht weinig succes met het argument "dit zijn geen persoonsgegevens" als koppeling mogelijk is. Richt het betoog op de afweging: welk concreet nadeel heeft de persoon, en weegt dat zwaarder dan openbaarheid? Zie [weigeringsgronden](../docs/weigeringsgronden.md#persoonsgegevens-en-namen). Volledige tekst: [tekst/](tekst/ECLI-NL-RVS-2023-4752.md).
+Verwacht weinig succes met het argument "dit zijn geen persoonsgegevens" als koppeling mogelijk is. Richt het betoog op de afweging: welk concreet nadeel heeft de persoon, en weegt dat zwaarder dan openbaarheid? Zie [weigeringsgronden](../docs/weigeringsgronden.md#persoonsgegevens-en-namen). Lees de [volledige tekst](tekst/ECLI-NL-RVS-2023-4752.md).

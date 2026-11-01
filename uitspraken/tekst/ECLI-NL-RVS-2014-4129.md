@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2014:4129
 ecli: ECLI:NL:RVS:2014:4129
 datum: '2014-11-19'
 instantie: Raad van State
 zaaknummer: 201311752/1/A3
 procedure: Hoger beroep
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2014:4129
-fetched_at: '2026-10-31T23:40:18+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2014:4129
+fetched_at: '2026-11-01T18:10:57+00:00'
 ---
 
 ## Inhoudsindicatie

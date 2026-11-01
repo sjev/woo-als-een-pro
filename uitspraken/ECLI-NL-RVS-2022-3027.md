@@ -5,7 +5,7 @@ ecli: ECLI:NL:RVS:2022:3027
 datum: 2022-10-19
 instantie: ABRvS
 onderwerpen: [zoekslag, bewijslast, inventarislijst]
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2022:3027
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2022:3027
 ---
 
 ## Kern
@@ -22,4 +22,4 @@ Twee regels. (1) Het bestuursorgaan maakt voldoende inzichtelijk hoe het zorgvul
 
 ## Gebruik
 
-Vraag de zoekverantwoording al in het verzoek. Toets het besluit op de vier elementen van r.o. 5.1. Wijs ontbrekende stukken concreet aan: een verwijzing in een ander document, een vergadering zonder verslag, een e-maildraad die halverwege stopt. Zie [zoekslag](../docs/zoekslag.md). Volledige tekst: [tekst/](tekst/ECLI-NL-RVS-2022-3027.md).
+Vraag de zoekverantwoording al in het verzoek. Toets het besluit op de vier elementen van r.o. 5.1. Wijs ontbrekende stukken concreet aan: een verwijzing in een ander document, een vergadering zonder verslag, een e-maildraad die halverwege stopt. Zie [zoekslag](../docs/zoekslag.md). Lees de [volledige tekst](tekst/ECLI-NL-RVS-2022-3027.md).

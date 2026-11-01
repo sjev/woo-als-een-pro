@@ -1,11 +1,12 @@
 ---
+title: Volledige tekst ECLI:NL:RVS:2020:2071
 ecli: ECLI:NL:RVS:2020:2071
 datum: '2020-09-02'
 instantie: Raad van State
 zaaknummer: 201905711/1/A3
 procedure: Hoger beroep
-url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:2071
-fetched_at: '2026-10-31T23:40:19+00:00'
+source: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:2071
+fetched_at: '2026-11-01T18:10:58+00:00'
 ---
 
 ## Inhoudsindicatie
