@@ -1,6 +1,7 @@
 ---
 title: Beroepschrift
 summary: Regels en sjabloon voor een beroepschrift bij de rechtbank.
+weight: 7
 ---
 
 # Beroepschrift
@@ -17,41 +18,31 @@ summary: Regels en sjabloon voor een beroepschrift bij de rechtbank.
   8. Detail (lijsten, tijdlijnen, vindplaatsen per stuk) gaat naar een overzichtsbijlage. In de tekst staan alleen het aantal en twee of drie voorbeelden.
   9. Is er een eerder stuk (bezwaar, zienswijze)? Verklaar het "herhaald en ingelast". Herhaal het niet.
   10. Nummer bijlagen door vanaf het vorige stuk in dezelfde procedure.
-  11. Vul variabelen tussen `[...]` in of vraag erom. `{{datum}}` blijft staan; die vult `tools/build.py`. Verzind geen feiten.
+  11. Vul alles tussen `[...]` in. Verzin geen feiten.
 
-## Template
+## Tekst
 
 ````markdown
-```{=latex}
-\thispagestyle{empty}
-\vspace*{-14mm}
-\hfill\begin{minipage}[t]{58mm}
-[Naam]\\
-[Straat en huisnummer]\\
-[Postcode Plaats]\\[1ex]
-{\small [Telefoon]\\
-[E-mail]}
-\end{minipage}
+---
+afzender: |
+  [Naam]
+  [Straat en huisnummer]
+  [Postcode Plaats]
 
-\vspace{7mm}
-
-\noindent Rechtbank [Naam]\\
-Team bestuursrecht\\
-Postbus [Nummer]\\
-[Postcode Plaats]
-
-\vspace{7mm}
-
-\noindent\begin{tabular}{@{}p{42mm}p{104mm}@{}}
-\textsf{\small Plaats en datum} & [Plaats], {{datum}}\\[0.6ex]
-\textsf{\small Betreft} & Beroepschrift\\[0.6ex]
-\textsf{\small Bestreden besluit} & [datum], kenmerk [kenmerk]\\[0.6ex]
-\textsf{\small Verweerder} & [Bestuursorgaan, bijv. college van B\&W van [gemeente]]\\[0.6ex]
-\textsf{\small Uw kenmerk} & [zaaknummer rechtbank / nader te bepalen]
-\end{tabular}
-
-\vspace{3mm}
-```
+  [Telefoon]
+  [E-mail]
+aan: |
+  Rechtbank [Naam]
+  Team bestuursrecht
+  Postbus [Nummer]
+  [Postcode Plaats]
+kenmerken: |
+  Plaats en datum: [Plaats], {{datum}}
+  Betreft: Beroepschrift
+  Bestreden besluit: [datum], kenmerk [kenmerk]
+  Verweerder: [Bestuursorgaan, bijv. college van B&W van [gemeente]]
+  Uw kenmerk: [zaaknummer rechtbank / nader te bepalen]
+---
 
 Edelachtbare,
 

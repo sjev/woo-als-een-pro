@@ -1,11 +1,12 @@
 ---
 title: Beroep niet tijdig beslissen
 summary: Beroepschrift bij de rechtbank als het bestuursorgaan twee weken na de ingebrekestelling nog niet heeft beslist.
+weight: 5
 ---
 
 # Beroep niet tijdig beslissen
 
-Bouw met `tools/build.py <brief>.md --bijlagen bijlagen/ --sign handtekening.png`. Algemene schrijfregels: [beroep.md](beroep.md).
+Algemene schrijfregels: [beroepschrift](beroep.md).
 
 ## Regels
 
@@ -18,38 +19,28 @@ Bouw met `tools/build.py <brief>.md --bijlagen bijlagen/ --sign handtekening.png
 7. Beslist het bestuursorgaan tijdens het beroep, dan loopt het beroep door tegen dat besluit (art. 6:20 lid 3 Awb). Zie [bezwaar.md](bezwaar.md) en [beroep.md](beroep.md).
 8. Een zitting is meestal niet nodig (art. 8:55b Awb).
 
-## Template
+## Tekst
 
 ````markdown
-```{=latex}
-\thispagestyle{empty}
-\vspace*{-14mm}
-\hfill\begin{minipage}[t]{58mm}
-[Naam]\\
-[Straat en huisnummer]\\
-[Postcode Plaats]\\[1ex]
-{\small [Telefoon]\\
-[E-mail]}
-\end{minipage}
+---
+afzender: |
+  [Naam]
+  [Straat en huisnummer]
+  [Postcode Plaats]
 
-\vspace{7mm}
-
-\noindent Rechtbank [Naam]\\
-Team bestuursrecht\\
-Postbus [Nummer]\\
-[Postcode Plaats]
-
-\vspace{7mm}
-
-\noindent\begin{tabular}{@{}p{42mm}p{104mm}@{}}
-\textsf{\small Plaats en datum} & [Plaats], {{datum}}\\[0.6ex]
-\textsf{\small Betreft} & Beroep wegens niet tijdig beslissen\\[0.6ex]
-\textsf{\small Verweerder} & [Bestuursorgaan]\\[0.6ex]
-\textsf{\small Kenmerk verweerder} & [zaaknummer]
-\end{tabular}
-
-\vspace{3mm}
-```
+  [Telefoon]
+  [E-mail]
+aan: |
+  Rechtbank [Naam]
+  Team bestuursrecht
+  Postbus [Nummer]
+  [Postcode Plaats]
+kenmerken: |
+  Plaats en datum: [Plaats], {{datum}}
+  Betreft: Beroep wegens niet tijdig beslissen
+  Verweerder: [Bestuursorgaan]
+  Kenmerk verweerder: [zaaknummer]
+---
 
 Edelachtbare,
 

@@ -1,0 +1,19 @@
+{{- /* Links are written for GitHub. README.md is the folder page there; here it is _index.md.
+  A file that is not on the site (tools/, bronnen/, unlinked law articles) opens on GitHub. */ -}}
+{{- $u := urls.Parse .Destination -}}
+{{- $href := $u.String -}}
+{{- if strings.HasPrefix $u.String "#" -}}
+  {{- $href = printf "%s#%s" .PageInner.RelPermalink $u.Fragment -}}
+{{- else if and $href (not $u.IsAbs) -}}
+  {{- $path := replaceRE `(^|/)README\.md$` "${1}_index.md" (strings.TrimPrefix "./" $u.Path) -}}
+  {{- with or ($.PageInner.GetPage $path) ($.PageInner.Resources.Get $path) -}}
+    {{- $href = .RelPermalink -}}
+  {{- else -}}
+    {{- $href = printf "%s/blob/main/%s" site.Params.repoURL (strings.TrimPrefix "/" (path.Join $.PageInner.File.Dir $u.Path)) -}}
+  {{- end -}}
+  {{- with $u.Fragment -}}
+    {{- $href = printf "%s#%s" $href . -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $href }}" {{- with .Title }} title="{{ . }}" {{- end }}>{{ .Text | safeHTML }}</a>
+{{- /**/ -}}

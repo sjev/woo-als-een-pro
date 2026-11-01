@@ -1,6 +1,7 @@
 ---
 title: Woo-verzoek
 summary: Sjabloon voor een Woo-verzoek met afspraken over zoekslag, inventarislijst, fasering en vorm.
+weight: 1
 ---
 
 # Woo-verzoek
@@ -20,7 +21,7 @@ Bron: drie verzoeken uit 2026 (gemeente en provincie). Zie [praktijk](../docs/pr
 7. Sluit af met de zin dat het verzoek geen zienswijze of bezwaar is.
 8. Dien in via het webformulier van het bestuursorgaan. Bewaar de ontvangstbevestiging en het zaaknummer.
 
-## Template
+## Tekst
 
 ```markdown
 **Onderwerp**

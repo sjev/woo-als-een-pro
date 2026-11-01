@@ -1,6 +1,7 @@
 ---
 title: Zoekslag, inventarislijst en lakken
 summary: Wat het bestuursorgaan moet doen om te zoeken en te verantwoorden, hoe u een onvolledige zoekslag aantoont, en hoe u de inventarislijst en het lakken toetst.
+weight: 5
 ---
 
 # Zoekslag, inventarislijst en lakken

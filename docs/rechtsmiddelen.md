@@ -1,11 +1,12 @@
 ---
 title: Rechtsmiddelen
 summary: Wat te doen bij een te laat, onvolledig of onjuist besluit. Ingebrekestelling, beroep niet tijdig, bezwaar, beroep, hoger beroep, ACOI, klacht.
+weight: 9
 ---
 
 # Rechtsmiddelen
 
-Wetstekst: Awb en Woo geldig vanaf 2026-08-15. Termijnen berekenen: `tools/termijn.py`.
+Wetstekst: Awb en Woo geldig vanaf 2026-08-15. Zo rekent u een termijn uit: [termijn berekenen](stappenplan.md#termijn-berekenen).
 
 ## Welk middel?
 
@@ -27,7 +28,7 @@ Wetstekst: Awb en Woo geldig vanaf 2026-08-15. Termijnen berekenen: `tools/termi
 - Werkwijze:
   1. Reken het einde uit: vier weken, plus geldige verdaging, plus opschorting ([procedure](procedure.md#opschorting)). Twijfel? Neem de latere datum.
   2. Verstuur op de dag na de laatste dag. Vraag een ontvangstbevestiging.
-  3. Twee weken na ontvangst: beroep (`tools/termijn.py <ontvangst> 2w`).
+  3. Twee weken na ontvangst van de ingebrekestelling: beroep.
 - Er is **geen** Awb-dwangsom bij niet tijdig beslissen op een Woo-verzoek of op bezwaar daartegen ([art. 8.2 Woo](../wetten/woo/artikel_8-2.md)). Eis die dus niet in de ingebrekestelling.
 
 ## Beroep niet tijdig (art. 6:12, 8:55b, 8:55d Awb; art. 8.4 Woo)

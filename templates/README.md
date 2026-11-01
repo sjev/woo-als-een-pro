@@ -1,7 +1,11 @@
-# Templates
+# Sjablonen
 
-Briefsjablonen. Elk sjabloon heeft regels voor de schrijver (mens of LLM) en een blok `Template`.
-Vul `[...]` in. Laat `{{datum}}` staan. Formele brieven (met LaTeX-briefhoofd) bouwt u met [`../tools/build.py`](../tools/README.md). E-mails en webformulieren zijn platte tekst.
+Een brief voor elke fase van een Woo-verzoek. Elk sjabloon heeft regels en een tekst.
+
+- Vul alles tussen `[...]` in. Verzin geen feiten.
+- `{{datum}}` is de datum van verzending.
+- Een formele brief begint met een kop tussen twee regels `---`: afzender, geadresseerde (`aan`) en kenmerken. Van die kop maakt de PDF het briefhoofd.
+- E-mails en webformulieren zijn platte tekst.
 
 | Fase | Sjabloon | Doel | Grondslag | Vorm |
 |---|---|---|---|---|

@@ -1,6 +1,7 @@
 ---
 title: Overleg met het bestuursorgaan
 summary: Wat u vraagt en geeft in overleg over een Woo-verzoek. Prioriteren, specificeren, eerste tranche, voorinzage, zienswijzen, tijdpad. Altijd schriftelijk vastleggen.
+weight: 4
 ---
 
 # Overleg met het bestuursorgaan

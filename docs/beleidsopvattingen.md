@@ -1,6 +1,7 @@
 ---
 title: Persoonlijke beleidsopvattingen en concepten
 summary: Art. 5.2 Woo. Wat een persoonlijke beleidsopvatting is, wanneer zij toch openbaar wordt, en hoe u concepten krijgt.
+weight: 7
 ---
 
 # Persoonlijke beleidsopvattingen en concepten

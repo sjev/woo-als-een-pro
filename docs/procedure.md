@@ -1,11 +1,12 @@
 ---
 title: Procedure en termijnen
 summary: Van ontvangst tot verstrekking. Beslistermijn, verdaging, opschorting, precisering, overleg, zienswijze derden, vorm.
+weight: 3
 ---
 
 # Procedure en termijnen
 
-Wetstekst: Woo geldig vanaf 2026-08-15, Awb geldig vanaf 2026-08-15. Reken elke termijn uit met `tools/termijn.py` (zie [termijn berekenen](stappenplan.md#termijn-berekenen)).
+Wetstekst: Woo geldig vanaf 2026-08-15, Awb geldig vanaf 2026-08-15. Zo rekent u een termijn uit: [termijn berekenen](stappenplan.md#termijn-berekenen).
 
 ## Tijdlijn
 
@@ -56,7 +57,7 @@ Daarna: [rechtsmiddelen](rechtsmiddelen.md).
 
 - Zo spoedig mogelijk, uiterlijk vier weken vanaf de dag na ontvangst ([art. 4.4 lid 1 Woo](../wetten/woo/artikel_4-4.md)).
 - Eindigt de termijn op een zaterdag, zondag of algemeen erkende feestdag? Dan schuift het einde naar de eerstvolgende werkdag ([art. 1 Algemene termijnenwet](../wetten/termijnenwet/artikel_1.md); feestdagen: [art. 3](../wetten/termijnenwet/artikel_3.md)).
-- Voorbeeld: `tools/termijn.py 2026-11-02 4w` geeft maandag 2026-11-30.
+- Voorbeeld: ontvangst op maandag 2 november 2026. De termijn eindigt op maandag 30 november 2026.
 
 ## Verdaging (art. 4.4 lid 2 Woo)
 

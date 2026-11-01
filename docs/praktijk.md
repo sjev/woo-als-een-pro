@@ -1,6 +1,7 @@
 ---
 title: Praktijk
 summary: Lessen uit drie Woo-verzoeken uit 2026 bij een gemeente en een provincie.
+weight: 11
 ---
 
 # Praktijk
@@ -32,7 +33,7 @@ Bron: drie verzoeken uit 2026 over één ruimtelijk dossier. Twee verzoeken bij 
 
 ## Termijnbewaking
 
-- Reken elke termijn uit met `tools/termijn.py` ([stappenplan](stappenplan.md#termijn-berekenen)).
+- Reken elke termijn uit ([termijn berekenen](stappenplan.md#termijn-berekenen)). Noteer de einddatum direct.
 - Stel in gebreke op de dag na de laatste dag. Niet eerder ([rechtsmiddelen](rechtsmiddelen.md#ingebrekestelling-art-612-awb)). Sjabloon: [ingebrekestelling](../templates/ingebrekestelling.md).
 - Druk komt niet van een Awb-dwangsom, maar van het beroep en de dwangsom van de rechter ([rechtsmiddelen](rechtsmiddelen.md#beroep-niet-tijdig-art-612-855b-855d-awb-art-84-woo)).
 - Twee weken na de ingebrekestelling: beroep. Sjabloon: [beroep-niet-tijdig](../templates/beroep-niet-tijdig.md).

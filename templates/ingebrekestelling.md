@@ -1,6 +1,7 @@
 ---
 title: Ingebrekestelling
 summary: Korte ingebrekestelling na het verlopen van de beslistermijn (art. 6:12 lid 2 Awb).
+weight: 4
 ---
 
 # Ingebrekestelling
@@ -14,7 +15,7 @@ summary: Korte ingebrekestelling na het verlopen van de beslistermijn (art. 6:12
 5. Gebruik het webformulier "ingebrekestelling" als het bestuursorgaan dat heeft. U krijgt dan een registratienummer. Anders: e-mail met verzoek om ontvangstbevestiging.
 6. Eén ingebrekestelling per zaak.
 
-## Template
+## Tekst
 
 ```markdown
 Onderwerp: Zaak [nummer]: ingebrekestelling wegens niet tijdig beslissen

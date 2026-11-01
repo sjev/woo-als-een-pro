@@ -1,0 +1,6 @@
+{{- /* The child pages of this section, in sidebar order, with their summary. */ -}}
+<ul>
+{{- range .Page.RegularPages.ByWeight }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.summary }}: {{ . }}{{ end }}</li>
+{{- end }}
+</ul>

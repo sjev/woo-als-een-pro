@@ -1,6 +1,7 @@
 ---
 title: Reactie op verdaging
 summary: E-mail die een slecht gemotiveerde verdaging betwist en de einddatum vastlegt.
+weight: 2
 ---
 
 # Reactie op verdaging
@@ -12,11 +13,11 @@ Verstuur binnen enkele dagen na de verdaging. Doel: de termijnen vastleggen en t
 1. Eén zaak per e-mail. Noem het zaaknummer in het onderwerp.
 2. Toets de verdaging aan de vier eisen in [procedure](../docs/procedure.md#verdaging-art-44-lid-2-woo). Vakantie, reces en werkdruk gaan niet over de informatie.
 3. Is het verzoek echt groot? Erken dat. Vraag dan om de stand van de zoekslag. Dat maakt u geloofwaardig.
-4. Reken de data uit met `tools/termijn.py` ([stappenplan](../docs/stappenplan.md#termijn-berekenen)).
+4. Reken de data uit ([termijn berekenen](../docs/stappenplan.md#termijn-berekenen)).
 5. Geef **geen** instemming met opschorting (art. 4:15 lid 2 onder a Awb) zonder schriftelijk tijdpad. Instemming zet de termijn stil; de ingebrekestelling schuift op ([overleg](../docs/overleg.md#wat-u-geeft)).
 6. Kondig de volgende stap concreet aan. Dreig niet.
 
-## Template
+## Tekst
 
 ```markdown
 Onderwerp: Zaak [nummer]: reactie op de verdaging en verzoek om een beslisdatum

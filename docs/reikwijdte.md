@@ -1,6 +1,7 @@
 ---
 title: Reikwijdte
 summary: Is het een Woo-verzoek? Wie valt onder de Woo, wat is een document, wat valt erbuiten. Eigen gegevens, klemmende redenen en toegang voor onderzoek.
+weight: 2
 ---
 
 # Reikwijdte

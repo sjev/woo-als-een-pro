@@ -20,6 +20,7 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 LINK = re.compile(r"\[[^\]]*\]\(([^)\s]+)\)")
 CODE = re.compile(r"```.*?```", re.S)
+FRONT = re.compile(r"\A---\n(.*?)\n---\n", re.S)
 
 
 def default_files() -> list[Path]:
@@ -41,9 +42,9 @@ def front_matter(path: Path) -> list[str]:
     """docs/, templates/ and uitspraken/ files need valid YAML with title and summary (AGENTS.md)."""
     if path.name == "README.md" or path.parent.name not in ("docs", "templates", "uitspraken"):
         return []
-    raw = path.read_text(encoding="utf8")
+    match = FRONT.match(path.read_text(encoding="utf8"))
     try:
-        meta = yaml.safe_load(raw.split("---")[1]) if raw.startswith("---") else None
+        meta = yaml.safe_load(match.group(1)) if match else None
     except yaml.YAMLError as err:
         return [f"{path.relative_to(ROOT)}: bad front matter: {err.problem}"]
     if not isinstance(meta, dict) or not {"title", "summary"} <= meta.keys():

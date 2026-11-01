@@ -1,6 +1,7 @@
 ---
 title: Verhouding tot andere wetten
 summary: Wanneer een andere wet voorgaat op de Woo (bijzondere openbaarmakingsregelingen), en welke andere routes naar informatie bestaan (Awb, Archiefwet, AVG, geheimhouding Gemeentewet en Provinciewet).
+weight: 10
 ---
 
 # Verhouding tot andere wetten
@@ -27,7 +28,7 @@ Wetstekst: Woo en Awb geldig vanaf 2026-08-15; Gemeentewet vanaf 2026-10-01; Pro
 | Algemene wet inzake rijksbelastingen art. 67 | Fiscale geheimhouding | Geen Woo-route voor belastinggegevens van derden |
 | Wet basisregistratie personen | Gegevens uit de BRP | Eigen verstrekkingsregels |
 
-Volledige lijst: 99 regelingen in de [bijlage](../wetten/woo/bijlage.md). Zoek met `grep -n "<wet>" wetten/woo/bijlage.md`.
+Volledige lijst: 99 regelingen in de [bijlage](../wetten/woo/bijlage.md).
 
 ## Geheimhouding (Gemeentewet, Provinciewet)
 

@@ -1,6 +1,7 @@
 ---
 title: Weigeringsgronden
 summary: Wanneer het bestuursorgaan informatie mag weigeren (art. 5.1, 5.3 Woo), wat het moet motiveren, en hoe u een weigering toetst.
+weight: 6
 ---
 
 # Weigeringsgronden
@@ -35,7 +36,7 @@ Is de grond van toepassing, dan blijft openbaarmaking achterwege. Er is geen afw
 | a | Eenheid van de Kroon | Contacten tussen Koning en bewindslieden. Zelden relevant buiten het Rijk |
 | b | Veiligheid van de Staat | Vaak gaat een bijzondere regeling voor (Wiv; [bijlage Woo](../wetten/woo/bijlage.md)) |
 | c | Bedrijfs- en fabricagegegevens, **vertrouwelijk** meegedeeld | Was het echt vertrouwelijk? Gaat het echt over bedrijfsvoering, productie, afzet of klanten (instructie § 4.2.3)? Bij milieu-informatie geldt een afweging (lid 6) |
-| d | Bijzondere en strafrechtelijke persoonsgegevens (par. 3.1 en 3.2 [UAVG](../wetten/uavg/_wet.md)) | Niet als de betrokkene uitdrukkelijk toestemde of de gegevens kennelijk zelf openbaar maakte |
+| d | Bijzondere en strafrechtelijke persoonsgegevens (par. 3.1 en 3.2 UAVG: [art. 22](../wetten/uavg/artikel_22.md) t/m [art. 33](../wetten/uavg/artikel_33.md)) | Niet als de betrokkene uitdrukkelijk toestemde of de gegevens kennelijk zelf openbaar maakte |
 | e | Wettelijke identificatienummers (bijv. BSN; art. 46 UAVG) | Niet als verstrekking kennelijk geen inbreuk op de levenssfeer maakt (bijv. nummers uit een openbaar register) |
 
 ## Relatieve gronden (art. 5.1 lid 2 Woo)

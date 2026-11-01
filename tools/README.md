@@ -35,7 +35,7 @@ Attachments (*bijlagen*):
 - Each page gets the stamp "Bijlage N, blad x/y".
 - `links.py` makes "bijlage N", "bijlage N, blad M" and "punt N" clickable. The letter must end with a heading `## Bijlagen` and a numbered list.
 
-Known issue: an unfilled `[...]` directly after `\\` in the letter head breaks the LaTeX build.
+Letterhead: a letter that starts with a front matter block with the keys `afzender`, `aan` and `kenmerken` gets the formal letterhead. Each key holds plain lines (YAML block scalar `|`). In `afzender`, lines after a blank line print small (contact details). Each `kenmerken` line is `Label: value`. A letter without this block builds as before; raw LaTeX in the letter still works.
 
 Requires: `uv`, `pandoc`, `pdflatex` (TeX Live with KOMA-Script), `poppler-utils` (`pdfunite`, `pdfinfo`, `pdftotext`). `uv` installs `pikepdf`.
 

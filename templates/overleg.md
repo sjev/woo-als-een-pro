@@ -1,6 +1,7 @@
 ---
 title: Overleg over prioritering
 summary: E-mail met een voorstel voor fasering, voorwaardelijke inperking en vragen over zienswijzen (art. 4.2a Woo, art. 4:8 Awb).
+weight: 3
 ---
 
 # Overleg over prioritering
@@ -19,7 +20,7 @@ Gebruik bij een groot verzoek, na een gesprek of na een verzoek om in te korten.
 8. Geef een reactiedatum en zeg wat u doet als die verloopt.
 9. Houd de toon zakelijk. Een lange lijst eisen leest als druk. Kort is sterker.
 
-## Template
+## Tekst
 
 ```markdown
 Onderwerp: Zaak [nummer]: prioritering en tijdpad

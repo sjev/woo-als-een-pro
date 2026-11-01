@@ -1,11 +1,12 @@
 ---
 title: Pro-forma bezwaar
 summary: Bezwaar dat de termijn veiligstelt; gronden volgen later of staan in een lopend beroep.
+weight: 6
 ---
 
 # Pro-forma bezwaar
 
-Bouw met `tools/build.py`. Algemene schrijfregels: [beroep.md](beroep.md).
+Algemene schrijfregels: [beroepschrift](beroep.md).
 
 ## Regels
 
@@ -19,36 +20,26 @@ Bouw met `tools/build.py`. Algemene schrijfregels: [beroep.md](beroep.md).
    - inventarislijst te summier: geen datum, afzender of geadresseerde (art. 3:46 Awb).
 5. Kies blok A of B en nummer de punten opnieuw.
 
-## Template
+## Tekst
 
 ````markdown
-```{=latex}
-\thispagestyle{empty}
-\vspace*{-14mm}
-\hfill\begin{minipage}[t]{58mm}
-[Naam]\\
-[Straat en huisnummer]\\
-[Postcode Plaats]\\[1ex]
-{\small [Telefoon]\\
-[E-mail]}
-\end{minipage}
+---
+afzender: |
+  [Naam]
+  [Straat en huisnummer]
+  [Postcode Plaats]
 
-\vspace{7mm}
-
-\noindent [Bestuursorgaan]\\
-Postbus [Nummer]\\
-[Postcode Plaats]
-
-\vspace{7mm}
-
-\noindent\begin{tabular}{@{}p{42mm}p{104mm}@{}}
-\textsf{\small Plaats en datum} & [Plaats], {{datum}}\\[0.6ex]
-\textsf{\small Betreft} & Pro-forma bezwaar tegen het besluit van [datum]\\[0.6ex]
-\textsf{\small Uw kenmerk} & [zaaknummer]
-\end{tabular}
-
-\vspace{3mm}
-```
+  [Telefoon]
+  [E-mail]
+aan: |
+  [Bestuursorgaan]
+  Postbus [Nummer]
+  [Postcode Plaats]
+kenmerken: |
+  Plaats en datum: [Plaats], {{datum}}
+  Betreft: Pro-forma bezwaar tegen het besluit van [datum]
+  Uw kenmerk: [zaaknummer]
+---
 
 Geacht [college],
 

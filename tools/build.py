@@ -1,7 +1,7 @@
 #!/usr/bin/env -S uv run --script
 # /// script
 # requires-python = ">=3.10"
-# dependencies = ["pikepdf"]
+# dependencies = ["pikepdf", "pyyaml"]
 # ///
 """Render a markdown letter to PDF, plus a complete PDF with stamped, linked bijlagen."""
 
@@ -15,12 +15,37 @@ import sys
 from datetime import date
 from itertools import groupby
 from pathlib import Path
+from string import Template
 
+import yaml
 from links import add_links
 
 STYLE = Path(__file__).resolve().parent / "style.tex"
 # The signature replaces the blank space between the closing and the name.
 SIGN_GAP = re.compile(r"(?<=Hoogachtend,\n\n)\\vspace\{(\d+)mm\}")
+# A letter may start with a plain header (afzender, aan, kenmerken); it becomes this letterhead.
+FRONT = re.compile(r"\A---\n(.*?)\n---\n", re.S)
+TEX_SPECIAL = re.compile(r"([&%$#_{}])")
+LETTERHEAD = Template(r"""```{=latex}
+\thispagestyle{empty}
+\vspace*{-14mm}
+\hfill\begin{minipage}[t]{58mm}
+$sender
+\end{minipage}
+
+\vspace{7mm}
+
+\noindent $recipient
+
+\vspace{7mm}
+
+\noindent\begin{tabular}{@{}p{42mm}p{104mm}@{}}
+$rows
+\end{tabular}
+
+\vspace{3mm}
+```
+""")
 MAANDEN = ("januari", "februari", "maart", "april", "mei", "juni",
            "juli", "augustus", "september", "oktober", "november", "december")
 
@@ -61,9 +86,38 @@ def dutch_date(iso: str | None) -> str:
     return f"{day.day} {MAANDEN[day.month - 1]} {day.year}"
 
 
+def tex(text: str) -> str:
+    return TEX_SPECIAL.sub(r"\\\1", text.strip())
+
+
+def tex_lines(block: str) -> str:
+    # \relax stops a following "[" from being read as the optional argument of \\.
+    return "\\\\\\relax\n".join(tex(line) for line in block.strip().splitlines())
+
+
+def letterhead(meta: dict[str, str]) -> str:
+    """Address, then contact details in small type after a blank line."""
+    address, _, contact = meta["afzender"].strip().partition("\n\n")
+    sender = tex_lines(address)
+    if contact:
+        sender += f"\\\\[1ex]\n{{\\small {tex_lines(contact)}}}"
+    rows = "\\\\[0.6ex]\n".join(
+        f"\\textsf{{\\small {tex(label)}}} & {tex(value)}"
+        for label, _, value in (row.partition(":") for row in meta["kenmerken"].strip().splitlines()))
+    return LETTERHEAD.substitute(sender=sender, recipient=tex_lines(meta["aan"]), rows=rows)
+
+
+def with_letterhead(text: str) -> str:
+    match = FRONT.match(text)
+    meta = yaml.safe_load(match[1]) if match else None
+    if not isinstance(meta, dict) or not {"afzender", "aan", "kenmerken"} <= meta.keys():
+        return text
+    return letterhead(meta) + text[match.end():]
+
+
 def render_markdown(source: Path, target: Path, datum: str, signature: Path | None = None,
                     fontsize: str = "10pt") -> None:
-    text = source.read_text().replace("{{datum}}", datum)
+    text = with_letterhead(source.read_text().replace("{{datum}}", datum))
     if signature:
         text = SIGN_GAP.sub(f"![]({signature}){{height=\\1mm}}", text)
     run(["pandoc", "-o", str(target), *PANDOC_OPTS, "-V", f"fontsize={fontsize}",

@@ -1,6 +1,7 @@
 ---
 title: Milieu-informatie en emissiegegevens
 summary: Wanneer informatie milieu-informatie is, welke weigeringsgronden dan vervallen of verzwakken, en waarom emissiegegevens altijd openbaar zijn.
+weight: 8
 ---
 
 # Milieu-informatie en emissiegegevens
