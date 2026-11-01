@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.38 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '15.38'
 hoofdstuk: 15. Financiële bepalingen

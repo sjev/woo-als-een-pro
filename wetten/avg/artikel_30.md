@@ -1,4 +1,5 @@
 ---
+title: Artikel 30 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '30'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

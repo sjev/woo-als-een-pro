@@ -1,4 +1,5 @@
 ---
+title: Artikel 45b Gemeentewet
 wet: Gemeentewet
 artikel: 45b
 hoofdstuk: III. Het college van burgemeester en wethouders

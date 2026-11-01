@@ -1,4 +1,5 @@
 ---
+title: Artikel 71 Provinciewet
 wet: Provinciewet
 artikel: '71'
 hoofdstuk: IV. De commissaris van de Koning

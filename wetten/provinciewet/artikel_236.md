@@ -1,4 +1,5 @@
 ---
+title: Artikel 236 Provinciewet
 wet: Provinciewet
 artikel: '236'
 hoofdstuk: XVI. Het Provinciefonds

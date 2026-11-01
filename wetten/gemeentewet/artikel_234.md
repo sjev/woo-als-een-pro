@@ -1,4 +1,5 @@
 ---
+title: Artikel 234 Gemeentewet
 wet: Gemeentewet
 artikel: '234'
 hoofdstuk: XV. De gemeentelijke belastingen

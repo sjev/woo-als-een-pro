@@ -1,4 +1,5 @@
 ---
+title: Artikel 4:94a Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 4:94a
 hoofdstuk: 4. Bijzondere bepalingen over besluiten

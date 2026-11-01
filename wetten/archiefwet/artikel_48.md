@@ -1,4 +1,5 @@
 ---
+title: Artikel 48 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '48'
 hoofdstuk: IX. Overgangs- en slotbepalingen

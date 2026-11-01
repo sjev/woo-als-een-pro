@@ -1,4 +1,5 @@
 ---
+title: Artikel 9.6.1 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 9.6.1
 hoofdstuk: 9. Stoffen en produkten

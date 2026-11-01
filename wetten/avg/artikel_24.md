@@ -1,4 +1,5 @@
 ---
+title: Artikel 24 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '24'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

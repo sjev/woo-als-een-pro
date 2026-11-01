@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.33a Omgevingswet
 wet: Omgevingswet
 artikel: 16.33a
 hoofdstuk: 16. Procedures

@@ -1,4 +1,5 @@
 ---
+title: Artikel 61b Gemeentewet
 wet: Gemeentewet
 artikel: 61b
 hoofdstuk: IV. De burgemeester

@@ -1,4 +1,5 @@
 ---
+title: Artikel 47 Gemeentewet
 wet: Gemeentewet
 artikel: '47'
 hoofdstuk: III. Het college van burgemeester en wethouders

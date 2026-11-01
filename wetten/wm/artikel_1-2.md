@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.2 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '1.2'
 hoofdstuk: 1. Algemeen

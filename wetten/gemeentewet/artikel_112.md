@@ -1,4 +1,5 @@
 ---
+title: Artikel 112 Gemeentewet
 wet: Gemeentewet
 artikel: '112'
 hoofdstuk: VIII. Algemene bepalingen

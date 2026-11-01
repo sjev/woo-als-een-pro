@@ -1,4 +1,5 @@
 ---
+title: Artikel 4 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '4'
 hoofdstuk: II. Archiefbescheiden in het algemeen

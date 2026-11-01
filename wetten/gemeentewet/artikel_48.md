@@ -1,4 +1,5 @@
 ---
+title: Artikel 48 Gemeentewet
 wet: Gemeentewet
 artikel: '48'
 hoofdstuk: III. Het college van burgemeester en wethouders

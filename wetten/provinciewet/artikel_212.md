@@ -1,4 +1,5 @@
 ---
+title: Artikel 212 Provinciewet
 wet: Provinciewet
 artikel: '212'
 hoofdstuk: XIII. De begroting en de jaarrekening

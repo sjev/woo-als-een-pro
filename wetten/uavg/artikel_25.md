@@ -1,4 +1,5 @@
 ---
+title: Artikel 25 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '25'
 hoofdstuk: 3. Bepalingen ter uitvoering van de verordening

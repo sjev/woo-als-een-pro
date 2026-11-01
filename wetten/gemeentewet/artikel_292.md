@@ -1,4 +1,5 @@
 ---
+title: Artikel 292 Gemeentewet
 wet: Gemeentewet
 artikel: '292'
 valid_from: '2026-10-01'

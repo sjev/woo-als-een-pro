@@ -1,4 +1,5 @@
 ---
+title: Artikel 274 Gemeentewet
 wet: Gemeentewet
 artikel: '274'
 hoofdstuk: XVII. Schorsing en vernietiging

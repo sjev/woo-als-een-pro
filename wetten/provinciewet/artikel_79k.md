@@ -1,4 +1,5 @@
 ---
+title: Artikel 79k Provinciewet
 wet: Provinciewet
 artikel: 79k
 hoofdstuk: IVA. De rekenkamer

@@ -1,4 +1,5 @@
 ---
+title: Artikel 158 Provinciewet
 wet: Provinciewet
 artikel: '158'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

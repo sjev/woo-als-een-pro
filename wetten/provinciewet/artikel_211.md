@@ -1,4 +1,5 @@
 ---
+title: Artikel 211 Provinciewet
 wet: Provinciewet
 artikel: '211'
 hoofdstuk: XIII. De begroting en de jaarrekening

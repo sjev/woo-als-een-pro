@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.47a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 8.47a
 hoofdstuk: 8. Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen

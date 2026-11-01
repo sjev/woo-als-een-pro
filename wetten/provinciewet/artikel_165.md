@@ -1,4 +1,5 @@
 ---
+title: Artikel 165 Provinciewet
 wet: Provinciewet
 artikel: '165'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

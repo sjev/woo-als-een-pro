@@ -1,4 +1,5 @@
 ---
+title: Artikel 138 Provinciewet
 wet: Provinciewet
 artikel: '138'
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 229a Gemeentewet
 wet: Gemeentewet
 artikel: 229a
 hoofdstuk: XV. De gemeentelijke belastingen

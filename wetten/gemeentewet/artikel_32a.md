@@ -1,4 +1,5 @@
 ---
+title: Artikel 32a Gemeentewet
 wet: Gemeentewet
 artikel: 32a
 hoofdstuk: II. De raad

@@ -1,4 +1,5 @@
 ---
+title: Artikel 22.4 Omgevingswet
 wet: Omgevingswet
 artikel: '22.4'
 hoofdstuk: 22. Overgangsrecht

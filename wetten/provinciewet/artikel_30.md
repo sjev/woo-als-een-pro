@@ -1,4 +1,5 @@
 ---
+title: Artikel 30 Provinciewet
 wet: Provinciewet
 artikel: '30'
 hoofdstuk: II. Provinciale staten

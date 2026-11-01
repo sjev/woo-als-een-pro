@@ -1,4 +1,5 @@
 ---
+title: Artikel 17.5b Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 17.5b
 hoofdstuk: 17. Maatregelen in bijzondere omstandigheden

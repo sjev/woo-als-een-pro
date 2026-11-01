@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.13b Omgevingswet
 wet: Omgevingswet
 artikel: 10.13b
 hoofdstuk: 10. Gedoogplichten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 296 Gemeentewet
 wet: Gemeentewet
 artikel: '296'
 valid_from: '2026-10-01'

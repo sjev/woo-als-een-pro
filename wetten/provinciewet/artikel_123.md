@@ -1,4 +1,5 @@
 ---
+title: Artikel 123 Provinciewet
 wet: Provinciewet
 artikel: '123'
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.36a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 8.36a
 hoofdstuk: 8. Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen

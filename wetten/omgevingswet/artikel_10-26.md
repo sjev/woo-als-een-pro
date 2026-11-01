@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.26 Omgevingswet
 wet: Omgevingswet
 artikel: '10.26'
 hoofdstuk: 10. Gedoogplichten

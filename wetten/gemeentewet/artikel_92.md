@@ -1,4 +1,5 @@
 ---
+title: Artikel 92 Gemeentewet
 wet: Gemeentewet
 artikel: '92'
 hoofdstuk: Va. Geheimhouding

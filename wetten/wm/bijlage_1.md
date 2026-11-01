@@ -1,4 +1,5 @@
 ---
+title: Bijlage 1 bij de Wet milieubeheer
 wet: Wet milieubeheer
 bijlage: Bijlage 1
 titel: bij de Wet milieubeheer

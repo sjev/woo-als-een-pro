@@ -1,4 +1,5 @@
 ---
+title: Artikel 190 Provinciewet
 wet: Provinciewet
 artikel: '190'
 hoofdstuk: XII. Algemene bepalingen

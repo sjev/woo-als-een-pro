@@ -1,4 +1,5 @@
 ---
+title: Artikel 8 Provinciewet
 wet: Provinciewet
 artikel: '8'
 hoofdstuk: II. Provinciale staten

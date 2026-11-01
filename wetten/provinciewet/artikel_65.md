@@ -1,4 +1,5 @@
 ---
+title: Artikel 65 Provinciewet
 wet: Provinciewet
 artikel: '65'
 hoofdstuk: IV. De commissaris van de Koning

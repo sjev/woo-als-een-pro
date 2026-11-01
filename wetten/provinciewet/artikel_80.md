@@ -1,4 +1,5 @@
 ---
+title: Artikel 80 Provinciewet
 wet: Provinciewet
 artikel: '80'
 hoofdstuk: V. De commissies

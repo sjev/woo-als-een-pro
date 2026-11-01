@@ -1,4 +1,5 @@
 ---
+title: Artikel 43e Provinciewet
 wet: Provinciewet
 artikel: 43e
 hoofdstuk: III. Gedeputeerde staten

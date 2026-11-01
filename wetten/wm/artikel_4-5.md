@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.5 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '4.5'
 hoofdstuk: 4. Plannen

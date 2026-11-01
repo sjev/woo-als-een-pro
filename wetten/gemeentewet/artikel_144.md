@@ -1,4 +1,5 @@
 ---
+title: Artikel 144 Gemeentewet
 wet: Gemeentewet
 artikel: '144'
 hoofdstuk: VIII. Algemene bepalingen

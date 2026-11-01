@@ -1,4 +1,5 @@
 ---
+title: Artikel 65 Gemeentewet
 wet: Gemeentewet
 artikel: '65'
 hoofdstuk: IV. De burgemeester

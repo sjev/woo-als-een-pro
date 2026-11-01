@@ -1,4 +1,5 @@
 ---
+title: Artikel 233 Provinciewet
 wet: Provinciewet
 artikel: '233'
 hoofdstuk: XVI. Het Provinciefonds

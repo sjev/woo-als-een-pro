@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.3 Omgevingswet
 wet: Omgevingswet
 artikel: '10.3'
 hoofdstuk: 10. Gedoogplichten

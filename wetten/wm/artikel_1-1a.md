@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.1a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 1.1a
 hoofdstuk: 1. Algemeen

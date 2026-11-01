@@ -1,4 +1,5 @@
 ---
+title: Artikel 232d Provinciewet
 wet: Provinciewet
 artikel: 232d
 hoofdstuk: XV. De provinciale belastingen

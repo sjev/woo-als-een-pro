@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.17 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '2.17'
 hoofdstuk: 2. Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen

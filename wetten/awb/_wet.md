@@ -3,7 +3,7 @@ bwb_id: BWBR0005537
 title: Algemene wet bestuursrecht
 short_title: Algemene wet bestuursrecht
 valid_from: '2026-08-15'
-fetched_at: '2026-10-31T23:21:15+00:00'
+fetched_at: '2026-11-01T18:11:18+00:00'
 source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005537/2026-08-15_0/xml/BWBR0005537_2026-08-15_0.xml
 ---
 

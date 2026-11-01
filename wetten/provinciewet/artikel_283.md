@@ -1,4 +1,5 @@
 ---
+title: Artikel 283 Provinciewet
 wet: Provinciewet
 artikel: '283'
 valid_from: '2026-07-01'

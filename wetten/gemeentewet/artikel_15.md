@@ -1,4 +1,5 @@
 ---
+title: Artikel 15 Gemeentewet
 wet: Gemeentewet
 artikel: '15'
 hoofdstuk: II. De raad

@@ -1,4 +1,5 @@
 ---
+title: Artikel 130 Provinciewet
 wet: Provinciewet
 artikel: '130'
 hoofdstuk: VIII. Algemene bepalingen

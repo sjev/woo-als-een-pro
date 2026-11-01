@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.12 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '18.12'
 hoofdstuk: 18. Handhaving

@@ -1,4 +1,5 @@
 ---
+title: Artikel 14.4b Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 14.4b
 hoofdstuk: 14. Coördinatie

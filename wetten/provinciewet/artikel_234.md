@@ -1,4 +1,5 @@
 ---
+title: Artikel 234 Provinciewet
 wet: Provinciewet
 artikel: '234'
 hoofdstuk: XVI. Het Provinciefonds

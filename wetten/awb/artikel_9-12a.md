@@ -1,4 +1,5 @@
 ---
+title: Artikel 9:12a Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 9:12a
 hoofdstuk: 9. Klachtbehandeling

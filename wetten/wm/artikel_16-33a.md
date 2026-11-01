@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.33a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 16.33a
 hoofdstuk: 16. Handel in emissierechten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 17.12 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '17.12'
 hoofdstuk: 17. Maatregelen in bijzondere omstandigheden

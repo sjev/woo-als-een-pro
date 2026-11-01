@@ -1,4 +1,5 @@
 ---
+title: Artikel 153 Provinciewet
 wet: Provinciewet
 artikel: '153'
 hoofdstuk: IX. De bevoegdheid van provinciale staten

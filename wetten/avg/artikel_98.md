@@ -1,4 +1,5 @@
 ---
+title: Artikel 98 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '98'
 hoofdstuk: XI. Slotbepalingen

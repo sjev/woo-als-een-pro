@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.39ak Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 16.39ak
 hoofdstuk: 16. Handel in emissierechten

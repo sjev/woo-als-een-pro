@@ -1,4 +1,5 @@
 ---
+title: Artikel 219 Provinciewet
 wet: Provinciewet
 artikel: '219'
 hoofdstuk: XIV. De administratie en de controle

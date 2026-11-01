@@ -1,4 +1,5 @@
 ---
+title: Artikel 255 Gemeentewet
 wet: Gemeentewet
 artikel: '255'
 hoofdstuk: XV. De gemeentelijke belastingen

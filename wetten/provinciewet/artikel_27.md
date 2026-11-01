@@ -1,4 +1,5 @@
 ---
+title: Artikel 27 Provinciewet
 wet: Provinciewet
 artikel: '27'
 hoofdstuk: II. Provinciale staten

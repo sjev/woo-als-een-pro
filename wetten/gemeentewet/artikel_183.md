@@ -1,4 +1,5 @@
 ---
+title: Artikel 183 Gemeentewet
 wet: Gemeentewet
 artikel: '183'
 hoofdstuk: XIa. De bevoegdheid van de rekenkamer

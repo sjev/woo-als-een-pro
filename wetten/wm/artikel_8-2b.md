@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.2b Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 8.2b
 hoofdstuk: 8. Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen

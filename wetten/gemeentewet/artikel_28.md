@@ -1,4 +1,5 @@
 ---
+title: Artikel 28 Gemeentewet
 wet: Gemeentewet
 artikel: '28'
 hoofdstuk: II. De raad

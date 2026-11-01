@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.43 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '16.43'
 hoofdstuk: 16. Handel in emissierechten

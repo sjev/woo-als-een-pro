@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.20 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '15.20'
 hoofdstuk: 15. Financiële bepalingen

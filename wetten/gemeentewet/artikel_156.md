@@ -1,4 +1,5 @@
 ---
+title: Artikel 156 Gemeentewet
 wet: Gemeentewet
 artikel: '156'
 hoofdstuk: IX. De bevoegdheid van de raad

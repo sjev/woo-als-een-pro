@@ -1,4 +1,5 @@
 ---
+title: Artikel 23.10 Omgevingswet
 wet: Omgevingswet
 artikel: '23.10'
 hoofdstuk: 23. Overige en slotbepalingen

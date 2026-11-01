@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.40 Omgevingswet
 wet: Omgevingswet
 artikel: '16.40'
 hoofdstuk: 16. Procedures

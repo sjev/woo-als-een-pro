@@ -1,4 +1,5 @@
 ---
+title: Artikel 1:3 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '1:3'
 hoofdstuk: 1. Inleidende bepalingen

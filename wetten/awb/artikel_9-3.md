@@ -1,4 +1,5 @@
 ---
+title: Artikel 9:3 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '9:3'
 hoofdstuk: 9. Klachtbehandeling

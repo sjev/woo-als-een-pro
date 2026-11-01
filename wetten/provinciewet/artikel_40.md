@@ -1,4 +1,5 @@
 ---
+title: Artikel 40 Provinciewet
 wet: Provinciewet
 artikel: '40'
 hoofdstuk: III. Gedeputeerde staten

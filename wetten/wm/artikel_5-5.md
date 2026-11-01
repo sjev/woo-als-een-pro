@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.5 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '5.5'
 hoofdstuk: 5. Milieukwaliteitseisen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 26 Provinciewet
 wet: Provinciewet
 artikel: '26'
 hoofdstuk: II. Provinciale staten

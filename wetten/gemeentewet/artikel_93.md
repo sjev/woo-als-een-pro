@@ -1,4 +1,5 @@
 ---
+title: Artikel 93 Gemeentewet
 wet: Gemeentewet
 artikel: '93'
 hoofdstuk: Va. Geheimhouding

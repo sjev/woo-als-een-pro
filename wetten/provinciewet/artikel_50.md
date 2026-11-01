@@ -1,4 +1,5 @@
 ---
+title: Artikel 50 Provinciewet
 wet: Provinciewet
 artikel: '50'
 hoofdstuk: III. Gedeputeerde staten

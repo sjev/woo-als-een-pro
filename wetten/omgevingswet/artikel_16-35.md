@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.35 Omgevingswet
 wet: Omgevingswet
 artikel: '16.35'
 hoofdstuk: 16. Procedures

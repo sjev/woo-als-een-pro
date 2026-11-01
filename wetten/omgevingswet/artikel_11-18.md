@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.18 Omgevingswet
 wet: Omgevingswet
 artikel: '11.18'
 hoofdstuk: 11. Onteigening

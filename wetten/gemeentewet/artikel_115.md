@@ -1,4 +1,5 @@
 ---
+title: Artikel 115 Gemeentewet
 wet: Gemeentewet
 artikel: '115'
 hoofdstuk: VIII. Algemene bepalingen

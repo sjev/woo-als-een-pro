@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.3 Omgevingswet
 wet: Omgevingswet
 artikel: '19.3'
 hoofdstuk: 19. Bevoegdheden in bijzondere omstandigheden

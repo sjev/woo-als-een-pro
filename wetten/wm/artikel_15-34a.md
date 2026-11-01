@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.34a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 15.34a
 hoofdstuk: 15. Financiële bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 209 Provinciewet
 wet: Provinciewet
 artikel: '209'
 hoofdstuk: XIII. De begroting en de jaarrekening

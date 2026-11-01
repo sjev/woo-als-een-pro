@@ -1,4 +1,5 @@
 ---
+title: Artikel 139 Gemeentewet
 wet: Gemeentewet
 artikel: '139'
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 95 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '95'
 hoofdstuk: XI. Slotbepalingen

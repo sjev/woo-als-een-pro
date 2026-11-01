@@ -1,4 +1,5 @@
 ---
+title: Artikel 86 Gemeentewet
 wet: Gemeentewet
 artikel: '86'
 hoofdstuk: V. De commissies

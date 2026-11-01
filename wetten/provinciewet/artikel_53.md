@@ -1,4 +1,5 @@
 ---
+title: Artikel 53 Provinciewet
 wet: Provinciewet
 artikel: '53'
 hoofdstuk: III. Gedeputeerde staten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.53 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.53'
 hoofdstuk: 10. Afvalstoffen

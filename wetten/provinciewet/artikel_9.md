@@ -1,4 +1,5 @@
 ---
+title: Artikel 9 Provinciewet
 wet: Provinciewet
 artikel: '9'
 hoofdstuk: II. Provinciale staten

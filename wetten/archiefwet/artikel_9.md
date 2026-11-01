@@ -1,4 +1,5 @@
 ---
+title: Artikel 9 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '9'
 hoofdstuk: II. Archiefbescheiden in het algemeen

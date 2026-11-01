@@ -1,4 +1,5 @@
 ---
+title: Artikel 286 Provinciewet
 wet: Provinciewet
 artikel: '286'
 valid_from: '2026-07-01'

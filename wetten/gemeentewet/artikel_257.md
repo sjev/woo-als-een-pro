@@ -1,4 +1,5 @@
 ---
+title: Artikel 257 Gemeentewet
 wet: Gemeentewet
 artikel: '257'
 hoofdstuk: XV. De gemeentelijke belastingen

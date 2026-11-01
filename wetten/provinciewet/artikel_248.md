@@ -1,4 +1,5 @@
 ---
+title: Artikel 248 Provinciewet
 wet: Provinciewet
 artikel: '248'
 hoofdstuk: XVI. Het Provinciefonds

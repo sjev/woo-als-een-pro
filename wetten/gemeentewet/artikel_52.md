@@ -1,4 +1,5 @@
 ---
+title: Artikel 52 Gemeentewet
 wet: Gemeentewet
 artikel: '52'
 hoofdstuk: III. Het college van burgemeester en wethouders

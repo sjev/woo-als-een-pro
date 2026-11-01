@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.31 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.31'
 hoofdstuk: 10. Afvalstoffen

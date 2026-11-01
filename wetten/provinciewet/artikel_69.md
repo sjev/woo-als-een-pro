@@ -1,4 +1,5 @@
 ---
+title: Artikel 69 Provinciewet
 wet: Provinciewet
 artikel: '69'
 hoofdstuk: IV. De commissaris van de Koning

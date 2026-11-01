@@ -1,4 +1,5 @@
 ---
+title: Artikel 116 Gemeentewet
 wet: Gemeentewet
 artikel: '116'
 hoofdstuk: VIII. Algemene bepalingen

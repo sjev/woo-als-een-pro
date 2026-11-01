@@ -1,4 +1,5 @@
 ---
+title: Artikel 3 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '3'
 hoofdstuk: I. Algemene bepalingen

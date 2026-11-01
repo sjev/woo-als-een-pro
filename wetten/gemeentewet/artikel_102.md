@@ -1,4 +1,5 @@
 ---
+title: Artikel 102 Gemeentewet
 wet: Gemeentewet
 artikel: '102'
 hoofdstuk: VII. De secretaris en de griffier

@@ -1,4 +1,5 @@
 ---
+title: Artikel 73 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '73'
 hoofdstuk: VII. Samenwerking en coherentie

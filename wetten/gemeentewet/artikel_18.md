@@ -1,4 +1,5 @@
 ---
+title: Artikel 18 Gemeentewet
 wet: Gemeentewet
 artikel: '18'
 hoofdstuk: II. De raad

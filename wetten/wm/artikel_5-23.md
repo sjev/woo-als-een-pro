@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.23 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '5.23'
 hoofdstuk: 5. Milieukwaliteitseisen

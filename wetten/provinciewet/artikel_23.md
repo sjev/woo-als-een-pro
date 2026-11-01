@@ -1,4 +1,5 @@
 ---
+title: Artikel 23 Provinciewet
 wet: Provinciewet
 artikel: '23'
 hoofdstuk: II. Provinciale staten

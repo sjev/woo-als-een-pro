@@ -1,4 +1,5 @@
 ---
+title: Artikel 11a.1 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 11a.1
 hoofdstuk: 11a. Andere handelingen

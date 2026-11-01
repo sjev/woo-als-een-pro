@@ -1,4 +1,5 @@
 ---
+title: Artikel 37 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '37'
 hoofdstuk: 3. Bepalingen ter uitvoering van de verordening

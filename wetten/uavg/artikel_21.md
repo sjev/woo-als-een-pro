@@ -1,4 +1,5 @@
 ---
+title: Artikel 21 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '21'
 hoofdstuk: 2. De Autoriteit persoonsgegevens

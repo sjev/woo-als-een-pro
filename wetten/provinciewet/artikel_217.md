@@ -1,4 +1,5 @@
 ---
+title: Artikel 217 Provinciewet
 wet: Provinciewet
 artikel: '217'
 hoofdstuk: XIV. De administratie en de controle

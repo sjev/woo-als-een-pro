@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.53b Omgevingswet
 wet: Omgevingswet
 artikel: 16.53b
 hoofdstuk: 16. Procedures

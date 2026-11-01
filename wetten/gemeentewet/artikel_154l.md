@@ -1,4 +1,5 @@
 ---
+title: Artikel 154l Gemeentewet
 wet: Gemeentewet
 artikel: 154l
 hoofdstuk: IX. De bevoegdheid van de raad

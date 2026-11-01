@@ -1,4 +1,5 @@
 ---
+title: Artikel 37 Provinciewet
 wet: Provinciewet
 artikel: '37'
 hoofdstuk: III. Gedeputeerde staten

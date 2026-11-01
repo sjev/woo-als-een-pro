@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.4 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '11.4'
 hoofdstuk: 11. Geluid

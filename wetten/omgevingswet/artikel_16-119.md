@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.119 Omgevingswet
 wet: Omgevingswet
 artikel: '16.119'
 hoofdstuk: 16. Procedures

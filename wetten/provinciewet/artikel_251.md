@@ -1,4 +1,5 @@
 ---
+title: Artikel 251 Provinciewet
 wet: Provinciewet
 artikel: '251'
 hoofdstuk: XVI. Het Provinciefonds

@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.3 Wet open overheid
 wet: Wet open overheid
 artikel: '10.3'
 hoofdstuk: 10. Slotbepalingen

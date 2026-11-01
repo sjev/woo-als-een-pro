@@ -1,4 +1,5 @@
 ---
+title: Artikel 49 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '49'
 hoofdstuk: V. Doorgiften van persoonsgegevens aan derde landen of internationale organisaties

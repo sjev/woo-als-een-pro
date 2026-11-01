@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.82c Omgevingswet
 wet: Omgevingswet
 artikel: 16.82c
 hoofdstuk: 16. Procedures

@@ -1,4 +1,5 @@
 ---
+title: Artikel 35 Provinciewet
 wet: Provinciewet
 artikel: '35'
 hoofdstuk: III. Gedeputeerde staten

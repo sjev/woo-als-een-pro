@@ -1,4 +1,5 @@
 ---
+title: Artikel 40 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '40'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

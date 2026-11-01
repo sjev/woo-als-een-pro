@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.49 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.49'
 hoofdstuk: 10. Afvalstoffen

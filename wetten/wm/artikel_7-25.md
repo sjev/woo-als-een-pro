@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.25 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.25'
 hoofdstuk: 7. Milieueffectrapportage

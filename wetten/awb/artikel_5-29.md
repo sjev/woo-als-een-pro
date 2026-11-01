@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:29 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '5:29'
 hoofdstuk: 5. Handhaving

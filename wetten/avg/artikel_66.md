@@ -1,4 +1,5 @@
 ---
+title: Artikel 66 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '66'
 hoofdstuk: VII. Samenwerking en coherentie

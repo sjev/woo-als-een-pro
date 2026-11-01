@@ -1,4 +1,5 @@
 ---
+title: Artikel 170 Gemeentewet
 wet: Gemeentewet
 artikel: '170'
 hoofdstuk: XI. De bevoegdheid van de burgemeester

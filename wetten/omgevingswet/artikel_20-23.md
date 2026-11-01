@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.23 Omgevingswet
 wet: Omgevingswet
 artikel: '20.23'
 hoofdstuk: 20. Monitoring en informatie

@@ -1,4 +1,5 @@
 ---
+title: Artikel 168 Gemeentewet
 wet: Gemeentewet
 artikel: '168'
 hoofdstuk: X. De bevoegdheid van het college van burgemeester en wethouders

@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.1 Omgevingswet
 wet: Omgevingswet
 artikel: '20.1'
 hoofdstuk: 20. Monitoring en informatie

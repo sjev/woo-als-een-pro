@@ -1,4 +1,5 @@
 ---
+title: Artikel 267 Provinciewet
 wet: Provinciewet
 artikel: '267'
 hoofdstuk: XVIII. Schorsing en vernietiging

@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.46b Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 16.46b
 hoofdstuk: 16. Handel in emissierechten

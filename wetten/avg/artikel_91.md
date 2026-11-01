@@ -1,4 +1,5 @@
 ---
+title: Artikel 91 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '91'
 hoofdstuk: IX. Bepalingen in verband met specifieke situaties op het gebied van gegevensverwerking

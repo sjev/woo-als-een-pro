@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.5 Omgevingswet
 wet: Omgevingswet
 artikel: '3.5'
 hoofdstuk: 3. Omgevingsvisies en programma’s

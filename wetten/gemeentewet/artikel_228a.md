@@ -1,4 +1,5 @@
 ---
+title: Artikel 228a Gemeentewet
 wet: Gemeentewet
 artikel: 228a
 hoofdstuk: XV. De gemeentelijke belastingen

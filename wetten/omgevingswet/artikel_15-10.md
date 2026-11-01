@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.10 Omgevingswet
 wet: Omgevingswet
 artikel: '15.10'
 hoofdstuk: 15. Schade

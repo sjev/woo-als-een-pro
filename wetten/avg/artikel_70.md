@@ -1,4 +1,5 @@
 ---
+title: Artikel 70 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '70'
 hoofdstuk: VII. Samenwerking en coherentie

@@ -1,4 +1,5 @@
 ---
+title: Artikel 127 Provinciewet
 wet: Provinciewet
 artikel: '127'
 hoofdstuk: VIII. Algemene bepalingen

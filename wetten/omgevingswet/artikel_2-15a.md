@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.15a Omgevingswet
 wet: Omgevingswet
 artikel: 2.15a
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

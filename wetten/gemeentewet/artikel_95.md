@@ -1,4 +1,5 @@
 ---
+title: Artikel 95 Gemeentewet
 wet: Gemeentewet
 artikel: '95'
 hoofdstuk: VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de

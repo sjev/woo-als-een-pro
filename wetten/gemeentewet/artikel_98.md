@@ -1,4 +1,5 @@
 ---
+title: Artikel 98 Gemeentewet
 wet: Gemeentewet
 artikel: '98'
 hoofdstuk: VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de

@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.11 Omgevingswet
 wet: Omgevingswet
 artikel: '10.11'
 hoofdstuk: 10. Gedoogplichten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 42 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '42'
 hoofdstuk: 4. Uitzonderingen, beperkingen en bijzondere grondslagen

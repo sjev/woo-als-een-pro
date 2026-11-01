@@ -1,4 +1,5 @@
 ---
+title: Artikel 127 Gemeentewet
 wet: Gemeentewet
 artikel: '127'
 hoofdstuk: VIII. Algemene bepalingen

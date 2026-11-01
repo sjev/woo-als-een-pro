@@ -1,4 +1,5 @@
 ---
+title: Artikel 82 Gemeentewet
 wet: Gemeentewet
 artikel: '82'
 hoofdstuk: V. De commissies

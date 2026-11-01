@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.7 Omgevingswet
 wet: Omgevingswet
 artikel: '20.7'
 hoofdstuk: 20. Monitoring en informatie

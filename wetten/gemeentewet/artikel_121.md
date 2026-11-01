@@ -1,4 +1,5 @@
 ---
+title: Artikel 121 Gemeentewet
 wet: Gemeentewet
 artikel: '121'
 hoofdstuk: VIII. Algemene bepalingen

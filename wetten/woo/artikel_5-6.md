@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.6 Wet open overheid
 wet: Wet open overheid
 artikel: '5.6'
 hoofdstuk: 5. Uitzonderingen

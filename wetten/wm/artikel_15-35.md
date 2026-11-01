@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.35 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '15.35'
 hoofdstuk: 15. Financiële bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 140 Gemeentewet
 wet: Gemeentewet
 artikel: '140'
 hoofdstuk: VIII. Algemene bepalingen

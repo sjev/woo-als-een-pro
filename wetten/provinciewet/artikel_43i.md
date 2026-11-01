@@ -1,4 +1,5 @@
 ---
+title: Artikel 43i Provinciewet
 wet: Provinciewet
 artikel: 43i
 hoofdstuk: III. Gedeputeerde staten

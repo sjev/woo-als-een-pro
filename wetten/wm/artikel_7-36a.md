@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.36a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 7.36a
 hoofdstuk: 7. Milieueffectrapportage

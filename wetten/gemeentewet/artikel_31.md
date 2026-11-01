@@ -1,4 +1,5 @@
 ---
+title: Artikel 31 Gemeentewet
 wet: Gemeentewet
 artikel: '31'
 hoofdstuk: II. De raad

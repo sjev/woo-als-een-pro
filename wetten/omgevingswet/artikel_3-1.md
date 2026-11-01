@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.1 Omgevingswet
 wet: Omgevingswet
 artikel: '3.1'
 hoofdstuk: 3. Omgevingsvisies en programma’s

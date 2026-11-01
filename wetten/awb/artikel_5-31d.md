@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:31d Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 5:31d
 hoofdstuk: 5. Handhaving

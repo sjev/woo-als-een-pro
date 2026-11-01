@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.4 Omgevingswet
 wet: Omgevingswet
 artikel: '20.4'
 hoofdstuk: 20. Monitoring en informatie

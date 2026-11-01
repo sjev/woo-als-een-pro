@@ -1,4 +1,5 @@
 ---
+title: Artikel 188 Gemeentewet
 wet: Gemeentewet
 artikel: '188'
 hoofdstuk: XII. Algemene bepalingen

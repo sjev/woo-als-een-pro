@@ -1,4 +1,5 @@
 ---
+title: Artikel 121g Provinciewet
 wet: Provinciewet
 artikel: 121g
 hoofdstuk: VIII. Algemene bepalingen

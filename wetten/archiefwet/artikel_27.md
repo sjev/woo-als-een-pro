@@ -1,4 +1,5 @@
 ---
+title: Artikel 27 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '27'
 hoofdstuk: IV. Archiefbescheiden van provincies

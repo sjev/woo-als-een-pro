@@ -1,4 +1,5 @@
 ---
+title: Artikel 64 Provinciewet
 wet: Provinciewet
 artikel: '64'
 hoofdstuk: IV. De commissaris van de Koning

@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.13 Omgevingswet
 wet: Omgevingswet
 artikel: '20.13'
 hoofdstuk: 20. Monitoring en informatie

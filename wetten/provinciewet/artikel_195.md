@@ -1,4 +1,5 @@
 ---
+title: Artikel 195 Provinciewet
 wet: Provinciewet
 artikel: '195'
 hoofdstuk: XIII. De begroting en de jaarrekening

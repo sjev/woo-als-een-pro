@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.36b Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 10.36b
 hoofdstuk: 10. Afvalstoffen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 191 Provinciewet
 wet: Provinciewet
 artikel: '191'
 hoofdstuk: XII. Algemene bepalingen

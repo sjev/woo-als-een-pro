@@ -1,4 +1,5 @@
 ---
+title: Artikel 107 Provinciewet
 wet: Provinciewet
 artikel: '107'
 hoofdstuk: VIII. Algemene bepalingen

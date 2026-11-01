@@ -1,4 +1,5 @@
 ---
+title: Artikel 149 Provinciewet
 wet: Provinciewet
 artikel: '149'
 hoofdstuk: IX. De bevoegdheid van provinciale staten

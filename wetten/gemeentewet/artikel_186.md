@@ -1,4 +1,5 @@
 ---
+title: Artikel 186 Gemeentewet
 wet: Gemeentewet
 artikel: '186'
 hoofdstuk: XII. Algemene bepalingen

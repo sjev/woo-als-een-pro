@@ -1,4 +1,5 @@
 ---
+title: Artikel 69 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '69'
 hoofdstuk: VII. Samenwerking en coherentie

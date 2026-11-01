@@ -1,4 +1,5 @@
 ---
+title: Artikel 155 Provinciewet
 wet: Provinciewet
 artikel: '155'
 hoofdstuk: IX. De bevoegdheid van provinciale staten

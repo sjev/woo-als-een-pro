@@ -1,4 +1,5 @@
 ---
+title: Artikel 14 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '14'
 hoofdstuk: III. Rechten van de betrokkene

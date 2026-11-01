@@ -1,4 +1,5 @@
 ---
+title: Artikel 228 Gemeentewet
 wet: Gemeentewet
 artikel: '228'
 hoofdstuk: XV. De gemeentelijke belastingen

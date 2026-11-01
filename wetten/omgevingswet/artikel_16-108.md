@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.108 Omgevingswet
 wet: Omgevingswet
 artikel: '16.108'
 hoofdstuk: 16. Procedures

@@ -1,4 +1,5 @@
 ---
+title: Artikel 105 Gemeentewet
 wet: Gemeentewet
 artikel: '105'
 hoofdstuk: VII. De secretaris en de griffier

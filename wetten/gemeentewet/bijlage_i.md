@@ -1,4 +1,5 @@
 ---
+title: Bijlage I bedoeld in artikel 124b, eerste lid, van de Gemeentewet
 wet: Gemeentewet
 bijlage: Bijlage I
 titel: bedoeld in artikel 124b, eerste lid, van de Gemeentewet

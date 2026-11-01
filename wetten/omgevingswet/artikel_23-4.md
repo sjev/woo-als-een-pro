@@ -1,4 +1,5 @@
 ---
+title: Artikel 23.4 Omgevingswet
 wet: Omgevingswet
 artikel: '23.4'
 hoofdstuk: 23. Overige en slotbepalingen

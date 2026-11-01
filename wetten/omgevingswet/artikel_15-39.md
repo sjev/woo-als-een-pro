@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.39 Omgevingswet
 wet: Omgevingswet
 artikel: '15.39'
 hoofdstuk: 15. Schade

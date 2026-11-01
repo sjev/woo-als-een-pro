@@ -1,4 +1,5 @@
 ---
+title: Artikel 186 Provinciewet
 wet: Provinciewet
 artikel: '186'
 hoofdstuk: XIA. De bevoegdheid van de rekenkamer

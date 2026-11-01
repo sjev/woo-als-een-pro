@@ -1,4 +1,5 @@
 ---
+title: Artikel 10:37 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '10:37'
 hoofdstuk: 10. Bepalingen over bestuursorganen

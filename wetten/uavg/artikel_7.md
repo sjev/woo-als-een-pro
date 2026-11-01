@@ -1,4 +1,5 @@
 ---
+title: Artikel 7 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '7'
 hoofdstuk: 2. De Autoriteit persoonsgegevens

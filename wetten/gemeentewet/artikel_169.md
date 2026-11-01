@@ -1,4 +1,5 @@
 ---
+title: Artikel 169 Gemeentewet
 wet: Gemeentewet
 artikel: '169'
 hoofdstuk: X. De bevoegdheid van het college van burgemeester en wethouders

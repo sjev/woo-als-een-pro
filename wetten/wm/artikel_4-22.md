@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.22 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '4.22'
 hoofdstuk: 4. Plannen

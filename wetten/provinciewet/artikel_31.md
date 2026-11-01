@@ -1,4 +1,5 @@
 ---
+title: Artikel 31 Provinciewet
 wet: Provinciewet
 artikel: '31'
 hoofdstuk: II. Provinciale staten

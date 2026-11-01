@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.6b Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 19.6b
 hoofdstuk: 19. Openbaarheid van milieu-informatie

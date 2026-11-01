@@ -1,4 +1,5 @@
 ---
+title: Artikel 75 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '75'
 hoofdstuk: VII. Samenwerking en coherentie

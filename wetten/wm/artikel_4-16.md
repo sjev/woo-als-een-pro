@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.16 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '4.16'
 hoofdstuk: 4. Plannen

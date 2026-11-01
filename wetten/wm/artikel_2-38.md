@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.38 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '2.38'
 hoofdstuk: 2. Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen

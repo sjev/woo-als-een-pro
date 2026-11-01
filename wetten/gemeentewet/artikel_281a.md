@@ -1,4 +1,5 @@
 ---
+title: Artikel 281a Gemeentewet
 wet: Gemeentewet
 artikel: 281a
 hoofdstuk: XVII. Schorsing en vernietiging

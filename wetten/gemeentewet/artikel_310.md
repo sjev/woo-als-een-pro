@@ -1,4 +1,5 @@
 ---
+title: Artikel 310 Gemeentewet
 wet: Gemeentewet
 artikel: '310'
 valid_from: '2026-10-01'

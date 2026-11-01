@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.19 Omgevingswet
 wet: Omgevingswet
 artikel: '15.19'
 hoofdstuk: 15. Schade

@@ -1,4 +1,5 @@
 ---
+title: Artikel 43b Provinciewet
 wet: Provinciewet
 artikel: 43b
 hoofdstuk: III. Gedeputeerde staten

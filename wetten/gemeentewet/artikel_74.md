@@ -1,4 +1,5 @@
 ---
+title: Artikel 74 Gemeentewet
 wet: Gemeentewet
 artikel: '74'
 hoofdstuk: IV. De burgemeester

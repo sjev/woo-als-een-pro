@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.1 Wet open overheid
 wet: Wet open overheid
 artikel: '1.1'
 hoofdstuk: 1. Rechten

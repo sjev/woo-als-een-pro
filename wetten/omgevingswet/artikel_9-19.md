@@ -1,4 +1,5 @@
 ---
+title: Artikel 9.19 Omgevingswet
 wet: Omgevingswet
 artikel: '9.19'
 hoofdstuk: 9. Voorkeursrecht

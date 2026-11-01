@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.5c Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 18.5c
 hoofdstuk: 18. Handhaving

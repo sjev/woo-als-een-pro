@@ -1,4 +1,5 @@
 ---
+title: Artikel 78 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '78'
 hoofdstuk: IX. Overgangs- en slotbepalingen

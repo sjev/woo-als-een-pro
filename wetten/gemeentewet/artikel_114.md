@@ -1,4 +1,5 @@
 ---
+title: Artikel 114 Gemeentewet
 wet: Gemeentewet
 artikel: '114'
 hoofdstuk: VIII. Algemene bepalingen

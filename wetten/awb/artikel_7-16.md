@@ -1,4 +1,5 @@
 ---
+title: Artikel 7:16 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '7:16'
 hoofdstuk: 7. Bijzondere bepalingen over bezwaar en administratief beroep

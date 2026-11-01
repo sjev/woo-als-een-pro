@@ -1,4 +1,5 @@
 ---
+title: Artikel 8:86 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 8:86
 hoofdstuk: 8. Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter

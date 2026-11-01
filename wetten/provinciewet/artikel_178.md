@@ -1,4 +1,5 @@
 ---
+title: Artikel 178 Provinciewet
 wet: Provinciewet
 artikel: '178'
 hoofdstuk: XI. De bevoegdheid van de commissaris van de Koning

@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.2f Wet open overheid
 wet: Wet open overheid
 artikel: 10.2f
 hoofdstuk: 10. Slotbepalingen

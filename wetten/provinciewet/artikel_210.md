@@ -1,4 +1,5 @@
 ---
+title: Artikel 210 Provinciewet
 wet: Provinciewet
 artikel: '210'
 hoofdstuk: XIII. De begroting en de jaarrekening

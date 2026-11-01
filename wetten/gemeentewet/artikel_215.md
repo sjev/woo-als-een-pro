@@ -1,4 +1,5 @@
 ---
+title: Artikel 215 Gemeentewet
 wet: Gemeentewet
 artikel: '215'
 hoofdstuk: XIV. De administratie en de controle

@@ -1,4 +1,5 @@
 ---
+title: Artikel 21b Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: 21b
 hoofdstuk: 2. De Autoriteit persoonsgegevens

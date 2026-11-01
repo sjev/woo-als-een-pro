@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.34 Omgevingswet
 wet: Omgevingswet
 artikel: '2.34'
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

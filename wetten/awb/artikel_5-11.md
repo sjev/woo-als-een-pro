@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:11 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '5:11'
 hoofdstuk: 5. Handhaving

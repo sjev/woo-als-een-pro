@@ -1,4 +1,5 @@
 ---
+title: Artikel 183 Provinciewet
 wet: Provinciewet
 artikel: '183'
 hoofdstuk: XIA. De bevoegdheid van de rekenkamer

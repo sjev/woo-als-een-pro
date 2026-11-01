@@ -1,4 +1,5 @@
 ---
+title: Artikel 51 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '51'
 hoofdstuk: VI. Onafhankelijke toezichthoudende autoriteiten

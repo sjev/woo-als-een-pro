@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.40 Omgevingswet
 wet: Omgevingswet
 artikel: '15.40'
 hoofdstuk: 15. Schade

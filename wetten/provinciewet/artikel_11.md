@@ -1,4 +1,5 @@
 ---
+title: Artikel 11 Provinciewet
 wet: Provinciewet
 artikel: '11'
 hoofdstuk: II. Provinciale staten

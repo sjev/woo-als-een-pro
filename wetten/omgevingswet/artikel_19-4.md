@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.4 Omgevingswet
 wet: Omgevingswet
 artikel: '19.4'
 hoofdstuk: 19. Bevoegdheden in bijzondere omstandigheden

@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:50 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '5:50'
 hoofdstuk: 5. Handhaving

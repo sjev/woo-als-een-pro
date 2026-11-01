@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.19 Omgevingswet
 wet: Omgevingswet
 artikel: '3.19'
 hoofdstuk: 3. Omgevingsvisies en programma’s

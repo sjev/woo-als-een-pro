@@ -1,4 +1,5 @@
 ---
+title: Artikel 9 Gemeentewet
 wet: Gemeentewet
 artikel: '9'
 hoofdstuk: II. De raad

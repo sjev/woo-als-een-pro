@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.46 Omgevingswet
 wet: Omgevingswet
 artikel: '16.46'
 hoofdstuk: 16. Procedures

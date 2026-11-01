@@ -1,4 +1,5 @@
 ---
+title: Artikel 79d Provinciewet
 wet: Provinciewet
 artikel: 79d
 hoofdstuk: IVA. De rekenkamer

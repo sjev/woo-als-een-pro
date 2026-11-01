@@ -1,4 +1,5 @@
 ---
+title: Artikel 124 Gemeentewet
 wet: Gemeentewet
 artikel: '124'
 hoofdstuk: VIII. Algemene bepalingen

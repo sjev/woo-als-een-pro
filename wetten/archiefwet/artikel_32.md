@@ -1,4 +1,5 @@
 ---
+title: Artikel 32 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '32'
 hoofdstuk: V. Archiefbescheiden van gemeenten

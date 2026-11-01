@@ -1,4 +1,5 @@
 ---
+title: Artikel 305 Gemeentewet
 wet: Gemeentewet
 artikel: '305'
 valid_from: '2026-10-01'

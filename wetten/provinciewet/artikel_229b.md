@@ -1,4 +1,5 @@
 ---
+title: Artikel 229b Provinciewet
 wet: Provinciewet
 artikel: 229b
 hoofdstuk: XV. De provinciale belastingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 238 Provinciewet
 wet: Provinciewet
 artikel: '238'
 hoofdstuk: XVI. Het Provinciefonds

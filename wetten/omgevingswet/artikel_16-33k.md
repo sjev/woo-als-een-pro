@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.33k Omgevingswet
 wet: Omgevingswet
 artikel: 16.33k
 hoofdstuk: 16. Procedures

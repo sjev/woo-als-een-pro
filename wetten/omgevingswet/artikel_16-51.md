@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.51 Omgevingswet
 wet: Omgevingswet
 artikel: '16.51'
 hoofdstuk: 16. Procedures

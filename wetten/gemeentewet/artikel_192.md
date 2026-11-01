@@ -1,4 +1,5 @@
 ---
+title: Artikel 192 Gemeentewet
 wet: Gemeentewet
 artikel: '192'
 hoofdstuk: XIII. De begroting en de jaarrekening

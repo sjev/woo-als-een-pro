@@ -1,4 +1,5 @@
 ---
+title: Artikel 47 Provinciewet
 wet: Provinciewet
 artikel: '47'
 hoofdstuk: III. Gedeputeerde staten

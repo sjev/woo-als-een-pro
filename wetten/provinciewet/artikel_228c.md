@@ -1,4 +1,5 @@
 ---
+title: Artikel 228c Provinciewet
 wet: Provinciewet
 artikel: 228c
 hoofdstuk: XV. De provinciale belastingen

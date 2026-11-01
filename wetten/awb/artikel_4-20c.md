@@ -1,4 +1,5 @@
 ---
+title: Artikel 4:20c Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 4:20c
 hoofdstuk: 4. Bijzondere bepalingen over besluiten

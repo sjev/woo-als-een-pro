@@ -1,4 +1,5 @@
 ---
+title: Artikel 43 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '43'
 hoofdstuk: IX. Overgangs- en slotbepalingen

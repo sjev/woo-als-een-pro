@@ -1,4 +1,5 @@
 ---
+title: Artikel 239 Gemeentewet
 wet: Gemeentewet
 artikel: '239'
 hoofdstuk: XV. De gemeentelijke belastingen

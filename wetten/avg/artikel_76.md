@@ -1,4 +1,5 @@
 ---
+title: Artikel 76 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '76'
 hoofdstuk: VII. Samenwerking en coherentie

@@ -1,4 +1,5 @@
 ---
+title: Artikel 12 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '12'
 hoofdstuk: III. Rechten van de betrokkene

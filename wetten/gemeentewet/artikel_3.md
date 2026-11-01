@@ -1,4 +1,5 @@
 ---
+title: Artikel 3 Gemeentewet
 wet: Gemeentewet
 artikel: '3'
 valid_from: '2026-10-01'

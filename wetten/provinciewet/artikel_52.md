@@ -1,4 +1,5 @@
 ---
+title: Artikel 52 Provinciewet
 wet: Provinciewet
 artikel: '52'
 hoofdstuk: III. Gedeputeerde staten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.3 Wet open overheid
 wet: Wet open overheid
 artikel: '7.3'
 hoofdstuk: 7. Het adviescollege openbaarheid en informatiehuishouding

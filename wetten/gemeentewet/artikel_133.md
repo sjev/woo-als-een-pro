@@ -1,4 +1,5 @@
 ---
+title: Artikel 133 Gemeentewet
 wet: Gemeentewet
 artikel: '133'
 hoofdstuk: VIII. Algemene bepalingen

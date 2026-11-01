@@ -1,4 +1,5 @@
 ---
+title: Artikel 9.12 Omgevingswet
 wet: Omgevingswet
 artikel: '9.12'
 hoofdstuk: 9. Voorkeursrecht

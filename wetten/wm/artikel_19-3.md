@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.3 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '19.3'
 hoofdstuk: 19. Openbaarheid van milieu-informatie

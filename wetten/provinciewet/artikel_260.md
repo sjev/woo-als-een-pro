@@ -1,4 +1,5 @@
 ---
+title: Artikel 260 Provinciewet
 wet: Provinciewet
 artikel: '260'
 hoofdstuk: XVII. Goedkeuring

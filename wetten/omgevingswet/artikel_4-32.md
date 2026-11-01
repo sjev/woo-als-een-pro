@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.32 Omgevingswet
 wet: Omgevingswet
 artikel: '4.32'
 hoofdstuk: 4. Algemene regels over activiteiten in de fysieke leefomgeving

@@ -1,4 +1,5 @@
 ---
+title: Artikel 172 Provinciewet
 wet: Provinciewet
 artikel: '172'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

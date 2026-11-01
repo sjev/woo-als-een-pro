@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.65 Omgevingswet
 wet: Omgevingswet
 artikel: '16.65'
 hoofdstuk: 16. Procedures

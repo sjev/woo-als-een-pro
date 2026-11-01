@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.33 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.33'
 hoofdstuk: 7. Milieueffectrapportage

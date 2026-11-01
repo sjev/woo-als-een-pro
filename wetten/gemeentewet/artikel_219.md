@@ -1,4 +1,5 @@
 ---
+title: Artikel 219 Gemeentewet
 wet: Gemeentewet
 artikel: '219'
 hoofdstuk: XV. De gemeentelijke belastingen

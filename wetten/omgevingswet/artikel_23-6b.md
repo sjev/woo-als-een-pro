@@ -1,4 +1,5 @@
 ---
+title: Artikel 23.6b Omgevingswet
 wet: Omgevingswet
 artikel: 23.6b
 hoofdstuk: 23. Overige en slotbepalingen

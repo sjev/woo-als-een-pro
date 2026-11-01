@@ -1,4 +1,5 @@
 ---
+title: Artikel 22 Provinciewet
 wet: Provinciewet
 artikel: '22'
 hoofdstuk: II. Provinciale staten

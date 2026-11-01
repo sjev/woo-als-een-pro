@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.2a Wet open overheid
 wet: Wet open overheid
 artikel: 10.2a
 hoofdstuk: 10. Slotbepalingen

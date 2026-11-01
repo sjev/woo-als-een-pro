@@ -1,4 +1,5 @@
 ---
+title: Artikel 275 Gemeentewet
 wet: Gemeentewet
 artikel: '275'
 hoofdstuk: XVII. Schorsing en vernietiging

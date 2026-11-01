@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.19a Omgevingswet
 wet: Omgevingswet
 artikel: 4.19a
 hoofdstuk: 4. Algemene regels over activiteiten in de fysieke leefomgeving

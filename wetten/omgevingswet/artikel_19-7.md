@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.7 Omgevingswet
 wet: Omgevingswet
 artikel: '19.7'
 hoofdstuk: 19. Bevoegdheden in bijzondere omstandigheden

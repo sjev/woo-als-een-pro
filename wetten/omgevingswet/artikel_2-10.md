@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.10 Omgevingswet
 wet: Omgevingswet
 artikel: '2.10'
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.3 Omgevingswet
 wet: Omgevingswet
 artikel: '18.3'
 hoofdstuk: 18. Handhaving en uitvoering

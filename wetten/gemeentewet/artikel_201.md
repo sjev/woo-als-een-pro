@@ -1,4 +1,5 @@
 ---
+title: Artikel 201 Gemeentewet
 wet: Gemeentewet
 artikel: '201'
 hoofdstuk: XIII. De begroting en de jaarrekening

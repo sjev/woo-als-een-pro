@@ -1,4 +1,5 @@
 ---
+title: Artikel 200 Gemeentewet
 wet: Gemeentewet
 artikel: '200'
 hoofdstuk: XIII. De begroting en de jaarrekening

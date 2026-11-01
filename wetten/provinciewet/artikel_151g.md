@@ -1,4 +1,5 @@
 ---
+title: Artikel 151g Provinciewet
 wet: Provinciewet
 artikel: 151g
 hoofdstuk: IX. De bevoegdheid van provinciale staten

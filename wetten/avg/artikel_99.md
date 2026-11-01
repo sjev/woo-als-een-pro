@@ -1,4 +1,5 @@
 ---
+title: Artikel 99 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '99'
 hoofdstuk: XI. Slotbepalingen

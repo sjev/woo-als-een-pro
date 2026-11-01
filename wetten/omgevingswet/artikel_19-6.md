@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.6 Omgevingswet
 wet: Omgevingswet
 artikel: '19.6'
 hoofdstuk: 19. Bevoegdheden in bijzondere omstandigheden

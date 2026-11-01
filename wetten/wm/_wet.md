@@ -3,7 +3,7 @@ bwb_id: BWBR0003245
 title: Wet milieubeheer
 short_title: Wet milieubeheer
 valid_from: '2026-10-22'
-fetched_at: '2026-10-31T23:21:20+00:00'
+fetched_at: '2026-11-01T18:11:27+00:00'
 source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003245/2026-10-22_0/xml/BWBR0003245_2026-10-22_0.xml
 ---
 

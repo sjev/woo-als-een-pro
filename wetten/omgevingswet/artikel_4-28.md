@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.28 Omgevingswet
 wet: Omgevingswet
 artikel: '4.28'
 hoofdstuk: 4. Algemene regels over activiteiten in de fysieke leefomgeving

@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.24 Omgevingswet
 wet: Omgevingswet
 artikel: '10.24'
 hoofdstuk: 10. Gedoogplichten

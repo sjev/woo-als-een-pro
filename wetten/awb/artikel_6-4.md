@@ -1,4 +1,5 @@
 ---
+title: Artikel 6:4 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '6:4'
 hoofdstuk: 6. Algemene bepalingen over bezwaar en beroep

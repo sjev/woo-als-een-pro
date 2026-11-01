@@ -1,4 +1,5 @@
 ---
+title: Artikel 133 Provinciewet
 wet: Provinciewet
 artikel: '133'
 hoofdstuk: VIII. Algemene bepalingen

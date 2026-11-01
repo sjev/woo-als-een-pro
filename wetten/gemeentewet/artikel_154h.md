@@ -1,4 +1,5 @@
 ---
+title: Artikel 154h Gemeentewet
 wet: Gemeentewet
 artikel: 154h
 hoofdstuk: IX. De bevoegdheid van de raad

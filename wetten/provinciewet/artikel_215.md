@@ -1,4 +1,5 @@
 ---
+title: Artikel 215 Provinciewet
 wet: Provinciewet
 artikel: '215'
 hoofdstuk: XIII. De begroting en de jaarrekening

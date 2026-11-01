@@ -1,4 +1,5 @@
 ---
+title: Artikel 155d Gemeentewet
 wet: Gemeentewet
 artikel: 155d
 hoofdstuk: IX. De bevoegdheid van de raad

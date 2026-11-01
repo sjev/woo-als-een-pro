@@ -1,4 +1,5 @@
 ---
+title: Artikel 13 Gemeentewet
 wet: Gemeentewet
 artikel: '13'
 hoofdstuk: II. De raad

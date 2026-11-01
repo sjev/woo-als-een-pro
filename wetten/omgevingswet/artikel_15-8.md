@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.8 Omgevingswet
 wet: Omgevingswet
 artikel: '15.8'
 hoofdstuk: 15. Schade

@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.10 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.10'
 hoofdstuk: 7. Milieueffectrapportage

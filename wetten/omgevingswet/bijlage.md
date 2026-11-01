@@ -1,4 +1,5 @@
 ---
+title: Bijlage bij artikel 1.1 van deze wet
 wet: Omgevingswet
 bijlage: Bijlage
 titel: bij artikel 1.1 van deze wet

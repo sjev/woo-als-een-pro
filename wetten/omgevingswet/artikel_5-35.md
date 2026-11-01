@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.35 Omgevingswet
 wet: Omgevingswet
 artikel: '5.35'
 hoofdstuk: 5. De omgevingsvergunning en het projectbesluit

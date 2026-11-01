@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.98 Omgevingswet
 wet: Omgevingswet
 artikel: '16.98'
 hoofdstuk: 16. Procedures

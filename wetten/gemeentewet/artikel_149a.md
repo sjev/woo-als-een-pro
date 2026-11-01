@@ -1,4 +1,5 @@
 ---
+title: Artikel 149a Gemeentewet
 wet: Gemeentewet
 artikel: 149a
 hoofdstuk: IX. De bevoegdheid van de raad

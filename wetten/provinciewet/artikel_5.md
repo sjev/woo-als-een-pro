@@ -1,4 +1,5 @@
 ---
+title: Artikel 5 Provinciewet
 wet: Provinciewet
 artikel: '5'
 valid_from: '2026-07-01'

@@ -1,4 +1,5 @@
 ---
+title: Artikel 154i Gemeentewet
 wet: Gemeentewet
 artikel: 154i
 hoofdstuk: IX. De bevoegdheid van de raad

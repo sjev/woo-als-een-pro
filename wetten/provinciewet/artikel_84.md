@@ -1,4 +1,5 @@
 ---
+title: Artikel 84 Provinciewet
 wet: Provinciewet
 artikel: '84'
 hoofdstuk: VA. Geheimhouding

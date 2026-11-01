@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.1 Wet open overheid
 wet: Wet open overheid
 artikel: '2.1'
 hoofdstuk: 2. Algemene bepalingen

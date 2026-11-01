@@ -1,4 +1,5 @@
 ---
+title: Artikel 13.19 Omgevingswet
 wet: Omgevingswet
 artikel: '13.19'
 hoofdstuk: 13. Financiële bepalingen

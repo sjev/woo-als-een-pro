@@ -1,4 +1,5 @@
 ---
+title: Artikel 63 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '63'
 hoofdstuk: VII. Samenwerking en coherentie

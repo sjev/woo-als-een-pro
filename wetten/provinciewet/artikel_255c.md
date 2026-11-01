@@ -1,4 +1,5 @@
 ---
+title: Artikel 255c Provinciewet
 wet: Provinciewet
 artikel: 255c
 hoofdstuk: XVII. Goedkeuring

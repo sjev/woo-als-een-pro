@@ -1,4 +1,5 @@
 ---
+title: Artikel 200 Provinciewet
 wet: Provinciewet
 artikel: '200'
 hoofdstuk: XIII. De begroting en de jaarrekening

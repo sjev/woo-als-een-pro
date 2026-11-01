@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.45 Omgevingswet
 wet: Omgevingswet
 artikel: '16.45'
 hoofdstuk: 16. Procedures

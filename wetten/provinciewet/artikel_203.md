@@ -1,4 +1,5 @@
 ---
+title: Artikel 203 Provinciewet
 wet: Provinciewet
 artikel: '203'
 hoofdstuk: XIII. De begroting en de jaarrekening

@@ -1,4 +1,5 @@
 ---
+title: Artikel 61d Provinciewet
 wet: Provinciewet
 artikel: 61d
 hoofdstuk: IV. De commissaris van de Koning

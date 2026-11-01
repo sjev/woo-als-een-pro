@@ -1,4 +1,5 @@
 ---
+title: Artikel 10:33 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '10:33'
 hoofdstuk: 10. Bepalingen over bestuursorganen

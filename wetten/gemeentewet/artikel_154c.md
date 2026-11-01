@@ -1,4 +1,5 @@
 ---
+title: Artikel 154c Gemeentewet
 wet: Gemeentewet
 artikel: 154c
 hoofdstuk: IX. De bevoegdheid van de raad

@@ -1,4 +1,5 @@
 ---
+title: Artikel 28 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '28'
 hoofdstuk: IV. Archiefbescheiden van provincies

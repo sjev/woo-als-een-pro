@@ -1,4 +1,5 @@
 ---
+title: Artikel 80 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '80'
 hoofdstuk: VIII. Beroep, aansprakelijkheid en sancties

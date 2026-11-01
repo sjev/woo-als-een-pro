@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.42 Omgevingswet
 wet: Omgevingswet
 artikel: '15.42'
 hoofdstuk: 15. Schade

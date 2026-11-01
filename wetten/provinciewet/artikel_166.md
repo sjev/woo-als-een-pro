@@ -1,4 +1,5 @@
 ---
+title: Artikel 166 Provinciewet
 wet: Provinciewet
 artikel: '166'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

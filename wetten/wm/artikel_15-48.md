@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.48 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '15.48'
 hoofdstuk: 15. Financiële bepalingen

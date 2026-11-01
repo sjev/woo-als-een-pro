@@ -1,4 +1,5 @@
 ---
+title: Artikel 9:18 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '9:18'
 hoofdstuk: 9. Klachtbehandeling

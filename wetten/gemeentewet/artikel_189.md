@@ -1,4 +1,5 @@
 ---
+title: Artikel 189 Gemeentewet
 wet: Gemeentewet
 artikel: '189'
 hoofdstuk: XIII. De begroting en de jaarrekening

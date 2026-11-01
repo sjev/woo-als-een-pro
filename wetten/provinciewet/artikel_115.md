@@ -1,4 +1,5 @@
 ---
+title: Artikel 115 Provinciewet
 wet: Provinciewet
 artikel: '115'
 hoofdstuk: VIII. Algemene bepalingen

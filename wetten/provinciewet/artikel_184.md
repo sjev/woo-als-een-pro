@@ -1,4 +1,5 @@
 ---
+title: Artikel 184 Provinciewet
 wet: Provinciewet
 artikel: '184'
 hoofdstuk: XIA. De bevoegdheid van de rekenkamer

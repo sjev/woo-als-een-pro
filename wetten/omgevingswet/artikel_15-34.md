@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.34 Omgevingswet
 wet: Omgevingswet
 artikel: '15.34'
 hoofdstuk: 15. Schade

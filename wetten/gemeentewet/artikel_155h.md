@@ -1,4 +1,5 @@
 ---
+title: Artikel 155h Gemeentewet
 wet: Gemeentewet
 artikel: 155h
 hoofdstuk: IX. De bevoegdheid van de raad

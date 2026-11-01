@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.4 Wet open overheid
 wet: Wet open overheid
 artikel: '10.4'
 hoofdstuk: 10. Slotbepalingen

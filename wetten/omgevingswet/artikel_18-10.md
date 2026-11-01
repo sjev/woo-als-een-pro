@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.10 Omgevingswet
 wet: Omgevingswet
 artikel: '18.10'
 hoofdstuk: 18. Handhaving en uitvoering

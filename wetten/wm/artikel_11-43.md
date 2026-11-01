@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.43 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '11.43'
 hoofdstuk: 11. Geluid

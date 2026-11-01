@@ -1,4 +1,5 @@
 ---
+title: Artikel 20 Provinciewet
 wet: Provinciewet
 artikel: '20'
 hoofdstuk: II. Provinciale staten

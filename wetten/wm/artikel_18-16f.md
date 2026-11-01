@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.16f Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 18.16f
 hoofdstuk: 18. Handhaving

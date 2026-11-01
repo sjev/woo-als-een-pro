@@ -1,4 +1,5 @@
 ---
+title: Artikel 171 Gemeentewet
 wet: Gemeentewet
 artikel: '171'
 hoofdstuk: XI. De bevoegdheid van de burgemeester

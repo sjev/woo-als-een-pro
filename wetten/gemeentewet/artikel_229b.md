@@ -1,4 +1,5 @@
 ---
+title: Artikel 229b Gemeentewet
 wet: Gemeentewet
 artikel: 229b
 hoofdstuk: XV. De gemeentelijke belastingen

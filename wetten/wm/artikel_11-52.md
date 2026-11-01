@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.52 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '11.52'
 hoofdstuk: 11. Geluid

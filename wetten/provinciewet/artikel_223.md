@@ -1,4 +1,5 @@
 ---
+title: Artikel 223 Provinciewet
 wet: Provinciewet
 artikel: '223'
 hoofdstuk: XV. De provinciale belastingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 164 Gemeentewet
 wet: Gemeentewet
 artikel: '164'
 hoofdstuk: X. De bevoegdheid van het college van burgemeester en wethouders

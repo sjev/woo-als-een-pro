@@ -1,4 +1,5 @@
 ---
+title: Artikel 143 Gemeentewet
 wet: Gemeentewet
 artikel: '143'
 hoofdstuk: VIII. Algemene bepalingen

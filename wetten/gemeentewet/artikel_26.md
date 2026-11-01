@@ -1,4 +1,5 @@
 ---
+title: Artikel 26 Gemeentewet
 wet: Gemeentewet
 artikel: '26'
 hoofdstuk: II. De raad

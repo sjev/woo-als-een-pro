@@ -1,4 +1,5 @@
 ---
+title: Artikel 150 Provinciewet
 wet: Provinciewet
 artikel: '150'
 hoofdstuk: IX. De bevoegdheid van provinciale staten

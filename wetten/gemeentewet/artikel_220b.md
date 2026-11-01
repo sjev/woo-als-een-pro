@@ -1,4 +1,5 @@
 ---
+title: Artikel 220b Gemeentewet
 wet: Gemeentewet
 artikel: 220b
 hoofdstuk: XV. De gemeentelijke belastingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 232 Gemeentewet
 wet: Gemeentewet
 artikel: '232'
 hoofdstuk: XV. De gemeentelijke belastingen

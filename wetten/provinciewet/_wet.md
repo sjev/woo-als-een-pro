@@ -3,7 +3,7 @@ bwb_id: BWBR0005645
 title: Provinciewet
 short_title: Provinciewet
 valid_from: '2026-07-01'
-fetched_at: '2026-10-31T23:32:47+00:00'
+fetched_at: '2026-11-01T18:11:24+00:00'
 source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005645/2026-07-01_0/xml/BWBR0005645_2026-07-01_0.xml
 ---
 

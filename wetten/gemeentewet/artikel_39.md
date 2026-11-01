@@ -1,4 +1,5 @@
 ---
+title: Artikel 39 Gemeentewet
 wet: Gemeentewet
 artikel: '39'
 hoofdstuk: III. Het college van burgemeester en wethouders

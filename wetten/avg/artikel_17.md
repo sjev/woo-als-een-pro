@@ -1,4 +1,5 @@
 ---
+title: Artikel 17 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '17'
 hoofdstuk: III. Rechten van de betrokkene

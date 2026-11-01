@@ -1,4 +1,5 @@
 ---
+title: Artikel 134 Provinciewet
 wet: Provinciewet
 artikel: '134'
 hoofdstuk: VIII. Algemene bepalingen

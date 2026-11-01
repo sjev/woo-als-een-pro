@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.41 Omgevingswet
 wet: Omgevingswet
 artikel: '15.41'
 hoofdstuk: 15. Schade

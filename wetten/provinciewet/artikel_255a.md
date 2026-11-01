@@ -1,4 +1,5 @@
 ---
+title: Artikel 255a Provinciewet
 wet: Provinciewet
 artikel: 255a
 hoofdstuk: XVII. Goedkeuring

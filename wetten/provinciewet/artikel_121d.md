@@ -1,4 +1,5 @@
 ---
+title: Artikel 121d Provinciewet
 wet: Provinciewet
 artikel: 121d
 hoofdstuk: VIII. Algemene bepalingen

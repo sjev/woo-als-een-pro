@@ -1,4 +1,5 @@
 ---
+title: Artikel 10:12 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '10:12'
 hoofdstuk: 10. Bepalingen over bestuursorganen

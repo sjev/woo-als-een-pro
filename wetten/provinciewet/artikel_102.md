@@ -1,4 +1,5 @@
 ---
+title: Artikel 102 Provinciewet
 wet: Provinciewet
 artikel: '102'
 hoofdstuk: VII. De secretaris en de griffier

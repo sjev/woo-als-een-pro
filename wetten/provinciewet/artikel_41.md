@@ -1,4 +1,5 @@
 ---
+title: Artikel 41 Provinciewet
 wet: Provinciewet
 artikel: '41'
 hoofdstuk: III. Gedeputeerde staten

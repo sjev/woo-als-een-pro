@@ -1,4 +1,5 @@
 ---
+title: Artikel 272 Provinciewet
 wet: Provinciewet
 artikel: '272'
 hoofdstuk: XVIII. Schorsing en vernietiging

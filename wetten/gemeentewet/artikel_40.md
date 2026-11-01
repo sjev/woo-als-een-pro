@@ -1,4 +1,5 @@
 ---
+title: Artikel 40 Gemeentewet
 wet: Gemeentewet
 artikel: '40'
 hoofdstuk: III. Het college van burgemeester en wethouders

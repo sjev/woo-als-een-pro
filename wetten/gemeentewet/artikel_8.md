@@ -1,4 +1,5 @@
 ---
+title: Artikel 8 Gemeentewet
 wet: Gemeentewet
 artikel: '8'
 hoofdstuk: II. De raad

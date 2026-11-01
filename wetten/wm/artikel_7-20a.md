@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.20a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 7.20a
 hoofdstuk: 7. Milieueffectrapportage

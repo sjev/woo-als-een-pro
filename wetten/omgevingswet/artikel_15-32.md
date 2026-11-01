@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.32 Omgevingswet
 wet: Omgevingswet
 artikel: '15.32'
 hoofdstuk: 15. Schade

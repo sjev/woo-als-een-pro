@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.16 Omgevingswet
 wet: Omgevingswet
 artikel: '18.16'
 hoofdstuk: 18. Handhaving en uitvoering

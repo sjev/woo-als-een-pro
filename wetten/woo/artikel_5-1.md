@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.1 Wet open overheid
 wet: Wet open overheid
 artikel: '5.1'
 hoofdstuk: 5. Uitzonderingen

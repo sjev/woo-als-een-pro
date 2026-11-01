@@ -1,4 +1,5 @@
 ---
+title: Artikel 1 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '1'
 hoofdstuk: I. Algemene bepalingen

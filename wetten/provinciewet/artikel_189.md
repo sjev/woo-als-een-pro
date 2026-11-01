@@ -1,4 +1,5 @@
 ---
+title: Artikel 189 Provinciewet
 wet: Provinciewet
 artikel: '189'
 hoofdstuk: XII. Algemene bepalingen

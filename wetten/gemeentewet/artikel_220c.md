@@ -1,4 +1,5 @@
 ---
+title: Artikel 220c Gemeentewet
 wet: Gemeentewet
 artikel: 220c
 hoofdstuk: XV. De gemeentelijke belastingen

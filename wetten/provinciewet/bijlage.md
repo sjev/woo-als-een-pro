@@ -1,4 +1,5 @@
 ---
+title: Bijlage bedoeld in artikel 291, tweede lid van de Provinciewet
 wet: Provinciewet
 bijlage: Bijlage
 titel: bedoeld in artikel 291, tweede lid van de Provinciewet

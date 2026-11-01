@@ -1,4 +1,5 @@
 ---
+title: Artikel 218 Gemeentewet
 wet: Gemeentewet
 artikel: '218'
 hoofdstuk: XV. De gemeentelijke belastingen

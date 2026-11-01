@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.27 Omgevingswet
 wet: Omgevingswet
 artikel: '20.27'
 hoofdstuk: 20. Monitoring en informatie

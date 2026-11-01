@@ -1,4 +1,5 @@
 ---
+title: Artikel 173 Gemeentewet
 wet: Gemeentewet
 artikel: '173'
 hoofdstuk: XI. De bevoegdheid van de burgemeester

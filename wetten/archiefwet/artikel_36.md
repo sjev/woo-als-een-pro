@@ -1,4 +1,5 @@
 ---
+title: Artikel 36 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '36'
 hoofdstuk: VI. Archiefbescheiden van waterschappen

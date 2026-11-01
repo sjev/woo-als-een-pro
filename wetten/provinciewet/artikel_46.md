@@ -1,4 +1,5 @@
 ---
+title: Artikel 46 Provinciewet
 wet: Provinciewet
 artikel: '46'
 hoofdstuk: III. Gedeputeerde staten

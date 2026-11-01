@@ -1,4 +1,5 @@
 ---
+title: Artikel 7:24 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '7:24'
 hoofdstuk: 7. Bijzondere bepalingen over bezwaar en administratief beroep

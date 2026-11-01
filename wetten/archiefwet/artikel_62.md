@@ -1,4 +1,5 @@
 ---
+title: Artikel 62 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '62'
 hoofdstuk: IX. Overgangs- en slotbepalingen

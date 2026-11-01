@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.13 Omgevingswet
 wet: Omgevingswet
 artikel: '5.13'
 hoofdstuk: 5. De omgevingsvergunning en het projectbesluit

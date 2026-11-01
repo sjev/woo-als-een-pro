@@ -1,4 +1,5 @@
 ---
+title: Artikel 48 Provinciewet
 wet: Provinciewet
 artikel: '48'
 hoofdstuk: III. Gedeputeerde staten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.22 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.22'
 hoofdstuk: 10. Afvalstoffen

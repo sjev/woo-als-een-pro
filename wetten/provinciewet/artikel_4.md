@@ -1,4 +1,5 @@
 ---
+title: Artikel 4 Provinciewet
 wet: Provinciewet
 artikel: '4'
 valid_from: '2026-07-01'

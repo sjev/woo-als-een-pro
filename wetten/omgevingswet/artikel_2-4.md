@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.4 Omgevingswet
 wet: Omgevingswet
 artikel: '2.4'
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

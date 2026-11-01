@@ -1,4 +1,5 @@
 ---
+title: Artikel 66 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '66'
 hoofdstuk: IX. Overgangs- en slotbepalingen

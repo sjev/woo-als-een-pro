@@ -1,4 +1,5 @@
 ---
+title: Bijlage bedoeld in artikel 299, tweede lid, van de Gemeentewet
 wet: Gemeentewet
 bijlage: Bijlage
 titel: bedoeld in artikel 299, tweede lid, van de Gemeentewet

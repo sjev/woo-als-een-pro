@@ -1,4 +1,5 @@
 ---
+title: Artikel 289 Provinciewet
 wet: Provinciewet
 artikel: '289'
 valid_from: '2026-07-01'

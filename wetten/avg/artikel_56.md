@@ -1,4 +1,5 @@
 ---
+title: Artikel 56 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '56'
 hoofdstuk: VI. Onafhankelijke toezichthoudende autoriteiten

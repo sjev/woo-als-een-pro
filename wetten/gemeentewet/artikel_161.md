@@ -1,4 +1,5 @@
 ---
+title: Artikel 161 Gemeentewet
 wet: Gemeentewet
 artikel: '161'
 hoofdstuk: X. De bevoegdheid van het college van burgemeester en wethouders

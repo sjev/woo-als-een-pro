@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.58 Omgevingswet
 wet: Omgevingswet
 artikel: '16.58'
 hoofdstuk: 16. Procedures

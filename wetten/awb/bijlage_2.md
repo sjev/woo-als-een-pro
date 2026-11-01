@@ -1,4 +1,6 @@
 ---
+title: Bijlage 2 Bevoegdheidsregeling bestuursrechtspraak (artikelen 8:5, 8:6, 8:7,
+  8:105 en 8:106)
 wet: Algemene wet bestuursrecht
 bijlage: Bijlage 2
 titel: Bevoegdheidsregeling bestuursrechtspraak (artikelen 8:5, 8:6, 8:7, 8:105 en

@@ -1,4 +1,5 @@
 ---
+title: Artikel 134 Gemeentewet
 wet: Gemeentewet
 artikel: '134'
 hoofdstuk: VIII. Algemene bepalingen

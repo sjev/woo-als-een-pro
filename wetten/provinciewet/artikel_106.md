@@ -1,4 +1,5 @@
 ---
+title: Artikel 106 Provinciewet
 wet: Provinciewet
 artikel: '106'
 hoofdstuk: VIII. Algemene bepalingen

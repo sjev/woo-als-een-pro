@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.3 Omgevingswet
 wet: Omgevingswet
 artikel: '1.3'
 hoofdstuk: 1. Algemene bepalingen

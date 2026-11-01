@@ -1,4 +1,5 @@
 ---
+title: Artikel 26 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '26'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

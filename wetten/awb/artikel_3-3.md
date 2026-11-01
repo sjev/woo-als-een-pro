@@ -1,4 +1,5 @@
 ---
+title: Artikel 3:3 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '3:3'
 hoofdstuk: 3. Algemene bepalingen over besluiten

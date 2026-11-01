@@ -1,4 +1,5 @@
 ---
+title: Artikel 4:84 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 4:84
 hoofdstuk: 4. Bijzondere bepalingen over besluiten

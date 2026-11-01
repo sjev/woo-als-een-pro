@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.20 Omgevingswet
 wet: Omgevingswet
 artikel: '11.20'
 hoofdstuk: 11. Onteigening

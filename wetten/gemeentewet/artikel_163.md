@@ -1,4 +1,5 @@
 ---
+title: Artikel 163 Gemeentewet
 wet: Gemeentewet
 artikel: '163'
 hoofdstuk: X. De bevoegdheid van het college van burgemeester en wethouders

@@ -1,4 +1,5 @@
 ---
+title: Artikel 78 Gemeentewet
 wet: Gemeentewet
 artikel: '78'
 hoofdstuk: IV. De burgemeester

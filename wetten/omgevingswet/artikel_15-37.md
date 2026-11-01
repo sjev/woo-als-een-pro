@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.37 Omgevingswet
 wet: Omgevingswet
 artikel: '15.37'
 hoofdstuk: 15. Schade

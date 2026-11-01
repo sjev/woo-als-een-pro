@@ -1,4 +1,5 @@
 ---
+title: Artikel 9:6 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '9:6'
 hoofdstuk: 9. Klachtbehandeling

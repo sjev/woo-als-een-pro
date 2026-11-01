@@ -1,4 +1,5 @@
 ---
+title: Artikel 35a Provinciewet
 wet: Provinciewet
 artikel: 35a
 hoofdstuk: III. Gedeputeerde staten

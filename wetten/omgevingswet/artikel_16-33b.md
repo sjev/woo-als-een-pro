@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.33b Omgevingswet
 wet: Omgevingswet
 artikel: 16.33b
 hoofdstuk: 16. Procedures

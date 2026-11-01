@@ -1,4 +1,5 @@
 ---
+title: Artikel 77 Gemeentewet
 wet: Gemeentewet
 artikel: '77'
 hoofdstuk: IV. De burgemeester

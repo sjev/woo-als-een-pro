@@ -1,4 +1,5 @@
 ---
+title: Artikel 87 Provinciewet
 wet: Provinciewet
 artikel: '87'
 hoofdstuk: VA. Geheimhouding

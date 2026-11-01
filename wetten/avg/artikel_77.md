@@ -1,4 +1,5 @@
 ---
+title: Artikel 77 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '77'
 hoofdstuk: VIII. Beroep, aansprakelijkheid en sancties

@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.12 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '2.12'
 hoofdstuk: 2. Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen

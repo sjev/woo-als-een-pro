@@ -1,4 +1,5 @@
 ---
+title: Artikel 300 Provinciewet
 wet: Provinciewet
 artikel: '300'
 valid_from: '2026-07-01'

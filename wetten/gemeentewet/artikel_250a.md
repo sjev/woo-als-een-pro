@@ -1,4 +1,5 @@
 ---
+title: Artikel 250a Gemeentewet
 wet: Gemeentewet
 artikel: 250a
 hoofdstuk: XV. De gemeentelijke belastingen

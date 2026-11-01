@@ -1,4 +1,5 @@
 ---
+title: Artikel 60 Gemeentewet
 wet: Gemeentewet
 artikel: '60'
 hoofdstuk: III. Het college van burgemeester en wethouders

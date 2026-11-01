@@ -1,4 +1,5 @@
 ---
+title: Artikel 155f Gemeentewet
 wet: Gemeentewet
 artikel: 155f
 hoofdstuk: IX. De bevoegdheid van de raad

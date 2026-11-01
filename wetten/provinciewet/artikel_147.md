@@ -1,4 +1,5 @@
 ---
+title: Artikel 147 Provinciewet
 wet: Provinciewet
 artikel: '147'
 hoofdstuk: IX. De bevoegdheid van provinciale staten

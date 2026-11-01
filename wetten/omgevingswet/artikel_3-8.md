@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.8 Omgevingswet
 wet: Omgevingswet
 artikel: '3.8'
 hoofdstuk: 3. Omgevingsvisies en programma’s

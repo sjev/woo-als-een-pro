@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.21 Omgevingswet
 wet: Omgevingswet
 artikel: '10.21'
 hoofdstuk: 10. Gedoogplichten

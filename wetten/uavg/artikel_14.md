@@ -1,4 +1,5 @@
 ---
+title: Artikel 14 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '14'
 hoofdstuk: 2. De Autoriteit persoonsgegevens

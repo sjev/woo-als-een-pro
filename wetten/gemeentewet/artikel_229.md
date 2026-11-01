@@ -1,4 +1,5 @@
 ---
+title: Artikel 229 Gemeentewet
 wet: Gemeentewet
 artikel: '229'
 hoofdstuk: XV. De gemeentelijke belastingen

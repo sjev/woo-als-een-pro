@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.2c Wet open overheid
 wet: Wet open overheid
 artikel: 10.2c
 hoofdstuk: 10. Slotbepalingen

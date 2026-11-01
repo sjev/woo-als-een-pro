@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.44b Omgevingswet
 wet: Omgevingswet
 artikel: 5.44b
 hoofdstuk: 5. De omgevingsvergunning en het projectbesluit

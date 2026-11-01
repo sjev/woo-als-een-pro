@@ -1,4 +1,5 @@
 ---
+title: Artikel 107d Gemeentewet
 wet: Gemeentewet
 artikel: 107d
 hoofdstuk: VII. De secretaris en de griffier

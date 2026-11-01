@@ -1,4 +1,5 @@
 ---
+title: Artikel 126 Gemeentewet
 wet: Gemeentewet
 artikel: '126'
 hoofdstuk: VIII. Algemene bepalingen

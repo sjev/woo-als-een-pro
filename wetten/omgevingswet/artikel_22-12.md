@@ -1,4 +1,5 @@
 ---
+title: Artikel 22.12 Omgevingswet
 wet: Omgevingswet
 artikel: '22.12'
 hoofdstuk: 22. Overgangsrecht

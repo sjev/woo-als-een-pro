@@ -1,4 +1,5 @@
 ---
+title: Artikel 177 Provinciewet
 wet: Provinciewet
 artikel: '177'
 hoofdstuk: XI. De bevoegdheid van de commissaris van de Koning

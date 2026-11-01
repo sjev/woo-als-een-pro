@@ -1,4 +1,5 @@
 ---
+title: Artikel 212 Gemeentewet
 wet: Gemeentewet
 artikel: '212'
 hoofdstuk: XIV. De administratie en de controle

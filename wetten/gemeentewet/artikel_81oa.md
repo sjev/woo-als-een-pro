@@ -1,4 +1,5 @@
 ---
+title: Artikel 81oa Gemeentewet
 wet: Gemeentewet
 artikel: 81oa
 hoofdstuk: IVb. De rekenkamerfunctie

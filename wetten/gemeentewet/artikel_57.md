@@ -1,4 +1,5 @@
 ---
+title: Artikel 57 Gemeentewet
 wet: Gemeentewet
 artikel: '57'
 hoofdstuk: III. Het college van burgemeester en wethouders

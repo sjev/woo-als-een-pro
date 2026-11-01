@@ -1,4 +1,5 @@
 ---
+title: Artikel 23.6a Omgevingswet
 wet: Omgevingswet
 artikel: 23.6a
 hoofdstuk: 23. Overige en slotbepalingen

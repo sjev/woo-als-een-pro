@@ -1,4 +1,5 @@
 ---
+title: Artikel 157 Gemeentewet
 wet: Gemeentewet
 artikel: '157'
 hoofdstuk: IX. De bevoegdheid van de raad

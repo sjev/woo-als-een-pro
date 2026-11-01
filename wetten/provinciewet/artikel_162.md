@@ -1,4 +1,5 @@
 ---
+title: Artikel 162 Provinciewet
 wet: Provinciewet
 artikel: '162'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

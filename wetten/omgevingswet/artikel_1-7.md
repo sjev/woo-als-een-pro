@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.7 Omgevingswet
 wet: Omgevingswet
 artikel: '1.7'
 hoofdstuk: 1. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.21 Omgevingswet
 wet: Omgevingswet
 artikel: '5.21'
 hoofdstuk: 5. De omgevingsvergunning en het projectbesluit

@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.33d Omgevingswet
 wet: Omgevingswet
 artikel: 16.33d
 hoofdstuk: 16. Procedures

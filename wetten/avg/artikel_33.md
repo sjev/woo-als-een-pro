@@ -1,4 +1,5 @@
 ---
+title: Artikel 33 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '33'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

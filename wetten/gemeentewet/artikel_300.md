@@ -1,4 +1,5 @@
 ---
+title: Artikel 300 Gemeentewet
 wet: Gemeentewet
 artikel: '300'
 valid_from: '2026-10-01'

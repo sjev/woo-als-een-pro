@@ -1,4 +1,5 @@
 ---
+title: Artikel 245 Provinciewet
 wet: Provinciewet
 artikel: '245'
 hoofdstuk: XVI. Het Provinciefonds

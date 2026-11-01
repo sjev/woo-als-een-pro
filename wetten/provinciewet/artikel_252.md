@@ -1,4 +1,5 @@
 ---
+title: Artikel 252 Provinciewet
 wet: Provinciewet
 artikel: '252'
 hoofdstuk: XVI. Het Provinciefonds

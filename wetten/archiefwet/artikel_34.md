@@ -1,4 +1,5 @@
 ---
+title: Artikel 34 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '34'
 hoofdstuk: V. Archiefbescheiden van gemeenten

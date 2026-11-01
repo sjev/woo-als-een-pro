@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.40 Omgevingswet
 wet: Omgevingswet
 artikel: '5.40'
 hoofdstuk: 5. De omgevingsvergunning en het projectbesluit

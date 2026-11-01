@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.24 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.24'
 hoofdstuk: 7. Milieueffectrapportage

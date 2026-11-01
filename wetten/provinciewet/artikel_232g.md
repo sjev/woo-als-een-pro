@@ -1,4 +1,5 @@
 ---
+title: Artikel 232g Provinciewet
 wet: Provinciewet
 artikel: 232g
 hoofdstuk: XV. De provinciale belastingen

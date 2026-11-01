@@ -1,4 +1,5 @@
 ---
+title: Artikel 210 Gemeentewet
 wet: Gemeentewet
 artikel: '210'
 hoofdstuk: XIII. De begroting en de jaarrekening

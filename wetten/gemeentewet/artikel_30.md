@@ -1,4 +1,5 @@
 ---
+title: Artikel 30 Gemeentewet
 wet: Gemeentewet
 artikel: '30'
 hoofdstuk: II. De raad

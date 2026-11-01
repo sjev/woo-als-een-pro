@@ -1,4 +1,5 @@
 ---
+title: Artikel 79o Provinciewet
 wet: Provinciewet
 artikel: 79o
 hoofdstuk: IVA. De rekenkamer

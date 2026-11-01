@@ -1,4 +1,5 @@
 ---
+title: Artikel 84 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '84'
 hoofdstuk: VIII. Beroep, aansprakelijkheid en sancties

@@ -1,4 +1,5 @@
 ---
+title: Artikel 229c Gemeentewet
 wet: Gemeentewet
 artikel: 229c
 hoofdstuk: XV. De gemeentelijke belastingen

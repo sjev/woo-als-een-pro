@@ -1,4 +1,5 @@
 ---
+title: Artikel 146 Provinciewet
 wet: Provinciewet
 artikel: '146'
 hoofdstuk: IX. De bevoegdheid van provinciale staten

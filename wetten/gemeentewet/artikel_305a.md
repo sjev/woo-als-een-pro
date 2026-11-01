@@ -1,4 +1,5 @@
 ---
+title: Artikel 305a Gemeentewet
 wet: Gemeentewet
 artikel: 305a
 valid_from: '2026-10-01'

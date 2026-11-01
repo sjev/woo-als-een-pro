@@ -1,4 +1,5 @@
 ---
+title: Artikel 25 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '25'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

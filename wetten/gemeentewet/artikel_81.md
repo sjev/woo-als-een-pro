@@ -1,4 +1,5 @@
 ---
+title: Artikel 81 Gemeentewet
 wet: Gemeentewet
 artikel: '81'
 hoofdstuk: IV. De burgemeester

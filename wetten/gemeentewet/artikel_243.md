@@ -1,4 +1,5 @@
 ---
+title: Artikel 243 Gemeentewet
 wet: Gemeentewet
 artikel: '243'
 hoofdstuk: XV. De gemeentelijke belastingen

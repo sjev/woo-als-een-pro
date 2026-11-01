@@ -1,4 +1,5 @@
 ---
+title: Artikel 88 Gemeentewet
 wet: Gemeentewet
 artikel: '88'
 hoofdstuk: Va. Geheimhouding

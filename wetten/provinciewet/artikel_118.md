@@ -1,4 +1,5 @@
 ---
+title: Artikel 118 Provinciewet
 wet: Provinciewet
 artikel: '118'
 hoofdstuk: VIII. Algemene bepalingen

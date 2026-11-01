@@ -1,4 +1,5 @@
 ---
+title: Artikel 107e Gemeentewet
 wet: Gemeentewet
 artikel: 107e
 hoofdstuk: VII. De secretaris en de griffier

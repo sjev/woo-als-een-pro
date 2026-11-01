@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.18 Omgevingswet
 wet: Omgevingswet
 artikel: '3.18'
 hoofdstuk: 3. Omgevingsvisies en programma’s

@@ -1,4 +1,5 @@
 ---
+title: Artikel 114 Provinciewet
 wet: Provinciewet
 artikel: '114'
 hoofdstuk: VIII. Algemene bepalingen

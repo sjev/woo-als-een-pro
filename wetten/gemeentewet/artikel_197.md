@@ -1,4 +1,5 @@
 ---
+title: Artikel 197 Gemeentewet
 wet: Gemeentewet
 artikel: '197'
 hoofdstuk: XIII. De begroting en de jaarrekening

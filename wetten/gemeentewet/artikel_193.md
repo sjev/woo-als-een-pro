@@ -1,4 +1,5 @@
 ---
+title: Artikel 193 Gemeentewet
 wet: Gemeentewet
 artikel: '193'
 hoofdstuk: XIII. De begroting en de jaarrekening

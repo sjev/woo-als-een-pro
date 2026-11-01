@@ -1,4 +1,5 @@
 ---
+title: Artikel 11:2 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '11:2'
 hoofdstuk: 11. Slotbepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.23 Omgevingswet
 wet: Omgevingswet
 artikel: '4.23'
 hoofdstuk: 4. Algemene regels over activiteiten in de fysieke leefomgeving

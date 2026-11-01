@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.6 Omgevingswet
 wet: Omgevingswet
 artikel: '20.6'
 hoofdstuk: 20. Monitoring en informatie

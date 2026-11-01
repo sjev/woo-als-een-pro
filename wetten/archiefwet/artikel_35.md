@@ -1,4 +1,5 @@
 ---
+title: Artikel 35 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '35'
 hoofdstuk: VI. Archiefbescheiden van waterschappen

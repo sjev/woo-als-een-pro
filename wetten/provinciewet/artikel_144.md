@@ -1,4 +1,5 @@
 ---
+title: Artikel 144 Provinciewet
 wet: Provinciewet
 artikel: '144'
 hoofdstuk: IX. De bevoegdheid van provinciale staten

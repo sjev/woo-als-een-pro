@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.49 Omgevingswet
 wet: Omgevingswet
 artikel: '16.49'
 hoofdstuk: 16. Procedures

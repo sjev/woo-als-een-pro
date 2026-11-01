@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.20c Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 16.20c
 hoofdstuk: 16. Handel in emissierechten

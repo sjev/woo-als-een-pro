@@ -1,4 +1,5 @@
 ---
+title: Artikel 81 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '81'
 hoofdstuk: IX. Overgangs- en slotbepalingen

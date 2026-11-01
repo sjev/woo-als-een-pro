@@ -1,4 +1,5 @@
 ---
+title: Artikel 28 Provinciewet
 wet: Provinciewet
 artikel: '28'
 hoofdstuk: II. Provinciale staten

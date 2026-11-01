@@ -1,4 +1,5 @@
 ---
+title: Artikel 226 Provinciewet
 wet: Provinciewet
 artikel: '226'
 hoofdstuk: XV. De provinciale belastingen

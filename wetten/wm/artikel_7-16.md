@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.16 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.16'
 hoofdstuk: 7. Milieueffectrapportage

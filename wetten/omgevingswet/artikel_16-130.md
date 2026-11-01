@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.130 Omgevingswet
 wet: Omgevingswet
 artikel: '16.130'
 hoofdstuk: 16. Procedures

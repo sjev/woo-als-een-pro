@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.51 Omgevingswet
 wet: Omgevingswet
 artikel: '15.51'
 hoofdstuk: 15. Schade

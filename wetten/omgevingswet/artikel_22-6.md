@@ -1,4 +1,5 @@
 ---
+title: Artikel 22.6 Omgevingswet
 wet: Omgevingswet
 artikel: '22.6'
 hoofdstuk: 22. Overgangsrecht

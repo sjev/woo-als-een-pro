@@ -1,4 +1,5 @@
 ---
+title: Artikel 96 Gemeentewet
 wet: Gemeentewet
 artikel: '96'
 hoofdstuk: VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de

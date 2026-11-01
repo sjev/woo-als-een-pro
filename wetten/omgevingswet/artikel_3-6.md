@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.6 Omgevingswet
 wet: Omgevingswet
 artikel: '3.6'
 hoofdstuk: 3. Omgevingsvisies en programma’s

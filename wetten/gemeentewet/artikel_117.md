@@ -1,4 +1,5 @@
 ---
+title: Artikel 117 Gemeentewet
 wet: Gemeentewet
 artikel: '117'
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.10f Omgevingswet
 wet: Omgevingswet
 artikel: 10.10f
 hoofdstuk: 10. Gedoogplichten

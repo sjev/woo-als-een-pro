@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.21 Omgevingswet
 wet: Omgevingswet
 artikel: '2.21'
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

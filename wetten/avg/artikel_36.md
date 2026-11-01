@@ -1,4 +1,5 @@
 ---
+title: Artikel 36 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '36'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

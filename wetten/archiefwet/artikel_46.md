@@ -1,4 +1,5 @@
 ---
+title: Artikel 46 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '46'
 hoofdstuk: IX. Overgangs- en slotbepalingen

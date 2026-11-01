@@ -1,4 +1,5 @@
 ---
+title: Artikel 275 Provinciewet
 wet: Provinciewet
 artikel: '275'
 valid_from: '2026-07-01'

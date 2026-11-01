@@ -3,7 +3,7 @@ bwb_id: BWBR0037885
 title: Omgevingswet
 short_title: Omgevingswet
 valid_from: '2026-07-01'
-fetched_at: '2026-10-31T23:21:17+00:00'
+fetched_at: '2026-11-01T18:11:22+00:00'
 source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037885/2026-07-01_0/xml/BWBR0037885_2026-07-01_0.xml
 ---
 

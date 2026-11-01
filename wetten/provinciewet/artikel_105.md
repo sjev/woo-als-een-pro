@@ -1,4 +1,5 @@
 ---
+title: Artikel 105 Provinciewet
 wet: Provinciewet
 artikel: '105'
 hoofdstuk: VIII. Algemene bepalingen

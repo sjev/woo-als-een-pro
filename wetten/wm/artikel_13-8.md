@@ -1,4 +1,5 @@
 ---
+title: Artikel 13.8 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '13.8'
 hoofdstuk: 13. Procedures voor vergunningen en ontheffingen

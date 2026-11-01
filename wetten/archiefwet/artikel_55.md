@@ -1,4 +1,5 @@
 ---
+title: Artikel 55 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '55'
 hoofdstuk: IX. Overgangs- en slotbepalingen

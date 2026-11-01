@@ -1,4 +1,5 @@
 ---
+title: Artikel 141 Gemeentewet
 wet: Gemeentewet
 artikel: '141'
 hoofdstuk: VIII. Algemene bepalingen

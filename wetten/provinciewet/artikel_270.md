@@ -1,4 +1,5 @@
 ---
+title: Artikel 270 Provinciewet
 wet: Provinciewet
 artikel: '270'
 hoofdstuk: XVIII. Schorsing en vernietiging

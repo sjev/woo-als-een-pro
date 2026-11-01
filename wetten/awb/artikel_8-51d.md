@@ -1,4 +1,5 @@
 ---
+title: Artikel 8:51d Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 8:51d
 hoofdstuk: 8. Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter

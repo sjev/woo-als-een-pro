@@ -1,4 +1,5 @@
 ---
+title: Artikel 206 Gemeentewet
 wet: Gemeentewet
 artikel: '206'
 hoofdstuk: XIII. De begroting en de jaarrekening

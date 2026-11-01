@@ -1,4 +1,5 @@
 ---
+title: Artikel 218 Provinciewet
 wet: Provinciewet
 artikel: '218'
 hoofdstuk: XIV. De administratie en de controle

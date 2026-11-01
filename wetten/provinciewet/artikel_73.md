@@ -1,4 +1,5 @@
 ---
+title: Artikel 73 Provinciewet
 wet: Provinciewet
 artikel: '73'
 hoofdstuk: IV. De commissaris van de Koning

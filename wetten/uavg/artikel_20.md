@@ -1,4 +1,5 @@
 ---
+title: Artikel 20 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '20'
 hoofdstuk: 2. De Autoriteit persoonsgegevens

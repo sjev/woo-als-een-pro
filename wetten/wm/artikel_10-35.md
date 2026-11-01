@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.35 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.35'
 hoofdstuk: 10. Afvalstoffen

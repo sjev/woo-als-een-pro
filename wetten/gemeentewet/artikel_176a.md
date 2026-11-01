@@ -1,4 +1,5 @@
 ---
+title: Artikel 176a Gemeentewet
 wet: Gemeentewet
 artikel: 176a
 hoofdstuk: XI. De bevoegdheid van de burgemeester

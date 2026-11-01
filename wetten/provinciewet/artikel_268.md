@@ -1,4 +1,5 @@
 ---
+title: Artikel 268 Provinciewet
 wet: Provinciewet
 artikel: '268'
 hoofdstuk: XVIII. Schorsing en vernietiging

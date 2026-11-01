@@ -1,4 +1,5 @@
 ---
+title: Artikel 3:30 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '3:30'
 hoofdstuk: 3. Algemene bepalingen over besluiten

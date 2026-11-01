@@ -1,4 +1,5 @@
 ---
+title: Artikel 23.1 Omgevingswet
 wet: Omgevingswet
 artikel: '23.1'
 hoofdstuk: 23. Overige en slotbepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 107c Gemeentewet
 wet: Gemeentewet
 artikel: 107c
 hoofdstuk: VII. De secretaris en de griffier

@@ -1,4 +1,5 @@
 ---
+title: Artikel 124e Gemeentewet
 wet: Gemeentewet
 artikel: 124e
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 97 Provinciewet
 wet: Provinciewet
 artikel: '97'
 hoofdstuk: VII. De secretaris en de griffier

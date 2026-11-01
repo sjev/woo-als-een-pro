@@ -1,4 +1,5 @@
 ---
+title: Artikel 3:13 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '3:13'
 hoofdstuk: 3. Algemene bepalingen over besluiten

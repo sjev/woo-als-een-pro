@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.11 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '8.11'
 hoofdstuk: 8. Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen

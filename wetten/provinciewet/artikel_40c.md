@@ -1,4 +1,5 @@
 ---
+title: Artikel 40c Provinciewet
 wet: Provinciewet
 artikel: 40c
 hoofdstuk: III. Gedeputeerde staten

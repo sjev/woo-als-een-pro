@@ -1,4 +1,5 @@
 ---
+title: Artikel 8:36a Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 8:36a
 hoofdstuk: 8. Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter

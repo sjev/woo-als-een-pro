@@ -1,4 +1,5 @@
 ---
+title: Artikel 176 Provinciewet
 wet: Provinciewet
 artikel: '176'
 hoofdstuk: XI. De bevoegdheid van de commissaris van de Koning

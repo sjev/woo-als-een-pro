@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.1 Omgevingswet
 wet: Omgevingswet
 artikel: '19.1'
 hoofdstuk: 19. Bevoegdheden in bijzondere omstandigheden

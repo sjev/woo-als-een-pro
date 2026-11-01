@@ -1,4 +1,5 @@
 ---
+title: Artikel 228a Provinciewet
 wet: Provinciewet
 artikel: 228a
 hoofdstuk: XV. De provinciale belastingen

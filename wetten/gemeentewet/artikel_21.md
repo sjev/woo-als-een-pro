@@ -1,4 +1,5 @@
 ---
+title: Artikel 21 Gemeentewet
 wet: Gemeentewet
 artikel: '21'
 hoofdstuk: II. De raad

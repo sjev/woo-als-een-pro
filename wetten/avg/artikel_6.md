@@ -1,4 +1,5 @@
 ---
+title: Artikel 6 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '6'
 hoofdstuk: II. Beginselen

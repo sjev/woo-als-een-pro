@@ -1,4 +1,5 @@
 ---
+title: Artikel 39 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '39'
 hoofdstuk: VI. Archiefbescheiden van waterschappen

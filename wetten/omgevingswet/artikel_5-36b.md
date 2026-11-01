@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.36b Omgevingswet
 wet: Omgevingswet
 artikel: 5.36b
 hoofdstuk: 5. De omgevingsvergunning en het projectbesluit

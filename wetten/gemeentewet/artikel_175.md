@@ -1,4 +1,5 @@
 ---
+title: Artikel 175 Gemeentewet
 wet: Gemeentewet
 artikel: '175'
 hoofdstuk: XI. De bevoegdheid van de burgemeester

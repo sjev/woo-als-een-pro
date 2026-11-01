@@ -1,4 +1,5 @@
 ---
+title: Artikel 21.4 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '21.4'
 hoofdstuk: 21. Verdere bepalingen

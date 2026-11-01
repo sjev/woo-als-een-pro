@@ -1,4 +1,5 @@
 ---
+title: Artikel 11 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '11'
 hoofdstuk: 2. De Autoriteit persoonsgegevens

@@ -1,4 +1,5 @@
 ---
+title: Artikel 81d Gemeentewet
 wet: Gemeentewet
 artikel: 81d
 hoofdstuk: IVa. De rekenkamer

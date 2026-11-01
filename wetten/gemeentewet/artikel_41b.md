@@ -1,4 +1,5 @@
 ---
+title: Artikel 41b Gemeentewet
 wet: Gemeentewet
 artikel: 41b
 hoofdstuk: III. Het college van burgemeester en wethouders

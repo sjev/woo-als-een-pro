@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.1 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '4.1'
 hoofdstuk: 4. Plannen

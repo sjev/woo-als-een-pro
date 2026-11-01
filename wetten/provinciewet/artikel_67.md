@@ -1,4 +1,5 @@
 ---
+title: Artikel 67 Provinciewet
 wet: Provinciewet
 artikel: '67'
 hoofdstuk: IV. De commissaris van de Koning

@@ -1,4 +1,5 @@
 ---
+title: Artikel 1 Provinciewet
 wet: Provinciewet
 artikel: '1'
 valid_from: '2026-07-01'

@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.30 Omgevingswet
 wet: Omgevingswet
 artikel: '15.30'
 hoofdstuk: 15. Schade

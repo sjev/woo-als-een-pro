@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.17 Omgevingswet
 wet: Omgevingswet
 artikel: '5.17'
 hoofdstuk: 5. De omgevingsvergunning en het projectbesluit

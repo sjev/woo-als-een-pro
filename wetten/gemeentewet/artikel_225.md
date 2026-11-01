@@ -1,4 +1,5 @@
 ---
+title: Artikel 225 Gemeentewet
 wet: Gemeentewet
 artikel: '225'
 hoofdstuk: XV. De gemeentelijke belastingen

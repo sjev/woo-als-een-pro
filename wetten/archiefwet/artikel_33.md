@@ -1,4 +1,5 @@
 ---
+title: Artikel 33 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '33'
 hoofdstuk: V. Archiefbescheiden van gemeenten

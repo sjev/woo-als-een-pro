@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.24 Omgevingswet
 wet: Omgevingswet
 artikel: '2.24'
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

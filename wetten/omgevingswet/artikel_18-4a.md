@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.4a Omgevingswet
 wet: Omgevingswet
 artikel: 18.4a
 hoofdstuk: 18. Handhaving en uitvoering

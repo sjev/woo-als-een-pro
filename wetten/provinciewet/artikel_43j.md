@@ -1,4 +1,5 @@
 ---
+title: Artikel 43j Provinciewet
 wet: Provinciewet
 artikel: 43j
 hoofdstuk: III. Gedeputeerde staten

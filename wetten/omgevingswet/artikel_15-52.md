@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.52 Omgevingswet
 wet: Omgevingswet
 artikel: '15.52'
 hoofdstuk: 15. Schade

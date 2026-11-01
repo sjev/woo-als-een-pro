@@ -1,4 +1,5 @@
 ---
+title: Artikel 288a Gemeentewet
 wet: Gemeentewet
 artikel: 288a
 valid_from: '2026-10-01'

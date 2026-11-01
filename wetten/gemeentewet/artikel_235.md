@@ -1,4 +1,5 @@
 ---
+title: Artikel 235 Gemeentewet
 wet: Gemeentewet
 artikel: '235'
 hoofdstuk: XV. De gemeentelijke belastingen

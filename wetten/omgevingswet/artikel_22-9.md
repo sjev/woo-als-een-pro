@@ -1,4 +1,5 @@
 ---
+title: Artikel 22.9 Omgevingswet
 wet: Omgevingswet
 artikel: '22.9'
 hoofdstuk: 22. Overgangsrecht

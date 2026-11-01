@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.4 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '5.4'
 hoofdstuk: 5. Milieukwaliteitseisen

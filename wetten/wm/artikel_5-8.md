@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.8 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '5.8'
 hoofdstuk: 5. Milieukwaliteitseisen

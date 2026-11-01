@@ -1,4 +1,5 @@
 ---
+title: Artikel 221 Provinciewet
 wet: Provinciewet
 artikel: '221'
 hoofdstuk: XV. De provinciale belastingen

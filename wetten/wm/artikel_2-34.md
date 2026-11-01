@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.34 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '2.34'
 hoofdstuk: 2. Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen

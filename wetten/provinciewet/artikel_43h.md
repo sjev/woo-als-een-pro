@@ -1,4 +1,5 @@
 ---
+title: Artikel 43h Provinciewet
 wet: Provinciewet
 artikel: 43h
 hoofdstuk: III. Gedeputeerde staten

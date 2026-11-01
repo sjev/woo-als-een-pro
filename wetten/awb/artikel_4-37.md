@@ -1,4 +1,5 @@
 ---
+title: Artikel 4:37 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '4:37'
 hoofdstuk: 4. Bijzondere bepalingen over besluiten

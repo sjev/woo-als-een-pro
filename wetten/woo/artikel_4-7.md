@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.7 Wet open overheid
 wet: Wet open overheid
 artikel: '4.7'
 hoofdstuk: 4. Openbaarmaking op verzoek

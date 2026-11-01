@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.16 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.16'
 hoofdstuk: 10. Afvalstoffen

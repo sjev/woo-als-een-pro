@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.27 Omgevingswet
 wet: Omgevingswet
 artikel: '15.27'
 hoofdstuk: 15. Schade

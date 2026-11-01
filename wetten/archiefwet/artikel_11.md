@@ -1,4 +1,5 @@
 ---
+title: Artikel 11 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '11'
 hoofdstuk: II. Archiefbescheiden in het algemeen

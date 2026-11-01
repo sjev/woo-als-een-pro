@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.33h Omgevingswet
 wet: Omgevingswet
 artikel: 16.33h
 hoofdstuk: 16. Procedures

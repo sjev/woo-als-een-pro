@@ -1,4 +1,5 @@
 ---
+title: Artikel 152 Gemeentewet
 wet: Gemeentewet
 artikel: '152'
 hoofdstuk: IX. De bevoegdheid van de raad

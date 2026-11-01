@@ -1,4 +1,5 @@
 ---
+title: Artikel 113 Gemeentewet
 wet: Gemeentewet
 artikel: '113'
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 6 Gemeentewet
 wet: Gemeentewet
 artikel: '6'
 hoofdstuk: I. Algemene bepaling

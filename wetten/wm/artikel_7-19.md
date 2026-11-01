@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.19 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.19'
 hoofdstuk: 7. Milieueffectrapportage

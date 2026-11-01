@@ -1,4 +1,5 @@
 ---
+title: Artikel 235 Provinciewet
 wet: Provinciewet
 artikel: '235'
 hoofdstuk: XVI. Het Provinciefonds

@@ -1,4 +1,5 @@
 ---
+title: Artikel 299b Gemeentewet
 wet: Gemeentewet
 artikel: 299b
 valid_from: '2026-10-01'

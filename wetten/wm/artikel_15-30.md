@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.30 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '15.30'
 hoofdstuk: 15. Financiële bepalingen

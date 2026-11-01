@@ -1,4 +1,5 @@
 ---
+title: Artikel 188 Provinciewet
 wet: Provinciewet
 artikel: '188'
 hoofdstuk: XII. Algemene bepalingen

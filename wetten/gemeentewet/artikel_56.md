@@ -1,4 +1,5 @@
 ---
+title: Artikel 56 Gemeentewet
 wet: Gemeentewet
 artikel: '56'
 hoofdstuk: III. Het college van burgemeester en wethouders

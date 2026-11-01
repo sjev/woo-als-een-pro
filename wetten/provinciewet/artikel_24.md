@@ -1,4 +1,5 @@
 ---
+title: Artikel 24 Provinciewet
 wet: Provinciewet
 artikel: '24'
 hoofdstuk: II. Provinciale staten

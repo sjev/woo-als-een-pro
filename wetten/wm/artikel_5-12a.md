@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.12a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 5.12a
 hoofdstuk: 5. Milieukwaliteitseisen

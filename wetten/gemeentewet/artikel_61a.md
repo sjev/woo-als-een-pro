@@ -1,4 +1,5 @@
 ---
+title: Artikel 61a Gemeentewet
 wet: Gemeentewet
 artikel: 61a
 hoofdstuk: IV. De burgemeester

@@ -1,4 +1,5 @@
 ---
+title: Artikel 5 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '5'
 hoofdstuk: 1. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 260 Gemeentewet
 wet: Gemeentewet
 artikel: '260'
 hoofdstuk: XVI. Goedkeuring

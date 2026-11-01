@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.3 Omgevingswet
 wet: Omgevingswet
 artikel: '4.3'
 hoofdstuk: 4. Algemene regels over activiteiten in de fysieke leefomgeving

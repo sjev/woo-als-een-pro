@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.5 Omgevingswet
 wet: Omgevingswet
 artikel: '11.5'
 hoofdstuk: 11. Onteigening

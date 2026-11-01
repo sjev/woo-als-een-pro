@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:46 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '5:46'
 hoofdstuk: 5. Handhaving

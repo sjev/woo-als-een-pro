@@ -1,4 +1,5 @@
 ---
+title: Artikel 9:33 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '9:33'
 hoofdstuk: 9. Klachtbehandeling

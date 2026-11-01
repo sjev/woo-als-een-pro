@@ -1,4 +1,5 @@
 ---
+title: Artikel 205 Provinciewet
 wet: Provinciewet
 artikel: '205'
 hoofdstuk: XIII. De begroting en de jaarrekening

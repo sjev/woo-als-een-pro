@@ -1,4 +1,5 @@
 ---
+title: Artikel 121a Provinciewet
 wet: Provinciewet
 artikel: 121a
 hoofdstuk: VIII. Algemene bepalingen

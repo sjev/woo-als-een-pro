@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.12 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '20.12'
 hoofdstuk: 20. Inwerkingtreding en rechtsbescherming

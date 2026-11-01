@@ -1,4 +1,5 @@
 ---
+title: Artikel 289 Gemeentewet
 wet: Gemeentewet
 artikel: '289'
 valid_from: '2026-10-01'

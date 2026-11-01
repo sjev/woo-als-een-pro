@@ -1,4 +1,5 @@
 ---
+title: Artikel 83 Gemeentewet
 wet: Gemeentewet
 artikel: '83'
 hoofdstuk: V. De commissies

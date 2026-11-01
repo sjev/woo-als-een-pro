@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.6 Omgevingswet
 wet: Omgevingswet
 artikel: '1.6'
 hoofdstuk: 1. Algemene bepalingen

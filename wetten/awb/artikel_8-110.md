@@ -1,4 +1,5 @@
 ---
+title: Artikel 8:110 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 8:110
 hoofdstuk: 8. Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter

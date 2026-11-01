@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.4 Wet open overheid
 wet: Wet open overheid
 artikel: '2.4'
 hoofdstuk: 2. Algemene bepalingen

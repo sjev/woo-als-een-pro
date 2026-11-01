@@ -1,4 +1,5 @@
 ---
+title: Artikel 50 Gemeentewet
 wet: Gemeentewet
 artikel: '50'
 hoofdstuk: III. Het college van burgemeester en wethouders

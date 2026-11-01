@@ -1,4 +1,5 @@
 ---
+title: Artikel 93 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '93'
 hoofdstuk: X. Gedelegeerde handelingen en uitvoeringshandelingen

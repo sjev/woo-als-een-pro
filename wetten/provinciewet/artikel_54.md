@@ -1,4 +1,5 @@
 ---
+title: Artikel 54 Provinciewet
 wet: Provinciewet
 artikel: '54'
 hoofdstuk: III. Gedeputeerde staten

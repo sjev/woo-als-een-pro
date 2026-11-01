@@ -1,4 +1,5 @@
 ---
+title: Artikel 287 Provinciewet
 wet: Provinciewet
 artikel: '287'
 valid_from: '2026-07-01'

@@ -1,4 +1,5 @@
 ---
+title: Artikel 78 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '78'
 hoofdstuk: VIII. Beroep, aansprakelijkheid en sancties

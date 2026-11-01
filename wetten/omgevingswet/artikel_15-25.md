@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.25 Omgevingswet
 wet: Omgevingswet
 artikel: '15.25'
 hoofdstuk: 15. Schade

@@ -1,4 +1,5 @@
 ---
+title: Artikel 220a Provinciewet
 wet: Provinciewet
 artikel: 220a
 hoofdstuk: XV. De provinciale belastingen

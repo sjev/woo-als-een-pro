@@ -1,4 +1,5 @@
 ---
+title: Artikel 52 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '52'
 hoofdstuk: IX. Overgangs- en slotbepalingen

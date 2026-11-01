@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.123 Omgevingswet
 wet: Omgevingswet
 artikel: '16.123'
 hoofdstuk: 16. Procedures

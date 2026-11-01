@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.8 Omgevingswet
 wet: Omgevingswet
 artikel: '18.8'
 hoofdstuk: 18. Handhaving en uitvoering

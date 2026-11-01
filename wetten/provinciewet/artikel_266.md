@@ -1,4 +1,5 @@
 ---
+title: Artikel 266 Provinciewet
 wet: Provinciewet
 artikel: '266'
 hoofdstuk: XVIII. Schorsing en vernietiging

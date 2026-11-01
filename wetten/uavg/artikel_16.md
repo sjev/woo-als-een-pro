@@ -1,4 +1,5 @@
 ---
+title: Artikel 16 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '16'
 hoofdstuk: 2. De Autoriteit persoonsgegevens

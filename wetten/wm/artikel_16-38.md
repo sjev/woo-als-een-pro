@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.38 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '16.38'
 hoofdstuk: 16. Handel in emissierechten

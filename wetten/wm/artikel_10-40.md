@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.40 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.40'
 hoofdstuk: 10. Afvalstoffen

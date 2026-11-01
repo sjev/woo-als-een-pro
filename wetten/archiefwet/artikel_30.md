@@ -1,4 +1,5 @@
 ---
+title: Artikel 30 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '30'
 hoofdstuk: V. Archiefbescheiden van gemeenten

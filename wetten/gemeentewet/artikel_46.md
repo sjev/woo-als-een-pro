@@ -1,4 +1,5 @@
 ---
+title: Artikel 46 Gemeentewet
 wet: Gemeentewet
 artikel: '46'
 hoofdstuk: III. Het college van burgemeester en wethouders

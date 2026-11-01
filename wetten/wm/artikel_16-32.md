@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.32 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '16.32'
 hoofdstuk: 16. Handel in emissierechten

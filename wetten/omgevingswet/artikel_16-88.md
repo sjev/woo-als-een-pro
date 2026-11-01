@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.88 Omgevingswet
 wet: Omgevingswet
 artikel: '16.88'
 hoofdstuk: 16. Procedures

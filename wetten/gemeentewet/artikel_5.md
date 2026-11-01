@@ -1,4 +1,5 @@
 ---
+title: Artikel 5 Gemeentewet
 wet: Gemeentewet
 artikel: '5'
 valid_from: '2026-10-01'

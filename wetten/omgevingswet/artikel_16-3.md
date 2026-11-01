@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.3 Omgevingswet
 wet: Omgevingswet
 artikel: '16.3'
 hoofdstuk: 16. Procedures

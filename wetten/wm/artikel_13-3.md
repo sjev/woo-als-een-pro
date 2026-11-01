@@ -1,4 +1,5 @@
 ---
+title: Artikel 13.3 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '13.3'
 hoofdstuk: 13. Procedures voor vergunningen en ontheffingen

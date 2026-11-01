@@ -1,4 +1,5 @@
 ---
+title: Artikel 154f Gemeentewet
 wet: Gemeentewet
 artikel: 154f
 hoofdstuk: IX. De bevoegdheid van de raad

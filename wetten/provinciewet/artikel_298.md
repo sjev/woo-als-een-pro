@@ -1,4 +1,5 @@
 ---
+title: Artikel 298 Provinciewet
 wet: Provinciewet
 artikel: '298'
 valid_from: '2026-07-01'

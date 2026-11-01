@@ -1,4 +1,5 @@
 ---
+title: Artikel 169 Provinciewet
 wet: Provinciewet
 artikel: '169'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

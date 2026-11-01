@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.22 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '5.22'
 hoofdstuk: 5. Milieukwaliteitseisen

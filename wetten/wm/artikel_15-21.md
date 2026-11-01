@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.21 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '15.21'
 hoofdstuk: 15. Financiële bepalingen

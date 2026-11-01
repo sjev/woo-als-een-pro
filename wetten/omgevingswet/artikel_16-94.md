@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.94 Omgevingswet
 wet: Omgevingswet
 artikel: '16.94'
 hoofdstuk: 16. Procedures

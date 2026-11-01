@@ -1,4 +1,5 @@
 ---
+title: Artikel 256 Gemeentewet
 wet: Gemeentewet
 artikel: '256'
 hoofdstuk: XV. De gemeentelijke belastingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.16 Omgevingswet
 wet: Omgevingswet
 artikel: '20.16'
 hoofdstuk: 20. Monitoring en informatie

@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.3 Omgevingswet
 wet: Omgevingswet
 artikel: '15.3'
 hoofdstuk: 15. Schade

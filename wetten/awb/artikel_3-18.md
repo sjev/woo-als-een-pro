@@ -1,4 +1,5 @@
 ---
+title: Artikel 3:18 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '3:18'
 hoofdstuk: 3. Algemene bepalingen over besluiten

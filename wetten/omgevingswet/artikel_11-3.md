@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.3 Omgevingswet
 wet: Omgevingswet
 artikel: '11.3'
 hoofdstuk: 11. Onteigening

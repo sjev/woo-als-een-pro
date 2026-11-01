@@ -1,4 +1,5 @@
 ---
+title: Artikel 309 Gemeentewet
 wet: Gemeentewet
 artikel: '309'
 valid_from: '2026-10-01'

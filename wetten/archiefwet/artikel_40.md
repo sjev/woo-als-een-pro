@@ -1,4 +1,5 @@
 ---
+title: Artikel 40 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '40'
 hoofdstuk: VII. Archiefbescheiden van andere overheidsorganen

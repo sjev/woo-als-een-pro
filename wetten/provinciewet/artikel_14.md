@@ -1,4 +1,5 @@
 ---
+title: Artikel 14 Provinciewet
 wet: Provinciewet
 artikel: '14'
 hoofdstuk: II. Provinciale staten

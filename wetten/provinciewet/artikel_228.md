@@ -1,4 +1,5 @@
 ---
+title: Artikel 228 Provinciewet
 wet: Provinciewet
 artikel: '228'
 hoofdstuk: XV. De provinciale belastingen

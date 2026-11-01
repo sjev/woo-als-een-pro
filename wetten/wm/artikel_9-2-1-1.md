@@ -1,4 +1,5 @@
 ---
+title: Artikel 9.2.1.1 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 9.2.1.1
 hoofdstuk: 9. Stoffen en produkten

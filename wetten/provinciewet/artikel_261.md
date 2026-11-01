@@ -1,4 +1,5 @@
 ---
+title: Artikel 261 Provinciewet
 wet: Provinciewet
 artikel: '261'
 hoofdstuk: XVIII. Schorsing en vernietiging

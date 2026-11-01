@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.23 Omgevingswet
 wet: Omgevingswet
 artikel: '10.23'
 hoofdstuk: 10. Gedoogplichten

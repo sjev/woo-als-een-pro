@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.51a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 15.51a
 hoofdstuk: 15. Financiële bepalingen

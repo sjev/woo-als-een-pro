@@ -1,4 +1,5 @@
 ---
+title: Artikel 13.6 Omgevingswet
 wet: Omgevingswet
 artikel: '13.6'
 hoofdstuk: 13. Financiële bepalingen

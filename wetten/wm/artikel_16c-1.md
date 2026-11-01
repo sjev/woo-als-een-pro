@@ -1,4 +1,5 @@
 ---
+title: Artikel 16c.1 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 16c.1
 hoofdstuk: 16c. Mechanisme voor koolstofcorrectie aan de grens

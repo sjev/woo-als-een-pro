@@ -1,4 +1,5 @@
 ---
+title: Artikel 58 Provinciewet
 wet: Provinciewet
 artikel: '58'
 hoofdstuk: III. Gedeputeerde staten

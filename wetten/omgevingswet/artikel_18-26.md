@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.26 Omgevingswet
 wet: Omgevingswet
 artikel: '18.26'
 hoofdstuk: 18. Handhaving en uitvoering

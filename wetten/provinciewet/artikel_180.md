@@ -1,4 +1,5 @@
 ---
+title: Artikel 180 Provinciewet
 wet: Provinciewet
 artikel: '180'
 hoofdstuk: XI. De bevoegdheid van de commissaris van de Koning

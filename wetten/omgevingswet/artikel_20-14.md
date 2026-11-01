@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.14 Omgevingswet
 wet: Omgevingswet
 artikel: '20.14'
 hoofdstuk: 20. Monitoring en informatie

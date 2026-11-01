@@ -1,4 +1,5 @@
 ---
+title: Artikel 89 Provinciewet
 wet: Provinciewet
 artikel: '89'
 hoofdstuk: VA. Geheimhouding

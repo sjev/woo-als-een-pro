@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.28 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.28'
 hoofdstuk: 7. Milieueffectrapportage

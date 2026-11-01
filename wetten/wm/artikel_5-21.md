@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.21 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '5.21'
 hoofdstuk: 5. Milieukwaliteitseisen

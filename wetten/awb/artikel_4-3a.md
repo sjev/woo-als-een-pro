@@ -1,4 +1,5 @@
 ---
+title: Artikel 4:3a Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 4:3a
 hoofdstuk: 4. Bijzondere bepalingen over besluiten

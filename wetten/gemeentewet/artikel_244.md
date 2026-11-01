@@ -1,4 +1,5 @@
 ---
+title: Artikel 244 Gemeentewet
 wet: Gemeentewet
 artikel: '244'
 hoofdstuk: XV. De gemeentelijke belastingen

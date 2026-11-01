@@ -1,4 +1,5 @@
 ---
+title: Artikel 297 Gemeentewet
 wet: Gemeentewet
 artikel: '297'
 valid_from: '2026-10-01'

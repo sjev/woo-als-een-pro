@@ -1,4 +1,5 @@
 ---
+title: Artikel 264 Provinciewet
 wet: Provinciewet
 artikel: '264'
 hoofdstuk: XVIII. Schorsing en vernietiging

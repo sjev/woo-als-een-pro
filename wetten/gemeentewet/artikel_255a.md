@@ -1,4 +1,5 @@
 ---
+title: Artikel 255a Gemeentewet
 wet: Gemeentewet
 artikel: 255a
 hoofdstuk: XV. De gemeentelijke belastingen

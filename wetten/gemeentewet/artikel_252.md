@@ -1,4 +1,5 @@
 ---
+title: Artikel 252 Gemeentewet
 wet: Gemeentewet
 artikel: '252'
 hoofdstuk: XV. De gemeentelijke belastingen

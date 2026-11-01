@@ -1,4 +1,5 @@
 ---
+title: Artikel 64 Gemeentewet
 wet: Gemeentewet
 artikel: '64'
 hoofdstuk: IV. De burgemeester

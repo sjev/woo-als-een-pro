@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.20a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 16.20a
 hoofdstuk: 16. Handel in emissierechten

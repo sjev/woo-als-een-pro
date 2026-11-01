@@ -1,4 +1,5 @@
 ---
+title: Artikel 278 Provinciewet
 wet: Provinciewet
 artikel: '278'
 valid_from: '2026-07-01'

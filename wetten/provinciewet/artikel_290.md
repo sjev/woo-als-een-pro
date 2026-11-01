@@ -1,4 +1,5 @@
 ---
+title: Artikel 290 Provinciewet
 wet: Provinciewet
 artikel: '290'
 valid_from: '2026-07-01'

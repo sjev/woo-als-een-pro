@@ -1,4 +1,5 @@
 ---
+title: Artikel 150 Gemeentewet
 wet: Gemeentewet
 artikel: '150'
 hoofdstuk: IX. De bevoegdheid van de raad

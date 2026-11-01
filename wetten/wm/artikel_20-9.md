@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.9 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '20.9'
 hoofdstuk: 20. Inwerkingtreding en rechtsbescherming

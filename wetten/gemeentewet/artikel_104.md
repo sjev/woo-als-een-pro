@@ -1,4 +1,5 @@
 ---
+title: Artikel 104 Gemeentewet
 wet: Gemeentewet
 artikel: '104'
 hoofdstuk: VII. De secretaris en de griffier

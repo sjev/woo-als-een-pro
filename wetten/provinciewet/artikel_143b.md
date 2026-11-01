@@ -1,4 +1,5 @@
 ---
+title: Artikel 143b Provinciewet
 wet: Provinciewet
 artikel: 143b
 hoofdstuk: IX. De bevoegdheid van provinciale staten

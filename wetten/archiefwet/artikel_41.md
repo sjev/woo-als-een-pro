@@ -1,4 +1,5 @@
 ---
+title: Artikel 41 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '41'
 hoofdstuk: VII. Archiefbescheiden van andere overheidsorganen

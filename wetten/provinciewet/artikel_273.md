@@ -1,4 +1,5 @@
 ---
+title: Artikel 273 Provinciewet
 wet: Provinciewet
 artikel: '273'
 hoofdstuk: XVIII. Schorsing en vernietiging

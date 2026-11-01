@@ -1,4 +1,5 @@
 ---
+title: Artikel 130 Gemeentewet
 wet: Gemeentewet
 artikel: '130'
 hoofdstuk: VIII. Algemene bepalingen

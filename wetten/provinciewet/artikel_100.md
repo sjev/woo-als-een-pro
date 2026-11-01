@@ -1,4 +1,5 @@
 ---
+title: Artikel 100 Provinciewet
 wet: Provinciewet
 artikel: '100'
 hoofdstuk: VII. De secretaris en de griffier

@@ -1,4 +1,5 @@
 ---
+title: Artikel 23.7 Omgevingswet
 wet: Omgevingswet
 artikel: '23.7'
 hoofdstuk: 23. Overige en slotbepalingen

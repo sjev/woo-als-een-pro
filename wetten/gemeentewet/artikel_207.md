@@ -1,4 +1,5 @@
 ---
+title: Artikel 207 Gemeentewet
 wet: Gemeentewet
 artikel: '207'
 hoofdstuk: XIII. De begroting en de jaarrekening

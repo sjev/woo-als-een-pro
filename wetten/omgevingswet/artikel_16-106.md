@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.106 Omgevingswet
 wet: Omgevingswet
 artikel: '16.106'
 hoofdstuk: 16. Procedures

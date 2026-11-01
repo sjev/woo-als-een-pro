@@ -1,4 +1,5 @@
 ---
+title: Artikel 32 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '32'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

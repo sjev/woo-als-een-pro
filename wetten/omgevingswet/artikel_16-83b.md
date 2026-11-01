@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.83b Omgevingswet
 wet: Omgevingswet
 artikel: 16.83b
 hoofdstuk: 16. Procedures

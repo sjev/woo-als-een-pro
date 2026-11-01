@@ -1,4 +1,5 @@
 ---
+title: Artikel 128 Gemeentewet
 wet: Gemeentewet
 artikel: '128'
 hoofdstuk: VIII. Algemene bepalingen

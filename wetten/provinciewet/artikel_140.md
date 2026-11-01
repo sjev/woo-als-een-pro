@@ -1,4 +1,5 @@
 ---
+title: Artikel 140 Provinciewet
 wet: Provinciewet
 artikel: '140'
 hoofdstuk: VIII. Algemene bepalingen

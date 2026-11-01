@@ -1,4 +1,5 @@
 ---
+title: Artikel 257 Provinciewet
 wet: Provinciewet
 artikel: '257'
 hoofdstuk: XVII. Goedkeuring

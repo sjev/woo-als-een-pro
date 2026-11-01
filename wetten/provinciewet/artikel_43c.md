@@ -1,4 +1,5 @@
 ---
+title: Artikel 43c Provinciewet
 wet: Provinciewet
 artikel: 43c
 hoofdstuk: III. Gedeputeerde staten

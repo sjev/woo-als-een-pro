@@ -1,4 +1,5 @@
 ---
+title: Artikel 12 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '12'
 hoofdstuk: 2. De Autoriteit persoonsgegevens

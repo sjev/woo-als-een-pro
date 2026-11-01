@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.8 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.8'
 hoofdstuk: 7. Milieueffectrapportage

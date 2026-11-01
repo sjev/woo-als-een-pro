@@ -1,4 +1,5 @@
 ---
+title: Artikel 21 Provinciewet
 wet: Provinciewet
 artikel: '21'
 hoofdstuk: II. Provinciale staten

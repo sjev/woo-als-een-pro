@@ -1,4 +1,5 @@
 ---
+title: Artikel 45 Provinciewet
 wet: Provinciewet
 artikel: '45'
 hoofdstuk: III. Gedeputeerde staten

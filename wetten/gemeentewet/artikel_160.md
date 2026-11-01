@@ -1,4 +1,5 @@
 ---
+title: Artikel 160 Gemeentewet
 wet: Gemeentewet
 artikel: '160'
 hoofdstuk: X. De bevoegdheid van het college van burgemeester en wethouders

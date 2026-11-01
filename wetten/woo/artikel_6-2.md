@@ -1,4 +1,5 @@
 ---
+title: Artikel 6.2 Wet open overheid
 wet: Wet open overheid
 artikel: '6.2'
 hoofdstuk: 6. Digitale informatiehuishouding

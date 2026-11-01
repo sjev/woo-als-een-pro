@@ -1,4 +1,5 @@
 ---
+title: Artikel 59 Provinciewet
 wet: Provinciewet
 artikel: '59'
 hoofdstuk: III. Gedeputeerde staten

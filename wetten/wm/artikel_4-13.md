@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.13 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '4.13'
 hoofdstuk: 4. Plannen

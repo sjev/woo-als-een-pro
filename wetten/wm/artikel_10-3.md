@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.3 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.3'
 hoofdstuk: 10. Afvalstoffen

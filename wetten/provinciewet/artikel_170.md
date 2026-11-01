@@ -1,4 +1,5 @@
 ---
+title: Artikel 170 Provinciewet
 wet: Provinciewet
 artikel: '170'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

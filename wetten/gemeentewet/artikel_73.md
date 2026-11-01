@@ -1,4 +1,5 @@
 ---
+title: Artikel 73 Gemeentewet
 wet: Gemeentewet
 artikel: '73'
 hoofdstuk: IV. De burgemeester

@@ -1,4 +1,5 @@
 ---
+title: Artikel 13.10 Omgevingswet
 wet: Omgevingswet
 artikel: '13.10'
 hoofdstuk: 13. Financiële bepalingen

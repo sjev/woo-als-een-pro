@@ -1,4 +1,5 @@
 ---
+title: Artikel 112 Provinciewet
 wet: Provinciewet
 artikel: '112'
 hoofdstuk: VIII. Algemene bepalingen

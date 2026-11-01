@@ -1,4 +1,5 @@
 ---
+title: Artikel 227c Provinciewet
 wet: Provinciewet
 artikel: 227c
 hoofdstuk: XV. De provinciale belastingen

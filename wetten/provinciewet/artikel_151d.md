@@ -1,4 +1,5 @@
 ---
+title: Artikel 151d Provinciewet
 wet: Provinciewet
 artikel: 151d
 hoofdstuk: IX. De bevoegdheid van provinciale staten

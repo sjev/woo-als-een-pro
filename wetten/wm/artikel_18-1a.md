@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.1a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 18.1a
 hoofdstuk: 18. Handhaving

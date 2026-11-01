@@ -1,4 +1,5 @@
 ---
+title: Artikel 81l Gemeentewet
 wet: Gemeentewet
 artikel: 81l
 hoofdstuk: IVa. De rekenkamer

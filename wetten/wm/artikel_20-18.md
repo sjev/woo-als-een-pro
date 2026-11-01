@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.18 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '20.18'
 hoofdstuk: 20. Inwerkingtreding en rechtsbescherming

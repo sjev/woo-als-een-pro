@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.41 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.41'
 hoofdstuk: 7. Milieueffectrapportage

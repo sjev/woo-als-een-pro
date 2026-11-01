@@ -1,4 +1,5 @@
 ---
+title: Artikel 65 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '65'
 hoofdstuk: VII. Samenwerking en coherentie

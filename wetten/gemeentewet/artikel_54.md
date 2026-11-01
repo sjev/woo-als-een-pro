@@ -1,4 +1,5 @@
 ---
+title: Artikel 54 Gemeentewet
 wet: Gemeentewet
 artikel: '54'
 hoofdstuk: III. Het college van burgemeester en wethouders

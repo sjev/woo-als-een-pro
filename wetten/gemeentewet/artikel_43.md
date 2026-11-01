@@ -1,4 +1,5 @@
 ---
+title: Artikel 43 Gemeentewet
 wet: Gemeentewet
 artikel: '43'
 hoofdstuk: III. Het college van burgemeester en wethouders

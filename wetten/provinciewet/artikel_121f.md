@@ -1,4 +1,5 @@
 ---
+title: Artikel 121f Provinciewet
 wet: Provinciewet
 artikel: 121f
 hoofdstuk: VIII. Algemene bepalingen

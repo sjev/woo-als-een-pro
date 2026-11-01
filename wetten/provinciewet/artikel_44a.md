@@ -1,4 +1,5 @@
 ---
+title: Artikel 44a Provinciewet
 wet: Provinciewet
 artikel: 44a
 hoofdstuk: III. Gedeputeerde staten

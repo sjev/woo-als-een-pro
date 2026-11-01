@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.71 Omgevingswet
 wet: Omgevingswet
 artikel: '16.71'
 hoofdstuk: 16. Procedures

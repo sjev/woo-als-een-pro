@@ -1,4 +1,5 @@
 ---
+title: Artikel 51 Provinciewet
 wet: Provinciewet
 artikel: '51'
 hoofdstuk: III. Gedeputeerde staten

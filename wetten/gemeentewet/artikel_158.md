@@ -1,4 +1,5 @@
 ---
+title: Artikel 158 Gemeentewet
 wet: Gemeentewet
 artikel: '158'
 hoofdstuk: IX. De bevoegdheid van de raad

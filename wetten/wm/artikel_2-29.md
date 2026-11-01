@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.29 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '2.29'
 hoofdstuk: 2. Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen

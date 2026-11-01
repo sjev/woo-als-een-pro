@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.13 Omgevingswet
 wet: Omgevingswet
 artikel: '19.13'
 hoofdstuk: 19. Bevoegdheden in bijzondere omstandigheden

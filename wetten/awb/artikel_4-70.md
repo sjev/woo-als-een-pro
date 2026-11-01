@@ -1,4 +1,5 @@
 ---
+title: Artikel 4:70 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 4:70
 hoofdstuk: 4. Bijzondere bepalingen over besluiten

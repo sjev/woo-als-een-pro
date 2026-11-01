@@ -1,4 +1,5 @@
 ---
+title: Artikel 106 Gemeentewet
 wet: Gemeentewet
 artikel: '106'
 hoofdstuk: VII. De secretaris en de griffier

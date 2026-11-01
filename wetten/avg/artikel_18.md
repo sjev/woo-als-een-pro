@@ -1,4 +1,5 @@
 ---
+title: Artikel 18 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '18'
 hoofdstuk: III. Rechten van de betrokkene

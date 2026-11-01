@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.31 Omgevingswet
 wet: Omgevingswet
 artikel: '16.31'
 hoofdstuk: 16. Procedures

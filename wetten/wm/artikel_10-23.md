@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.23 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.23'
 hoofdstuk: 10. Afvalstoffen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.7 Omgevingswet
 wet: Omgevingswet
 artikel: '11.7'
 hoofdstuk: 11. Onteigening

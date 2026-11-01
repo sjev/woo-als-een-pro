@@ -1,4 +1,5 @@
 ---
+title: Artikel 159 Provinciewet
 wet: Provinciewet
 artikel: '159'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

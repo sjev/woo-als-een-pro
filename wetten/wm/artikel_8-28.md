@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.28 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '8.28'
 hoofdstuk: 8. Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen

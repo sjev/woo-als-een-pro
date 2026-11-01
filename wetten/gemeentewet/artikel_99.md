@@ -1,4 +1,5 @@
 ---
+title: Artikel 99 Gemeentewet
 wet: Gemeentewet
 artikel: '99'
 hoofdstuk: VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de

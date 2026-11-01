@@ -1,4 +1,5 @@
 ---
+title: Artikel 124a Gemeentewet
 wet: Gemeentewet
 artikel: 124a
 hoofdstuk: VIII. Algemene bepalingen

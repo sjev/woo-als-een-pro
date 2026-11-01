@@ -1,4 +1,5 @@
 ---
+title: Artikel 185 Provinciewet
 wet: Provinciewet
 artikel: '185'
 hoofdstuk: XIA. De bevoegdheid van de rekenkamer

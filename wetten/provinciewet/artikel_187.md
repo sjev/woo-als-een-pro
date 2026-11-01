@@ -1,4 +1,5 @@
 ---
+title: Artikel 187 Provinciewet
 wet: Provinciewet
 artikel: '187'
 hoofdstuk: XII. Algemene bepalingen

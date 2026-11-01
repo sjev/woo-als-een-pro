@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.26 Omgevingswet
 wet: Omgevingswet
 artikel: '20.26'
 hoofdstuk: 20. Monitoring en informatie

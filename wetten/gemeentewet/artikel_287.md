@@ -1,4 +1,5 @@
 ---
+title: Artikel 287 Gemeentewet
 wet: Gemeentewet
 artikel: '287'
 valid_from: '2026-10-01'

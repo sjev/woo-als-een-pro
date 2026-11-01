@@ -1,4 +1,5 @@
 ---
+title: Artikel 220h Gemeentewet
 wet: Gemeentewet
 artikel: 220h
 hoofdstuk: XV. De gemeentelijke belastingen

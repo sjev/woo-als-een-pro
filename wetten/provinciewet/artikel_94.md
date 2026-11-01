@@ -1,4 +1,5 @@
 ---
+title: Artikel 94 Provinciewet
 wet: Provinciewet
 artikel: '94'
 hoofdstuk: VI. Geldelijke voorzieningen ten behoeve van de leden van provinciale staten

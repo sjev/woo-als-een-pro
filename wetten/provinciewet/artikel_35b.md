@@ -1,4 +1,5 @@
 ---
+title: Artikel 35b Provinciewet
 wet: Provinciewet
 artikel: 35b
 hoofdstuk: III. Gedeputeerde staten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 196 Provinciewet
 wet: Provinciewet
 artikel: '196'
 hoofdstuk: XIII. De begroting en de jaarrekening

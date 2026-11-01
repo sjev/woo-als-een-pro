@@ -1,4 +1,5 @@
 ---
+title: Artikel 2 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '2'
 hoofdstuk: I. Algemene bepalingen

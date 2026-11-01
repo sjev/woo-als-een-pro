@@ -1,4 +1,5 @@
 ---
+title: Artikel 266 Gemeentewet
 wet: Gemeentewet
 artikel: '266'
 hoofdstuk: XVI. Goedkeuring

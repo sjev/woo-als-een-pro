@@ -1,4 +1,5 @@
 ---
+title: Artikel 232a Provinciewet
 wet: Provinciewet
 artikel: 232a
 hoofdstuk: XV. De provinciale belastingen

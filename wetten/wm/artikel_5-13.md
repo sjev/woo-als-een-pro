@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.13 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '5.13'
 hoofdstuk: 5. Milieukwaliteitseisen

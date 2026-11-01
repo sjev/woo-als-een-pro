@@ -1,4 +1,5 @@
 ---
+title: Artikel 14.6 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '14.6'
 hoofdstuk: 14. Coördinatie

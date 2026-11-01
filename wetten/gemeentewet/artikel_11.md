@@ -1,4 +1,5 @@
 ---
+title: Artikel 11 Gemeentewet
 wet: Gemeentewet
 artikel: '11'
 hoofdstuk: II. De raad

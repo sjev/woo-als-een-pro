@@ -1,4 +1,5 @@
 ---
+title: Artikel 16b.7 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 16b.7
 hoofdstuk: 16b. Emissie van broeikasgas door de industrie

@@ -1,4 +1,5 @@
 ---
+title: Artikel 12.20a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 12.20a
 hoofdstuk: 12. Verslag-, registratie- en meetverplichtingen

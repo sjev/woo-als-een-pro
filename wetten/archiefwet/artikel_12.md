@@ -1,4 +1,5 @@
 ---
+title: Artikel 12 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '12'
 hoofdstuk: II. Archiefbescheiden in het algemeen

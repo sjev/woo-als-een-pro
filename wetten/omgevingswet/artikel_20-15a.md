@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.15a Omgevingswet
 wet: Omgevingswet
 artikel: 20.15a
 hoofdstuk: 20. Monitoring en informatie

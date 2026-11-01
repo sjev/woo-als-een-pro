@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.85 Omgevingswet
 wet: Omgevingswet
 artikel: '16.85'
 hoofdstuk: 16. Procedures

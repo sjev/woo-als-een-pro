@@ -1,4 +1,5 @@
 ---
+title: Artikel 249 Provinciewet
 wet: Provinciewet
 artikel: '249'
 hoofdstuk: XVI. Het Provinciefonds

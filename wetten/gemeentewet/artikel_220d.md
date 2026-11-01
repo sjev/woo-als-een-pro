@@ -1,4 +1,5 @@
 ---
+title: Artikel 220d Gemeentewet
 wet: Gemeentewet
 artikel: 220d
 hoofdstuk: XV. De gemeentelijke belastingen

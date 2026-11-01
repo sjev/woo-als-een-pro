@@ -1,4 +1,5 @@
 ---
+title: Artikel 280 Gemeentewet
 wet: Gemeentewet
 artikel: '280'
 hoofdstuk: XVII. Schorsing en vernietiging

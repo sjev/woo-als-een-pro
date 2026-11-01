@@ -1,4 +1,5 @@
 ---
+title: Artikel 3 Algemene termijnenwet
 wet: Algemene termijnenwet
 artikel: '3'
 valid_from: '2010-10-10'

@@ -1,4 +1,5 @@
 ---
+title: Artikel 239 Provinciewet
 wet: Provinciewet
 artikel: '239'
 hoofdstuk: XVI. Het Provinciefonds

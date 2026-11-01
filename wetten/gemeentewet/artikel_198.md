@@ -1,4 +1,5 @@
 ---
+title: Artikel 198 Gemeentewet
 wet: Gemeentewet
 artikel: '198'
 hoofdstuk: XIII. De begroting en de jaarrekening

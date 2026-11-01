@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.1a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 19.1a
 hoofdstuk: 19. Openbaarheid van milieu-informatie

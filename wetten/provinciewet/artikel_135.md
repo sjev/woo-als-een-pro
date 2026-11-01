@@ -1,4 +1,5 @@
 ---
+title: Artikel 135 Provinciewet
 wet: Provinciewet
 artikel: '135'
 hoofdstuk: VIII. Algemene bepalingen

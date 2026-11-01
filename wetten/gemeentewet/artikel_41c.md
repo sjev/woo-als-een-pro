@@ -1,4 +1,5 @@
 ---
+title: Artikel 41c Gemeentewet
 wet: Gemeentewet
 artikel: 41c
 hoofdstuk: III. Het college van burgemeester en wethouders

@@ -1,4 +1,5 @@
 ---
+title: Artikel 109 Gemeentewet
 wet: Gemeentewet
 artikel: '109'
 hoofdstuk: VIII. Algemene bepalingen

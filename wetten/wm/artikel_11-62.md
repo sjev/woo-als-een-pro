@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.62 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '11.62'
 hoofdstuk: 11. Geluid

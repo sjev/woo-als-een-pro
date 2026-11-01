@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.74 Omgevingswet
 wet: Omgevingswet
 artikel: '16.74'
 hoofdstuk: 16. Procedures

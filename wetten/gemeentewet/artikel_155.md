@@ -1,4 +1,5 @@
 ---
+title: Artikel 155 Gemeentewet
 wet: Gemeentewet
 artikel: '155'
 hoofdstuk: IX. De bevoegdheid van de raad

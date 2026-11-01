@@ -1,4 +1,5 @@
 ---
+title: Artikel 306 Gemeentewet
 wet: Gemeentewet
 artikel: '306'
 valid_from: '2026-10-01'

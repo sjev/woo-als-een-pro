@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.10c Omgevingswet
 wet: Omgevingswet
 artikel: 10.10c
 hoofdstuk: 10. Gedoogplichten

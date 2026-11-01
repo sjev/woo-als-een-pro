@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.6a Omgevingswet
 wet: Omgevingswet
 artikel: 18.6a
 hoofdstuk: 18. Handhaving en uitvoering

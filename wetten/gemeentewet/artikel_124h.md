@@ -1,4 +1,5 @@
 ---
+title: Artikel 124h Gemeentewet
 wet: Gemeentewet
 artikel: 124h
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 103 Provinciewet
 wet: Provinciewet
 artikel: '103'
 hoofdstuk: VII. De secretaris en de griffier

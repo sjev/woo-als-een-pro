@@ -1,4 +1,5 @@
 ---
+title: Artikel 301 Provinciewet
 wet: Provinciewet
 artikel: '301'
 valid_from: '2026-07-01'

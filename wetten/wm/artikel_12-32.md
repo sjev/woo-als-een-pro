@@ -1,4 +1,5 @@
 ---
+title: Artikel 12.32 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '12.32'
 hoofdstuk: 12. Verslag-, registratie- en meetverplichtingen

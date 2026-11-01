@@ -1,4 +1,5 @@
 ---
+title: Artikel 128 Provinciewet
 wet: Provinciewet
 artikel: '128'
 hoofdstuk: VIII. Algemene bepalingen

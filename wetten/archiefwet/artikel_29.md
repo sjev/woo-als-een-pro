@@ -1,4 +1,5 @@
 ---
+title: Artikel 29 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '29'
 hoofdstuk: IV. Archiefbescheiden van provincies

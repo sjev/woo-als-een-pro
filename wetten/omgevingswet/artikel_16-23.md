@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.23 Omgevingswet
 wet: Omgevingswet
 artikel: '16.23'
 hoofdstuk: 16. Procedures

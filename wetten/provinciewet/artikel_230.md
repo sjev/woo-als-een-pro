@@ -1,4 +1,5 @@
 ---
+title: Artikel 230 Provinciewet
 wet: Provinciewet
 artikel: '230'
 hoofdstuk: XV. De provinciale belastingen

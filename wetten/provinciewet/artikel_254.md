@@ -1,4 +1,5 @@
 ---
+title: Artikel 254 Provinciewet
 wet: Provinciewet
 artikel: '254'
 hoofdstuk: XVII. Goedkeuring

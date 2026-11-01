@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.6 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.6'
 hoofdstuk: 7. Milieueffectrapportage

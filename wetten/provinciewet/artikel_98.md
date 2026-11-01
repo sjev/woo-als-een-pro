@@ -1,4 +1,5 @@
 ---
+title: Artikel 98 Provinciewet
 wet: Provinciewet
 artikel: '98'
 hoofdstuk: VII. De secretaris en de griffier

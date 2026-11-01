@@ -1,4 +1,5 @@
 ---
+title: Artikel 20 Gemeentewet
 wet: Gemeentewet
 artikel: '20'
 hoofdstuk: II. De raad

@@ -1,4 +1,5 @@
 ---
+title: Artikel 13.3d Omgevingswet
 wet: Omgevingswet
 artikel: 13.3d
 hoofdstuk: 13. Financiële bepalingen

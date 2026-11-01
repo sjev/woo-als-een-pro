@@ -1,4 +1,5 @@
 ---
+title: Artikel 282 Provinciewet
 wet: Provinciewet
 artikel: '282'
 valid_from: '2026-07-01'

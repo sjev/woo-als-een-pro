@@ -1,4 +1,5 @@
 ---
+title: Artikel 69 Gemeentewet
 wet: Gemeentewet
 artikel: '69'
 hoofdstuk: IV. De burgemeester

@@ -1,4 +1,5 @@
 ---
+title: Artikel 111 Gemeentewet
 wet: Gemeentewet
 artikel: '111'
 hoofdstuk: VIII. Algemene bepalingen

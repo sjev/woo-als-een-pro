@@ -1,4 +1,5 @@
 ---
+title: Artikel 91 Gemeentewet
 wet: Gemeentewet
 artikel: '91'
 hoofdstuk: Va. Geheimhouding

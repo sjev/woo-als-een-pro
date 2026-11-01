@@ -1,4 +1,5 @@
 ---
+title: Artikel 271a Provinciewet
 wet: Provinciewet
 artikel: 271a
 hoofdstuk: XVIII. Schorsing en vernietiging

@@ -1,4 +1,5 @@
 ---
+title: Artikel 225 Provinciewet
 wet: Provinciewet
 artikel: '225'
 hoofdstuk: XV. De provinciale belastingen

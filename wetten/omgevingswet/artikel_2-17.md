@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.17 Omgevingswet
 wet: Omgevingswet
 artikel: '2.17'
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

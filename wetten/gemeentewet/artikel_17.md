@@ -1,4 +1,5 @@
 ---
+title: Artikel 17 Gemeentewet
 wet: Gemeentewet
 artikel: '17'
 hoofdstuk: II. De raad

@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.3b Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 1.3b
 hoofdstuk: 1. Algemeen

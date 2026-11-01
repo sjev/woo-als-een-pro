@@ -1,4 +1,5 @@
 ---
+title: Artikel 71 Gemeentewet
 wet: Gemeentewet
 artikel: '71'
 hoofdstuk: IV. De burgemeester

@@ -1,4 +1,5 @@
 ---
+title: Artikel 199 Provinciewet
 wet: Provinciewet
 artikel: '199'
 hoofdstuk: XIII. De begroting en de jaarrekening

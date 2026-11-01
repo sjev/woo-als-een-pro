@@ -1,4 +1,5 @@
 ---
+title: Bijlage 2 bij de Wet milieubeheer
 wet: Wet milieubeheer
 bijlage: Bijlage 2
 titel: bij de Wet milieubeheer

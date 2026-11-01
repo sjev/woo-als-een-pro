@@ -1,4 +1,5 @@
 ---
+title: Artikel 85 Gemeentewet
 wet: Gemeentewet
 artikel: '85'
 hoofdstuk: V. De commissies

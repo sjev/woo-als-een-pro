@@ -1,4 +1,5 @@
 ---
+title: Artikel 42 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '42'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

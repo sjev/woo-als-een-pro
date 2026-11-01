@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.6 Omgevingswet
 wet: Omgevingswet
 artikel: '16.6'
 hoofdstuk: 16. Procedures

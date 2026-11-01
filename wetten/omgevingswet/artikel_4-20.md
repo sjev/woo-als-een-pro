@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.20 Omgevingswet
 wet: Omgevingswet
 artikel: '4.20'
 hoofdstuk: 4. Algemene regels over activiteiten in de fysieke leefomgeving

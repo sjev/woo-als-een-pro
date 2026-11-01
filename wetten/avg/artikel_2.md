@@ -1,4 +1,5 @@
 ---
+title: Artikel 2 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '2'
 hoofdstuk: I. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.36 Omgevingswet
 wet: Omgevingswet
 artikel: '4.36'
 hoofdstuk: 4. Algemene regels over activiteiten in de fysieke leefomgeving

@@ -1,4 +1,5 @@
 ---
+title: Artikel 33 Gemeentewet
 wet: Gemeentewet
 artikel: '33'
 hoofdstuk: II. De raad

@@ -1,4 +1,5 @@
 ---
+title: Artikel 17.2 Omgevingswet
 wet: Omgevingswet
 artikel: '17.2'
 hoofdstuk: 17. Adviesorganen en adviseurs

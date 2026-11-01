@@ -1,4 +1,5 @@
 ---
+title: Artikel 110 Gemeentewet
 wet: Gemeentewet
 artikel: '110'
 hoofdstuk: VIII. Algemene bepalingen

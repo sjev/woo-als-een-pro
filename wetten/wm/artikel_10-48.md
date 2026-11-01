@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.48 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.48'
 hoofdstuk: 10. Afvalstoffen

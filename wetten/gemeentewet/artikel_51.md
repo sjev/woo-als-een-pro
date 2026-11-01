@@ -1,4 +1,5 @@
 ---
+title: Artikel 51 Gemeentewet
 wet: Gemeentewet
 artikel: '51'
 hoofdstuk: III. Het college van burgemeester en wethouders

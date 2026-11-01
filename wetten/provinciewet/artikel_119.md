@@ -1,4 +1,5 @@
 ---
+title: Artikel 119 Provinciewet
 wet: Provinciewet
 artikel: '119'
 hoofdstuk: VIII. Algemene bepalingen

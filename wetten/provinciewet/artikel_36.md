@@ -1,4 +1,5 @@
 ---
+title: Artikel 36 Provinciewet
 wet: Provinciewet
 artikel: '36'
 hoofdstuk: III. Gedeputeerde staten

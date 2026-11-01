@@ -1,4 +1,5 @@
 ---
+title: Artikel 110 Provinciewet
 wet: Provinciewet
 artikel: '110'
 hoofdstuk: VIII. Algemene bepalingen

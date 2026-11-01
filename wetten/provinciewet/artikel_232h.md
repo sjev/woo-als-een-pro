@@ -1,4 +1,5 @@
 ---
+title: Artikel 232h Provinciewet
 wet: Provinciewet
 artikel: 232h
 hoofdstuk: XV. De provinciale belastingen

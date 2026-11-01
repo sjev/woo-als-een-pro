@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.33a Omgevingswet
 wet: Omgevingswet
 artikel: 5.33a
 hoofdstuk: 5. De omgevingsvergunning en het projectbesluit

@@ -1,4 +1,5 @@
 ---
+title: Artikel 299 Gemeentewet
 wet: Gemeentewet
 artikel: '299'
 valid_from: '2026-10-01'

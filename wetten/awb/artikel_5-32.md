@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:32 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '5:32'
 hoofdstuk: 5. Handhaving

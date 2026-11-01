@@ -1,4 +1,5 @@
 ---
+title: Artikel 179 Provinciewet
 wet: Provinciewet
 artikel: '179'
 hoofdstuk: XI. De bevoegdheid van de commissaris van de Koning

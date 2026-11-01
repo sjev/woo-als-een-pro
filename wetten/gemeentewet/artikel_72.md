@@ -1,4 +1,5 @@
 ---
+title: Artikel 72 Gemeentewet
 wet: Gemeentewet
 artikel: '72'
 hoofdstuk: IV. De burgemeester

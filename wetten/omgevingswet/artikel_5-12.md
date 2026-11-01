@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.12 Omgevingswet
 wet: Omgevingswet
 artikel: '5.12'
 hoofdstuk: 5. De omgevingsvergunning en het projectbesluit

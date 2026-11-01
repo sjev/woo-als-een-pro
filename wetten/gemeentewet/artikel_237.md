@@ -1,4 +1,5 @@
 ---
+title: Artikel 237 Gemeentewet
 wet: Gemeentewet
 artikel: '237'
 hoofdstuk: XV. De gemeentelijke belastingen

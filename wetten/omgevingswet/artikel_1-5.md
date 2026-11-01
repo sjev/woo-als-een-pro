@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.5 Omgevingswet
 wet: Omgevingswet
 artikel: '1.5'
 hoofdstuk: 1. Algemene bepalingen

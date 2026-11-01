@@ -3,7 +3,7 @@ bwb_id: CELEX:32016R0679
 title: Algemene verordening gegevensbescherming
 short_title: Algemene verordening gegevensbescherming
 valid_from: '2018-05-25'
-fetched_at: '2026-10-31T23:22:52+00:00'
+fetched_at: '2026-11-01T18:11:16+00:00'
 source: http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1.0017.03/DOC_1
 ---
 

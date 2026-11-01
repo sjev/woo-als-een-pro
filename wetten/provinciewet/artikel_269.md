@@ -1,4 +1,5 @@
 ---
+title: Artikel 269 Provinciewet
 wet: Provinciewet
 artikel: '269'
 hoofdstuk: XVIII. Schorsing en vernietiging

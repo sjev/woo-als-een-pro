@@ -1,4 +1,5 @@
 ---
+title: Artikel 147a Gemeentewet
 wet: Gemeentewet
 artikel: 147a
 hoofdstuk: IX. De bevoegdheid van de raad

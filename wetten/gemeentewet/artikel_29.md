@@ -1,4 +1,5 @@
 ---
+title: Artikel 29 Gemeentewet
 wet: Gemeentewet
 artikel: '29'
 hoofdstuk: II. De raad

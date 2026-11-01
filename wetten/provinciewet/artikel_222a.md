@@ -1,4 +1,5 @@
 ---
+title: Artikel 222a Provinciewet
 wet: Provinciewet
 artikel: 222a
 hoofdstuk: XV. De provinciale belastingen

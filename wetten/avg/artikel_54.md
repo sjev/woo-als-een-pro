@@ -1,4 +1,5 @@
 ---
+title: Artikel 54 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '54'
 hoofdstuk: VI. Onafhankelijke toezichthoudende autoriteiten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 61b Provinciewet
 wet: Provinciewet
 artikel: 61b
 hoofdstuk: IV. De commissaris van de Koning

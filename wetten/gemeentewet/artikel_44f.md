@@ -1,4 +1,5 @@
 ---
+title: Artikel 44f Gemeentewet
 wet: Gemeentewet
 artikel: 44f
 hoofdstuk: III. Het college van burgemeester en wethouders

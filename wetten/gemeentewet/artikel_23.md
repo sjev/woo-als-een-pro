@@ -1,4 +1,5 @@
 ---
+title: Artikel 23 Gemeentewet
 wet: Gemeentewet
 artikel: '23'
 hoofdstuk: II. De raad

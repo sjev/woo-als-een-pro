@@ -1,4 +1,5 @@
 ---
+title: Artikel 79 Provinciewet
 wet: Provinciewet
 artikel: '79'
 hoofdstuk: IV. De commissaris van de Koning

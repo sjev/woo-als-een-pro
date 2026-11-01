@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.5 Wet open overheid
 wet: Wet open overheid
 artikel: '8.5'
 hoofdstuk: 8. Overige bepalingen

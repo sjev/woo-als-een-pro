@@ -1,4 +1,5 @@
 ---
+title: Artikel 29 Provinciewet
 wet: Provinciewet
 artikel: '29'
 hoofdstuk: II. Provinciale staten

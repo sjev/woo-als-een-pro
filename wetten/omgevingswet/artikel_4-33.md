@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.33 Omgevingswet
 wet: Omgevingswet
 artikel: '4.33'
 hoofdstuk: 4. Algemene regels over activiteiten in de fysieke leefomgeving

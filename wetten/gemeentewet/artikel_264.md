@@ -1,4 +1,5 @@
 ---
+title: Artikel 264 Gemeentewet
 wet: Gemeentewet
 artikel: '264'
 hoofdstuk: XVI. Goedkeuring

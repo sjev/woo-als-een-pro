@@ -1,4 +1,5 @@
 ---
+title: Artikel 77 Provinciewet
 wet: Provinciewet
 artikel: '77'
 hoofdstuk: IV. De commissaris van de Koning

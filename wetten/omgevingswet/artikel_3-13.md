@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.13 Omgevingswet
 wet: Omgevingswet
 artikel: '3.13'
 hoofdstuk: 3. Omgevingsvisies en programma’s

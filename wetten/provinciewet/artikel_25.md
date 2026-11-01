@@ -1,4 +1,5 @@
 ---
+title: Artikel 25 Provinciewet
 wet: Provinciewet
 artikel: '25'
 hoofdstuk: II. Provinciale staten

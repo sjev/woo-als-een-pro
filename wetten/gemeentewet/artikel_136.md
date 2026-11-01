@@ -1,4 +1,5 @@
 ---
+title: Artikel 136 Gemeentewet
 wet: Gemeentewet
 artikel: '136'
 hoofdstuk: VIII. Algemene bepalingen

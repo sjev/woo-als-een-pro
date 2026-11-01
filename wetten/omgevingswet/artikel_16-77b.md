@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.77b Omgevingswet
 wet: Omgevingswet
 artikel: 16.77b
 hoofdstuk: 16. Procedures

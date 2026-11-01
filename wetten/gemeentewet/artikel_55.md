@@ -1,4 +1,5 @@
 ---
+title: Artikel 55 Gemeentewet
 wet: Gemeentewet
 artikel: '55'
 hoofdstuk: III. Het college van burgemeester en wethouders

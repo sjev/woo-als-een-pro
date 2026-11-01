@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.17 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '20.17'
 hoofdstuk: 20. Inwerkingtreding en rechtsbescherming

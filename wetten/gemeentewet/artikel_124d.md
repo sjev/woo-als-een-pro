@@ -1,4 +1,5 @@
 ---
+title: Artikel 124d Gemeentewet
 wet: Gemeentewet
 artikel: 124d
 hoofdstuk: VIII. Algemene bepalingen

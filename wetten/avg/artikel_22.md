@@ -1,4 +1,5 @@
 ---
+title: Artikel 22 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '22'
 hoofdstuk: III. Rechten van de betrokkene

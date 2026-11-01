@@ -1,4 +1,5 @@
 ---
+title: Artikel 23a Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: 23a
 hoofdstuk: 3. Bepalingen ter uitvoering van de verordening

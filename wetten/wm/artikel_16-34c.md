@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.34c Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 16.34c
 hoofdstuk: 16. Handel in emissierechten

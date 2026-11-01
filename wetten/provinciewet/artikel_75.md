@@ -1,4 +1,5 @@
 ---
+title: Artikel 75 Provinciewet
 wet: Provinciewet
 artikel: '75'
 hoofdstuk: IV. De commissaris van de Koning

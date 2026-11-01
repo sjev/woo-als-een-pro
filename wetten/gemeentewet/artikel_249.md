@@ -1,4 +1,5 @@
 ---
+title: Artikel 249 Gemeentewet
 wet: Gemeentewet
 artikel: '249'
 hoofdstuk: XV. De gemeentelijke belastingen

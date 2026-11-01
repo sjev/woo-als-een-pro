@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:43 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '5:43'
 hoofdstuk: 5. Handhaving

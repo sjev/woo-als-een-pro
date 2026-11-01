@@ -1,4 +1,5 @@
 ---
+title: Artikel 253 Provinciewet
 wet: Provinciewet
 artikel: '253'
 hoofdstuk: XVII. Goedkeuring

@@ -1,4 +1,5 @@
 ---
+title: Artikel 187 Gemeentewet
 wet: Gemeentewet
 artikel: '187'
 hoofdstuk: XII. Algemene bepalingen

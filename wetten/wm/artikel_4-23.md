@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.23 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '4.23'
 hoofdstuk: 4. Plannen

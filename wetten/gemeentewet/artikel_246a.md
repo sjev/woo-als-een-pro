@@ -1,4 +1,5 @@
 ---
+title: Artikel 246a Gemeentewet
 wet: Gemeentewet
 artikel: 246a
 hoofdstuk: XV. De gemeentelijke belastingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 76 Provinciewet
 wet: Provinciewet
 artikel: '76'
 hoofdstuk: IV. De commissaris van de Koning

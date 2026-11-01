@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.1 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '3.1'
 hoofdstuk: 3. Internationale zaken

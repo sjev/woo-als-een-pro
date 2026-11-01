@@ -1,4 +1,5 @@
 ---
+title: Artikel 70 Provinciewet
 wet: Provinciewet
 artikel: '70'
 hoofdstuk: IV. De commissaris van de Koning

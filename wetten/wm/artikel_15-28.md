@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.28 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '15.28'
 hoofdstuk: 15. Financiële bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 23.5 Omgevingswet
 wet: Omgevingswet
 artikel: '23.5'
 hoofdstuk: 23. Overige en slotbepalingen

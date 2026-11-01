@@ -1,4 +1,5 @@
 ---
+title: Artikel 201 Provinciewet
 wet: Provinciewet
 artikel: '201'
 hoofdstuk: XIII. De begroting en de jaarrekening

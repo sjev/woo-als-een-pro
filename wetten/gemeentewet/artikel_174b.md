@@ -1,4 +1,5 @@
 ---
+title: Artikel 174b Gemeentewet
 wet: Gemeentewet
 artikel: 174b
 hoofdstuk: XI. De bevoegdheid van de burgemeester

@@ -1,4 +1,5 @@
 ---
+title: Artikel 300a Provinciewet
 wet: Provinciewet
 artikel: 300a
 valid_from: '2026-07-01'

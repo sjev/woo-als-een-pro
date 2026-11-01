@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.100 Omgevingswet
 wet: Omgevingswet
 artikel: '16.100'
 hoofdstuk: 16. Procedures

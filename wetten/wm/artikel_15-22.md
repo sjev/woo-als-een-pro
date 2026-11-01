@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.22 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '15.22'
 hoofdstuk: 15. Financiële bepalingen

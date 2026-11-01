@@ -1,4 +1,5 @@
 ---
+title: Artikel 299a Gemeentewet
 wet: Gemeentewet
 artikel: 299a
 valid_from: '2026-10-01'

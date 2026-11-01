@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.114 Omgevingswet
 wet: Omgevingswet
 artikel: '16.114'
 hoofdstuk: 16. Procedures

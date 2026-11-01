@@ -1,4 +1,5 @@
 ---
+title: Artikel 270 Gemeentewet
 wet: Gemeentewet
 artikel: '270'
 hoofdstuk: XVII. Schorsing en vernietiging

@@ -1,4 +1,5 @@
 ---
+title: Artikel 61c Provinciewet
 wet: Provinciewet
 artikel: 61c
 hoofdstuk: IV. De commissaris van de Koning

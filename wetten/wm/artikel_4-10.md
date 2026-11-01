@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.10 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '4.10'
 hoofdstuk: 4. Plannen

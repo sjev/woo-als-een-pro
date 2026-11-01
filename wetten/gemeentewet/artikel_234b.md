@@ -1,4 +1,5 @@
 ---
+title: Artikel 234b Gemeentewet
 wet: Gemeentewet
 artikel: 234b
 hoofdstuk: XV. De gemeentelijke belastingen

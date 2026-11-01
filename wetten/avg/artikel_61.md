@@ -1,4 +1,5 @@
 ---
+title: Artikel 61 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '61'
 hoofdstuk: VII. Samenwerking en coherentie

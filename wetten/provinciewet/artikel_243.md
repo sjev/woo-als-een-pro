@@ -1,4 +1,5 @@
 ---
+title: Artikel 243 Provinciewet
 wet: Provinciewet
 artikel: '243'
 hoofdstuk: XVI. Het Provinciefonds

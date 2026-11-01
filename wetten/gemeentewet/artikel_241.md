@@ -1,4 +1,5 @@
 ---
+title: Artikel 241 Gemeentewet
 wet: Gemeentewet
 artikel: '241'
 hoofdstuk: XV. De gemeentelijke belastingen

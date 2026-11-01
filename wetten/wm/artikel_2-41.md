@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.41 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '2.41'
 hoofdstuk: 2. Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen

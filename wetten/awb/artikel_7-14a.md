@@ -1,4 +1,5 @@
 ---
+title: Artikel 7:14a Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 7:14a
 hoofdstuk: 7. Bijzondere bepalingen over bezwaar en administratief beroep

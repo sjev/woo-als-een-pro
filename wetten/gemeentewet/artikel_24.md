@@ -1,4 +1,5 @@
 ---
+title: Artikel 24 Gemeentewet
 wet: Gemeentewet
 artikel: '24'
 hoofdstuk: II. De raad

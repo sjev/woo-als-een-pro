@@ -1,4 +1,5 @@
 ---
+title: Artikel 79 Gemeentewet
 wet: Gemeentewet
 artikel: '79'
 hoofdstuk: IV. De burgemeester

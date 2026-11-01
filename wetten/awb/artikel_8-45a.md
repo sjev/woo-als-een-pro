@@ -1,4 +1,5 @@
 ---
+title: Artikel 8:45a Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 8:45a
 hoofdstuk: 8. Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter

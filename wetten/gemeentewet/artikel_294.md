@@ -1,4 +1,5 @@
 ---
+title: Artikel 294 Gemeentewet
 wet: Gemeentewet
 artikel: '294'
 valid_from: '2026-10-01'

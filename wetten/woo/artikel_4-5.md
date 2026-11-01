@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.5 Wet open overheid
 wet: Wet open overheid
 artikel: '4.5'
 hoofdstuk: 4. Openbaarmaking op verzoek

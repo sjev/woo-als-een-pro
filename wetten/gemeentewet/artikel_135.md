@@ -1,4 +1,5 @@
 ---
+title: Artikel 135 Gemeentewet
 wet: Gemeentewet
 artikel: '135'
 hoofdstuk: VIII. Algemene bepalingen

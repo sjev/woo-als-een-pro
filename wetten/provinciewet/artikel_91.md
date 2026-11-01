@@ -1,4 +1,5 @@
 ---
+title: Artikel 91 Provinciewet
 wet: Provinciewet
 artikel: '91'
 hoofdstuk: VA. Geheimhouding

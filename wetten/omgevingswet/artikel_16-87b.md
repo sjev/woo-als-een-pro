@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.87b Omgevingswet
 wet: Omgevingswet
 artikel: 16.87b
 hoofdstuk: 16. Procedures

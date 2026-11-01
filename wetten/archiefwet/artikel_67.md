@@ -1,4 +1,5 @@
 ---
+title: Artikel 67 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '67'
 hoofdstuk: IX. Overgangs- en slotbepalingen

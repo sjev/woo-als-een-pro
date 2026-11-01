@@ -1,4 +1,5 @@
 ---
+title: Artikel 256 Provinciewet
 wet: Provinciewet
 artikel: '256'
 hoofdstuk: XVII. Goedkeuring

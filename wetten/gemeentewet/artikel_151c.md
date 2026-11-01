@@ -1,4 +1,5 @@
 ---
+title: Artikel 151c Gemeentewet
 wet: Gemeentewet
 artikel: 151c
 hoofdstuk: IX. De bevoegdheid van de raad

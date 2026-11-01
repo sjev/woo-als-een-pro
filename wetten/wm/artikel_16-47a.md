@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.47a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 16.47a
 hoofdstuk: 16. Handel in emissierechten

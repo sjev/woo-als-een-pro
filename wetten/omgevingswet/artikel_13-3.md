@@ -1,4 +1,5 @@
 ---
+title: Artikel 13.3 Omgevingswet
 wet: Omgevingswet
 artikel: '13.3'
 hoofdstuk: 13. Financiële bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 2:13 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '2:13'
 hoofdstuk: 2. Verkeer met bestuursorganen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 143a Provinciewet
 wet: Provinciewet
 artikel: 143a
 hoofdstuk: IX. De bevoegdheid van provinciale staten

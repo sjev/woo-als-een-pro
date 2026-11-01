@@ -1,4 +1,5 @@
 ---
+title: Artikel 9.8.3.5 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 9.8.3.5
 hoofdstuk: 9. Stoffen en produkten

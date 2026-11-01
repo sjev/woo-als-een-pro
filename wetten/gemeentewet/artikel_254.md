@@ -1,4 +1,5 @@
 ---
+title: Artikel 254 Gemeentewet
 wet: Gemeentewet
 artikel: '254'
 hoofdstuk: XV. De gemeentelijke belastingen

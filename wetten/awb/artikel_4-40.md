@@ -1,4 +1,5 @@
 ---
+title: Artikel 4:40 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '4:40'
 hoofdstuk: 4. Bijzondere bepalingen over besluiten

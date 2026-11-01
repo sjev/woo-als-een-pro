@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.20 Omgevingswet
 wet: Omgevingswet
 artikel: '16.20'
 hoofdstuk: 16. Procedures

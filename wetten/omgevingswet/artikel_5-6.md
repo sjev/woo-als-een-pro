@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.6 Omgevingswet
 wet: Omgevingswet
 artikel: '5.6'
 hoofdstuk: 5. De omgevingsvergunning en het projectbesluit

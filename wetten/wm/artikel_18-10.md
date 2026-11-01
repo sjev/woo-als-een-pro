@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.10 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '18.10'
 hoofdstuk: 18. Handhaving

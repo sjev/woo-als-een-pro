@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.9 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '8.9'
 hoofdstuk: 8. Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen

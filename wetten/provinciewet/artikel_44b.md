@@ -1,4 +1,5 @@
 ---
+title: Artikel 44b Provinciewet
 wet: Provinciewet
 artikel: 44b
 hoofdstuk: III. Gedeputeerde staten

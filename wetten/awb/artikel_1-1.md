@@ -1,4 +1,5 @@
 ---
+title: Artikel 1:1 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '1:1'
 hoofdstuk: 1. Inleidende bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.31a Omgevingswet
 wet: Omgevingswet
 artikel: 2.31a
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

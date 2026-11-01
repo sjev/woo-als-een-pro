@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.21 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '18.21'
 hoofdstuk: 18. Handhaving

@@ -1,4 +1,5 @@
 ---
+title: Artikel 220 Provinciewet
 wet: Provinciewet
 artikel: '220'
 hoofdstuk: XV. De provinciale belastingen

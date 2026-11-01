@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.4 Wet open overheid
 wet: Wet open overheid
 artikel: '7.4'
 hoofdstuk: 7. Het adviescollege openbaarheid en informatiehuishouding

@@ -1,4 +1,5 @@
 ---
+title: Artikel 36 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '36'
 hoofdstuk: 3. Bepalingen ter uitvoering van de verordening

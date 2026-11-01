@@ -1,4 +1,5 @@
 ---
+title: Artikel 79 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '79'
 hoofdstuk: VIII. Beroep, aansprakelijkheid en sancties

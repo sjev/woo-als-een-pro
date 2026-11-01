@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.44 Omgevingswet
 wet: Omgevingswet
 artikel: '16.44'
 hoofdstuk: 16. Procedures

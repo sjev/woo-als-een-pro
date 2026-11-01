@@ -1,4 +1,5 @@
 ---
+title: Artikel 104e Provinciewet
 wet: Provinciewet
 artikel: 104e
 hoofdstuk: VII. De secretaris en de griffier

@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.29a Omgevingswet
 wet: Omgevingswet
 artikel: 2.29a
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

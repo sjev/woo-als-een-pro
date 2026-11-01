@@ -1,4 +1,5 @@
 ---
+title: Artikel 123 Gemeentewet
 wet: Gemeentewet
 artikel: '123'
 hoofdstuk: VIII. Algemene bepalingen

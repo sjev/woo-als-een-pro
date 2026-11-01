@@ -1,4 +1,5 @@
 ---
+title: Artikel 8:14 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '8:14'
 hoofdstuk: 8. Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter

@@ -1,4 +1,5 @@
 ---
+title: Artikel 122 Provinciewet
 wet: Provinciewet
 artikel: '122'
 hoofdstuk: VIII. Algemene bepalingen

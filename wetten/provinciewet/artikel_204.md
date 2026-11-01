@@ -1,4 +1,5 @@
 ---
+title: Artikel 204 Provinciewet
 wet: Provinciewet
 artikel: '204'
 hoofdstuk: XIII. De begroting en de jaarrekening

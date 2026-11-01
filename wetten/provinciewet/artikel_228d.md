@@ -1,4 +1,5 @@
 ---
+title: Artikel 228d Provinciewet
 wet: Provinciewet
 artikel: 228d
 hoofdstuk: XV. De provinciale belastingen

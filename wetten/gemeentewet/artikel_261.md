@@ -1,4 +1,5 @@
 ---
+title: Artikel 261 Gemeentewet
 wet: Gemeentewet
 artikel: '261'
 hoofdstuk: XVI. Goedkeuring

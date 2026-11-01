@@ -1,4 +1,5 @@
 ---
+title: Artikel 10:3 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '10:3'
 hoofdstuk: 10. Bepalingen over bestuursorganen

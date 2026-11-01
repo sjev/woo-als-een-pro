@@ -1,4 +1,5 @@
 ---
+title: Artikel 45 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '45'
 hoofdstuk: IX. Overgangs- en slotbepalingen

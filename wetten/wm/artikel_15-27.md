@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.27 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '15.27'
 hoofdstuk: 15. Financiële bepalingen

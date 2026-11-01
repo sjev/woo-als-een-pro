@@ -1,4 +1,5 @@
 ---
+title: Artikel 214 Provinciewet
 wet: Provinciewet
 artikel: '214'
 hoofdstuk: XIII. De begroting en de jaarrekening

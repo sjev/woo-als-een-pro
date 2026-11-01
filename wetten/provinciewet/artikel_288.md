@@ -1,4 +1,5 @@
 ---
+title: Artikel 288 Provinciewet
 wet: Provinciewet
 artikel: '288'
 valid_from: '2026-07-01'

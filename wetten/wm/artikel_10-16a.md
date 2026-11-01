@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.16a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 10.16a
 hoofdstuk: 10. Afvalstoffen

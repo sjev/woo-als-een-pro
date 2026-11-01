@@ -1,4 +1,5 @@
 ---
+title: Artikel 263 Gemeentewet
 wet: Gemeentewet
 artikel: '263'
 hoofdstuk: XVI. Goedkeuring

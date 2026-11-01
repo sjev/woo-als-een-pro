@@ -1,4 +1,5 @@
 ---
+title: Artikel 167 Gemeentewet
 wet: Gemeentewet
 artikel: '167'
 hoofdstuk: X. De bevoegdheid van het college van burgemeester en wethouders

@@ -1,4 +1,5 @@
 ---
+title: Artikel 43d Provinciewet
 wet: Provinciewet
 artikel: 43d
 hoofdstuk: III. Gedeputeerde staten

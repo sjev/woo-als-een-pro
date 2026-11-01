@@ -1,4 +1,5 @@
 ---
+title: Artikel 36b Gemeentewet
 wet: Gemeentewet
 artikel: 36b
 hoofdstuk: III. Het college van burgemeester en wethouders

@@ -1,4 +1,5 @@
 ---
+title: Artikel 23.9 Omgevingswet
 wet: Omgevingswet
 artikel: '23.9'
 hoofdstuk: 23. Overige en slotbepalingen

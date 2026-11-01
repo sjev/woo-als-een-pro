@@ -1,4 +1,5 @@
 ---
+title: Artikel 227a Gemeentewet
 wet: Gemeentewet
 artikel: 227a
 hoofdstuk: XV. De gemeentelijke belastingen

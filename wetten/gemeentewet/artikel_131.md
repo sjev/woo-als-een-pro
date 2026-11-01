@@ -1,4 +1,5 @@
 ---
+title: Artikel 131 Gemeentewet
 wet: Gemeentewet
 artikel: '131'
 hoofdstuk: VIII. Algemene bepalingen

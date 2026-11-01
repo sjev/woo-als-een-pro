@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.9 Omgevingswet
 wet: Omgevingswet
 artikel: '10.9'
 hoofdstuk: 10. Gedoogplichten

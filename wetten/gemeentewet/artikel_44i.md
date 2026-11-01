@@ -1,4 +1,5 @@
 ---
+title: Artikel 44i Gemeentewet
 wet: Gemeentewet
 artikel: 44i
 hoofdstuk: III. Het college van burgemeester en wethouders

@@ -1,4 +1,5 @@
 ---
+title: Artikel 8 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '8'
 hoofdstuk: 2. De Autoriteit persoonsgegevens

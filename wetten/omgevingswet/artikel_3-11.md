@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.11 Omgevingswet
 wet: Omgevingswet
 artikel: '3.11'
 hoofdstuk: 3. Omgevingsvisies en programma’s

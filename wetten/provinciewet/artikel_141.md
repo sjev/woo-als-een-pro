@@ -1,4 +1,5 @@
 ---
+title: Artikel 141 Provinciewet
 wet: Provinciewet
 artikel: '141'
 hoofdstuk: VIII. Algemene bepalingen

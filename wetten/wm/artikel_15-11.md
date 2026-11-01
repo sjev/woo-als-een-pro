@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.11 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '15.11'
 hoofdstuk: 15. Financiële bepalingen

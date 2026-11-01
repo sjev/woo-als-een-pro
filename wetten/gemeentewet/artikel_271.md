@@ -1,4 +1,5 @@
 ---
+title: Artikel 271 Gemeentewet
 wet: Gemeentewet
 artikel: '271'
 hoofdstuk: XVII. Schorsing en vernietiging

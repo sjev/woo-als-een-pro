@@ -1,4 +1,5 @@
 ---
+title: Artikel 9.2.2.6a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 9.2.2.6a
 hoofdstuk: 9. Stoffen en produkten

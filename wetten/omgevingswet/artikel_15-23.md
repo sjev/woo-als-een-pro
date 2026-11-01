@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.23 Omgevingswet
 wet: Omgevingswet
 artikel: '15.23'
 hoofdstuk: 15. Schade

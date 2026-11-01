@@ -1,4 +1,5 @@
 ---
+title: Artikel 31 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '31'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

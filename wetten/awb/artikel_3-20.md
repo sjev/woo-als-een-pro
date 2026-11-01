@@ -1,4 +1,5 @@
 ---
+title: Artikel 3:20 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '3:20'
 hoofdstuk: 3. Algemene bepalingen over besluiten

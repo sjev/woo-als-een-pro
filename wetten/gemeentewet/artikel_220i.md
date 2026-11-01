@@ -1,4 +1,5 @@
 ---
+title: Artikel 220i Gemeentewet
 wet: Gemeentewet
 artikel: 220i
 hoofdstuk: XV. De gemeentelijke belastingen

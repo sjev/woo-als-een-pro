@@ -1,4 +1,5 @@
 ---
+title: Artikel 195 Gemeentewet
 wet: Gemeentewet
 artikel: '195'
 hoofdstuk: XIII. De begroting en de jaarrekening

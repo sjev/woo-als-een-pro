@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.9 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '11.9'
 hoofdstuk: 11. Geluid

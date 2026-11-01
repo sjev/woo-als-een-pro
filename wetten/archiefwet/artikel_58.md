@@ -1,4 +1,5 @@
 ---
+title: Artikel 58 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '58'
 hoofdstuk: IX. Overgangs- en slotbepalingen

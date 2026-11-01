@@ -1,4 +1,5 @@
 ---
+title: Artikel 79t Provinciewet
 wet: Provinciewet
 artikel: 79t
 hoofdstuk: IVC. De ombudsman

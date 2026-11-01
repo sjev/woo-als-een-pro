@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.7a Omgevingswet
 wet: Omgevingswet
 artikel: 1.7a
 hoofdstuk: 1. Algemene bepalingen

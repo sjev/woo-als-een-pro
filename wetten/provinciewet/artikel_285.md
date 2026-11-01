@@ -1,4 +1,5 @@
 ---
+title: Artikel 285 Provinciewet
 wet: Provinciewet
 artikel: '285'
 valid_from: '2026-07-01'

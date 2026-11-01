@@ -1,4 +1,5 @@
 ---
+title: Artikel 10:39 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '10:39'
 hoofdstuk: 10. Bepalingen over bestuursorganen

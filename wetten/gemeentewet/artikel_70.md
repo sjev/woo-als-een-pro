@@ -1,4 +1,5 @@
 ---
+title: Artikel 70 Gemeentewet
 wet: Gemeentewet
 artikel: '70'
 hoofdstuk: IV. De burgemeester

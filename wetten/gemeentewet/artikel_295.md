@@ -1,4 +1,5 @@
 ---
+title: Artikel 295 Gemeentewet
 wet: Gemeentewet
 artikel: '295'
 valid_from: '2026-10-01'

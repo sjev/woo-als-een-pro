@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.37 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '11.37'
 hoofdstuk: 11. Geluid

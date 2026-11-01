@@ -1,4 +1,5 @@
 ---
+title: Artikel 204 Gemeentewet
 wet: Gemeentewet
 artikel: '204'
 hoofdstuk: XIII. De begroting en de jaarrekening

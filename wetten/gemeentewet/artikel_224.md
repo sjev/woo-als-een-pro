@@ -1,4 +1,5 @@
 ---
+title: Artikel 224 Gemeentewet
 wet: Gemeentewet
 artikel: '224'
 hoofdstuk: XV. De gemeentelijke belastingen

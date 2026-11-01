@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.4 Wet open overheid
 wet: Wet open overheid
 artikel: '5.4'
 hoofdstuk: 5. Uitzonderingen

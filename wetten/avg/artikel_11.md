@@ -1,4 +1,5 @@
 ---
+title: Artikel 11 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '11'
 hoofdstuk: II. Beginselen

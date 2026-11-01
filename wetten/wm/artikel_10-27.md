@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.27 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.27'
 hoofdstuk: 10. Afvalstoffen

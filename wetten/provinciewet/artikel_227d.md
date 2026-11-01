@@ -1,4 +1,5 @@
 ---
+title: Artikel 227d Provinciewet
 wet: Provinciewet
 artikel: 227d
 hoofdstuk: XV. De provinciale belastingen

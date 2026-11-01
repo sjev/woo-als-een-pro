@@ -1,4 +1,5 @@
 ---
+title: Artikel 211 Gemeentewet
 wet: Gemeentewet
 artikel: '211'
 hoofdstuk: XIII. De begroting en de jaarrekening

@@ -1,4 +1,5 @@
 ---
+title: Artikel 8 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '8'
 hoofdstuk: II. Beginselen

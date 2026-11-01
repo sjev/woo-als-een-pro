@@ -1,4 +1,5 @@
 ---
+title: Artikel 290 Gemeentewet
 wet: Gemeentewet
 artikel: '290'
 valid_from: '2026-10-01'

@@ -1,4 +1,5 @@
 ---
+title: Artikel 7 Provinciewet
 wet: Provinciewet
 artikel: '7'
 hoofdstuk: II. Provinciale staten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 66 Provinciewet
 wet: Provinciewet
 artikel: '66'
 hoofdstuk: IV. De commissaris van de Koning

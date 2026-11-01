@@ -1,4 +1,5 @@
 ---
+title: Artikel 47a Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: 47a
 hoofdstuk: 4. Uitzonderingen, beperkingen en bijzondere grondslagen

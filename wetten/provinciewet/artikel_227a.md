@@ -1,4 +1,5 @@
 ---
+title: Artikel 227a Provinciewet
 wet: Provinciewet
 artikel: 227a
 hoofdstuk: XV. De provinciale belastingen

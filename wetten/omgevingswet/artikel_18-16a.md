@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.16a Omgevingswet
 wet: Omgevingswet
 artikel: 18.16a
 hoofdstuk: 18. Handhaving en uitvoering

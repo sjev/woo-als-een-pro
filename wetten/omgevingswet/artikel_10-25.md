@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.25 Omgevingswet
 wet: Omgevingswet
 artikel: '10.25'
 hoofdstuk: 10. Gedoogplichten

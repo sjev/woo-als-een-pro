@@ -1,4 +1,5 @@
 ---
+title: Artikel 286 Gemeentewet
 wet: Gemeentewet
 artikel: '286'
 valid_from: '2026-10-01'

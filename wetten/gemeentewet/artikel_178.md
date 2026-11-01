@@ -1,4 +1,5 @@
 ---
+title: Artikel 178 Gemeentewet
 wet: Gemeentewet
 artikel: '178'
 hoofdstuk: XI. De bevoegdheid van de burgemeester

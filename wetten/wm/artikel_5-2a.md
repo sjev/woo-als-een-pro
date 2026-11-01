@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.2a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 5.2a
 hoofdstuk: 5. Milieukwaliteitseisen

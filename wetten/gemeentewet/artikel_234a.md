@@ -1,4 +1,5 @@
 ---
+title: Artikel 234a Gemeentewet
 wet: Gemeentewet
 artikel: 234a
 hoofdstuk: XV. De gemeentelijke belastingen

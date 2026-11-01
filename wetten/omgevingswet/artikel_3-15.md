@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.15 Omgevingswet
 wet: Omgevingswet
 artikel: '3.15'
 hoofdstuk: 3. Omgevingsvisies en programma’s

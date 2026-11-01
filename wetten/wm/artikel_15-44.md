@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.44 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '15.44'
 hoofdstuk: 15. Financiële bepalingen

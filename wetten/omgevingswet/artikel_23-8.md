@@ -1,4 +1,5 @@
 ---
+title: Artikel 23.8 Omgevingswet
 wet: Omgevingswet
 artikel: '23.8'
 hoofdstuk: 23. Overige en slotbepalingen

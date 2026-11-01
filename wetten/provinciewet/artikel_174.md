@@ -1,4 +1,5 @@
 ---
+title: Artikel 174 Provinciewet
 wet: Provinciewet
 artikel: '174'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

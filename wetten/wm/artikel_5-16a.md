@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.16a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 5.16a
 hoofdstuk: 5. Milieukwaliteitseisen

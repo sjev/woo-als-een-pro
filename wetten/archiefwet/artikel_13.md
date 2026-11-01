@@ -1,4 +1,5 @@
 ---
+title: Artikel 13 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '13'
 hoofdstuk: II. Archiefbescheiden in het algemeen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 53 Gemeentewet
 wet: Gemeentewet
 artikel: '53'
 hoofdstuk: III. Het college van burgemeester en wethouders

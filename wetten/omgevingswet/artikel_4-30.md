@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.30 Omgevingswet
 wet: Omgevingswet
 artikel: '4.30'
 hoofdstuk: 4. Algemene regels over activiteiten in de fysieke leefomgeving

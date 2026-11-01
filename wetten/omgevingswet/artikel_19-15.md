@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.15 Omgevingswet
 wet: Omgevingswet
 artikel: '19.15'
 hoofdstuk: 19. Bevoegdheden in bijzondere omstandigheden

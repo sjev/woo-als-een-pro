@@ -1,4 +1,5 @@
 ---
+title: Artikel 38 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '38'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

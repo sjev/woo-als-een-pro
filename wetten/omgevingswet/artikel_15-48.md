@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.48 Omgevingswet
 wet: Omgevingswet
 artikel: '15.48'
 hoofdstuk: 15. Schade

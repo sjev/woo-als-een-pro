@@ -1,4 +1,5 @@
 ---
+title: Artikel 21.2a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 21.2a
 hoofdstuk: 21. Verdere bepalingen

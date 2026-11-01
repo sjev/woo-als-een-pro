@@ -1,4 +1,5 @@
 ---
+title: Artikel 300b Gemeentewet
 wet: Gemeentewet
 artikel: 300b
 valid_from: '2026-10-01'

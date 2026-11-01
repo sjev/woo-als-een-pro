@@ -1,4 +1,5 @@
 ---
+title: Artikel 206 Provinciewet
 wet: Provinciewet
 artikel: '206'
 hoofdstuk: XIII. De begroting en de jaarrekening

@@ -1,4 +1,5 @@
 ---
+title: Artikel 30 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '30'
 hoofdstuk: 3. Bepalingen ter uitvoering van de verordening

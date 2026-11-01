@@ -1,4 +1,5 @@
 ---
+title: Artikel 9:25 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '9:25'
 hoofdstuk: 9. Klachtbehandeling

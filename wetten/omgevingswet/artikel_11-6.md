@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.6 Omgevingswet
 wet: Omgevingswet
 artikel: '11.6'
 hoofdstuk: 11. Onteigening

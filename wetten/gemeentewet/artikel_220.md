@@ -1,4 +1,5 @@
 ---
+title: Artikel 220 Gemeentewet
 wet: Gemeentewet
 artikel: '220'
 hoofdstuk: XV. De gemeentelijke belastingen

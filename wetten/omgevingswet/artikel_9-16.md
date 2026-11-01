@@ -1,4 +1,5 @@
 ---
+title: Artikel 9.16 Omgevingswet
 wet: Omgevingswet
 artikel: '9.16'
 hoofdstuk: 9. Voorkeursrecht

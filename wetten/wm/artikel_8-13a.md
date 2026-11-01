@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.13a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 8.13a
 hoofdstuk: 8. Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.5 Wet open overheid
 wet: Wet open overheid
 artikel: '3.5'
 hoofdstuk: 3. Openbaarmaking uit eigen beweging

@@ -1,4 +1,5 @@
 ---
+title: Artikel 35c Provinciewet
 wet: Provinciewet
 artikel: 35c
 hoofdstuk: III. Gedeputeerde staten

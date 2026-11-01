@@ -1,4 +1,5 @@
 ---
+title: Artikel 62 Gemeentewet
 wet: Gemeentewet
 artikel: '62'
 hoofdstuk: IV. De burgemeester

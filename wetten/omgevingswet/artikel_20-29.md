@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.29 Omgevingswet
 wet: Omgevingswet
 artikel: '20.29'
 hoofdstuk: 20. Monitoring en informatie

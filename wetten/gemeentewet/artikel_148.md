@@ -1,4 +1,5 @@
 ---
+title: Artikel 148 Gemeentewet
 wet: Gemeentewet
 artikel: '148'
 hoofdstuk: IX. De bevoegdheid van de raad

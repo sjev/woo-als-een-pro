@@ -1,4 +1,5 @@
 ---
+title: Artikel 3:32 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '3:32'
 hoofdstuk: 3. Algemene bepalingen over besluiten

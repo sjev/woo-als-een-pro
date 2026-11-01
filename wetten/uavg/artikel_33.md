@@ -1,4 +1,5 @@
 ---
+title: Artikel 33 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '33'
 hoofdstuk: 3. Bepalingen ter uitvoering van de verordening

@@ -1,4 +1,5 @@
 ---
+title: Artikel 16 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '16'
 hoofdstuk: II. Archiefbescheiden in het algemeen

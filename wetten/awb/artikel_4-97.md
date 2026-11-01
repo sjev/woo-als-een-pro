@@ -1,4 +1,5 @@
 ---
+title: Artikel 4:97 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 4:97
 hoofdstuk: 4. Bijzondere bepalingen over besluiten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 124f Gemeentewet
 wet: Gemeentewet
 artikel: 124f
 hoofdstuk: VIII. Algemene bepalingen

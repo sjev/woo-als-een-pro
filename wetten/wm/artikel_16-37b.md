@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.37b Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 16.37b
 hoofdstuk: 16. Handel in emissierechten

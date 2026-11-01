@@ -1,4 +1,5 @@
 ---
+title: Artikel 67 Gemeentewet
 wet: Gemeentewet
 artikel: '67'
 hoofdstuk: IV. De burgemeester

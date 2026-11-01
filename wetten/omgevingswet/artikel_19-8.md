@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.8 Omgevingswet
 wet: Omgevingswet
 artikel: '19.8'
 hoofdstuk: 19. Bevoegdheden in bijzondere omstandigheden

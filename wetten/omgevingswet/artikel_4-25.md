@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.25 Omgevingswet
 wet: Omgevingswet
 artikel: '4.25'
 hoofdstuk: 4. Algemene regels over activiteiten in de fysieke leefomgeving

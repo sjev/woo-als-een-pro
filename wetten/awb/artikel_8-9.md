@@ -1,4 +1,5 @@
 ---
+title: Artikel 8:9 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '8:9'
 hoofdstuk: 8. Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter

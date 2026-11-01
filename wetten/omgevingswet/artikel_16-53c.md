@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.53c Omgevingswet
 wet: Omgevingswet
 artikel: 16.53c
 hoofdstuk: 16. Procedures

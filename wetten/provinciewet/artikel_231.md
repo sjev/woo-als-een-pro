@@ -1,4 +1,5 @@
 ---
+title: Artikel 231 Provinciewet
 wet: Provinciewet
 artikel: '231'
 hoofdstuk: XV. De provinciale belastingen

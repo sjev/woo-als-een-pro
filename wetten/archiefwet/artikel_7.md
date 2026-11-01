@@ -1,4 +1,5 @@
 ---
+title: Artikel 7 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '7'
 hoofdstuk: II. Archiefbescheiden in het algemeen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.43 Omgevingswet
 wet: Omgevingswet
 artikel: '15.43'
 hoofdstuk: 15. Schade

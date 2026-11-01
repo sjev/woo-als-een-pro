@@ -1,4 +1,5 @@
 ---
+title: Artikel 220f Gemeentewet
 wet: Gemeentewet
 artikel: 220f
 hoofdstuk: XV. De gemeentelijke belastingen

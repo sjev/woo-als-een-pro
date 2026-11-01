@@ -1,4 +1,5 @@
 ---
+title: Artikel 2:16 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '2:16'
 hoofdstuk: 2. Verkeer met bestuursorganen

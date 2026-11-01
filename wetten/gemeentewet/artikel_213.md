@@ -1,4 +1,5 @@
 ---
+title: Artikel 213 Gemeentewet
 wet: Gemeentewet
 artikel: '213'
 hoofdstuk: XIV. De administratie en de controle

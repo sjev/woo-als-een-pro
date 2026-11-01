@@ -1,4 +1,5 @@
 ---
+title: Artikel 237 Provinciewet
 wet: Provinciewet
 artikel: '237'
 hoofdstuk: XVI. Het Provinciefonds

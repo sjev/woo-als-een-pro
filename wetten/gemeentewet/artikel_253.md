@@ -1,4 +1,5 @@
 ---
+title: Artikel 253 Gemeentewet
 wet: Gemeentewet
 artikel: '253'
 hoofdstuk: XV. De gemeentelijke belastingen

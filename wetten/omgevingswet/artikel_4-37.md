@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.37 Omgevingswet
 wet: Omgevingswet
 artikel: '4.37'
 hoofdstuk: 4. Algemene regels over activiteiten in de fysieke leefomgeving

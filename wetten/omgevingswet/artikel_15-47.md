@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.47 Omgevingswet
 wet: Omgevingswet
 artikel: '15.47'
 hoofdstuk: 15. Schade

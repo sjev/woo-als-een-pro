@@ -1,4 +1,5 @@
 ---
+title: Artikel 6:23 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '6:23'
 hoofdstuk: 6. Algemene bepalingen over bezwaar en beroep

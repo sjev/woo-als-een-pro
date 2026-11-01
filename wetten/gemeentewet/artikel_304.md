@@ -1,4 +1,5 @@
 ---
+title: Artikel 304 Gemeentewet
 wet: Gemeentewet
 artikel: '304'
 valid_from: '2026-10-01'

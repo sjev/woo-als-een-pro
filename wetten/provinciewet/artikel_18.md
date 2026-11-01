@@ -1,4 +1,5 @@
 ---
+title: Artikel 18 Provinciewet
 wet: Provinciewet
 artikel: '18'
 hoofdstuk: II. Provinciale staten

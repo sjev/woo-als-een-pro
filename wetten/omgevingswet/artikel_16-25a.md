@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.25a Omgevingswet
 wet: Omgevingswet
 artikel: 16.25a
 hoofdstuk: 16. Procedures

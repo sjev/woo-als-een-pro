@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.38 Omgevingswet
 wet: Omgevingswet
 artikel: '15.38'
 hoofdstuk: 15. Schade

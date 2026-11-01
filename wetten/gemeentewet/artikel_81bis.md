@@ -1,4 +1,5 @@
 ---
+title: Artikel 81bis Gemeentewet
 wet: Gemeentewet
 artikel: 81bis
 hoofdstuk: IV. De burgemeester

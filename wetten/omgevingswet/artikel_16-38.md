@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.38 Omgevingswet
 wet: Omgevingswet
 artikel: '16.38'
 hoofdstuk: 16. Procedures

@@ -1,4 +1,5 @@
 ---
+title: Artikel 95 Provinciewet
 wet: Provinciewet
 artikel: '95'
 hoofdstuk: VI. Geldelijke voorzieningen ten behoeve van de leden van provinciale staten

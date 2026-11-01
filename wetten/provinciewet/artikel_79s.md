@@ -1,4 +1,5 @@
 ---
+title: Artikel 79s Provinciewet
 wet: Provinciewet
 artikel: 79s
 hoofdstuk: IVC. De ombudsman

@@ -1,4 +1,5 @@
 ---
+title: Artikel 154k Gemeentewet
 wet: Gemeentewet
 artikel: 154k
 hoofdstuk: IX. De bevoegdheid van de raad

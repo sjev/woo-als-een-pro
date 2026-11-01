@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.21 Omgevingswet
 wet: Omgevingswet
 artikel: '4.21'
 hoofdstuk: 4. Algemene regels over activiteiten in de fysieke leefomgeving

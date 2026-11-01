@@ -1,4 +1,5 @@
 ---
+title: Artikel 44b Gemeentewet
 wet: Gemeentewet
 artikel: 44b
 hoofdstuk: III. Het college van burgemeester en wethouders

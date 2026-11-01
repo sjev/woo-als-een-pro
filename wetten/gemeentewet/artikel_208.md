@@ -1,4 +1,5 @@
 ---
+title: Artikel 208 Gemeentewet
 wet: Gemeentewet
 artikel: '208'
 hoofdstuk: XIII. De begroting en de jaarrekening

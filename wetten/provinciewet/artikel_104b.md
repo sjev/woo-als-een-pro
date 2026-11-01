@@ -1,4 +1,5 @@
 ---
+title: Artikel 104b Provinciewet
 wet: Provinciewet
 artikel: 104b
 hoofdstuk: VII. De secretaris en de griffier

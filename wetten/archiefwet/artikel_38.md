@@ -1,4 +1,5 @@
 ---
+title: Artikel 38 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '38'
 hoofdstuk: VI. Archiefbescheiden van waterschappen

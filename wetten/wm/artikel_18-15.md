@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.15 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '18.15'
 hoofdstuk: 18. Handhaving

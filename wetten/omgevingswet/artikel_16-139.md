@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.139 Omgevingswet
 wet: Omgevingswet
 artikel: '16.139'
 hoofdstuk: 16. Procedures

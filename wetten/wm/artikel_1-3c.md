@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.3c Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 1.3c
 hoofdstuk: 1. Algemeen

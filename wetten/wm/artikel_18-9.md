@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.9 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '18.9'
 hoofdstuk: 18. Handhaving

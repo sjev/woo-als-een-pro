@@ -1,4 +1,5 @@
 ---
+title: Artikel 48b Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: 48b
 hoofdstuk: 5. Overgangs- en slotbepalingen

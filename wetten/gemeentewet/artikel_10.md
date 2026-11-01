@@ -1,4 +1,5 @@
 ---
+title: Artikel 10 Gemeentewet
 wet: Gemeentewet
 artikel: '10'
 hoofdstuk: II. De raad

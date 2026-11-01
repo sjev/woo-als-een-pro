@@ -1,4 +1,5 @@
 ---
+title: Artikel 33 Provinciewet
 wet: Provinciewet
 artikel: '33'
 hoofdstuk: II. Provinciale staten

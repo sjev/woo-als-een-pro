@@ -1,4 +1,5 @@
 ---
+title: Artikel 16 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '16'
 hoofdstuk: III. Rechten van de betrokkene

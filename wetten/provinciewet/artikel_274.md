@@ -1,4 +1,5 @@
 ---
+title: Artikel 274 Provinciewet
 wet: Provinciewet
 artikel: '274'
 hoofdstuk: XVIII. Schorsing en vernietiging

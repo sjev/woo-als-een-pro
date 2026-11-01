@@ -1,4 +1,5 @@
 ---
+title: Artikel 16 Provinciewet
 wet: Provinciewet
 artikel: '16'
 hoofdstuk: II. Provinciale staten

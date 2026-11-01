@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.33 Omgevingswet
 wet: Omgevingswet
 artikel: '15.33'
 hoofdstuk: 15. Schade

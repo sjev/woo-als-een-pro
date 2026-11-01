@@ -1,4 +1,5 @@
 ---
+title: Artikel 88 Provinciewet
 wet: Provinciewet
 artikel: '88'
 hoofdstuk: VA. Geheimhouding

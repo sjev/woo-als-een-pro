@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.33f Omgevingswet
 wet: Omgevingswet
 artikel: 16.33f
 hoofdstuk: 16. Procedures

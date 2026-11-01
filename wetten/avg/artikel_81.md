@@ -1,4 +1,5 @@
 ---
+title: Artikel 81 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '81'
 hoofdstuk: VIII. Beroep, aansprakelijkheid en sancties

@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.129 Omgevingswet
 wet: Omgevingswet
 artikel: '16.129'
 hoofdstuk: 16. Procedures

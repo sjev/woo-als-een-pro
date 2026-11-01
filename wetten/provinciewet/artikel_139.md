@@ -1,4 +1,5 @@
 ---
+title: Artikel 139 Provinciewet
 wet: Provinciewet
 artikel: '139'
 hoofdstuk: VIII. Algemene bepalingen

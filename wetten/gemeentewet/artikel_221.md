@@ -1,4 +1,5 @@
 ---
+title: Artikel 221 Gemeentewet
 wet: Gemeentewet
 artikel: '221'
 hoofdstuk: XV. De gemeentelijke belastingen

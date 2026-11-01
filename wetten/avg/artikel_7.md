@@ -1,4 +1,5 @@
 ---
+title: Artikel 7 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '7'
 hoofdstuk: II. Beginselen

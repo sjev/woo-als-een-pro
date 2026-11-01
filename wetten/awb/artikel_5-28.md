@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:28 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '5:28'
 hoofdstuk: 5. Handhaving

@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:10a Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 5:10a
 hoofdstuk: 5. Handhaving

@@ -1,4 +1,5 @@
 ---
+title: Artikel 85 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '85'
 hoofdstuk: IX. Bepalingen in verband met specifieke situaties op het gebied van gegevensverwerking

@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.77aa Omgevingswet
 wet: Omgevingswet
 artikel: 16.77aa
 hoofdstuk: 16. Procedures

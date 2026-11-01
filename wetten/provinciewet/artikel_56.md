@@ -1,4 +1,5 @@
 ---
+title: Artikel 56 Provinciewet
 wet: Provinciewet
 artikel: '56'
 hoofdstuk: III. Gedeputeerde staten

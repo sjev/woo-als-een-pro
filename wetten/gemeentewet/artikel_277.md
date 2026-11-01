@@ -1,4 +1,5 @@
 ---
+title: Artikel 277 Gemeentewet
 wet: Gemeentewet
 artikel: '277'
 hoofdstuk: XVII. Schorsing en vernietiging

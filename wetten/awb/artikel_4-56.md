@@ -1,4 +1,5 @@
 ---
+title: Artikel 4:56 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '4:56'
 hoofdstuk: 4. Bijzondere bepalingen over besluiten

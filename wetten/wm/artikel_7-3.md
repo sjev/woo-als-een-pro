@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.3 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.3'
 hoofdstuk: 7. Milieueffectrapportage

@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.10h Omgevingswet
 wet: Omgevingswet
 artikel: 10.10h
 hoofdstuk: 10. Gedoogplichten

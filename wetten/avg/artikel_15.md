@@ -1,4 +1,5 @@
 ---
+title: Artikel 15 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '15'
 hoofdstuk: III. Rechten van de betrokkene

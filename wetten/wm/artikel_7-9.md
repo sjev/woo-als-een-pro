@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.9 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.9'
 hoofdstuk: 7. Milieueffectrapportage

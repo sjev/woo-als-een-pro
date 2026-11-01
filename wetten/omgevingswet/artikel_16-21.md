@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.21 Omgevingswet
 wet: Omgevingswet
 artikel: '16.21'
 hoofdstuk: 16. Procedures

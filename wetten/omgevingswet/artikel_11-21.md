@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.21 Omgevingswet
 wet: Omgevingswet
 artikel: '11.21'
 hoofdstuk: 11. Onteigening

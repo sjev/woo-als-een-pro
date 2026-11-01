@@ -1,4 +1,5 @@
 ---
+title: Artikel 162 Gemeentewet
 wet: Gemeentewet
 artikel: '162'
 hoofdstuk: X. De bevoegdheid van het college van burgemeester en wethouders

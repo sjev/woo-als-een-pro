@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.5 Omgevingswet
 wet: Omgevingswet
 artikel: '20.5'
 hoofdstuk: 20. Monitoring en informatie

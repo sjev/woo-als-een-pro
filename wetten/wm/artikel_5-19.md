@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.19 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '5.19'
 hoofdstuk: 5. Milieukwaliteitseisen

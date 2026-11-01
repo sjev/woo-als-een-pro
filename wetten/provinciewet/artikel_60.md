@@ -1,4 +1,5 @@
 ---
+title: Artikel 60 Provinciewet
 wet: Provinciewet
 artikel: '60'
 hoofdstuk: III. Gedeputeerde staten

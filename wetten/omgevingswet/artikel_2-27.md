@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.27 Omgevingswet
 wet: Omgevingswet
 artikel: '2.27'
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

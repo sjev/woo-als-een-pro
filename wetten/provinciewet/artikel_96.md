@@ -1,4 +1,5 @@
 ---
+title: Artikel 96 Provinciewet
 wet: Provinciewet
 artikel: '96'
 hoofdstuk: VI. Geldelijke voorzieningen ten behoeve van de leden van provinciale staten

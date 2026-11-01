@@ -1,4 +1,5 @@
 ---
+title: Artikel 17 Provinciewet
 wet: Provinciewet
 artikel: '17'
 hoofdstuk: II. Provinciale staten

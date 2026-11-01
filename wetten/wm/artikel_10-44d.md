@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.44d Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 10.44d
 hoofdstuk: 10. Afvalstoffen

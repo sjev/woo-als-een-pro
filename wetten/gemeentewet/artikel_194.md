@@ -1,4 +1,5 @@
 ---
+title: Artikel 194 Gemeentewet
 wet: Gemeentewet
 artikel: '194'
 hoofdstuk: XIII. De begroting en de jaarrekening

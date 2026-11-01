@@ -1,4 +1,5 @@
 ---
+title: Artikel 37 Gemeentewet
 wet: Gemeentewet
 artikel: '37'
 hoofdstuk: III. Het college van burgemeester en wethouders

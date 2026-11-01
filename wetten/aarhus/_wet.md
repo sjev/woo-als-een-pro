@@ -5,7 +5,7 @@ title: Verdrag betreffende toegang tot informatie, inspraak in besluitvorming en
 short_title: Verdrag betreffende toegang tot informatie, inspraak in besluitvorming
   en toegang tot de rechter inzake milieuaangelegenheden
 valid_from: '2025-04-20'
-fetched_at: '2026-10-31T23:21:13+00:00'
+fetched_at: '2026-11-01T18:11:15+00:00'
 source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBV0001700/2025-04-20_0/xml/BWBV0001700_2025-04-20_0.xml
 ---
 

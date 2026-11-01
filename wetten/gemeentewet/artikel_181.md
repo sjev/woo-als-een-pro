@@ -1,4 +1,5 @@
 ---
+title: Artikel 181 Gemeentewet
 wet: Gemeentewet
 artikel: '181'
 hoofdstuk: XI. De bevoegdheid van de burgemeester

@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.58 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '11.58'
 hoofdstuk: 11. Geluid

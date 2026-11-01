@@ -1,4 +1,5 @@
 ---
+title: Artikel 240 Provinciewet
 wet: Provinciewet
 artikel: '240'
 hoofdstuk: XVI. Het Provinciefonds

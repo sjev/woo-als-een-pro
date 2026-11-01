@@ -1,4 +1,5 @@
 ---
+title: Artikel 165 Gemeentewet
 wet: Gemeentewet
 artikel: '165'
 hoofdstuk: X. De bevoegdheid van het college van burgemeester en wethouders

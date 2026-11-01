@@ -3,7 +3,7 @@ bwb_id: BWBR0040940
 title: Uitvoeringswet Algemene verordening gegevensbescherming
 short_title: Uitvoeringswet Algemene verordening gegevensbescherming
 valid_from: '2026-09-01'
-fetched_at: '2026-10-31T23:21:18+00:00'
+fetched_at: '2026-11-01T18:11:24+00:00'
 source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040940/2026-09-01_0/xml/BWBR0040940_2026-09-01_0.xml
 ---
 

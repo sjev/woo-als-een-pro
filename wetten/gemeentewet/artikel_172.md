@@ -1,4 +1,5 @@
 ---
+title: Artikel 172 Gemeentewet
 wet: Gemeentewet
 artikel: '172'
 hoofdstuk: XI. De bevoegdheid van de burgemeester

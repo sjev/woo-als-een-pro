@@ -1,4 +1,5 @@
 ---
+title: Artikel 32 Gemeentewet
 wet: Gemeentewet
 artikel: '32'
 hoofdstuk: II. De raad

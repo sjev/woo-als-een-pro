@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.10d Omgevingswet
 wet: Omgevingswet
 artikel: 10.10d
 hoofdstuk: 10. Gedoogplichten

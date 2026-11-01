@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.16b Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 2.16b
 hoofdstuk: 2. Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen

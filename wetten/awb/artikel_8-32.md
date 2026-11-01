@@ -1,4 +1,5 @@
 ---
+title: Artikel 8:32 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '8:32'
 hoofdstuk: 8. Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter

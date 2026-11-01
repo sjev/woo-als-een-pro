@@ -1,4 +1,5 @@
 ---
+title: Artikel 213 Provinciewet
 wet: Provinciewet
 artikel: '213'
 hoofdstuk: XIII. De begroting en de jaarrekening

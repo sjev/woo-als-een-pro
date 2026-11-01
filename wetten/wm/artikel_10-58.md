@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.58 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.58'
 hoofdstuk: 10. Afvalstoffen

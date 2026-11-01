@@ -1,4 +1,5 @@
 ---
+title: Artikel 63 Provinciewet
 wet: Provinciewet
 artikel: '63'
 hoofdstuk: IV. De commissaris van de Koning

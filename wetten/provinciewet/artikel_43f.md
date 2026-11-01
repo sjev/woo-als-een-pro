@@ -1,4 +1,5 @@
 ---
+title: Artikel 43f Provinciewet
 wet: Provinciewet
 artikel: 43f
 hoofdstuk: III. Gedeputeerde staten

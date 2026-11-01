@@ -1,4 +1,5 @@
 ---
+title: Artikel 42 Gemeentewet
 wet: Gemeentewet
 artikel: '42'
 hoofdstuk: III. Het college van burgemeester en wethouders

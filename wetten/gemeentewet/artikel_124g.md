@@ -1,4 +1,5 @@
 ---
+title: Artikel 124g Gemeentewet
 wet: Gemeentewet
 artikel: 124g
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 35 Gemeentewet
 wet: Gemeentewet
 artikel: '35'
 hoofdstuk: III. Het college van burgemeester en wethouders

@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.12 Omgevingswet
 wet: Omgevingswet
 artikel: '10.12'
 hoofdstuk: 10. Gedoogplichten

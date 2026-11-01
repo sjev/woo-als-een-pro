@@ -1,4 +1,5 @@
 ---
+title: Artikel 176 Gemeentewet
 wet: Gemeentewet
 artikel: '176'
 hoofdstuk: XI. De bevoegdheid van de burgemeester

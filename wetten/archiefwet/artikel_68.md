@@ -1,4 +1,5 @@
 ---
+title: Artikel 68 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '68'
 hoofdstuk: IX. Overgangs- en slotbepalingen

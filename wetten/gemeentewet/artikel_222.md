@@ -1,4 +1,5 @@
 ---
+title: Artikel 222 Gemeentewet
 wet: Gemeentewet
 artikel: '222'
 hoofdstuk: XV. De gemeentelijke belastingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 124i Gemeentewet
 wet: Gemeentewet
 artikel: 124i
 hoofdstuk: VIII. Algemene bepalingen

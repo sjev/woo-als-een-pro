@@ -1,4 +1,5 @@
 ---
+title: Artikel 1:7 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '1:7'
 hoofdstuk: 1. Inleidende bepalingen

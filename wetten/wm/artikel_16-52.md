@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.52 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '16.52'
 hoofdstuk: 16. Handel in emissierechten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 154j Gemeentewet
 wet: Gemeentewet
 artikel: 154j
 hoofdstuk: IX. De bevoegdheid van de raad

@@ -1,4 +1,5 @@
 ---
+title: Artikel 116 Provinciewet
 wet: Provinciewet
 artikel: '116'
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 22.23 Omgevingswet
 wet: Omgevingswet
 artikel: '22.23'
 hoofdstuk: 22. Overgangsrecht

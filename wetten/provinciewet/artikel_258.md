@@ -1,4 +1,5 @@
 ---
+title: Artikel 258 Provinciewet
 wet: Provinciewet
 artikel: '258'
 hoofdstuk: XVII. Goedkeuring

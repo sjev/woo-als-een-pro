@@ -1,4 +1,5 @@
 ---
+title: Artikel 10 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '10'
 hoofdstuk: 2. De Autoriteit persoonsgegevens

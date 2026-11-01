@@ -1,4 +1,5 @@
 ---
+title: Artikel 76 Gemeentewet
 wet: Gemeentewet
 artikel: '76'
 hoofdstuk: IV. De burgemeester

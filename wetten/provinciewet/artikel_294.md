@@ -1,4 +1,5 @@
 ---
+title: Artikel 294 Provinciewet
 wet: Provinciewet
 artikel: '294'
 valid_from: '2026-07-01'

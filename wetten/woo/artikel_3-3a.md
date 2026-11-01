@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.3a Wet open overheid
 wet: Wet open overheid
 artikel: 3.3a
 hoofdstuk: 3. Openbaarmaking uit eigen beweging

@@ -1,4 +1,5 @@
 ---
+title: Artikel 1:4 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '1:4'
 hoofdstuk: 1. Inleidende bepalingen

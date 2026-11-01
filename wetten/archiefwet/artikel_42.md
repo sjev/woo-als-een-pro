@@ -1,4 +1,5 @@
 ---
+title: Artikel 42 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '42'
 hoofdstuk: VIII. Strafbepaling

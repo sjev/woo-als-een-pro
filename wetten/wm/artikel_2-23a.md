@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.23a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 2.23a
 hoofdstuk: 2. Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen

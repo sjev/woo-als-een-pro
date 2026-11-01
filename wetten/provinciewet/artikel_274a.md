@@ -1,4 +1,5 @@
 ---
+title: Artikel 274a Provinciewet
 wet: Provinciewet
 artikel: 274a
 hoofdstuk: XVIII. Schorsing en vernietiging

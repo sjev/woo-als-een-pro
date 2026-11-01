@@ -1,4 +1,5 @@
 ---
+title: Artikel 40a Provinciewet
 wet: Provinciewet
 artikel: 40a
 hoofdstuk: III. Gedeputeerde staten

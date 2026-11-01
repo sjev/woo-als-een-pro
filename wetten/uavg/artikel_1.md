@@ -1,4 +1,5 @@
 ---
+title: Artikel 1 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '1'
 hoofdstuk: 1. Algemene bepalingen

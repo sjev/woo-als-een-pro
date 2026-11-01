@@ -1,4 +1,5 @@
 ---
+title: Artikel 52 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '52'
 hoofdstuk: VI. Onafhankelijke toezichthoudende autoriteiten

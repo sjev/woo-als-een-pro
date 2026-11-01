@@ -1,4 +1,5 @@
 ---
+title: Artikel 126 Provinciewet
 wet: Provinciewet
 artikel: '126'
 hoofdstuk: VIII. Algemene bepalingen

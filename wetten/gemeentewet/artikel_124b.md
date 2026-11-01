@@ -1,4 +1,5 @@
 ---
+title: Artikel 124b Gemeentewet
 wet: Gemeentewet
 artikel: 124b
 hoofdstuk: VIII. Algemene bepalingen

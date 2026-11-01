@@ -1,4 +1,5 @@
 ---
+title: Artikel 78 Provinciewet
 wet: Provinciewet
 artikel: '78'
 hoofdstuk: IV. De commissaris van de Koning

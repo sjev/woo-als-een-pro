@@ -1,4 +1,5 @@
 ---
+title: Artikel 85 Provinciewet
 wet: Provinciewet
 artikel: '85'
 hoofdstuk: VA. Geheimhouding

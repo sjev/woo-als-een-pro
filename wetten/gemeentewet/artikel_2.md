@@ -1,4 +1,5 @@
 ---
+title: Artikel 2 Gemeentewet
 wet: Gemeentewet
 artikel: '2'
 valid_from: '2026-10-01'

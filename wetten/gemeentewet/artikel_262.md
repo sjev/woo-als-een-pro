@@ -1,4 +1,5 @@
 ---
+title: Artikel 262 Gemeentewet
 wet: Gemeentewet
 artikel: '262'
 hoofdstuk: XVI. Goedkeuring

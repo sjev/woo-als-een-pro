@@ -1,4 +1,5 @@
 ---
+title: Artikel 36 Gemeentewet
 wet: Gemeentewet
 artikel: '36'
 hoofdstuk: III. Het college van burgemeester en wethouders

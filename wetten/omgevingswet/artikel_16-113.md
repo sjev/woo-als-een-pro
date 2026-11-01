@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.113 Omgevingswet
 wet: Omgevingswet
 artikel: '16.113'
 hoofdstuk: 16. Procedures

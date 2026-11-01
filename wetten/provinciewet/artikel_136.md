@@ -1,4 +1,5 @@
 ---
+title: Artikel 136 Provinciewet
 wet: Provinciewet
 artikel: '136'
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 145 Gemeentewet
 wet: Gemeentewet
 artikel: '145'
 hoofdstuk: VIII. Algemene bepalingen

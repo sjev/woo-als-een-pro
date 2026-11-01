@@ -1,4 +1,5 @@
 ---
+title: Artikel 101 Gemeentewet
 wet: Gemeentewet
 artikel: '101'
 hoofdstuk: VII. De secretaris en de griffier

@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.36 Omgevingswet
 wet: Omgevingswet
 artikel: '15.36'
 hoofdstuk: 15. Schade

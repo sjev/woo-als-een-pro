@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.3 Omgevingswet
 wet: Omgevingswet
 artikel: '20.3'
 hoofdstuk: 20. Monitoring en informatie

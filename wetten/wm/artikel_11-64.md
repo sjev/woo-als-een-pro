@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.64 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '11.64'
 hoofdstuk: 11. Geluid

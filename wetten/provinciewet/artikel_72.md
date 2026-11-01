@@ -1,4 +1,5 @@
 ---
+title: Artikel 72 Provinciewet
 wet: Provinciewet
 artikel: '72'
 hoofdstuk: IV. De commissaris van de Koning

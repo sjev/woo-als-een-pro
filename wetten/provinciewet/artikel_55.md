@@ -1,4 +1,5 @@
 ---
+title: Artikel 55 Provinciewet
 wet: Provinciewet
 artikel: '55'
 hoofdstuk: III. Gedeputeerde staten

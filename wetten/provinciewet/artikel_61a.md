@@ -1,4 +1,5 @@
 ---
+title: Artikel 61a Provinciewet
 wet: Provinciewet
 artikel: 61a
 hoofdstuk: IV. De commissaris van de Koning

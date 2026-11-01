@@ -251,10 +251,10 @@ def write(slug: str, law: Law) -> None:
     body = toc(law.articles) + (f"\n\n## Bijlagen\n{bijlagen}" if bijlagen else "")
     (folder / "_wet.md").write_text(frontmatter(wet, body), encoding="utf8")
     for b in law.bijlagen:
-        meta = {"wet": law.title, "bijlage": b.nr, "titel": b.titel, "valid_from": law.valid_from, "source": law.source}
+        meta = {"title": f"{b.nr} {b.titel}".strip(), "wet": law.title, "bijlage": b.nr, "titel": b.titel, "valid_from": law.valid_from, "source": law.source}
         (folder / bijlage_file(b)).write_text(frontmatter(meta, b.text), encoding="utf8")
     for a in law.articles:
-        meta = {"wet": law.title, "artikel": a.nr}
+        meta = {"title": f"Artikel {a.nr} {law.short_title}", "wet": law.title, "artikel": a.nr}
         if a.hoofdstuk:
             meta["hoofdstuk"] = a.hoofdstuk
         meta |= {"valid_from": law.valid_from, "source": law.source}
@@ -269,7 +269,7 @@ def add(bwb_id: str, slug: str) -> None:
 
 def bwb_id_of(slug: str) -> str:
     raw = (ROOT / slug / "_wet.md").read_text(encoding="utf8")
-    return yaml.safe_load(raw.split("---")[1])["bwb_id"]
+    return yaml.safe_load(raw.split("---\n")[1])["bwb_id"]
 
 
 def main(argv: list[str]) -> None:

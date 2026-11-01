@@ -1,4 +1,5 @@
 ---
+title: Artikel 151a Gemeentewet
 wet: Gemeentewet
 artikel: 151a
 hoofdstuk: IX. De bevoegdheid van de raad

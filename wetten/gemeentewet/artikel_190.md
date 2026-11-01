@@ -1,4 +1,5 @@
 ---
+title: Artikel 190 Gemeentewet
 wet: Gemeentewet
 artikel: '190'
 hoofdstuk: XIII. De begroting en de jaarrekening

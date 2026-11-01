@@ -1,4 +1,5 @@
 ---
+title: Artikel 138 Gemeentewet
 wet: Gemeentewet
 artikel: '138'
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 161 Provinciewet
 wet: Provinciewet
 artikel: '161'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

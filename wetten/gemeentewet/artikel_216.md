@@ -1,4 +1,5 @@
 ---
+title: Artikel 216 Gemeentewet
 wet: Gemeentewet
 artikel: '216'
 hoofdstuk: XV. De gemeentelijke belastingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 268 Gemeentewet
 wet: Gemeentewet
 artikel: '268'
 hoofdstuk: XVII. Schorsing en vernietiging

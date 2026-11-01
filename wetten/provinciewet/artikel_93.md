@@ -1,4 +1,5 @@
 ---
+title: Artikel 93 Provinciewet
 wet: Provinciewet
 artikel: '93'
 hoofdstuk: VI. Geldelijke voorzieningen ten behoeve van de leden van provinciale staten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.39c Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 8.39c
 hoofdstuk: 8. Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen

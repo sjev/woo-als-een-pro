@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.16 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '16.16'
 hoofdstuk: 16. Handel in emissierechten

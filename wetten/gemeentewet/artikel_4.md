@@ -1,4 +1,5 @@
 ---
+title: Artikel 4 Gemeentewet
 wet: Gemeentewet
 artikel: '4'
 valid_from: '2026-10-01'

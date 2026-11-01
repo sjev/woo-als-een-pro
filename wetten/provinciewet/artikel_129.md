@@ -1,4 +1,5 @@
 ---
+title: Artikel 129 Provinciewet
 wet: Provinciewet
 artikel: '129'
 hoofdstuk: VIII. Algemene bepalingen

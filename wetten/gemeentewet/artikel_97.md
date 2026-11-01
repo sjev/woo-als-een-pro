@@ -1,4 +1,5 @@
 ---
+title: Artikel 97 Gemeentewet
 wet: Gemeentewet
 artikel: '97'
 hoofdstuk: VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de

@@ -1,4 +1,5 @@
 ---
+title: Artikel 18 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '18'
 hoofdstuk: II. Archiefbescheiden in het algemeen

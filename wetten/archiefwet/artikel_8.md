@@ -1,4 +1,5 @@
 ---
+title: Artikel 8 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '8'
 hoofdstuk: II. Archiefbescheiden in het algemeen

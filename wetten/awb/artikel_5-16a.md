@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:16a Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 5:16a
 hoofdstuk: 5. Handhaving

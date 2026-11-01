@@ -1,4 +1,5 @@
 ---
+title: Artikel 227 Gemeentewet
 wet: Gemeentewet
 artikel: '227'
 hoofdstuk: XV. De gemeentelijke belastingen

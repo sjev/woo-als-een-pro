@@ -1,4 +1,5 @@
 ---
+title: Artikel 75 Gemeentewet
 wet: Gemeentewet
 artikel: '75'
 hoofdstuk: IV. De burgemeester

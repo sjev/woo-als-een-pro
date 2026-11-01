@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.6 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '18.6'
 hoofdstuk: 18. Handhaving

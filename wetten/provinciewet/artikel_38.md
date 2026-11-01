@@ -1,4 +1,5 @@
 ---
+title: Artikel 38 Provinciewet
 wet: Provinciewet
 artikel: '38'
 hoofdstuk: III. Gedeputeerde staten

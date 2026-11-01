@@ -1,4 +1,5 @@
 ---
+title: Artikel 217a Provinciewet
 wet: Provinciewet
 artikel: 217a
 hoofdstuk: XIV. De administratie en de controle

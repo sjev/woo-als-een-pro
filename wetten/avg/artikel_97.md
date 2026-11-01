@@ -1,4 +1,5 @@
 ---
+title: Artikel 97 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '97'
 hoofdstuk: XI. Slotbepalingen

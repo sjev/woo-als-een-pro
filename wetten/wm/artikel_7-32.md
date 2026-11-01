@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.32 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.32'
 hoofdstuk: 7. Milieueffectrapportage

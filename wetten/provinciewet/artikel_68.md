@@ -1,4 +1,5 @@
 ---
+title: Artikel 68 Provinciewet
 wet: Provinciewet
 artikel: '68'
 hoofdstuk: IV. De commissaris van de Koning

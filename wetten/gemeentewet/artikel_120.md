@@ -1,4 +1,5 @@
 ---
+title: Artikel 120 Gemeentewet
 wet: Gemeentewet
 artikel: '120'
 hoofdstuk: VIII. Algemene bepalingen

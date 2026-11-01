@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.9b Omgevingswet
 wet: Omgevingswet
 artikel: 19.9b
 hoofdstuk: 19. Bevoegdheden in bijzondere omstandigheden

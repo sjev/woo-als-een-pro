@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.5 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '19.5'
 hoofdstuk: 19. Openbaarheid van milieu-informatie

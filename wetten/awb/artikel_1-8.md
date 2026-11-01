@@ -1,4 +1,5 @@
 ---
+title: Artikel 1:8 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '1:8'
 hoofdstuk: 1. Inleidende bepalingen

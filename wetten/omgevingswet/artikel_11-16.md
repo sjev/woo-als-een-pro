@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.16 Omgevingswet
 wet: Omgevingswet
 artikel: '11.16'
 hoofdstuk: 11. Onteigening

@@ -1,4 +1,5 @@
 ---
+title: Artikel 199 Gemeentewet
 wet: Gemeentewet
 artikel: '199'
 hoofdstuk: XIII. De begroting en de jaarrekening

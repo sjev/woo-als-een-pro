@@ -1,4 +1,5 @@
 ---
+title: Artikel 7:13 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '7:13'
 hoofdstuk: 7. Bijzondere bepalingen over bezwaar en administratief beroep

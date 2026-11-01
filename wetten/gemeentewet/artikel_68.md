@@ -1,4 +1,5 @@
 ---
+title: Artikel 68 Gemeentewet
 wet: Gemeentewet
 artikel: '68'
 hoofdstuk: IV. De burgemeester

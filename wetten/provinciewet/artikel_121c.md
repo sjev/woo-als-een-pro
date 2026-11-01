@@ -1,4 +1,5 @@
 ---
+title: Artikel 121c Provinciewet
 wet: Provinciewet
 artikel: 121c
 hoofdstuk: VIII. Algemene bepalingen

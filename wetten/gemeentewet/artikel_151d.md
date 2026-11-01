@@ -1,4 +1,5 @@
 ---
+title: Artikel 151d Gemeentewet
 wet: Gemeentewet
 artikel: 151d
 hoofdstuk: IX. De bevoegdheid van de raad

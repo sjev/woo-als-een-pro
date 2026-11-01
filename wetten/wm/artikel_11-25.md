@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.25 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '11.25'
 hoofdstuk: 11. Geluid

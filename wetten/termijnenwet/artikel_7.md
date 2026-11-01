@@ -1,4 +1,5 @@
 ---
+title: Artikel 7 Algemene termijnenwet
 wet: Algemene termijnenwet
 artikel: '7'
 valid_from: '2010-10-10'

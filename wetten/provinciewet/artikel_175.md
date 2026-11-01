@@ -1,4 +1,5 @@
 ---
+title: Artikel 175 Provinciewet
 wet: Provinciewet
 artikel: '175'
 hoofdstuk: XI. De bevoegdheid van de commissaris van de Koning

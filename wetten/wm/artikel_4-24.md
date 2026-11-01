@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.24 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '4.24'
 hoofdstuk: 4. Plannen

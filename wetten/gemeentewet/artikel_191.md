@@ -1,4 +1,5 @@
 ---
+title: Artikel 191 Gemeentewet
 wet: Gemeentewet
 artikel: '191'
 hoofdstuk: XIII. De begroting en de jaarrekening

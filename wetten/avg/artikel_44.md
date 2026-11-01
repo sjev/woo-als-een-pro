@@ -1,4 +1,5 @@
 ---
+title: Artikel 44 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '44'
 hoofdstuk: V. Doorgiften van persoonsgegevens aan derde landen of internationale organisaties

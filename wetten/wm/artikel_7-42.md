@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.42 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.42'
 hoofdstuk: 7. Milieueffectrapportage

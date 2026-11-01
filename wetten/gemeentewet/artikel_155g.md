@@ -1,4 +1,5 @@
 ---
+title: Artikel 155g Gemeentewet
 wet: Gemeentewet
 artikel: 155g
 hoofdstuk: IX. De bevoegdheid van de raad

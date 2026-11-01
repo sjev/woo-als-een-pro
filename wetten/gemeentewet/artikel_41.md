@@ -1,4 +1,5 @@
 ---
+title: Artikel 41 Gemeentewet
 wet: Gemeentewet
 artikel: '41'
 hoofdstuk: III. Het college van burgemeester en wethouders

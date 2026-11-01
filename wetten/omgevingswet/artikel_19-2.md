@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.2 Omgevingswet
 wet: Omgevingswet
 artikel: '19.2'
 hoofdstuk: 19. Bevoegdheden in bijzondere omstandigheden

@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.23 Omgevingswet
 wet: Omgevingswet
 artikel: '18.23'
 hoofdstuk: 18. Handhaving en uitvoering

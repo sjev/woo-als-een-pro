@@ -1,4 +1,5 @@
 ---
+title: Artikel 302 Gemeentewet
 wet: Gemeentewet
 artikel: '302'
 valid_from: '2026-10-01'

@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.45 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.45'
 hoofdstuk: 10. Afvalstoffen

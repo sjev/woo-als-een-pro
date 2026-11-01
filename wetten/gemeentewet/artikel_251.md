@@ -1,4 +1,5 @@
 ---
+title: Artikel 251 Gemeentewet
 wet: Gemeentewet
 artikel: '251'
 hoofdstuk: XV. De gemeentelijke belastingen

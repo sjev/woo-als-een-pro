@@ -1,4 +1,5 @@
 ---
+title: Artikel 111 Provinciewet
 wet: Provinciewet
 artikel: '111'
 hoofdstuk: VIII. Algemene bepalingen

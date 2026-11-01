@@ -1,4 +1,5 @@
 ---
+title: Artikel 7:27 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '7:27'
 hoofdstuk: 7. Bijzondere bepalingen over bezwaar en administratief beroep

@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:13 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '5:13'
 hoofdstuk: 5. Handhaving

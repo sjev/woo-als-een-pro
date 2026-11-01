@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.10 Omgevingswet
 wet: Omgevingswet
 artikel: '19.10'
 hoofdstuk: 19. Bevoegdheden in bijzondere omstandigheden

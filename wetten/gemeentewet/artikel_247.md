@@ -1,4 +1,5 @@
 ---
+title: Artikel 247 Gemeentewet
 wet: Gemeentewet
 artikel: '247'
 hoofdstuk: XV. De gemeentelijke belastingen

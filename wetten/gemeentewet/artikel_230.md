@@ -1,4 +1,5 @@
 ---
+title: Artikel 230 Gemeentewet
 wet: Gemeentewet
 artikel: '230'
 hoofdstuk: XV. De gemeentelijke belastingen

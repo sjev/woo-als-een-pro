@@ -1,4 +1,5 @@
 ---
+title: Artikel 179 Gemeentewet
 wet: Gemeentewet
 artikel: '179'
 hoofdstuk: XI. De bevoegdheid van de burgemeester

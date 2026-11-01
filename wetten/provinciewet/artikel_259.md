@@ -1,4 +1,5 @@
 ---
+title: Artikel 259 Provinciewet
 wet: Provinciewet
 artikel: '259'
 hoofdstuk: XVII. Goedkeuring

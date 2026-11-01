@@ -1,4 +1,5 @@
 ---
+title: Artikel 125 Provinciewet
 wet: Provinciewet
 artikel: '125'
 hoofdstuk: VIII. Algemene bepalingen

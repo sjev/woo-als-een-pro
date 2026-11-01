@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.27 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '11.27'
 hoofdstuk: 11. Geluid

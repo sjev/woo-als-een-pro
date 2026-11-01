@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.27 Omgevingswet
 wet: Omgevingswet
 artikel: '16.27'
 hoofdstuk: 16. Procedures

@@ -1,4 +1,5 @@
 ---
+title: Artikel 81w Gemeentewet
 wet: Gemeentewet
 artikel: 81w
 hoofdstuk: IVc. De ombudsman

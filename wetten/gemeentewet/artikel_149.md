@@ -1,4 +1,5 @@
 ---
+title: Artikel 149 Gemeentewet
 wet: Gemeentewet
 artikel: '149'
 hoofdstuk: IX. De bevoegdheid van de raad

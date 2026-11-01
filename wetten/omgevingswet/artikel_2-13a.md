@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.13a Omgevingswet
 wet: Omgevingswet
 artikel: 2.13a
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

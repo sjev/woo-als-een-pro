@@ -1,4 +1,5 @@
 ---
+title: Artikel 132 Provinciewet
 wet: Provinciewet
 artikel: '132'
 hoofdstuk: VIII. Algemene bepalingen

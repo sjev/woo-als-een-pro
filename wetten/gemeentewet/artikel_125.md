@@ -1,4 +1,5 @@
 ---
+title: Artikel 125 Gemeentewet
 wet: Gemeentewet
 artikel: '125'
 hoofdstuk: VIII. Algemene bepalingen

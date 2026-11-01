@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.37 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.37'
 hoofdstuk: 10. Afvalstoffen

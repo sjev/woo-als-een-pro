@@ -1,4 +1,5 @@
 ---
+title: Artikel 244 Provinciewet
 wet: Provinciewet
 artikel: '244'
 hoofdstuk: XVI. Het Provinciefonds

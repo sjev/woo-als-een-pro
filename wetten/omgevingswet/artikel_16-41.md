@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.41 Omgevingswet
 wet: Omgevingswet
 artikel: '16.41'
 hoofdstuk: 16. Procedures

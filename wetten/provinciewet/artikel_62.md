@@ -1,4 +1,5 @@
 ---
+title: Artikel 62 Provinciewet
 wet: Provinciewet
 artikel: '62'
 hoofdstuk: IV. De commissaris van de Koning

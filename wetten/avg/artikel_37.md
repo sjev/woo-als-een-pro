@@ -1,4 +1,5 @@
 ---
+title: Artikel 37 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '37'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

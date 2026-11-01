@@ -1,4 +1,5 @@
 ---
+title: Artikel 273a Gemeentewet
 wet: Gemeentewet
 artikel: 273a
 hoofdstuk: XVII. Schorsing en vernietiging

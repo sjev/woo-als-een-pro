@@ -1,4 +1,5 @@
 ---
+title: Artikel 118 Gemeentewet
 wet: Gemeentewet
 artikel: '118'
 hoofdstuk: VIII. Algemene bepalingen

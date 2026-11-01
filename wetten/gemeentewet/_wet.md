@@ -3,7 +3,7 @@ bwb_id: BWBR0005416
 title: Gemeentewet
 short_title: Gemeentewet
 valid_from: '2026-10-01'
-fetched_at: '2026-10-31T23:32:31+00:00'
+fetched_at: '2026-11-01T18:11:20+00:00'
 source: https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005416/2026-10-01_0/xml/BWBR0005416_2026-10-01_0.xml
 ---
 

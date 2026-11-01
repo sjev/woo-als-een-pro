@@ -1,4 +1,5 @@
 ---
+title: Artikel 67 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '67'
 hoofdstuk: VII. Samenwerking en coherentie

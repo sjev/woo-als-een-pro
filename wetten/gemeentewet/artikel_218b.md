@@ -1,4 +1,5 @@
 ---
+title: Artikel 218b Gemeentewet
 wet: Gemeentewet
 artikel: 218b
 hoofdstuk: XV. De gemeentelijke belastingen

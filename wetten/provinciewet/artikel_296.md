@@ -1,4 +1,5 @@
 ---
+title: Artikel 296 Provinciewet
 wet: Provinciewet
 artikel: '296'
 valid_from: '2026-07-01'

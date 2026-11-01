@@ -1,4 +1,5 @@
 ---
+title: Artikel 208 Provinciewet
 wet: Provinciewet
 artikel: '208'
 hoofdstuk: XIII. De begroting en de jaarrekening

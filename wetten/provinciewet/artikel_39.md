@@ -1,4 +1,5 @@
 ---
+title: Artikel 39 Provinciewet
 wet: Provinciewet
 artikel: '39'
 hoofdstuk: III. Gedeputeerde staten

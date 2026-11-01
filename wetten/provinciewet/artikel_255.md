@@ -1,4 +1,5 @@
 ---
+title: Artikel 255 Provinciewet
 wet: Provinciewet
 artikel: '255'
 hoofdstuk: XVII. Goedkeuring

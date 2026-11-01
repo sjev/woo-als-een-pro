@@ -1,4 +1,5 @@
 ---
+title: Artikel 53 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '53'
 hoofdstuk: VI. Onafhankelijke toezichthoudende autoriteiten

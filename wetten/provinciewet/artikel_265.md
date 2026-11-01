@@ -1,4 +1,5 @@
 ---
+title: Artikel 265 Provinciewet
 wet: Provinciewet
 artikel: '265'
 hoofdstuk: XVIII. Schorsing en vernietiging

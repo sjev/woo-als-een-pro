@@ -1,4 +1,5 @@
 ---
+title: Artikel 307 Gemeentewet
 wet: Gemeentewet
 artikel: '307'
 valid_from: '2026-10-01'

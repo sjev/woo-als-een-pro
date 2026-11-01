@@ -1,4 +1,5 @@
 ---
+title: Artikel 15 Provinciewet
 wet: Provinciewet
 artikel: '15'
 hoofdstuk: II. Provinciale staten

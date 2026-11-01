@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.25a Omgevingswet
 wet: Omgevingswet
 artikel: 18.25a
 hoofdstuk: 18. Handhaving en uitvoering

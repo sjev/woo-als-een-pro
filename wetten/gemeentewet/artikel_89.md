@@ -1,4 +1,5 @@
 ---
+title: Artikel 89 Gemeentewet
 wet: Gemeentewet
 artikel: '89'
 hoofdstuk: Va. Geheimhouding

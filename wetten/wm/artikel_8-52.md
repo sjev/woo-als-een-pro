@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.52 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '8.52'
 hoofdstuk: 8. Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen

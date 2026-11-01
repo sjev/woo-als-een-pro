@@ -1,4 +1,5 @@
 ---
+title: Artikel 49 Provinciewet
 wet: Provinciewet
 artikel: '49'
 hoofdstuk: III. Gedeputeerde staten

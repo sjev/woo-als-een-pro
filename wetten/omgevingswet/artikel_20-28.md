@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.28 Omgevingswet
 wet: Omgevingswet
 artikel: '20.28'
 hoofdstuk: 20. Monitoring en informatie

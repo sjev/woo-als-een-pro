@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.24 Omgevingswet
 wet: Omgevingswet
 artikel: '5.24'
 hoofdstuk: 5. De omgevingsvergunning en het projectbesluit

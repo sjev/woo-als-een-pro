@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.11 Omgevingswet
 wet: Omgevingswet
 artikel: '18.11'
 hoofdstuk: 18. Handhaving en uitvoering

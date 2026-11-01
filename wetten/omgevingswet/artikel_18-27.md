@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.27 Omgevingswet
 wet: Omgevingswet
 artikel: '18.27'
 hoofdstuk: 18. Handhaving en uitvoering

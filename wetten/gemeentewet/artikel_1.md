@@ -1,4 +1,5 @@
 ---
+title: Artikel 1 Gemeentewet
 wet: Gemeentewet
 artikel: '1'
 valid_from: '2026-10-01'

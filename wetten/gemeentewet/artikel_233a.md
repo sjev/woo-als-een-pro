@@ -1,4 +1,5 @@
 ---
+title: Artikel 233a Gemeentewet
 wet: Gemeentewet
 artikel: 233a
 hoofdstuk: XV. De gemeentelijke belastingen

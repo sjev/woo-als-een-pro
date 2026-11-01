@@ -1,4 +1,5 @@
 ---
+title: Artikel 8:75a Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 8:75a
 hoofdstuk: 8. Bijzondere bepalingen over de wijze van procederen bij de bestuursrechter

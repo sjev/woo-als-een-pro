@@ -1,4 +1,5 @@
 ---
+title: Artikel 300a Gemeentewet
 wet: Gemeentewet
 artikel: 300a
 valid_from: '2026-10-01'

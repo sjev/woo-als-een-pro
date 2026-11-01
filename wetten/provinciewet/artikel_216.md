@@ -1,4 +1,5 @@
 ---
+title: Artikel 216 Provinciewet
 wet: Provinciewet
 artikel: '216'
 hoofdstuk: XIV. De administratie en de controle

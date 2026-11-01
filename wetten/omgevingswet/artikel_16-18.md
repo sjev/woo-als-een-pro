@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.18 Omgevingswet
 wet: Omgevingswet
 artikel: '16.18'
 hoofdstuk: 16. Procedures

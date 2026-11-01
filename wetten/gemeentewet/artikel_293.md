@@ -1,4 +1,5 @@
 ---
+title: Artikel 293 Gemeentewet
 wet: Gemeentewet
 artikel: '293'
 valid_from: '2026-10-01'

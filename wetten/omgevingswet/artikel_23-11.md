@@ -1,4 +1,5 @@
 ---
+title: Artikel 23.11 Omgevingswet
 wet: Omgevingswet
 artikel: '23.11'
 hoofdstuk: 23. Overige en slotbepalingen

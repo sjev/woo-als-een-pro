@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.28 Omgevingswet
 wet: Omgevingswet
 artikel: '10.28'
 hoofdstuk: 10. Gedoogplichten

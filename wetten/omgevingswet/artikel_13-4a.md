@@ -1,4 +1,5 @@
 ---
+title: Artikel 13.4a Omgevingswet
 wet: Omgevingswet
 artikel: 13.4a
 hoofdstuk: 13. Financiële bepalingen

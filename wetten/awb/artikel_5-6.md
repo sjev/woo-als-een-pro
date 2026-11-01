@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:6 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '5:6'
 hoofdstuk: 5. Handhaving

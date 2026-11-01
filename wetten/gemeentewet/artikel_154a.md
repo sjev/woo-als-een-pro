@@ -1,4 +1,5 @@
 ---
+title: Artikel 154a Gemeentewet
 wet: Gemeentewet
 artikel: 154a
 hoofdstuk: IX. De bevoegdheid van de raad

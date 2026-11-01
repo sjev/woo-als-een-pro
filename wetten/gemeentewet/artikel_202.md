@@ -1,4 +1,5 @@
 ---
+title: Artikel 202 Gemeentewet
 wet: Gemeentewet
 artikel: '202'
 hoofdstuk: XIII. De begroting en de jaarrekening

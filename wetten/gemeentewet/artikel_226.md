@@ -1,4 +1,5 @@
 ---
+title: Artikel 226 Gemeentewet
 wet: Gemeentewet
 artikel: '226'
 hoofdstuk: XV. De gemeentelijke belastingen

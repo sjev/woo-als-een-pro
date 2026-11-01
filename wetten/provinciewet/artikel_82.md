@@ -1,4 +1,5 @@
 ---
+title: Artikel 82 Provinciewet
 wet: Provinciewet
 artikel: '82'
 hoofdstuk: V. De commissies

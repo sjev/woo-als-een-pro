@@ -1,4 +1,5 @@
 ---
+title: Artikel 302 Provinciewet
 wet: Provinciewet
 artikel: '302'
 valid_from: '2026-07-01'

@@ -1,4 +1,5 @@
 ---
+title: Artikel 23.2 Omgevingswet
 wet: Omgevingswet
 artikel: '23.2'
 hoofdstuk: 23. Overige en slotbepalingen

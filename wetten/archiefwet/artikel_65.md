@@ -1,4 +1,5 @@
 ---
+title: Artikel 65 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '65'
 hoofdstuk: IX. Overgangs- en slotbepalingen

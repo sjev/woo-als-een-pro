@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.115 Omgevingswet
 wet: Omgevingswet
 artikel: '16.115'
 hoofdstuk: 16. Procedures

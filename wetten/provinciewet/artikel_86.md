@@ -1,4 +1,5 @@
 ---
+title: Artikel 86 Provinciewet
 wet: Provinciewet
 artikel: '86'
 hoofdstuk: VA. Geheimhouding

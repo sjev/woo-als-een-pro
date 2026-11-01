@@ -1,4 +1,5 @@
 ---
+title: Artikel 297 Provinciewet
 wet: Provinciewet
 artikel: '297'
 valid_from: '2026-07-01'

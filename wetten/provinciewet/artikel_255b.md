@@ -1,4 +1,5 @@
 ---
+title: Artikel 255b Provinciewet
 wet: Provinciewet
 artikel: 255b
 hoofdstuk: XVII. Goedkeuring

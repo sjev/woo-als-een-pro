@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.35 Omgevingswet
 wet: Omgevingswet
 artikel: '15.35'
 hoofdstuk: 15. Schade

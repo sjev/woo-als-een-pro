@@ -1,4 +1,5 @@
 ---
+title: Artikel 104c Provinciewet
 wet: Provinciewet
 artikel: 104c
 hoofdstuk: VII. De secretaris en de griffier

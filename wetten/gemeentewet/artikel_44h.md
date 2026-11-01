@@ -1,4 +1,5 @@
 ---
+title: Artikel 44h Gemeentewet
 wet: Gemeentewet
 artikel: 44h
 hoofdstuk: III. Het college van burgemeester en wethouders

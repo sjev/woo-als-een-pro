@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.26a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 7.26a
 hoofdstuk: 7. Milieueffectrapportage

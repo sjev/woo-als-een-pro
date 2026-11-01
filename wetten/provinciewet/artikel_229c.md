@@ -1,4 +1,5 @@
 ---
+title: Artikel 229c Provinciewet
 wet: Provinciewet
 artikel: 229c
 hoofdstuk: XV. De provinciale belastingen

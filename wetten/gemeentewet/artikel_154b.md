@@ -1,4 +1,5 @@
 ---
+title: Artikel 154b Gemeentewet
 wet: Gemeentewet
 artikel: 154b
 hoofdstuk: IX. De bevoegdheid van de raad

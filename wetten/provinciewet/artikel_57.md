@@ -1,4 +1,5 @@
 ---
+title: Artikel 57 Provinciewet
 wet: Provinciewet
 artikel: '57'
 hoofdstuk: III. Gedeputeerde staten

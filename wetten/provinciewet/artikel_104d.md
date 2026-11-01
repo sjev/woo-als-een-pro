@@ -1,4 +1,5 @@
 ---
+title: Artikel 104d Provinciewet
 wet: Provinciewet
 artikel: 104d
 hoofdstuk: VII. De secretaris en de griffier

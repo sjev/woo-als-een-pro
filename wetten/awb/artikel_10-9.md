@@ -1,4 +1,5 @@
 ---
+title: Artikel 10:9 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '10:9'
 hoofdstuk: 10. Bepalingen over bestuursorganen

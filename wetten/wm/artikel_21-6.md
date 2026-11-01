@@ -1,4 +1,5 @@
 ---
+title: Artikel 21.6 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '21.6'
 hoofdstuk: 21. Verdere bepalingen

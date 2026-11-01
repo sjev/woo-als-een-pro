@@ -1,4 +1,5 @@
 ---
+title: Artikel 27 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '27'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

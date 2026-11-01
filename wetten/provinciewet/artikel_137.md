@@ -1,4 +1,5 @@
 ---
+title: Artikel 137 Provinciewet
 wet: Provinciewet
 artikel: '137'
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.27 Omgevingswet
 wet: Omgevingswet
 artikel: '10.27'
 hoofdstuk: 10. Gedoogplichten

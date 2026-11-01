@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.18 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.18'
 hoofdstuk: 7. Milieueffectrapportage

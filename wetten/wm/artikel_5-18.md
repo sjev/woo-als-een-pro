@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.18 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '5.18'
 hoofdstuk: 5. Milieukwaliteitseisen

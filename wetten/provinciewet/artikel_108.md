@@ -1,4 +1,5 @@
 ---
+title: Artikel 108 Provinciewet
 wet: Provinciewet
 artikel: '108'
 hoofdstuk: VIII. Algemene bepalingen

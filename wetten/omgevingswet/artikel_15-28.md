@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.28 Omgevingswet
 wet: Omgevingswet
 artikel: '15.28'
 hoofdstuk: 15. Schade

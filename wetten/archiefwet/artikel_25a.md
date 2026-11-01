@@ -1,4 +1,5 @@
 ---
+title: Artikel 25a Archiefwet 1995
 wet: Archiefwet 1995
 artikel: 25a
 hoofdstuk: III. Archiefbescheiden van het rijk

@@ -1,4 +1,5 @@
 ---
+title: Artikel 214 Gemeentewet
 wet: Gemeentewet
 artikel: '214'
 hoofdstuk: XIV. De administratie en de controle

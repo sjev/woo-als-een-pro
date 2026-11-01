@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.6 Omgevingswet
 wet: Omgevingswet
 artikel: '10.6'
 hoofdstuk: 10. Gedoogplichten

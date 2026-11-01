@@ -1,4 +1,5 @@
 ---
+title: Artikel 247 Provinciewet
 wet: Provinciewet
 artikel: '247'
 hoofdstuk: XVI. Het Provinciefonds

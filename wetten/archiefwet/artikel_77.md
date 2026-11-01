@@ -1,4 +1,5 @@
 ---
+title: Artikel 77 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '77'
 hoofdstuk: IX. Overgangs- en slotbepalingen

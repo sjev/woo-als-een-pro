@@ -1,4 +1,5 @@
 ---
+title: Artikel 63 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '63'
 hoofdstuk: IX. Overgangs- en slotbepalingen

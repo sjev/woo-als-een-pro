@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.18 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '2.18'
 hoofdstuk: 2. Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen

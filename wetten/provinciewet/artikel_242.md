@@ -1,4 +1,5 @@
 ---
+title: Artikel 242 Provinciewet
 wet: Provinciewet
 artikel: '242'
 hoofdstuk: XVI. Het Provinciefonds

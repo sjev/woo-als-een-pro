@@ -1,4 +1,5 @@
 ---
+title: Artikel 276 Gemeentewet
 wet: Gemeentewet
 artikel: '276'
 hoofdstuk: XVII. Schorsing en vernietiging

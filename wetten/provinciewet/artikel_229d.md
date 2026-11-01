@@ -1,4 +1,5 @@
 ---
+title: Artikel 229d Provinciewet
 wet: Provinciewet
 artikel: 229d
 hoofdstuk: XV. De provinciale belastingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 174 Gemeentewet
 wet: Gemeentewet
 artikel: '174'
 hoofdstuk: XI. De bevoegdheid van de burgemeester

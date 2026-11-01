@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.12 Omgevingswet
 wet: Omgevingswet
 artikel: '3.12'
 hoofdstuk: 3. Omgevingsvisies en programma’s

@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.13 Omgevingswet
 wet: Omgevingswet
 artikel: '16.13'
 hoofdstuk: 16. Procedures

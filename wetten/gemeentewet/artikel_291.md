@@ -1,4 +1,5 @@
 ---
+title: Artikel 291 Gemeentewet
 wet: Gemeentewet
 artikel: '291'
 valid_from: '2026-10-01'

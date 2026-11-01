@@ -1,4 +1,5 @@
 ---
+title: Artikel 10 Provinciewet
 wet: Provinciewet
 artikel: '10'
 hoofdstuk: II. Provinciale staten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.4 Omgevingswet
 wet: Omgevingswet
 artikel: '8.4'
 hoofdstuk: 8. Aanvullende regels populatiebeheer, schadebestrijding en jacht

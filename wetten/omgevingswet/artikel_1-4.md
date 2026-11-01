@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.4 Omgevingswet
 wet: Omgevingswet
 artikel: '1.4'
 hoofdstuk: 1. Algemene bepalingen

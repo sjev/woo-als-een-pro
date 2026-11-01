@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.37 Omgevingswet
 wet: Omgevingswet
 artikel: '16.37'
 hoofdstuk: 16. Procedures

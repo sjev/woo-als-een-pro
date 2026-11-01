@@ -1,4 +1,5 @@
 ---
+title: Artikel 218a Gemeentewet
 wet: Gemeentewet
 artikel: 218a
 hoofdstuk: XV. De gemeentelijke belastingen

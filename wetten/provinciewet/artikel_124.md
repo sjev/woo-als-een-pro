@@ -1,4 +1,5 @@
 ---
+title: Artikel 124 Provinciewet
 wet: Provinciewet
 artikel: '124'
 hoofdstuk: VIII. Algemene bepalingen

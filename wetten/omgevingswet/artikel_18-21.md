@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.21 Omgevingswet
 wet: Omgevingswet
 artikel: '18.21'
 hoofdstuk: 18. Handhaving en uitvoering

@@ -1,4 +1,5 @@
 ---
+title: Artikel 10:5 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '10:5'
 hoofdstuk: 10. Bepalingen over bestuursorganen

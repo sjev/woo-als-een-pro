@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.24 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '8.24'
 hoofdstuk: 8. Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen

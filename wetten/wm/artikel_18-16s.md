@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.16s Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 18.16s
 hoofdstuk: 18. Handhaving

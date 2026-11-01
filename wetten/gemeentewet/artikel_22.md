@@ -1,4 +1,5 @@
 ---
+title: Artikel 22 Gemeentewet
 wet: Gemeentewet
 artikel: '22'
 hoofdstuk: II. De raad

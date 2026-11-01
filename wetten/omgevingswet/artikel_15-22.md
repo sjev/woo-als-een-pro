@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.22 Omgevingswet
 wet: Omgevingswet
 artikel: '15.22'
 hoofdstuk: 15. Schade

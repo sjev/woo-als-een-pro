@@ -1,4 +1,5 @@
 ---
+title: Artikel 2:24 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '2:24'
 hoofdstuk: 2. Verkeer met bestuursorganen

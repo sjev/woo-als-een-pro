@@ -1,4 +1,5 @@
 ---
+title: Artikel 4:31 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '4:31'
 hoofdstuk: 4. Bijzondere bepalingen over besluiten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.29 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.29'
 hoofdstuk: 7. Milieueffectrapportage

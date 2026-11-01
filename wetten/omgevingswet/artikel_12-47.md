@@ -1,4 +1,5 @@
 ---
+title: Artikel 12.47 Omgevingswet
 wet: Omgevingswet
 artikel: '12.47'
 hoofdstuk: 12. Bijzondere instrumenten voor het inrichten van gebieden

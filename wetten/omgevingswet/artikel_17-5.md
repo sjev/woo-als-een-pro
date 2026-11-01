@@ -1,4 +1,5 @@
 ---
+title: Artikel 17.5 Omgevingswet
 wet: Omgevingswet
 artikel: '17.5'
 hoofdstuk: 17. Adviesorganen en adviseurs

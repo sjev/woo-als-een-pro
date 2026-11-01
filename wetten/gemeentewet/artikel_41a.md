@@ -1,4 +1,5 @@
 ---
+title: Artikel 41a Gemeentewet
 wet: Gemeentewet
 artikel: 41a
 hoofdstuk: III. Het college van burgemeester en wethouders

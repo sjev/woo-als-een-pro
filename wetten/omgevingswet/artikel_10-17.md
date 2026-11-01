@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.17 Omgevingswet
 wet: Omgevingswet
 artikel: '10.17'
 hoofdstuk: 10. Gedoogplichten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.35 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.35'
 hoofdstuk: 7. Milieueffectrapportage

@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.8 Omgevingswet
 wet: Omgevingswet
 artikel: '1.8'
 hoofdstuk: 1. Algemene bepalingen

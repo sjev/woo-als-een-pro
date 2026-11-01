@@ -1,4 +1,5 @@
 ---
+title: Artikel 9.3a.3 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 9.3a.3
 hoofdstuk: 9. Stoffen en produkten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 43 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '43'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

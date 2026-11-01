@@ -1,4 +1,5 @@
 ---
+title: Artikel 7 Gemeentewet
 wet: Gemeentewet
 artikel: '7'
 hoofdstuk: II. De raad

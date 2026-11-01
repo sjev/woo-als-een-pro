@@ -1,4 +1,5 @@
 ---
+title: Artikel 28 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '28'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

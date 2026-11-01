@@ -1,4 +1,5 @@
 ---
+title: Artikel 5a Algemene termijnenwet
 wet: Algemene termijnenwet
 artikel: 5a
 valid_from: '2010-10-10'

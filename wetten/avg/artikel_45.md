@@ -1,4 +1,5 @@
 ---
+title: Artikel 45 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '45'
 hoofdstuk: V. Doorgiften van persoonsgegevens aan derde landen of internationale organisaties

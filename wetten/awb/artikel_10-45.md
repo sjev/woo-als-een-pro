@@ -1,4 +1,5 @@
 ---
+title: Artikel 10:45 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '10:45'
 hoofdstuk: 10. Bepalingen over bestuursorganen

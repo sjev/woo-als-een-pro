@@ -1,4 +1,5 @@
 ---
+title: Artikel 13 Provinciewet
 wet: Provinciewet
 artikel: '13'
 hoofdstuk: II. Provinciale staten

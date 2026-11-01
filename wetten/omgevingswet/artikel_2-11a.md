@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.11a Omgevingswet
 wet: Omgevingswet
 artikel: 2.11a
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

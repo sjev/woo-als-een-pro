@@ -1,4 +1,5 @@
 ---
+title: Artikel 145 Provinciewet
 wet: Provinciewet
 artikel: '145'
 hoofdstuk: IX. De bevoegdheid van provinciale staten

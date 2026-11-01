@@ -1,4 +1,5 @@
 ---
+title: Artikel 227 Provinciewet
 wet: Provinciewet
 artikel: '227'
 hoofdstuk: XV. De provinciale belastingen

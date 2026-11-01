@@ -1,4 +1,5 @@
 ---
+title: Artikel 45 Gemeentewet
 wet: Gemeentewet
 artikel: '45'
 hoofdstuk: III. Het college van burgemeester en wethouders

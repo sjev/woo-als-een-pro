@@ -1,4 +1,5 @@
 ---
+title: Artikel 13.7a Omgevingswet
 wet: Omgevingswet
 artikel: 13.7a
 hoofdstuk: 13. Financiële bepalingen

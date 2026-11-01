@@ -1,4 +1,5 @@
 ---
+title: Artikel 53a Provinciewet
 wet: Provinciewet
 artikel: 53a
 hoofdstuk: III. Gedeputeerde staten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 167 Provinciewet
 wet: Provinciewet
 artikel: '167'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

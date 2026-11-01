@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.32 Omgevingswet
 wet: Omgevingswet
 artikel: '16.32'
 hoofdstuk: 16. Procedures

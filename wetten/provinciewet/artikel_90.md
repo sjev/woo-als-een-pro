@@ -1,4 +1,5 @@
 ---
+title: Artikel 90 Provinciewet
 wet: Provinciewet
 artikel: '90'
 hoofdstuk: VA. Geheimhouding

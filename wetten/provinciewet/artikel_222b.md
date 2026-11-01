@@ -1,4 +1,5 @@
 ---
+title: Artikel 222b Provinciewet
 wet: Provinciewet
 artikel: 222b
 hoofdstuk: XV. De provinciale belastingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 269 Gemeentewet
 wet: Gemeentewet
 artikel: '269'
 hoofdstuk: XVII. Schorsing en vernietiging

@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.20 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '4.20'
 hoofdstuk: 4. Plannen

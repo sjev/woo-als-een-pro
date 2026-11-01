@@ -1,4 +1,5 @@
 ---
+title: Artikel 44d Gemeentewet
 wet: Gemeentewet
 artikel: 44d
 hoofdstuk: III. Het college van burgemeester en wethouders

@@ -1,4 +1,5 @@
 ---
+title: Artikel 49 Gemeentewet
 wet: Gemeentewet
 artikel: '49'
 hoofdstuk: III. Het college van burgemeester en wethouders

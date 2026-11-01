@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.16 Omgevingswet
 wet: Omgevingswet
 artikel: '3.16'
 hoofdstuk: 3. Omgevingsvisies en programma’s

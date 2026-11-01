@@ -1,4 +1,5 @@
 ---
+title: Artikel 177 Gemeentewet
 wet: Gemeentewet
 artikel: '177'
 hoofdstuk: XI. De bevoegdheid van de burgemeester

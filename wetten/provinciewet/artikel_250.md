@@ -1,4 +1,5 @@
 ---
+title: Artikel 250 Provinciewet
 wet: Provinciewet
 artikel: '250'
 hoofdstuk: XVI. Het Provinciefonds

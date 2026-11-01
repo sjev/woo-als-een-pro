@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.11 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '16.11'
 hoofdstuk: 16. Handel in emissierechten

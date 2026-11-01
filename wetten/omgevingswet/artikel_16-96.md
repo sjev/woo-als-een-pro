@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.96 Omgevingswet
 wet: Omgevingswet
 artikel: '16.96'
 hoofdstuk: 16. Procedures

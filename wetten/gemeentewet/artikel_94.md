@@ -1,4 +1,5 @@
 ---
+title: Artikel 94 Gemeentewet
 wet: Gemeentewet
 artikel: '94'
 hoofdstuk: Va. Geheimhouding

@@ -1,4 +1,5 @@
 ---
+title: Artikel 3:10 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '3:10'
 hoofdstuk: 3. Algemene bepalingen over besluiten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.10 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '5.10'
 hoofdstuk: 5. Milieukwaliteitseisen

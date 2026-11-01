@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.20 Omgevingswet
 wet: Omgevingswet
 artikel: '10.20'
 hoofdstuk: 10. Gedoogplichten

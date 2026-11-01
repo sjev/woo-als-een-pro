@@ -1,4 +1,5 @@
 ---
+title: Artikel 99 Provinciewet
 wet: Provinciewet
 artikel: '99'
 hoofdstuk: VII. De secretaris en de griffier

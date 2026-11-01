@@ -1,4 +1,5 @@
 ---
+title: Artikel 2:18 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '2:18'
 hoofdstuk: 2. Verkeer met bestuursorganen

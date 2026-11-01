@@ -1,4 +1,5 @@
 ---
+title: Artikel 279 Gemeentewet
 wet: Gemeentewet
 artikel: '279'
 hoofdstuk: XVII. Schorsing en vernietiging

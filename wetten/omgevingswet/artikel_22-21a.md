@@ -1,4 +1,5 @@
 ---
+title: Artikel 22.21a Omgevingswet
 wet: Omgevingswet
 artikel: 22.21a
 hoofdstuk: 22. Overgangsrecht

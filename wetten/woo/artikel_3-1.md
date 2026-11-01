@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.1 Wet open overheid
 wet: Wet open overheid
 artikel: '3.1'
 hoofdstuk: 3. Openbaarmaking uit eigen beweging

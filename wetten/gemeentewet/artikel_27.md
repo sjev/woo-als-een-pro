@@ -1,4 +1,5 @@
 ---
+title: Artikel 27 Gemeentewet
 wet: Gemeentewet
 artikel: '27'
 hoofdstuk: II. De raad

@@ -1,4 +1,5 @@
 ---
+title: Artikel 79aa Provinciewet
 wet: Provinciewet
 artikel: 79aa
 hoofdstuk: IVC. De ombudsman

@@ -1,4 +1,5 @@
 ---
+title: Artikel 29 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '29'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

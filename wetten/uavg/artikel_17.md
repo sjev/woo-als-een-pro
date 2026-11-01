@@ -1,4 +1,5 @@
 ---
+title: Artikel 17 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '17'
 hoofdstuk: 2. De Autoriteit persoonsgegevens

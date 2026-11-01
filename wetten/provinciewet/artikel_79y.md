@@ -1,4 +1,5 @@
 ---
+title: Artikel 79y Provinciewet
 wet: Provinciewet
 artikel: 79y
 hoofdstuk: IVC. De ombudsman

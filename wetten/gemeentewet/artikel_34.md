@@ -1,4 +1,5 @@
 ---
+title: Artikel 34 Gemeentewet
 wet: Gemeentewet
 artikel: '34'
 hoofdstuk: III. Het college van burgemeester en wethouders

@@ -1,4 +1,5 @@
 ---
+title: Artikel 192 Provinciewet
 wet: Provinciewet
 artikel: '192'
 hoofdstuk: XII. Algemene bepalingen

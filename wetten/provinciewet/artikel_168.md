@@ -1,4 +1,5 @@
 ---
+title: Artikel 168 Provinciewet
 wet: Provinciewet
 artikel: '168'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 81k Gemeentewet
 wet: Gemeentewet
 artikel: 81k
 hoofdstuk: IVa. De rekenkamer

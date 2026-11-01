@@ -1,4 +1,5 @@
 ---
+title: Artikel 164 Provinciewet
 wet: Provinciewet
 artikel: '164'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

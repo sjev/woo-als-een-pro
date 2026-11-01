@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.9d Omgevingswet
 wet: Omgevingswet
 artikel: 19.9d
 hoofdstuk: 19. Bevoegdheden in bijzondere omstandigheden

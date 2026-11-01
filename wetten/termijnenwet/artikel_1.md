@@ -1,4 +1,5 @@
 ---
+title: Artikel 1 Algemene termijnenwet
 wet: Algemene termijnenwet
 artikel: '1'
 valid_from: '2010-10-10'

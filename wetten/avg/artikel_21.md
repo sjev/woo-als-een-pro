@@ -1,4 +1,5 @@
 ---
+title: Artikel 21 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '21'
 hoofdstuk: III. Rechten van de betrokkene

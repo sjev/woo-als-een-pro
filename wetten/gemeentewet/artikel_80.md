@@ -1,4 +1,5 @@
 ---
+title: Artikel 80 Gemeentewet
 wet: Gemeentewet
 artikel: '80'
 hoofdstuk: IV. De burgemeester

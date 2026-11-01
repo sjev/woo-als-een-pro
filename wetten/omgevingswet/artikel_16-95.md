@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.95 Omgevingswet
 wet: Omgevingswet
 artikel: '16.95'
 hoofdstuk: 16. Procedures

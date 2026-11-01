@@ -1,4 +1,5 @@
 ---
+title: Artikel 39 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '39'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

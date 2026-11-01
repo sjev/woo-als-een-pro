@@ -1,4 +1,5 @@
 ---
+title: Artikel 34 Provinciewet
 wet: Provinciewet
 artikel: '34'
 hoofdstuk: III. Gedeputeerde staten

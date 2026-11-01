@@ -1,4 +1,5 @@
 ---
+title: Artikel 21.5 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '21.5'
 hoofdstuk: 21. Verdere bepalingen

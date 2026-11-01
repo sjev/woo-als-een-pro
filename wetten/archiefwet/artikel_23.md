@@ -1,4 +1,5 @@
 ---
+title: Artikel 23 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '23'
 hoofdstuk: III. Archiefbescheiden van het rijk

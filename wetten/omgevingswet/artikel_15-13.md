@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.13 Omgevingswet
 wet: Omgevingswet
 artikel: '15.13'
 hoofdstuk: 15. Schade

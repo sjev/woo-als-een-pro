@@ -1,4 +1,5 @@
 ---
+title: Artikel 151h Provinciewet
 wet: Provinciewet
 artikel: 151h
 hoofdstuk: IX. De bevoegdheid van provinciale staten

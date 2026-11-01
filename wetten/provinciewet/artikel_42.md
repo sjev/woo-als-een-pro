@@ -1,4 +1,5 @@
 ---
+title: Artikel 42 Provinciewet
 wet: Provinciewet
 artikel: '42'
 hoofdstuk: III. Gedeputeerde staten

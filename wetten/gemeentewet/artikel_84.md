@@ -1,4 +1,5 @@
 ---
+title: Artikel 84 Gemeentewet
 wet: Gemeentewet
 artikel: '84'
 hoofdstuk: V. De commissies

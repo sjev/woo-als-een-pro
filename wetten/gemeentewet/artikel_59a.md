@@ -1,4 +1,5 @@
 ---
+title: Artikel 59a Gemeentewet
 wet: Gemeentewet
 artikel: 59a
 hoofdstuk: III. Het college van burgemeester en wethouders

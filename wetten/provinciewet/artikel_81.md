@@ -1,4 +1,5 @@
 ---
+title: Artikel 81 Provinciewet
 wet: Provinciewet
 artikel: '81'
 hoofdstuk: V. De commissies

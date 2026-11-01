@@ -1,4 +1,5 @@
 ---
+title: Artikel 108 Gemeentewet
 wet: Gemeentewet
 artikel: '108'
 hoofdstuk: VIII. Algemene bepalingen

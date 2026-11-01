@@ -1,4 +1,6 @@
 ---
+title: Artikel 6 bis Verdrag betreffende toegang tot informatie, inspraak in besluitvorming
+  en toegang tot de rechter inzake milieuaangelegenheden
 wet: Verdrag betreffende toegang tot informatie, inspraak in besluitvorming en toegang
   tot de rechter inzake milieuaangelegenheden
 artikel: 6 bis

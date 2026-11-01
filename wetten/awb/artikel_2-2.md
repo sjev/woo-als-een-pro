@@ -1,4 +1,5 @@
 ---
+title: Artikel 2:2 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '2:2'
 hoofdstuk: 2. Verkeer met bestuursorganen

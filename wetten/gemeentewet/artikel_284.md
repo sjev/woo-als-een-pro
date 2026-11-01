@@ -1,4 +1,5 @@
 ---
+title: Artikel 284 Gemeentewet
 wet: Gemeentewet
 artikel: '284'
 valid_from: '2026-10-01'

@@ -1,4 +1,5 @@
 ---
+title: Artikel 22.2 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '22.2'
 hoofdstuk: 22. Slotbepalingen

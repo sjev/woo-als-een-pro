@@ -1,4 +1,5 @@
 ---
+title: Artikel 12 Provinciewet
 wet: Provinciewet
 artikel: '12'
 hoofdstuk: II. Provinciale staten

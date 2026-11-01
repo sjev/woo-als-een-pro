@@ -1,4 +1,5 @@
 ---
+title: Artikel 74 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '74'
 hoofdstuk: IX. Overgangs- en slotbepalingen

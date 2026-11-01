@@ -1,4 +1,5 @@
 ---
+title: Artikel 2b Archiefwet 1995
 wet: Archiefwet 1995
 artikel: 2b
 hoofdstuk: I. Algemene bepalingen

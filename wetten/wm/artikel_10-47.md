@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.47 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.47'
 hoofdstuk: 10. Afvalstoffen

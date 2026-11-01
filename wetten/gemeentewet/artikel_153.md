@@ -1,4 +1,5 @@
 ---
+title: Artikel 153 Gemeentewet
 wet: Gemeentewet
 artikel: '153'
 hoofdstuk: IX. De bevoegdheid van de raad

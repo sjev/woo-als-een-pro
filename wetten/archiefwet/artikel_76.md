@@ -1,4 +1,5 @@
 ---
+title: Artikel 76 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '76'
 hoofdstuk: IX. Overgangs- en slotbepalingen

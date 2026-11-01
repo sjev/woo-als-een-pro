@@ -1,4 +1,5 @@
 ---
+title: Artikel 43g Provinciewet
 wet: Provinciewet
 artikel: 43g
 hoofdstuk: III. Gedeputeerde staten

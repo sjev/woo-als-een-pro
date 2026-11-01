@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.17 Omgevingswet
 wet: Omgevingswet
 artikel: '3.17'
 hoofdstuk: 3. Omgevingsvisies en programma’s

@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.43 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.43'
 hoofdstuk: 7. Milieueffectrapportage

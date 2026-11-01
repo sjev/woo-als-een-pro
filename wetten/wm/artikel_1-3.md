@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.3 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '1.3'
 hoofdstuk: 1. Algemeen

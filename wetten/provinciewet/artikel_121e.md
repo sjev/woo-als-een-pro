@@ -1,4 +1,5 @@
 ---
+title: Artikel 121e Provinciewet
 wet: Provinciewet
 artikel: 121e
 hoofdstuk: VIII. Algemene bepalingen

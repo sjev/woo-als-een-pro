@@ -1,4 +1,5 @@
 ---
+title: Artikel 58 Gemeentewet
 wet: Gemeentewet
 artikel: '58'
 hoofdstuk: III. Het college van burgemeester en wethouders

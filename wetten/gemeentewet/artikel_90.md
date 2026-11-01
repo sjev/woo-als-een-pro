@@ -1,4 +1,5 @@
 ---
+title: Artikel 90 Gemeentewet
 wet: Gemeentewet
 artikel: '90'
 hoofdstuk: Va. Geheimhouding

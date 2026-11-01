@@ -1,4 +1,5 @@
 ---
+title: Artikel 124c Gemeentewet
 wet: Gemeentewet
 artikel: 124c
 hoofdstuk: VIII. Algemene bepalingen

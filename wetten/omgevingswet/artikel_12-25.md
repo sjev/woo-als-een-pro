@@ -1,4 +1,5 @@
 ---
+title: Artikel 12.25 Omgevingswet
 wet: Omgevingswet
 artikel: '12.25'
 hoofdstuk: 12. Bijzondere instrumenten voor het inrichten van gebieden

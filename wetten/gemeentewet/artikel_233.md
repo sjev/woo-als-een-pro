@@ -1,4 +1,5 @@
 ---
+title: Artikel 233 Gemeentewet
 wet: Gemeentewet
 artikel: '233'
 hoofdstuk: XV. De gemeentelijke belastingen

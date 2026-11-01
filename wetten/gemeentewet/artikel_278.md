@@ -1,4 +1,5 @@
 ---
+title: Artikel 278 Gemeentewet
 wet: Gemeentewet
 artikel: '278'
 hoofdstuk: XVII. Schorsing en vernietiging

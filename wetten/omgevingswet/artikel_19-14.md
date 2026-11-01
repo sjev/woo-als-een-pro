@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.14 Omgevingswet
 wet: Omgevingswet
 artikel: '19.14'
 hoofdstuk: 19. Bevoegdheden in bijzondere omstandigheden

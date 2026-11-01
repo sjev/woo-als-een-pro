@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.8 Omgevingswet
 wet: Omgevingswet
 artikel: '5.8'
 hoofdstuk: 5. De omgevingsvergunning en het projectbesluit

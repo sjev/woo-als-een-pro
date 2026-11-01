@@ -1,4 +1,5 @@
 ---
+title: Artikel 181 Provinciewet
 wet: Provinciewet
 artikel: '181'
 hoofdstuk: XI. De bevoegdheid van de commissaris van de Koning

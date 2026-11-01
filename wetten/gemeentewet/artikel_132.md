@@ -1,4 +1,5 @@
 ---
+title: Artikel 132 Gemeentewet
 wet: Gemeentewet
 artikel: '132'
 hoofdstuk: VIII. Algemene bepalingen

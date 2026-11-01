@@ -1,4 +1,5 @@
 ---
+title: Artikel 1.2 Omgevingswet
 wet: Omgevingswet
 artikel: '1.2'
 hoofdstuk: 1. Algemene bepalingen

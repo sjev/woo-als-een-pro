@@ -1,4 +1,5 @@
 ---
+title: Artikel 242 Gemeentewet
 wet: Gemeentewet
 artikel: '242'
 hoofdstuk: XV. De gemeentelijke belastingen

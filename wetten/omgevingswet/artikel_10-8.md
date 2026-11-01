@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.8 Omgevingswet
 wet: Omgevingswet
 artikel: '10.8'
 hoofdstuk: 10. Gedoogplichten

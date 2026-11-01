@@ -1,4 +1,5 @@
 ---
+title: Artikel 180 Gemeentewet
 wet: Gemeentewet
 artikel: '180'
 hoofdstuk: XI. De bevoegdheid van de burgemeester

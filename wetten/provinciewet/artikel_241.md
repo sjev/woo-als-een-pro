@@ -1,4 +1,5 @@
 ---
+title: Artikel 241 Provinciewet
 wet: Provinciewet
 artikel: '241'
 hoofdstuk: XVI. Het Provinciefonds

@@ -1,4 +1,5 @@
 ---
+title: Artikel 83 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '83'
 hoofdstuk: IX. Overgangs- en slotbepalingen

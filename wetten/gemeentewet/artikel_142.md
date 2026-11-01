@@ -1,4 +1,5 @@
 ---
+title: Artikel 142 Gemeentewet
 wet: Gemeentewet
 artikel: '142'
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.4 Omgevingswet
 wet: Omgevingswet
 artikel: '15.4'
 hoofdstuk: 15. Schade

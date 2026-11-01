@@ -1,4 +1,5 @@
 ---
+title: Artikel 14.7 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '14.7'
 hoofdstuk: 14. Coördinatie

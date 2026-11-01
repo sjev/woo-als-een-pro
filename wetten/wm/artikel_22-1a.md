@@ -1,4 +1,5 @@
 ---
+title: Artikel 22.1a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 22.1a
 hoofdstuk: 22. Slotbepalingen

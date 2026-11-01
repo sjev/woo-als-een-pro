@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.43 Omgevingswet
 wet: Omgevingswet
 artikel: '16.43'
 hoofdstuk: 16. Procedures

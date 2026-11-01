@@ -1,4 +1,5 @@
 ---
+title: Artikel 63 Gemeentewet
 wet: Gemeentewet
 artikel: '63'
 hoofdstuk: IV. De burgemeester

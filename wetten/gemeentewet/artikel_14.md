@@ -1,4 +1,5 @@
 ---
+title: Artikel 14 Gemeentewet
 wet: Gemeentewet
 artikel: '14'
 hoofdstuk: II. De raad

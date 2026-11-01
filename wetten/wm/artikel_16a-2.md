@@ -1,4 +1,5 @@
 ---
+title: Artikel 16a.2 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 16a.2
 hoofdstuk: 16a. De emissie van broeikasgas bij elektriciteitsopwekking

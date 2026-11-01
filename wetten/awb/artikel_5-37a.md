@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:37a Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 5:37a
 hoofdstuk: 5. Handhaving

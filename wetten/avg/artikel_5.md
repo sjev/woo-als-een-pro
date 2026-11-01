@@ -1,4 +1,5 @@
 ---
+title: Artikel 5 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '5'
 hoofdstuk: II. Beginselen

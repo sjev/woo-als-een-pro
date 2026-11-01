@@ -1,4 +1,5 @@
 ---
+title: Artikel 10 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '10'
 hoofdstuk: II. Beginselen

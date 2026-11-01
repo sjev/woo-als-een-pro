@@ -1,4 +1,5 @@
 ---
+title: Artikel 122 Gemeentewet
 wet: Gemeentewet
 artikel: '122'
 hoofdstuk: VIII. Algemene bepalingen

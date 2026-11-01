@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.48 Omgevingswet
 wet: Omgevingswet
 artikel: '16.48'
 hoofdstuk: 16. Procedures

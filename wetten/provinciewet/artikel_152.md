@@ -1,4 +1,5 @@
 ---
+title: Artikel 152 Provinciewet
 wet: Provinciewet
 artikel: '152'
 hoofdstuk: IX. De bevoegdheid van provinciale staten

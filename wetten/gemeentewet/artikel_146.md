@@ -1,4 +1,5 @@
 ---
+title: Artikel 146 Gemeentewet
 wet: Gemeentewet
 artikel: '146'
 hoofdstuk: VIII. Algemene bepalingen

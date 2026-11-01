@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.18 Omgevingswet
 wet: Omgevingswet
 artikel: '2.18'
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

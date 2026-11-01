@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.18 Omgevingswet
 wet: Omgevingswet
 artikel: '10.18'
 hoofdstuk: 10. Gedoogplichten

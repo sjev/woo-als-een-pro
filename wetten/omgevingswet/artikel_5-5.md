@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.5 Omgevingswet
 wet: Omgevingswet
 artikel: '5.5'
 hoofdstuk: 5. De omgevingsvergunning en het projectbesluit

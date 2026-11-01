@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.17 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '8.17'
 hoofdstuk: 8. Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen

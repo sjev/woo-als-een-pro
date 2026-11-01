@@ -1,4 +1,5 @@
 ---
+title: Artikel 9 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '9'
 hoofdstuk: II. Beginselen

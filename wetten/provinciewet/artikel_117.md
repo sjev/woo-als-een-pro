@@ -1,4 +1,5 @@
 ---
+title: Artikel 117 Provinciewet
 wet: Provinciewet
 artikel: '117'
 hoofdstuk: VIII. Algemene bepalingen

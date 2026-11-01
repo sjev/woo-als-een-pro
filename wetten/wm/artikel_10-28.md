@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.28 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.28'
 hoofdstuk: 10. Afvalstoffen

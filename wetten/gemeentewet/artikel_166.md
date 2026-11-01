@@ -1,4 +1,5 @@
 ---
+title: Artikel 166 Gemeentewet
 wet: Gemeentewet
 artikel: '166'
 hoofdstuk: X. De bevoegdheid van het college van burgemeester en wethouders

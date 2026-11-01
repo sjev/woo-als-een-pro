@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.38b Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 7.38b
 hoofdstuk: 7. Milieueffectrapportage

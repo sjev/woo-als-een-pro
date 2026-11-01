@@ -1,4 +1,5 @@
 ---
+title: Artikel 285 Gemeentewet
 wet: Gemeentewet
 artikel: '285'
 valid_from: '2026-10-01'

@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.2a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 4.2a
 hoofdstuk: 4. Plannen

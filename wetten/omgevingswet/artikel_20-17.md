@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.17 Omgevingswet
 wet: Omgevingswet
 artikel: '20.17'
 hoofdstuk: 20. Monitoring en informatie

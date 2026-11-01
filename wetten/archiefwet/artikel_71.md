@@ -1,4 +1,5 @@
 ---
+title: Artikel 71 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '71'
 hoofdstuk: IX. Overgangs- en slotbepalingen

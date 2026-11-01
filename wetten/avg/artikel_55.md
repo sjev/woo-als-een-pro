@@ -1,4 +1,5 @@
 ---
+title: Artikel 55 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '55'
 hoofdstuk: VI. Onafhankelijke toezichthoudende autoriteiten

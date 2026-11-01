@@ -1,4 +1,5 @@
 ---
+title: Artikel 47 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '47'
 hoofdstuk: IX. Overgangs- en slotbepalingen

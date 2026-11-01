@@ -1,4 +1,5 @@
 ---
+title: Artikel 46 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '46'
 hoofdstuk: 4. Uitzonderingen, beperkingen en bijzondere grondslagen

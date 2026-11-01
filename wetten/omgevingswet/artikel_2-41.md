@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.41 Omgevingswet
 wet: Omgevingswet
 artikel: '2.41'
 hoofdstuk: 2. Taken en bevoegdheden van bestuursorganen

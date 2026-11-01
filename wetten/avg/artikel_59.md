@@ -1,4 +1,5 @@
 ---
+title: Artikel 59 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '59'
 hoofdstuk: VI. Onafhankelijke toezichthoudende autoriteiten

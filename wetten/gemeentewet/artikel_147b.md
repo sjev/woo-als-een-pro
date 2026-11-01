@@ -1,4 +1,5 @@
 ---
+title: Artikel 147b Gemeentewet
 wet: Gemeentewet
 artikel: 147b
 hoofdstuk: IX. De bevoegdheid van de raad

@@ -1,4 +1,5 @@
 ---
+title: Artikel 160 Provinciewet
 wet: Provinciewet
 artikel: '160'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

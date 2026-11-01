@@ -1,4 +1,5 @@
 ---
+title: Artikel 131 Provinciewet
 wet: Provinciewet
 artikel: '131'
 hoofdstuk: VIII. Algemene bepalingen

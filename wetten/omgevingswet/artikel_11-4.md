@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.4 Omgevingswet
 wet: Omgevingswet
 artikel: '11.4'
 hoofdstuk: 11. Onteigening

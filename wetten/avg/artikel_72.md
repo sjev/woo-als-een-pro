@@ -1,4 +1,5 @@
 ---
+title: Artikel 72 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '72'
 hoofdstuk: VII. Samenwerking en coherentie

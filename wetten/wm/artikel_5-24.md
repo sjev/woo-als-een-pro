@@ -1,4 +1,5 @@
 ---
+title: Artikel 5.24 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '5.24'
 hoofdstuk: 5. Milieukwaliteitseisen

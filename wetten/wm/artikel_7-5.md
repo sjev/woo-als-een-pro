@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.5 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.5'
 hoofdstuk: 7. Milieueffectrapportage

@@ -1,4 +1,5 @@
 ---
+title: Artikel 12 Gemeentewet
 wet: Gemeentewet
 artikel: '12'
 hoofdstuk: II. De raad

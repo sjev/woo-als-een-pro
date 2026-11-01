@@ -1,4 +1,5 @@
 ---
+title: Artikel 54 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '54'
 hoofdstuk: 5. Overgangs- en slotbepalingen

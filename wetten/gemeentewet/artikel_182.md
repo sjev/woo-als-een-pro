@@ -1,4 +1,5 @@
 ---
+title: Artikel 182 Gemeentewet
 wet: Gemeentewet
 artikel: '182'
 hoofdstuk: XIa. De bevoegdheid van de rekenkamer

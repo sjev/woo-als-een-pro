@@ -1,4 +1,5 @@
 ---
+title: Artikel 52 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '52'
 hoofdstuk: 5. Overgangs- en slotbepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 238 Gemeentewet
 wet: Gemeentewet
 artikel: '238'
 hoofdstuk: XV. De gemeentelijke belastingen

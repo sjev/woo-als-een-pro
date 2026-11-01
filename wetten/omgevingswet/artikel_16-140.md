@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.140 Omgevingswet
 wet: Omgevingswet
 artikel: '16.140'
 hoofdstuk: 16. Procedures

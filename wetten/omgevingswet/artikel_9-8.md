@@ -1,4 +1,5 @@
 ---
+title: Artikel 9.8 Omgevingswet
 wet: Omgevingswet
 artikel: '9.8'
 hoofdstuk: 9. Voorkeursrecht

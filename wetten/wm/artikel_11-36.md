@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.36 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '11.36'
 hoofdstuk: 11. Geluid

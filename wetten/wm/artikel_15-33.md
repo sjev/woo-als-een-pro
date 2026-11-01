@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.33 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '15.33'
 hoofdstuk: 15. Financiële bepalingen

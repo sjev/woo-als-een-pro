@@ -1,4 +1,5 @@
 ---
+title: Artikel 259 Gemeentewet
 wet: Gemeentewet
 artikel: '259'
 hoofdstuk: XVI. Goedkeuring

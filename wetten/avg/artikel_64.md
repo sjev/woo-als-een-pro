@@ -1,4 +1,5 @@
 ---
+title: Artikel 64 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '64'
 hoofdstuk: VII. Samenwerking en coherentie

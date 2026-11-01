@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.83a Omgevingswet
 wet: Omgevingswet
 artikel: 16.83a
 hoofdstuk: 16. Procedures

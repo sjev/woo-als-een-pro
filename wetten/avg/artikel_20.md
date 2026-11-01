@@ -1,4 +1,5 @@
 ---
+title: Artikel 20 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '20'
 hoofdstuk: III. Rechten van de betrokkene

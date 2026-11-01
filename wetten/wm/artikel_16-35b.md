@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.35b Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 16.35b
 hoofdstuk: 16. Handel in emissierechten

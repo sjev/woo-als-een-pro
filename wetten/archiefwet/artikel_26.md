@@ -1,4 +1,5 @@
 ---
+title: Artikel 26 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '26'
 hoofdstuk: III. Archiefbescheiden van het rijk

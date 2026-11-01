@@ -1,4 +1,5 @@
 ---
+title: Artikel 248 Gemeentewet
 wet: Gemeentewet
 artikel: '248'
 hoofdstuk: XV. De gemeentelijke belastingen

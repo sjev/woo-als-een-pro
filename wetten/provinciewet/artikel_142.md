@@ -1,4 +1,5 @@
 ---
+title: Artikel 142 Provinciewet
 wet: Provinciewet
 artikel: '142'
 hoofdstuk: VIII. Algemene bepalingen

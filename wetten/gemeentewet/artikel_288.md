@@ -1,4 +1,5 @@
 ---
+title: Artikel 288 Gemeentewet
 wet: Gemeentewet
 artikel: '288'
 valid_from: '2026-10-01'

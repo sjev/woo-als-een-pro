@@ -1,4 +1,5 @@
 ---
+title: Artikel 159 Gemeentewet
 wet: Gemeentewet
 artikel: '159'
 hoofdstuk: IX. De bevoegdheid van de raad

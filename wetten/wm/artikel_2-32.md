@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.32 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '2.32'
 hoofdstuk: 2. Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen

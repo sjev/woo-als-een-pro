@@ -1,4 +1,5 @@
 ---
+title: Artikel 20.2a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 20.2a
 hoofdstuk: 20. Inwerkingtreding en rechtsbescherming

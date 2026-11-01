@@ -1,4 +1,5 @@
 ---
+title: Artikel 240 Gemeentewet
 wet: Gemeentewet
 artikel: '240'
 hoofdstuk: XV. De gemeentelijke belastingen

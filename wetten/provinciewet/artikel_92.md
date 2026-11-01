@@ -1,4 +1,5 @@
 ---
+title: Artikel 92 Provinciewet
 wet: Provinciewet
 artikel: '92'
 hoofdstuk: VA. Geheimhouding

@@ -1,4 +1,5 @@
 ---
+title: Artikel 184a Gemeentewet
 wet: Gemeentewet
 artikel: 184a
 hoofdstuk: XIa. De bevoegdheid van de rekenkamer

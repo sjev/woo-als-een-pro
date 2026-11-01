@@ -1,4 +1,5 @@
 ---
+title: Artikel 11.23 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '11.23'
 hoofdstuk: 11. Geluid

@@ -1,4 +1,5 @@
 ---
+title: Artikel 245 Gemeentewet
 wet: Gemeentewet
 artikel: '245'
 hoofdstuk: XV. De gemeentelijke belastingen

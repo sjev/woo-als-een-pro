@@ -1,4 +1,5 @@
 ---
+title: Artikel 74 Provinciewet
 wet: Provinciewet
 artikel: '74'
 hoofdstuk: IV. De commissaris van de Koning

@@ -1,4 +1,5 @@
 ---
+title: Artikel 38 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '38'
 hoofdstuk: 3. Bepalingen ter uitvoering van de verordening

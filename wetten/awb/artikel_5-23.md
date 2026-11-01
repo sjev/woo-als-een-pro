@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:23 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '5:23'
 hoofdstuk: 5. Handhaving

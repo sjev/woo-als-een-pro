@@ -1,4 +1,5 @@
 ---
+title: Artikel 193 Provinciewet
 wet: Provinciewet
 artikel: '193'
 hoofdstuk: XIII. De begroting en de jaarrekening

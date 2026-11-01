@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.1a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 10.1a
 hoofdstuk: 10. Afvalstoffen

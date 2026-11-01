@@ -1,4 +1,5 @@
 ---
+title: Artikel 222c Provinciewet
 wet: Provinciewet
 artikel: 222c
 hoofdstuk: XV. De provinciale belastingen

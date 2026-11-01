@@ -1,4 +1,5 @@
 ---
+title: Artikel 129 Gemeentewet
 wet: Gemeentewet
 artikel: '129'
 hoofdstuk: VIII. Algemene bepalingen

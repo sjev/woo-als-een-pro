@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.19 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '4.19'
 hoofdstuk: 4. Plannen

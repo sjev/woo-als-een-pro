@@ -1,4 +1,5 @@
 ---
+title: Artikel 265 Gemeentewet
 wet: Gemeentewet
 artikel: '265'
 hoofdstuk: XVI. Goedkeuring

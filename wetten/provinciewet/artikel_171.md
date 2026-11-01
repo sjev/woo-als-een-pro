@@ -1,4 +1,5 @@
 ---
+title: Artikel 171 Provinciewet
 wet: Provinciewet
 artikel: '171'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

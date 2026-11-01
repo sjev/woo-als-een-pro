@@ -1,4 +1,5 @@
 ---
+title: Artikel 121b Provinciewet
 wet: Provinciewet
 artikel: 121b
 hoofdstuk: VIII. Algemene bepalingen

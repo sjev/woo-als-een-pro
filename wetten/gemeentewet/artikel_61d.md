@@ -1,4 +1,5 @@
 ---
+title: Artikel 61d Gemeentewet
 wet: Gemeentewet
 artikel: 61d
 hoofdstuk: IV. De burgemeester

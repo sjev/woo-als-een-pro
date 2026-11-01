@@ -1,4 +1,5 @@
 ---
+title: Artikel 14.13 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '14.13'
 hoofdstuk: 14. Coördinatie

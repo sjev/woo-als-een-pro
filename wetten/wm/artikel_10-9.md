@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.9 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.9'
 hoofdstuk: 10. Afvalstoffen

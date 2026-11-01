@@ -1,4 +1,5 @@
 ---
+title: Artikel 4 Algemene termijnenwet
 wet: Algemene termijnenwet
 artikel: '4'
 valid_from: '2010-10-10'

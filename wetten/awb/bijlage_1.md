@@ -1,4 +1,6 @@
 ---
+title: Bijlage 1 Regeling rechtstreeks beroep (artikel 7:1, eerste lid, onderdeel
+  g)
 wet: Algemene wet bestuursrecht
 bijlage: Bijlage 1
 titel: Regeling rechtstreeks beroep (artikel 7:1, eerste lid, onderdeel g)

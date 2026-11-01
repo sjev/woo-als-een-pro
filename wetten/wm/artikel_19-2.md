@@ -1,4 +1,5 @@
 ---
+title: Artikel 19.2 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '19.2'
 hoofdstuk: 19. Openbaarheid van milieu-informatie

@@ -1,4 +1,5 @@
 ---
+title: Artikel 66 Gemeentewet
 wet: Gemeentewet
 artikel: '66'
 hoofdstuk: IV. De burgemeester

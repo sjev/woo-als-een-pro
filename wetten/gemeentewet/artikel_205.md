@@ -1,4 +1,5 @@
 ---
+title: Artikel 205 Gemeentewet
 wet: Gemeentewet
 artikel: '205'
 hoofdstuk: XIII. De begroting en de jaarrekening

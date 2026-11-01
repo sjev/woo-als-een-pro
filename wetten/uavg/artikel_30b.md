@@ -1,4 +1,5 @@
 ---
+title: Artikel 30b Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: 30b
 hoofdstuk: 3. Bepalingen ter uitvoering van de verordening

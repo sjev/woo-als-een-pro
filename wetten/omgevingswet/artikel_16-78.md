@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.78 Omgevingswet
 wet: Omgevingswet
 artikel: '16.78'
 hoofdstuk: 16. Procedures

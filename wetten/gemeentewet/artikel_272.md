@@ -1,4 +1,5 @@
 ---
+title: Artikel 272 Gemeentewet
 wet: Gemeentewet
 artikel: '272'
 hoofdstuk: XVII. Schorsing en vernietiging

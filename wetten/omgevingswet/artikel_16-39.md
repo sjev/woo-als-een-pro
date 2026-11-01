@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.39 Omgevingswet
 wet: Omgevingswet
 artikel: '16.39'
 hoofdstuk: 16. Procedures

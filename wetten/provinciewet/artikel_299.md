@@ -1,4 +1,5 @@
 ---
+title: Artikel 299 Provinciewet
 wet: Provinciewet
 artikel: '299'
 valid_from: '2026-07-01'

@@ -1,4 +1,5 @@
 ---
+title: Artikel 25 Gemeentewet
 wet: Gemeentewet
 artikel: '25'
 hoofdstuk: II. De raad

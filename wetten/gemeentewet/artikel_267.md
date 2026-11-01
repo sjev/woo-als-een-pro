@@ -1,4 +1,5 @@
 ---
+title: Artikel 267 Gemeentewet
 wet: Gemeentewet
 artikel: '267'
 hoofdstuk: XVI. Goedkeuring

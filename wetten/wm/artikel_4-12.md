@@ -1,4 +1,5 @@
 ---
+title: Artikel 4.12 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '4.12'
 hoofdstuk: 4. Plannen

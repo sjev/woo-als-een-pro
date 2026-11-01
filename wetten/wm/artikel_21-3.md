@@ -1,4 +1,5 @@
 ---
+title: Artikel 21.3 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '21.3'
 hoofdstuk: 21. Verdere bepalingen

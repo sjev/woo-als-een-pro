@@ -1,4 +1,5 @@
 ---
+title: Artikel 21.7 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '21.7'
 hoofdstuk: 21. Verdere bepalingen

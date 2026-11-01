@@ -1,4 +1,5 @@
 ---
+title: Artikel 57 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '57'
 hoofdstuk: VI. Onafhankelijke toezichthoudende autoriteiten

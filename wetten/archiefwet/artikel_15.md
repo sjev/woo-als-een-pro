@@ -1,4 +1,5 @@
 ---
+title: Artikel 15 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '15'
 hoofdstuk: II. Archiefbescheiden in het algemeen

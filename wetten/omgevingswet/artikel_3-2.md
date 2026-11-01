@@ -1,4 +1,5 @@
 ---
+title: Artikel 3.2 Omgevingswet
 wet: Omgevingswet
 artikel: '3.2'
 hoofdstuk: 3. Omgevingsvisies en programma’s

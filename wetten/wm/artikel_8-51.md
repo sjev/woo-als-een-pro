@@ -1,4 +1,5 @@
 ---
+title: Artikel 8.51 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '8.51'
 hoofdstuk: 8. Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen

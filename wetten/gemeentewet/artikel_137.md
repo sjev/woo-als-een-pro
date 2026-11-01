@@ -1,4 +1,5 @@
 ---
+title: Artikel 137 Gemeentewet
 wet: Gemeentewet
 artikel: '137'
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 151a Provinciewet
 wet: Provinciewet
 artikel: 151a
 hoofdstuk: IX. De bevoegdheid van provinciale staten

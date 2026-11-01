@@ -1,4 +1,5 @@
 ---
+title: Artikel 4:20f Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: 4:20f
 hoofdstuk: 4. Bijzondere bepalingen over besluiten

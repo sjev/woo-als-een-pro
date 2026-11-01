@@ -1,4 +1,5 @@
 ---
+title: Artikel 221a Gemeentewet
 wet: Gemeentewet
 artikel: 221a
 hoofdstuk: XV. De gemeentelijke belastingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 43 Provinciewet
 wet: Provinciewet
 artikel: '43'
 hoofdstuk: III. Gedeputeerde staten

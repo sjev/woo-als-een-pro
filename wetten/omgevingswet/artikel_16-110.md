@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.110 Omgevingswet
 wet: Omgevingswet
 artikel: '16.110'
 hoofdstuk: 16. Procedures

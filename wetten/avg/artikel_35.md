@@ -1,4 +1,5 @@
 ---
+title: Artikel 35 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '35'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

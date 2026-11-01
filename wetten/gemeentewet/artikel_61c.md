@@ -1,4 +1,5 @@
 ---
+title: Artikel 61c Gemeentewet
 wet: Gemeentewet
 artikel: 61c
 hoofdstuk: IV. De burgemeester

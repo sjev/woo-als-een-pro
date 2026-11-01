@@ -1,4 +1,5 @@
 ---
+title: Artikel 101 Provinciewet
 wet: Provinciewet
 artikel: '101'
 hoofdstuk: VII. De secretaris en de griffier

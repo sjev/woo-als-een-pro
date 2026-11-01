@@ -1,4 +1,5 @@
 ---
+title: Artikel 232f Provinciewet
 wet: Provinciewet
 artikel: 232f
 hoofdstuk: XV. De provinciale belastingen

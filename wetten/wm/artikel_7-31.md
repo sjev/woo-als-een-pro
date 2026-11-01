@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.31 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.31'
 hoofdstuk: 7. Milieueffectrapportage

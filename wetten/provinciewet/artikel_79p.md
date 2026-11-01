@@ -1,4 +1,5 @@
 ---
+title: Artikel 79p Provinciewet
 wet: Provinciewet
 artikel: 79p
 hoofdstuk: IVB. De rekenkamerfunctie

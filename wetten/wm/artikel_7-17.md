@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.17 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '7.17'
 hoofdstuk: 7. Milieueffectrapportage

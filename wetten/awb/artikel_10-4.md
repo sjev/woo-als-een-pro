@@ -1,4 +1,5 @@
 ---
+title: Artikel 10:4 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '10:4'
 hoofdstuk: 10. Bepalingen over bestuursorganen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 6.1 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '6.1'
 hoofdstuk: 6. Milieuzonering

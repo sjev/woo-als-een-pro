@@ -1,4 +1,5 @@
 ---
+title: Artikel 19 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '19'
 hoofdstuk: III. Rechten van de betrokkene

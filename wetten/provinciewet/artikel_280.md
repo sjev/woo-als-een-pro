@@ -1,4 +1,5 @@
 ---
+title: Artikel 280 Provinciewet
 wet: Provinciewet
 artikel: '280'
 valid_from: '2026-07-01'

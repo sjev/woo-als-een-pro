@@ -1,4 +1,5 @@
 ---
+title: Artikel 7.1a Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 7.1a
 hoofdstuk: 7. Milieueffectrapportage

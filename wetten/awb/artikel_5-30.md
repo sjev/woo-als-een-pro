@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:30 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '5:30'
 hoofdstuk: 5. Handhaving

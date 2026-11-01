@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.17 Omgevingswet
 wet: Omgevingswet
 artikel: '15.17'
 hoofdstuk: 15. Schade

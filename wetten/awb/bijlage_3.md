@@ -1,4 +1,5 @@
 ---
+title: Bijlage 3 Regeling verlaagd griffierecht (artikelen 8:41 en 8:109)
 wet: Algemene wet bestuursrecht
 bijlage: Bijlage 3
 titel: Regeling verlaagd griffierecht (artikelen 8:41 en 8:109)

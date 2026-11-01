@@ -1,4 +1,5 @@
 ---
+title: Artikel 79u Provinciewet
 wet: Provinciewet
 artikel: 79u
 hoofdstuk: IVC. De ombudsman

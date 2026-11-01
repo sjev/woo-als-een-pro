@@ -1,4 +1,5 @@
 ---
+title: Artikel 22 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '22'
 hoofdstuk: II. Archiefbescheiden in het algemeen

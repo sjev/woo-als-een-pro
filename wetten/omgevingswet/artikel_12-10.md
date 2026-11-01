@@ -1,4 +1,5 @@
 ---
+title: Artikel 12.10 Omgevingswet
 wet: Omgevingswet
 artikel: '12.10'
 hoofdstuk: 12. Bijzondere instrumenten voor het inrichten van gebieden

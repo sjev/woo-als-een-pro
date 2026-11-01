@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.117 Omgevingswet
 wet: Omgevingswet
 artikel: '16.117'
 hoofdstuk: 16. Procedures

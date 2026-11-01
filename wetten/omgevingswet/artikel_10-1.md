@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.1 Omgevingswet
 wet: Omgevingswet
 artikel: '10.1'
 hoofdstuk: 10. Gedoogplichten

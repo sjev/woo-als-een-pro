@@ -1,4 +1,5 @@
 ---
+title: Artikel 154 Provinciewet
 wet: Provinciewet
 artikel: '154'
 hoofdstuk: IX. De bevoegdheid van provinciale staten

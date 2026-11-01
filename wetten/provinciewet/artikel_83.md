@@ -1,4 +1,5 @@
 ---
+title: Artikel 83 Provinciewet
 wet: Provinciewet
 artikel: '83'
 hoofdstuk: V. De commissies

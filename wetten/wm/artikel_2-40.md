@@ -1,4 +1,5 @@
 ---
+title: Artikel 2.40 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '2.40'
 hoofdstuk: 2. Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen

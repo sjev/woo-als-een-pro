@@ -1,4 +1,5 @@
 ---
+title: Artikel 157 Provinciewet
 wet: Provinciewet
 artikel: '157'
 hoofdstuk: IX. De bevoegdheid van provinciale staten

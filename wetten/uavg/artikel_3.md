@@ -1,4 +1,5 @@
 ---
+title: Artikel 3 Uitvoeringswet Algemene verordening gegevensbescherming
 wet: Uitvoeringswet Algemene verordening gegevensbescherming
 artikel: '3'
 hoofdstuk: 1. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 12.19 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '12.19'
 hoofdstuk: 12. Verslag-, registratie- en meetverplichtingen

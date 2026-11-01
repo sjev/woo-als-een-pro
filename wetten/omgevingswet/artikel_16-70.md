@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.70 Omgevingswet
 wet: Omgevingswet
 artikel: '16.70'
 hoofdstuk: 16. Procedures

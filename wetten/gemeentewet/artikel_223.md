@@ -1,4 +1,5 @@
 ---
+title: Artikel 223 Gemeentewet
 wet: Gemeentewet
 artikel: '223'
 hoofdstuk: XV. De gemeentelijke belastingen

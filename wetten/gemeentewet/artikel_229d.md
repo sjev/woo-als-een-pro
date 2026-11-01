@@ -1,4 +1,5 @@
 ---
+title: Artikel 229d Gemeentewet
 wet: Gemeentewet
 artikel: 229d
 hoofdstuk: XV. De gemeentelijke belastingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.132 Omgevingswet
 wet: Omgevingswet
 artikel: '16.132'
 hoofdstuk: 16. Procedures

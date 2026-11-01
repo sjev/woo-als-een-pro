@@ -1,4 +1,5 @@
 ---
+title: Artikel 21.8 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '21.8'
 hoofdstuk: 21. Verdere bepalingen

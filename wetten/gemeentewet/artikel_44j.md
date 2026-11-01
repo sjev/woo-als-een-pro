@@ -1,4 +1,5 @@
 ---
+title: Artikel 44j Gemeentewet
 wet: Gemeentewet
 artikel: 44j
 hoofdstuk: III. Het college van burgemeester en wethouders

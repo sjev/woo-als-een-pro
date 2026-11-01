@@ -1,4 +1,5 @@
 ---
+title: Artikel 5 Archiefwet 1995
 wet: Archiefwet 1995
 artikel: '5'
 hoofdstuk: II. Archiefbescheiden in het algemeen

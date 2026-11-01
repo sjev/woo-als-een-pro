@@ -1,4 +1,5 @@
 ---
+title: Artikel 41 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '41'
 hoofdstuk: IV. Verwerkingsverantwoordelijke en verwerker

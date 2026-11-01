@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.2i Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 18.2i
 hoofdstuk: 18. Handhaving

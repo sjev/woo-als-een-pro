@@ -1,4 +1,5 @@
 ---
+title: Artikel 19 Provinciewet
 wet: Provinciewet
 artikel: '19'
 hoofdstuk: II. Provinciale staten

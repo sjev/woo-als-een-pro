@@ -1,4 +1,5 @@
 ---
+title: Artikel 231 Gemeentewet
 wet: Gemeentewet
 artikel: '231'
 hoofdstuk: XV. De gemeentelijke belastingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 100 Gemeentewet
 wet: Gemeentewet
 artikel: '100'
 hoofdstuk: VII. De secretaris en de griffier

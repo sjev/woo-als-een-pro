@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.54a Omgevingswet
 wet: Omgevingswet
 artikel: 16.54a
 hoofdstuk: 16. Procedures

@@ -1,4 +1,5 @@
 ---
+title: Artikel 148 Provinciewet
 wet: Provinciewet
 artikel: '148'
 hoofdstuk: IX. De bevoegdheid van provinciale staten

@@ -1,4 +1,5 @@
 ---
+title: Artikel 173 Provinciewet
 wet: Provinciewet
 artikel: '173'
 hoofdstuk: X. De bevoegdheid van gedeputeerde staten

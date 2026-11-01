@@ -1,4 +1,5 @@
 ---
+title: Artikel 109 Provinciewet
 wet: Provinciewet
 artikel: '109'
 hoofdstuk: VIII. Algemene bepalingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 5:34 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '5:34'
 hoofdstuk: 5. Handhaving

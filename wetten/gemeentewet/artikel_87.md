@@ -1,4 +1,5 @@
 ---
+title: Artikel 87 Gemeentewet
 wet: Gemeentewet
 artikel: '87'
 hoofdstuk: Va. Geheimhouding

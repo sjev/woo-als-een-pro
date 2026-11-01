@@ -1,4 +1,5 @@
 ---
+title: Artikel 16.28 Omgevingswet
 wet: Omgevingswet
 artikel: '16.28'
 hoofdstuk: 16. Procedures

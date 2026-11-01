@@ -1,4 +1,5 @@
 ---
+title: Artikel 9.4.2 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: 9.4.2
 hoofdstuk: 9. Stoffen en produkten

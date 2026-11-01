@@ -1,4 +1,5 @@
 ---
+title: Artikel 92 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '92'
 hoofdstuk: X. Gedelegeerde handelingen en uitvoeringshandelingen

@@ -1,4 +1,5 @@
 ---
+title: Artikel 6:7 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '6:7'
 hoofdstuk: 6. Algemene bepalingen over bezwaar en beroep

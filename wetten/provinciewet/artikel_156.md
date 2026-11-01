@@ -1,4 +1,5 @@
 ---
+title: Artikel 156 Provinciewet
 wet: Provinciewet
 artikel: '156'
 hoofdstuk: IX. De bevoegdheid van provinciale staten

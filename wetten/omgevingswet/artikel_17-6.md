@@ -1,4 +1,5 @@
 ---
+title: Artikel 17.6 Omgevingswet
 wet: Omgevingswet
 artikel: '17.6'
 hoofdstuk: 17. Adviesorganen en adviseurs

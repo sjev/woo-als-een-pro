@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.20 Omgevingswet
 wet: Omgevingswet
 artikel: '18.20'
 hoofdstuk: 18. Handhaving en uitvoering

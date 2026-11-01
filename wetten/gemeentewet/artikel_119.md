@@ -1,4 +1,5 @@
 ---
+title: Artikel 119 Gemeentewet
 wet: Gemeentewet
 artikel: '119'
 hoofdstuk: VIII. Algemene bepalingen

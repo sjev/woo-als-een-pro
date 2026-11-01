@@ -1,4 +1,5 @@
 ---
+title: Artikel 15.16 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '15.16'
 hoofdstuk: 15. Financiële bepalingen

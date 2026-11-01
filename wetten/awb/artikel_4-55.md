@@ -1,4 +1,5 @@
 ---
+title: Artikel 4:55 Algemene wet bestuursrecht
 wet: Algemene wet bestuursrecht
 artikel: '4:55'
 hoofdstuk: 4. Bijzondere bepalingen over besluiten

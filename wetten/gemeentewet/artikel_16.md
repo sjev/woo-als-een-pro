@@ -1,4 +1,5 @@
 ---
+title: Artikel 16 Gemeentewet
 wet: Gemeentewet
 artikel: '16'
 hoofdstuk: II. De raad

@@ -1,4 +1,5 @@
 ---
+title: Artikel 40b Provinciewet
 wet: Provinciewet
 artikel: 40b
 hoofdstuk: III. Gedeputeerde staten

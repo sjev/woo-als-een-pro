@@ -1,4 +1,5 @@
 ---
+title: Bijlage bij artikel 8.8 van de Wet open overheid
 wet: Wet open overheid
 bijlage: Bijlage
 titel: bij artikel 8.8 van de Wet open overheid

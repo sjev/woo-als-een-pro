@@ -1,4 +1,5 @@
 ---
+title: Artikel 217 Gemeentewet
 wet: Gemeentewet
 artikel: '217'
 hoofdstuk: XV. De gemeentelijke belastingen

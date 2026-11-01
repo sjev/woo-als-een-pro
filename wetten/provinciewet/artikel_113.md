@@ -1,4 +1,5 @@
 ---
+title: Artikel 113 Provinciewet
 wet: Provinciewet
 artikel: '113'
 hoofdstuk: VIII. Algemene bepalingen

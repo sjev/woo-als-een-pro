@@ -1,4 +1,5 @@
 ---
+title: Artikel 10.8 Wet milieubeheer
 wet: Wet milieubeheer
 artikel: '10.8'
 hoofdstuk: 10. Afvalstoffen

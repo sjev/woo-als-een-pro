@@ -1,4 +1,5 @@
 ---
+title: Artikel 18.15a Omgevingswet
 wet: Omgevingswet
 artikel: 18.15a
 hoofdstuk: 18. Handhaving en uitvoering

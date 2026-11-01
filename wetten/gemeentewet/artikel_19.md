@@ -1,4 +1,5 @@
 ---
+title: Artikel 19 Gemeentewet
 wet: Gemeentewet
 artikel: '19'
 hoofdstuk: II. De raad

@@ -1,4 +1,5 @@
 ---
+title: Artikel 155b Gemeentewet
 wet: Gemeentewet
 artikel: 155b
 hoofdstuk: IX. De bevoegdheid van de raad

@@ -1,4 +1,5 @@
 ---
+title: Artikel 32a Provinciewet
 wet: Provinciewet
 artikel: 32a
 hoofdstuk: II. Provinciale staten

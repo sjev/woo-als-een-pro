@@ -1,4 +1,5 @@
 ---
+title: Artikel 47 Algemene verordening gegevensbescherming
 wet: Algemene verordening gegevensbescherming
 artikel: '47'
 hoofdstuk: V. Doorgiften van persoonsgegevens aan derde landen of internationale organisaties
