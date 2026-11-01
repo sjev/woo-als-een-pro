@@ -20,7 +20,7 @@ Begin hier. Zoek de situatie. Reken de termijn uit. Volg de actie. Lees het docu
 | Bestuursorgaan verdaagt | Verdaagde termijn: 6 weken na ontvangst | Toets de vier eisen. Ongeldig? Leg de oude einddatum vast | [reactie-verdaging](../templates/reactie-verdaging.md) | [procedure](procedure.md#verdaging-art-44-lid-2-woo) |
 | Bestuursorgaan vraagt overleg of inperking | Vóór einde beslistermijn (art. 4.2a) | Vraag inventaris, tijdpad, tranches. Geef alleen iets tegen een schriftelijke datum | [overleg](../templates/overleg.md) | [overleg](overleg.md) |
 | Bestuursorgaan vraagt instemming met uitstel | — | Instemming alleen voorwaardelijk, met einddatum | [overleg](../templates/overleg.md) | [procedure](procedure.md#opschorting), [overleg](overleg.md#wat-u-geeft) |
-| Mededeling: zienswijze derden (art. 4:8 Awb) | Opschorting vanaf de dag na de mededeling | Vraag wie, welke termijn, en verstrekking van de rest | [overleg](../templates/overleg.md) | [procedure](procedure.md#opschorting), [overleg](overleg.md#zienswijzen-van-derden) |
+| Mededeling: zienswijze derden ([art. 4:8 Awb](../wetten/awb/artikel_4-8.md)) | Opschorting vanaf de dag na de mededeling | Vraag wie, welke termijn, en verstrekking van de rest | [overleg](../templates/overleg.md) | [procedure](procedure.md#opschorting), [overleg](overleg.md#zienswijzen-van-derden) |
 | Einde opschorting gemeld | Nieuwe einddatum in de mededeling | Reken na; leg de datum vast | — | [procedure](procedure.md#opschorting) |
 | Aanbod vertrouwelijke voorinzage | — | Lees de geheimhoudingsverklaring; geen voorlegplicht | — | [overleg](overleg.md#vertrouwelijke-voorinzage) |
 | Beslistermijn verstreken, geen besluit | Dag na de laatste dag | Ingebrekestelling. Niet eerder | [ingebrekestelling](../templates/ingebrekestelling.md) | [rechtsmiddelen](rechtsmiddelen.md#ingebrekestelling-art-612-awb) |
@@ -39,12 +39,12 @@ Begin hier. Zoek de situatie. Reken de termijn uit. Volg de actie. Lees het docu
 | Termijn | Duur | Begint | Grondslag |
 |---|---|---|---|
 | Beslissen op verzoek | 4 weken | Dag na ontvangst | [art. 4.4 lid 1 Woo](../wetten/woo/artikel_4-4.md) |
-| Verdaging | + max. 2 weken | Mededeling vóór einde 4 weken | art. 4.4 lid 2 Woo |
-| Opschorting zienswijze | Duur van de zienswijzeperiode | Dag na mededeling art. 4:8 Awb | art. 4.4 lid 3 Woo |
+| Verdaging | + max. 2 weken | Mededeling vóór einde 4 weken | [art. 4.4 lid 2 Woo](../wetten/woo/artikel_4-4.md) |
+| Opschorting zienswijze | Duur van de zienswijzeperiode | Dag na mededeling [art. 4:8 Awb](../wetten/awb/artikel_4-8.md) | [art. 4.4 lid 3 Woo](../wetten/woo/artikel_4-4.md) |
 | Verzoek om precisering | Bestuursorgaan: 2 weken | Dag na ontvangst | [art. 4.1 lid 5 Woo](../wetten/woo/artikel_4-1.md) |
 | Niet behandelen (ander doel) | Bestuursorgaan: 2 weken | Dag na ontvangst | [art. 4.6 Woo](../wetten/woo/artikel_4-6.md) |
-| Uitgestelde verstrekking | 2 weken | Dag na bekendmaking besluit | art. 4.4 lid 5 Woo |
-| Beroep na ingebrekestelling | 2 weken | Dag na de ingebrekestelling | [art. 6:12 lid 2 Awb](../wetten/awb/artikel_6-12.md) |
+| Uitgestelde verstrekking | 2 weken | Dag na bekendmaking besluit | [art. 4.4 lid 5 Woo](../wetten/woo/artikel_4-4.md) |
+| Beroep na ingebrekestelling | 2 weken | Dag na ontvangst van de ingebrekestelling | [art. 6:12 lid 2 Awb](../wetten/awb/artikel_6-12.md) |
 | Bezwaar, beroep, hoger beroep | 6 weken | Dag na bekendmaking | [art. 6:7](../wetten/awb/artikel_6-7.md), [6:8 Awb](../wetten/awb/artikel_6-8.md) |
 | Beslissen op bezwaar | 6 weken (12 met commissie) + max. 6 weken verdaging | Dag na einde bezwaartermijn | [art. 7:10 Awb](../wetten/awb/artikel_7-10.md) |
 | Beslissen op bezwaar na ACOI-advies | 2 weken | Na advies of bericht "geen advies" | [art. 7.3 lid 3 Woo](../wetten/woo/artikel_7-3.md) |
@@ -55,7 +55,8 @@ Begin hier. Zoek de situatie. Reken de termijn uit. Volg de actie. Lees het docu
 
 1. Neem de datum van de gebeurtenis: ontvangst, mededeling of bekendmaking. De termijn begint de dag erna.
 2. Tel de duur op. Voorbeeld: ontvangst op maandag 2 november 2026, termijn vier weken. De termijn eindigt op maandag 30 november 2026.
-3. Tel verdaging en opschorting op bij de eerste termijn. Voorbeeld: vier weken, twee weken verdaging en twaalf dagen opschorting.
-4. Valt het einde op een zaterdag, zondag of feestdag? Dan schuift het naar de eerstvolgende werkdag ([art. 1 Algemene termijnenwet](../wetten/termijnenwet/artikel_1.md)). Feestdagen zijn ook Goede Vrijdag en 5 mei ([art. 3](../wetten/termijnenwet/artikel_3.md)). Pas deze regel toe op het einde van de hele reeks, niet op elke stap.
-5. Twijfel over een reeks (verdaging, opschorting)? Neem de latere datum. Een te vroege ingebrekestelling telt niet.
-6. Stel in gebreke op de dag na de laatste dag.
+3. Tel verdaging en opschorting op bij de eerste termijn. Voorbeeld: ontvangst op maandag 2 november 2026, vier weken, twee weken verdaging en twaalf dagen opschorting. Dat is 54 dagen: zaterdag 26 december 2026.
+4. Valt het einde op een zaterdag, zondag of feestdag? Dan schuift het naar de eerstvolgende werkdag ([art. 1 Algemene termijnenwet](../wetten/termijnenwet/artikel_1.md)). Feestdagen zijn ook Goede Vrijdag en 5 mei ([art. 3](../wetten/termijnenwet/artikel_3.md)). In het voorbeeld: maandag 28 december 2026.
+5. Bij een reeks (verdaging, opschorting) is niet zeker of deze regel per stap geldt of alleen aan het einde [niet geverifieerd]. Reken beide. Neem de latere datum. Een te vroege ingebrekestelling telt niet.
+6. Stel in gebreke op de dag na de laatste dag. In het voorbeeld: dinsdag 29 december 2026.
+7. Wacht na de ingebrekestelling twee weken vanaf de dag na ontvangst. Reken die termijn op dezelfde manier. Stel daarna beroep in.

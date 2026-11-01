@@ -13,7 +13,7 @@ Wetstekst: Awb en Woo geldig vanaf 2026-08-15. Zo rekent u een termijn uit: [ter
 | Situatie | Middel | Termijn | Sjabloon |
 |---|---|---|---|
 | Beslistermijn verstreken, geen besluit | Ingebrekestelling | Op de dag na de laatste dag | [ingebrekestelling](../templates/ingebrekestelling.md) |
-| Twee weken na ingebrekestelling, geen besluit | Beroep niet tijdig bij de rechtbank | Geen vaste termijn; niet onredelijk laat | [beroep-niet-tijdig](../templates/beroep-niet-tijdig.md) |
+| Twee weken na ontvangst ingebrekestelling, geen besluit | Beroep niet tijdig bij de rechtbank | Geen vaste termijn; niet onredelijk laat | [beroep-niet-tijdig](../templates/beroep-niet-tijdig.md) |
 | Besluit onvolledig of onjuist | Bezwaar bij het bestuursorgaan | Zes weken na bekendmaking | [bezwaar](../templates/bezwaar.md) |
 | Beslissing op bezwaar onjuist | Beroep bij de rechtbank | Zes weken na bekendmaking | [beroep](../templates/beroep.md) |
 | Uitspraak rechtbank onjuist | Hoger beroep bij de ABRvS | Zes weken na verzending | — |
@@ -23,7 +23,7 @@ Wetstekst: Awb en Woo geldig vanaf 2026-08-15. Zo rekent u een termijn uit: [ter
 ## Ingebrekestelling (art. 6:12 Awb)
 
 - Niet tijdig beslissen staat gelijk met een besluit ([art. 6:2 onder b Awb](../wetten/awb/artikel_6-2.md)). Bezwaar is dan niet nodig: u gaat direct in beroep ([art. 7:1 lid 1 onder f Awb](../wetten/awb/artikel_7-1.md)).
-- Beroep kan pas als het bestuursorgaan in gebreke is **en** twee weken zijn verstreken na de dag waarop u het schriftelijk in gebreke stelde ([art. 6:12 lid 2 Awb](../wetten/awb/artikel_6-12.md)).
+- Beroep kan pas als het bestuursorgaan in gebreke is **en** twee weken zijn verstreken na de dag waarop u het schriftelijk in gebreke stelde ([art. 6:12 lid 2 Awb](../wetten/awb/artikel_6-12.md)). Reken vanaf de dag van ontvangst door het bestuursorgaan. Dat is de veilige datum: ook bij een te vroege ingebrekestelling telt de ontvangst ([ECLI:NL:RBZWB:2026:731](../uitspraken/ECLI-NL-RBZWB-2026-731.md)).
 - Een te vroege ingebrekestelling telt niet. Het beroep is dan niet-ontvankelijk ([ECLI:NL:RBZWB:2026:731](../uitspraken/ECLI-NL-RBZWB-2026-731.md); zie ook [ECLI:NL:RVS:2016:409](../uitspraken/ECLI-NL-RVS-2016-409.md)). Het moment van ontvangst door het bestuursorgaan telt.
 - Werkwijze:
   1. Reken het einde uit: vier weken, plus geldige verdaging, plus opschorting ([procedure](procedure.md#opschorting)). Twijfel? Neem de latere datum.
@@ -37,7 +37,7 @@ Wetstekst: Awb en Woo geldig vanaf 2026-08-15. Zo rekent u een termijn uit: [ter
 - De rechter doet in beginsel binnen acht weken uitspraak, zonder zitting. Met zitting zo mogelijk binnen dertien weken ([art. 8:55b Awb](../wetten/awb/artikel_8-55b.md)).
 - Is het beroep gegrond en nog geen besluit genomen? Dan moet het bestuursorgaan binnen twee weken beslissen, met een dwangsom per dag ([art. 8:55d lid 1-2 Awb](../wetten/awb/artikel_8-55d.md)). Dit is de druk die de Woo-verzoeker heeft.
 - Bij een groot verzoek bepaalt de rechter zelf de termijn ([art. 8.4 lid 1 Woo](../wetten/woo/artikel_8-4.md)). Stel zelf een gefaseerde termijn voor.
-- Werkte u bij een groot verzoek onvoldoende mee aan opschorting (art. 4:15 lid 2 onder a Awb) of uitstel in bezwaar (art. 7:10 lid 4 Awb)? Dan kan de rechter de proceskosten en het griffierecht niet vergoeden ([art. 8.4 lid 3 Woo](../wetten/woo/artikel_8-4.md)). Toon dus in het beroepschrift dat u meewerkte.
+- Werkte u bij een groot verzoek onvoldoende mee aan opschorting ([art. 4:15 lid 2 onder a Awb](../wetten/awb/artikel_4-15.md)) of uitstel in bezwaar ([art. 7:10 lid 4 Awb](../wetten/awb/artikel_7-10.md))? Dan kan de rechter de proceskosten en het griffierecht niet vergoeden ([art. 8.4 lid 3 Woo](../wetten/woo/artikel_8-4.md)). Toon dus in het beroepschrift dat u meewerkte.
 - Beslist het bestuursorgaan tijdens het beroep? Dan loopt het beroep door tegen dat besluit, tenzij het u volledig tegemoetkomt ([art. 6:20 lid 3 Awb](../wetten/awb/artikel_6-20.md)). U kunt dan in hetzelfde beroep de inhoud betwisten. Het beroep kan ook alsnog gegrond worden verklaard als u daar belang bij hebt (art. 6:20 lid 5).
 
 ## Bezwaar tegen het besluit
@@ -47,7 +47,7 @@ Wetstekst: Awb en Woo geldig vanaf 2026-08-15. Zo rekent u een termijn uit: [ter
 - Weinig tijd? Dien een pro-forma bezwaar in. Het bestuursorgaan moet u eerst gelegenheid geven de gronden aan te vullen ([art. 6:6 Awb](../wetten/awb/artikel_6-6.md)). Sjabloon: [bezwaar](../templates/bezwaar.md).
 - Vraag in het bezwaarschrift om rechtstreeks beroep als de zaak alleen juridisch is ([art. 7:1a Awb](../wetten/awb/artikel_7-1a.md)). Het bestuursorgaan mag dat weigeren.
 - Beslistermijn op bezwaar: zes weken na afloop van de bezwaartermijn, twaalf weken met een bezwaarcommissie. Verdaging: ten hoogste zes weken. Verder uitstel alleen met instemming of voor wettelijke procedures ([art. 7:10 Awb](../wetten/awb/artikel_7-10.md)).
-- Beslist het bestuursorgaan niet op tijd op het bezwaar? Dan weer: ingebrekestelling en beroep niet tijdig. Ook hier geen Awb-dwangsom (art. 8.2 Woo).
+- Beslist het bestuursorgaan niet op tijd op het bezwaar? Dan weer: ingebrekestelling en beroep niet tijdig. Ook hier geen Awb-dwangsom ([art. 8.2 Woo](../wetten/woo/artikel_8-2.md)).
 - Gronden: zie [besluit controleren](praktijk.md#besluit-controleren) en [weigeringsgronden](weigeringsgronden.md).
 
 ## Beroep bij de rechtbank

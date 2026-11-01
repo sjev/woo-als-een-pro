@@ -10,7 +10,7 @@ weight: 4
 
 1. Verstuur op de dag na de laatste dag van de (verdaagde) termijn. Niet eerder: een te vroege ingebrekestelling telt niet ([rechtsmiddelen](../docs/rechtsmiddelen.md#ingebrekestelling-art-612-awb)).
 2. Kort houden. Geen argumenten, geen geschiedenis.
-3. Grondslag: art. 6:12 lid 2 Awb. Noem geen Awb-dwangsom: die geldt niet bij de Woo ([rechtsmiddelen](../docs/rechtsmiddelen.md#ingebrekestelling-art-612-awb)).
+3. Grondslag: [art. 6:12 lid 2 Awb](../wetten/awb/artikel_6-12.md). Noem geen Awb-dwangsom: die geldt niet bij de Woo ([rechtsmiddelen](../docs/rechtsmiddelen.md#ingebrekestelling-art-612-awb)).
 4. Twee weken na ontvangst kunt u direct beroep instellen bij de rechtbank, zonder bezwaar ([rechtsmiddelen](../docs/rechtsmiddelen.md#ingebrekestelling-art-612-awb)).
 5. Gebruik het webformulier "ingebrekestelling" als het bestuursorgaan dat heeft. U krijgt dan een registratienummer. Anders: e-mail met verzoek om ontvangstbevestiging.
 6. Eén ingebrekestelling per zaak.

@@ -14,18 +14,18 @@ Wetstekst: Woo geldig vanaf 2026-08-15.
 |---|---|---|
 | Aan wie? | Een bestuursorgaan, of een instelling, dienst of bedrijf onder verantwoordelijkheid van een bestuursorgaan | [art. 4.1 lid 1 Woo](../wetten/woo/artikel_4-1.md), [art. 2.2 Woo](../wetten/woo/artikel_2-2.md) |
 | Wat? | Publieke informatie: informatie neergelegd in documenten die bij zo'n orgaan berusten | [art. 2.1 Woo](../wetten/woo/artikel_2-1.md) |
-| Hoe? | Mondeling of schriftelijk; elektronisch op de aangegeven wijze. Geen vormeisen, geen verwijzing naar de Woo nodig | art. 4.1 lid 2 Woo; instructie § 3.1 |
-| Belang? | Niet nodig | art. 4.1 lid 3 Woo |
-| Omschrijving? | De aangelegenheid of het document | art. 4.1 lid 4 Woo |
+| Hoe? | Mondeling of schriftelijk; elektronisch op de aangegeven wijze. Geen vormeisen, geen verwijzing naar de Woo nodig | [art. 4.1 lid 2 Woo](../wetten/woo/artikel_4-1.md); instructie § 3.1 |
+| Belang? | Niet nodig | [art. 4.1 lid 3 Woo](../wetten/woo/artikel_4-1.md) |
+| Omschrijving? | De aangelegenheid of het document | [art. 4.1 lid 4 Woo](../wetten/woo/artikel_4-1.md) |
 
 - Een vraag om uitleg of een antwoord ("Wist de wethouder van het advies?") is geen Woo-verzoek. Het is een vraag om inlichtingen (instructie § 3.1). Vraag om de **documenten** waaruit het antwoord blijkt.
 - Twijfelt het bestuursorgaan? Dan moet het met u overleggen, niet afwijzen op formele gronden (instructie § 3.1).
-- Schrijf "Woo-verzoek" in het onderwerp en noem art. 4.1 Woo. Dat voorkomt discussie over de aard van uw vraag.
+- Schrijf "Woo-verzoek" in het onderwerp en noem [art. 4.1 Woo](../wetten/woo/artikel_4-1.md). Dat voorkomt discussie over de aard van uw vraag.
 
 ## Wie valt onder de Woo?
 
 - Bestuursorganen, de Staten-Generaal, de Raad voor de rechtspraak, de Raad van State (niet de Afdeling bestuursrechtspraak), de Algemene Rekenkamer en de ombudsmannen ([art. 2.2 Woo](../wetten/woo/artikel_2-2.md)).
-- Instellingen, diensten en bedrijven onder verantwoordelijkheid van een bestuursorgaan. Het verantwoordelijke bestuursorgaan beslist (art. 4.1 lid 1 Woo).
+- Instellingen, diensten en bedrijven onder verantwoordelijkheid van een bestuursorgaan. Het verantwoordelijke bestuursorgaan beslist ([art. 4.1 lid 1 Woo](../wetten/woo/artikel_4-1.md)).
 - Aandeelhouderschap van de Staat is niet genoeg. Bepalend is of het bestuursorgaan concrete opdrachten en aanwijzingen kan geven die het bedrijf moet volgen ([ECLI:NL:RVS:2024:470](../uitspraken/ECLI-NL-RVS-2024-470.md), r.o. 3.3).
 - Bij milieu-informatie wordt dit verdragsconform en ruimer uitgelegd: ook een entiteit die haar milieutaken niet autonoom uitoefent ([ECLI:NL:RVS:2023:184](../uitspraken/tekst/ECLI-NL-RVS-2023-184.md), COVRA, r.o. 5.9; [art. 2 lid 2 Aarhus](../wetten/aarhus/artikel_2.md)).
 - Praktijk: vraag een overheidsbedrijf om informatie via het verantwoordelijke bestuursorgaan. Vraag ook de correspondentie tussen bestuursorgaan en bedrijf. Die berust in elk geval bij het bestuursorgaan.
@@ -43,7 +43,7 @@ Wetstekst: Woo geldig vanaf 2026-08-15.
 
 | Categorie | Waarom | Bron |
 |---|---|---|
-| Privé-informatie (felicitaties, condoleances, gesprekken met privécontacten) | Geen verband met de publieke taak | art. 2.1 Woo ("naar zijn aard"); instructie § 3.1 |
+| Privé-informatie (felicitaties, condoleances, gesprekken met privécontacten) | Geen verband met de publieke taak | [art. 2.1 Woo](../wetten/woo/artikel_2-1.md) ("naar zijn aard"); instructie § 3.1 |
 | Partijpolitieke informatie (bewindspersoon met partijgenoten over partijzaken) | Idem | instructie § 3.1 |
 | Personeelsvertrouwelijke informatie | Idem | instructie § 3.1 |
 | Informatie onder een bijzondere openbaarmakingsregeling | Art. 8.8 Woo | [andere wetten](andere-wetten.md) |

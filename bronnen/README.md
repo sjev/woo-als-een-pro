@@ -2,7 +2,6 @@
 
 Secundaire bronnen over de Woo, omgezet naar markdown. Eén map per soort. Elk bestand heeft front matter met `url`, `fetched_at` en `sha256`.
 Een bron is achtergrond. Een juridisch feit steunt op [`wetten/`](../wetten/README.md) of [`uitspraken/`](../uitspraken/README.md).
-Ophalen en bijwerken: [`tools/collect/`](../tools/collect/README.md). Wijzig de bestanden niet met de hand.
 
 | Map | Inhoud |
 |---|---|
@@ -49,4 +48,3 @@ Hieronder: alle bronnen met een korte notitie. Niet elke bron is opgehaald.
 - [Open State reactie op BZK-voorstellen (2025)](https://openstate.eu/wp-content/uploads/sites/14/2025/12/Woo-reactie-op-formatiepaper-van-BZK.pdf): actuele discussie over het inperken van de Woo.
 - [Kamervragen puntensysteem Utrecht](https://zoek.officielebekendmakingen.nl/ah-tk-20242025-1456.pdf): voorbeeld van hoe gemeenten verzoekers proberen te prioriteren.
 
-> Groningen, Raalte en VNG blokkeren automatische downloads. Haal deze bestanden handmatig op (zie [`tools/collect/sources.yaml`](../tools/collect/sources.yaml), `manual: true`).

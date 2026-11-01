@@ -76,6 +76,6 @@ Bron: voorbeeld uit instructie bijlage 3a. Een opvatting blijft een opvatting, o
 
 - "Ook concepten van [stuk], voor zover zij feiten, cijfers of beleidsalternatieven bevatten die niet in de definitieve versie staan."
 - "Nota's, adviezen en voorstellen aan [college/GS/minister] ter besluitvorming over [onderwerp], met bijlagen."
-- "Ik verzoek u bij een weigering op grond van art. 5.2 lid 1 Woo per passage te motiveren, en art. 5.2 lid 2 en lid 3 Woo uitdrukkelijk te betrekken."
+- "Ik verzoek u bij een weigering op grond van [art. 5.2 lid 1 Woo](../wetten/woo/artikel_5-2.md) per passage te motiveren, en art. 5.2 lid 2 en lid 3 Woo uitdrukkelijk te betrekken."
 
 Sjabloon: [verzoek](../templates/verzoek.md).

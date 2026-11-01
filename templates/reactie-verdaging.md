@@ -14,7 +14,7 @@ Verstuur binnen enkele dagen na de verdaging. Doel: de termijnen vastleggen en t
 2. Toets de verdaging aan de vier eisen in [procedure](../docs/procedure.md#verdaging-art-44-lid-2-woo). Vakantie, reces en werkdruk gaan niet over de informatie.
 3. Is het verzoek echt groot? Erken dat. Vraag dan om de stand van de zoekslag. Dat maakt u geloofwaardig.
 4. Reken de data uit ([termijn berekenen](../docs/stappenplan.md#termijn-berekenen)).
-5. Geef **geen** instemming met opschorting (art. 4:15 lid 2 onder a Awb) zonder schriftelijk tijdpad. Instemming zet de termijn stil; de ingebrekestelling schuift op ([overleg](../docs/overleg.md#wat-u-geeft)).
+5. Geef **geen** instemming met opschorting ([art. 4:15 lid 2 onder a Awb](../wetten/awb/artikel_4-15.md)) zonder schriftelijk tijdpad. Instemming zet de termijn stil; de ingebrekestelling schuift op ([overleg](../docs/overleg.md#wat-u-geeft)).
 6. Kondig de volgende stap concreet aan. Dreig niet.
 
 ## Tekst

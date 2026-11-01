@@ -56,7 +56,7 @@ Bronnen: [art. 5.1 lid 2 onder b, lid 5, lid 6, lid 7 Woo](../wetten/woo/artikel
 
 ## Zo gebruikt u dit
 
-1. Noem in het verzoek: "Voor zover de documenten milieu-informatie bevatten (art. 19.1a Wm), verzoek ik toepassing van art. 5.1 lid 6 en 7 en art. 5.2 lid 4 Woo."
+1. Noem in het verzoek: "Voor zover de documenten milieu-informatie bevatten ([art. 19.1a Wm](../wetten/wm/artikel_19-1a.md)), verzoek ik toepassing van art. 5.1 lid 6 en 7 en [art. 5.2 lid 4 Woo](../wetten/woo/artikel_5-2.md)."
 2. Vraag bij een (gedeeltelijke) weigering of het bestuursorgaan per passage heeft getoetst of het milieu-informatie of emissiegegevens zijn.
 3. Gelakte cijfers over uitstoot, concentraties, depositie, geluid, of de locatie van een bron? Betoog in bezwaar dat het emissiegegevens zijn. Dan vallen alle gronden van art. 5.1 lid 1 en 2 weg.
 4. Rekenmodellen en invoergegevens (bijv. AERIUS, geluidsmodellen) maken controle van de emissiebeoordeling mogelijk. Betoog dat zij onder categorie 3 vallen.

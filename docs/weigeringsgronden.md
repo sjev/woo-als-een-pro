@@ -19,7 +19,7 @@ Wetstekst: Woo geldig vanaf 2026-08-15. Persoonlijke beleidsopvattingen (art. 5.
 
 | # | Vraag | Gebrek als |
 |---|---|---|
-| 1 | Noemt het besluit per passage een grond (artikel, lid, onderdeel)? | Alleen een algemene verwijzing naar "art. 5.1 Woo" |
+| 1 | Noemt het besluit per passage een grond (artikel, lid, onderdeel)? | Alleen een algemene verwijzing naar "[art. 5.1 Woo](../wetten/woo/artikel_5-1.md)" |
 | 2 | Past de passage bij de grond? | Feiten gelakt als "persoonlijke beleidsopvatting"; naam van een bedrijf gelakt als "persoonlijke levenssfeer" |
 | 3 | Bij een relatieve grond: is de afweging uitdrukkelijk gemotiveerd? | Standaardzin zonder concreet nadeel ([art. 5.1 lid 3 Woo](../wetten/woo/artikel_5-1.md)) |
 | 4 | Is de informatie ouder dan vijf jaar? | Geen extra motivering waarom het belang nog zwaarder weegt ([art. 5.3 Woo](../wetten/woo/artikel_5-3.md)) |
@@ -37,7 +37,7 @@ Is de grond van toepassing, dan blijft openbaarmaking achterwege. Er is geen afw
 | b | Veiligheid van de Staat | Vaak gaat een bijzondere regeling voor (Wiv; [bijlage Woo](../wetten/woo/bijlage.md)) |
 | c | Bedrijfs- en fabricagegegevens, **vertrouwelijk** meegedeeld | Was het echt vertrouwelijk? Gaat het echt over bedrijfsvoering, productie, afzet of klanten (instructie § 4.2.3)? Bij milieu-informatie geldt een afweging (lid 6) |
 | d | Bijzondere en strafrechtelijke persoonsgegevens (par. 3.1 en 3.2 UAVG: [art. 22](../wetten/uavg/artikel_22.md) t/m [art. 33](../wetten/uavg/artikel_33.md)) | Niet als de betrokkene uitdrukkelijk toestemde of de gegevens kennelijk zelf openbaar maakte |
-| e | Wettelijke identificatienummers (bijv. BSN; art. 46 UAVG) | Niet als verstrekking kennelijk geen inbreuk op de levenssfeer maakt (bijv. nummers uit een openbaar register) |
+| e | Wettelijke identificatienummers (bijv. BSN; [art. 46 UAVG](../wetten/uavg/artikel_46.md)) | Niet als verstrekking kennelijk geen inbreuk op de levenssfeer maakt (bijv. nummers uit een openbaar register) |
 
 ## Relatieve gronden (art. 5.1 lid 2 Woo)
 

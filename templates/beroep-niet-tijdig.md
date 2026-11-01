@@ -1,6 +1,6 @@
 ---
 title: Beroep niet tijdig beslissen
-summary: Beroepschrift bij de rechtbank als het bestuursorgaan twee weken na de ingebrekestelling nog niet heeft beslist.
+summary: Beroepschrift bij de rechtbank als het bestuursorgaan twee weken na ontvangst van de ingebrekestelling nog niet heeft beslist.
 weight: 5
 ---
 
@@ -11,13 +11,13 @@ Algemene schrijfregels: [beroepschrift](beroep.md).
 ## Regels
 
 1. Wanneer, en wat de rechter kan: [rechtsmiddelen](../docs/rechtsmiddelen.md#beroep-niet-tijdig-art-612-855b-855d-awb-art-84-woo). Er is geen uiterste termijn, maar wacht niet lang.
-2. Meerdere verzoeken over hetzelfde onderwerp: één beroepschrift, vraag voeging (art. 8:14 Awb).
+2. Meerdere verzoeken over hetzelfde onderwerp: één beroepschrift, vraag voeging ([art. 8:14 Awb](../wetten/awb/artikel_8-14.md)).
 3. Het procesverloop is een tabel met data. Elke regel heeft een bijlage.
 4. Toon in 3.1 dat de termijn **niet** is opgeschort. Loop de gronden voor opschorting na: [procedure](../docs/procedure.md#opschorting).
-5. Groot verzoek: de rechter kan een andere termijn bepalen (art. 8.4 lid 1 Woo). Stel zelf een fasering voor (art. 8:55d lid 3 Awb). Toon uw medewerking; zonder medewerking kan de rechter de proceskosten weigeren (art. 8.4 lid 3 Woo).
+5. Groot verzoek: de rechter kan een andere termijn bepalen ([art. 8.4 lid 1 Woo](../wetten/woo/artikel_8-4.md)). Stel zelf een fasering voor ([art. 8:55d lid 3 Awb](../wetten/awb/artikel_8-55d.md)). Toon uw medewerking; zonder medewerking kan de rechter de proceskosten weigeren ([art. 8.4 lid 3 Woo](../wetten/woo/artikel_8-4.md)).
 6. Dwangsom: standaard volgens de beleidsregels van de rechtbanken. Vraag een hoger bedrag alleen als u weigerachtigheid met citaten kunt tonen.
-7. Beslist het bestuursorgaan tijdens het beroep, dan loopt het beroep door tegen dat besluit (art. 6:20 lid 3 Awb). Zie [bezwaar.md](bezwaar.md) en [beroep.md](beroep.md).
-8. Een zitting is meestal niet nodig (art. 8:55b Awb).
+7. Beslist het bestuursorgaan tijdens het beroep, dan loopt het beroep door tegen dat besluit ([art. 6:20 lid 3 Awb](../wetten/awb/artikel_6-20.md)). Zie [bezwaar.md](bezwaar.md) en [beroep.md](beroep.md).
+8. Een zitting is meestal niet nodig ([art. 8:55b Awb](../wetten/awb/artikel_8-55b.md)).
 
 ## Tekst
 
@@ -56,7 +56,8 @@ Eiser stelt beroep in tegen het niet tijdig beslissen door verweerder op het Woo
 | [datum] | Verweerder verdaagt de beslistermijn wegens [reden] (bijlage [X]). |
 | [datum] | De verdaagde beslistermijn eindigt. |
 | [datum] | Eiser stelt verweerder in gebreke (bijlage [X]). |
-| [datum] | Twee weken na de ingebrekestelling, zonder besluit. |
+| [datum] | Verweerder ontvangt de ingebrekestelling (bijlage [X]). |
+| [datum] | Twee weken na ontvangst van de ingebrekestelling, zonder besluit. |
 
 Verweerder heeft tot op heden geen documenten verstrekt.
 
@@ -68,7 +69,7 @@ De verdaagde termijn eindigde op [datum] (artikel 4.4, eerste en tweede lid, Woo
 
 ### 3.2 Ontvankelijkheid
 
-Eiser heeft verweerder op [datum] in gebreke gesteld. Twee weken later was geen besluit genomen. Artikel 6:12, tweede lid, Awb staat niet aan het beroep in de weg.
+Eiser heeft verweerder op [datum] in gebreke gesteld. Verweerder heeft de ingebrekestelling op [datum] ontvangen. Twee weken later was geen besluit genomen. Artikel 6:12, tweede lid, Awb staat niet aan het beroep in de weg.
 
 ### 3.3 Nadere beslistermijn
 

@@ -11,13 +11,13 @@ Algemene schrijfregels: [beroepschrift](beroep.md).
 ## Regels
 
 1. Termijn en pro-forma: zie [rechtsmiddelen](../docs/rechtsmiddelen.md#bezwaar-tegen-het-besluit).
-2. Loopt er al beroep wegens niet tijdig beslissen? Dan is dat beroep mede gericht tegen het latere besluit (art. 6:20 lid 3 Awb). Bezwaar is dan niet de juiste weg, ook als de rechtsmiddelenclausule dat zegt. Maak toch pro-forma bezwaar en vraag doorzending naar de rechtbank (art. 2:3 Awb). Gebruik blok A.
-3. Zonder lopend beroep: vraag zo nodig rechtstreeks beroep (art. 7:1a Awb). Gebruik blok B.
+2. Loopt er al beroep wegens niet tijdig beslissen? Dan is dat beroep mede gericht tegen het latere besluit ([art. 6:20 lid 3 Awb](../wetten/awb/artikel_6-20.md)). Bezwaar is dan niet de juiste weg, ook als de rechtsmiddelenclausule dat zegt. Maak toch pro-forma bezwaar en vraag doorzending naar de rechtbank ([art. 2:3 Awb](../wetten/awb/artikel_2-3.md)). Gebruik blok A.
+3. Zonder lopend beroep: vraag zo nodig rechtstreeks beroep ([art. 7:1a Awb](../wetten/awb/artikel_7-1a.md)). Gebruik blok B.
 4. Noem de gronden in het kort. Toets eerst met [zoekslag](../docs/zoekslag.md) en [weigeringsgronden](../docs/weigeringsgronden.md#toets-een-weigering-in-vijf-vragen). Gangbare gronden bij Woo-besluiten:
    - onvolledige zoekslag: documenten die bij het bestuursorgaan berusten maar ontbreken;
    - zoekverantwoording ontbreekt: geen systemen, zoektermen of periode per onderdeel;
    - onjuist weggelakt: dezelfde informatie hier gelakt en daar niet; feiten of emissiegegevens gelakt;
-   - inventarislijst te summier: geen datum, afzender of geadresseerde (art. 3:46 Awb).
+   - inventarislijst te summier: geen datum, afzender of geadresseerde ([art. 3:46 Awb](../wetten/awb/artikel_3-46.md)).
 5. Kies blok A of B en nummer de punten opnieuw.
 
 ## Tekst

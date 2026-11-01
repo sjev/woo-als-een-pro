@@ -38,7 +38,7 @@ Recht: [procedure](procedure.md#overleg-bij-een-omvangrijk-verzoek-art-42a-woo).
 |---|---|
 | Prioritering: wat eerst | Een schriftelijk tijdpad per tranche |
 | Specificatie: wat niet meer hoeft | Bevestiging dat de rest vervalt, niet "later" |
-| Instemming met uitstel (art. 4:15 lid 2 onder a Awb) | Een schriftelijke einddatum. Formuleer de instemming voorwaardelijk |
+| Instemming met uitstel ([art. 4:15 lid 2 onder a Awb](../wetten/awb/artikel_4-15.md)) | Een schriftelijke einddatum. Formuleer de instemming voorwaardelijk |
 | Zoektermen en bronnen | Opname in de zoekverantwoording |
 | Meedenken bij het filteren | Inzicht in de resultaten (zie [zoekslag](zoekslag.md#groot-verzoek-samen-zoeken)) |
 
@@ -69,7 +69,7 @@ Vraag het bestuursorgaan (Witboek tip 9):
 
 ## Vastleggen
 
-- Een gesprek is het overleg van art. 4.2a Woo. Stuur dezelfde dag een e-mail met de afspraken: wat, in welke volgorde, welke datum, wat er gebeurt als de datum niet wordt gehaald.
+- Een gesprek is het overleg van [art. 4.2a Woo](../wetten/woo/artikel_4-2a.md). Stuur dezelfde dag een e-mail met de afspraken: wat, in welke volgorde, welke datum, wat er gebeurt als de datum niet wordt gehaald.
 - Vraag om bevestiging. Geen bevestiging: houd het hele verzoek in stand en zeg dat ([praktijk](praktijk.md#overleg-en-prioritering)).
 - Houd berichten kort. Een lange e-mail met veel voorwaarden maakt het bestuursorgaan defensief ([praktijk](praktijk.md#overleg-en-prioritering)).
 - Sjabloon: [overleg](../templates/overleg.md).

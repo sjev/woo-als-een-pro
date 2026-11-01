@@ -10,10 +10,10 @@ Gebruik bij een groot verzoek, na een gesprek of na een verzoek om in te korten.
 
 ## Regels
 
-1. Leg een gesprek schriftelijk vast als het overleg van art. 4.2a Woo.
+1. Leg een gesprek schriftelijk vast als het overleg van [art. 4.2a Woo](../wetten/woo/artikel_4-2a.md).
 2. Ruil inperking **alleen** tegen een schriftelijk tijdpad met data. Zonder bevestiging vervalt het aanbod en blijft het hele verzoek staan. Zeg dat expliciet.
-3. Instemming met uitstel (art. 4:15 lid 2 onder a Awb) geldt per fase en alleen na schriftelijke bevestiging. Nooit voor de eerste fase.
-4. Een zienswijze schort de termijn alleen op na de mededeling dat art. 4:8 Awb wordt toegepast ([procedure](../docs/procedure.md#opschorting)). Vraag per document waarom een zienswijze nodig is ([overleg](../docs/overleg.md#zienswijzen-van-derden)).
+3. Instemming met uitstel ([art. 4:15 lid 2 onder a Awb](../wetten/awb/artikel_4-15.md)) geldt per fase en alleen na schriftelijke bevestiging. Nooit voor de eerste fase.
+4. Een zienswijze schort de termijn alleen op na de mededeling dat [art. 4:8 Awb](../wetten/awb/artikel_4-8.md) wordt toegepast ([procedure](../docs/procedure.md#opschorting)). Vraag per document waarom een zienswijze nodig is ([overleg](../docs/overleg.md#zienswijzen-van-derden)).
 5. Splits naar herkomst: stukken van bestuursorganen hebben geen zienswijze nodig. Die gaan in een eerste deelbesluit.
 6. Vraag de inventarislijsten vóór het besluit. Dan kunt u versmallen.
 7. Feitelijke vragen ("wie is portefeuillehouder?") kunnen per e-mail. Bied aan het onderdeel in te trekken na antwoord.

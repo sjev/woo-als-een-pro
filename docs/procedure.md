@@ -15,10 +15,10 @@ Wetstekst: Woo geldig vanaf 2026-08-15, Awb geldig vanaf 2026-08-15. Zo rekent u
 | 0 | Verzoek ontvangen. Termijnen lopen vanaf de dag erna | [art. 4.4 lid 1 Woo](../wetten/woo/artikel_4-4.md) |
 | ≤ 2 weken | Verzoek om precisering, of besluit "niet behandelen" bij ander doel | [art. 4.1 lid 5](../wetten/woo/artikel_4-1.md), [art. 4.6 Woo](../wetten/woo/artikel_4-6.md) |
 | < 4 weken | Overleg bij omvangrijk verzoek; mededeling verdaging | [art. 4.2a](../wetten/woo/artikel_4-2a.md), [art. 4.4 lid 2 Woo](../wetten/woo/artikel_4-4.md) |
-| 4 weken | Einde beslistermijn | art. 4.4 lid 1 Woo |
-| 6 weken | Einde verdaagde termijn | art. 4.4 lid 2 Woo |
-| + opschorting | Dagen van zienswijze, instemming met uitstel, toerekenbare vertraging | art. 4.4 lid 3 Woo, [art. 4:15 Awb](../wetten/awb/artikel_4-15.md) |
-| Besluit + 2 weken | Verstrekking als een derde naar verwachting bezwaar heeft | art. 4.4 lid 5 Woo |
+| 4 weken | Einde beslistermijn | [art. 4.4 lid 1 Woo](../wetten/woo/artikel_4-4.md) |
+| 6 weken | Einde verdaagde termijn | [art. 4.4 lid 2 Woo](../wetten/woo/artikel_4-4.md) |
+| + opschorting | Dagen van zienswijze, instemming met uitstel, toerekenbare vertraging | [art. 4.4 lid 3 Woo](../wetten/woo/artikel_4-4.md), [art. 4:15 Awb](../wetten/awb/artikel_4-15.md) |
+| Besluit + 2 weken | Verstrekking als een derde naar verwachting bezwaar heeft | [art. 4.4 lid 5 Woo](../wetten/woo/artikel_4-4.md) |
 
 Daarna: [rechtsmiddelen](rechtsmiddelen.md).
 
@@ -79,13 +79,13 @@ De termijn staat stil. De dagen tellen niet mee. Gronden:
 
 | Grond | Begin | Einde | Bron |
 |---|---|---|---|
-| Zienswijze van derden | Dag na de mededeling aan u dat art. 4:8 Awb wordt toegepast | Dag waarop de zienswijze binnen is, of de termijn ongebruikt is verstreken | [art. 4.4 lid 3 Woo](../wetten/woo/artikel_4-4.md) |
+| Zienswijze van derden | Dag na de mededeling aan u dat [art. 4:8 Awb](../wetten/awb/artikel_4-8.md) wordt toegepast | Dag waarop de zienswijze binnen is, of de termijn ongebruikt is verstreken | [art. 4.4 lid 3 Woo](../wetten/woo/artikel_4-4.md) |
 | U stemt schriftelijk in met uitstel | Volgens de instemming | Einde van de periode waarmee u instemde | [art. 4:15 lid 2 onder a Awb](../wetten/awb/artikel_4-15.md) |
-| Vertraging is aan u toe te rekenen | Begin vertraging | Einde vertraging | art. 4:15 lid 2 onder b Awb |
+| Vertraging is aan u toe te rekenen | Begin vertraging | Einde vertraging | [art. 4:15 lid 2 onder b Awb](../wetten/awb/artikel_4-15.md) |
 | Overmacht | Mededeling van overmacht | Einde overmacht | art. 4:15 lid 2 onder c, lid 3 Awb |
 
-- Een losse aankondiging van een zienswijze is niet genoeg. Het bestuursorgaan moet meedelen dat art. 4:8 Awb wordt toegepast (art. 4.4 lid 3 Woo).
-- Eindigt de opschorting voor de zienswijze? Dan meldt het bestuursorgaan dat zo spoedig mogelijk, met de nieuwe einddatum (art. 4.4 lid 4 Woo). Vraag die datum als de mededeling uitblijft.
+- Een losse aankondiging van een zienswijze is niet genoeg. Het bestuursorgaan moet meedelen dat [art. 4:8 Awb](../wetten/awb/artikel_4-8.md) wordt toegepast ([art. 4.4 lid 3 Woo](../wetten/woo/artikel_4-4.md)).
+- Eindigt de opschorting voor de zienswijze? Dan meldt het bestuursorgaan dat zo spoedig mogelijk, met de nieuwe einddatum ([art. 4.4 lid 4 Woo](../wetten/woo/artikel_4-4.md)). Vraag die datum als de mededeling uitblijft.
 - Instemming met uitstel is een ruilmiddel. Geef haar alleen tegen een schriftelijk tijdpad. Zonder instemming loopt de termijn door ([praktijk](praktijk.md#verdaging-en-opschorting)).
 - Weigert u bij een groot verzoek redelijk uitstel? Dan kan de rechter later de proceskosten weigeren ([art. 8.4 lid 3 Woo](../wetten/woo/artikel_8-4.md)). Weeg dat af.
 
@@ -93,7 +93,7 @@ De termijn staat stil. De dagen tellen niet mee. Gronden:
 
 - Is een voldoende gespecificeerd verzoek te groot voor vier weken? Dan overlegt het bestuursorgaan **voor het einde van die termijn** met u over de prioritering ([art. 4.2a Woo](../wetten/woo/artikel_4-2a.md)).
 - Het verstrekt de documenten zo veel mogelijk in de volgorde die u wilt (art. 4.2a).
-- Overleg zelf schort de termijn niet op. Alleen uw schriftelijke instemming met uitstel doet dat (art. 4:15 lid 2 onder a Awb).
+- Overleg zelf schort de termijn niet op. Alleen uw schriftelijke instemming met uitstel doet dat ([art. 4:15 lid 2 onder a Awb](../wetten/awb/artikel_4-15.md)).
 - Een eerste deel (bijv. de vijftig belangrijkste documenten) laat uw recht op de rest intact. Bron: instructie § 3.3.2.
 - Wat u in het overleg vraagt: [praktijk](praktijk.md#overleg-en-prioritering). Sjabloon: [overleg](../templates/overleg.md).
 
@@ -102,7 +102,7 @@ De termijn staat stil. De dagen tellen niet mee. Gronden:
 - Het bestuursorgaan vraagt een zienswijze aan een belanghebbende die naar verwachting bedenkingen heeft, als het besluit steunt op gegevens over die belanghebbende die hij niet zelf heeft verstrekt ([art. 4:8 lid 1 Awb](../wetten/awb/artikel_4-8.md)).
 - Niet iedereen die in een document staat, heeft bedenkingen. Vraag welke derden zijn aangeschreven en waarom.
 - De wet noemt geen termijn voor de zienswijze. Gebruikelijk is twee weken. Bron: instructie § 3.5.
-- Vraag om stukken zonder zienswijze alvast te verstrekken. Dat mag: uitgestelde verstrekking geldt alleen voor de stukken waartegen een derde bezwaar heeft (art. 4.4 lid 5 Woo).
+- Vraag om stukken zonder zienswijze alvast te verstrekken. Dat mag: uitgestelde verstrekking geldt alleen voor de stukken waartegen een derde bezwaar heeft ([art. 4.4 lid 5 Woo](../wetten/woo/artikel_4-4.md)).
 
 ## Besluit en verstrekking
 
