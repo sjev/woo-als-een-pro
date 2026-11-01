@@ -4,7 +4,7 @@ from datetime import date, timedelta
 
 import pytest
 
-from termijn import atw_applies, easter, holidays, last_day, parse_period
+from termijn import atw_applies, chain_end, easter, holidays, last_day, parse_period
 
 
 def end(event: str, period: str) -> date:
@@ -69,3 +69,12 @@ def test_old_year_rejected() -> None:
 def test_bad_period_rejected() -> None:
     with pytest.raises(ValueError):
         parse_period("4m")
+
+
+def test_chain_takes_later_date_when_a_step_ends_on_a_holiday() -> None:
+    # 4w from 16 April 2026 ends on Ascension Day (14 May): per step 15 May + 2w = 29 May; at the end only 28 May.
+    assert chain_end(date(2026, 4, 16), ["4w", "2w"])[0] == date(2026, 5, 29)
+
+
+def test_chain_equals_total_without_holidays() -> None:
+    assert chain_end(date(2026, 11, 2), ["4w", "2w", "12d"])[0] == date(2026, 12, 28)

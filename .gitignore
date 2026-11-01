@@ -3,4 +3,3 @@ __pycache__/
 temp/
 wip/
 .pytest_cache/
-site/public/

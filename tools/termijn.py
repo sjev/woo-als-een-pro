@@ -9,7 +9,7 @@
     tools/termijn.py 2026-11-02 6w 12d    # term plus 12 days suspension
 
 DATE is the event (receipt, notice, decision). The term starts the day after.
-Periods add up first; the Atw then applies to the end of the total term.
+Chained periods: the Atw is applied per step and at the end; the later date wins.
 Supported years: 2014 and later (King's Day on 27 April).
 """
 
@@ -99,18 +99,41 @@ def last_day(event: date, period: timedelta, atw: bool = True) -> tuple[date, li
     return end, notes
 
 
+def chain_end(event: date, periods: list[str]) -> tuple[date, list[str]]:
+    """Last day of chained periods (term, deferral, suspension).
+
+    Whether the Atw applies per step or only to the end of the chain is not settled.
+    Both are computed; the later date is returned, because a premature
+    ingebrekestelling has no effect.
+    """
+    atw = atw_applies(periods)
+    total = sum((parse_period(p) for p in periods), timedelta())
+    end, notes = last_day(event, total, atw)
+    step = event
+    for p in periods:
+        step = last_day(step, parse_period(p), atw)[0]
+    if step > end:
+        notes.append(f"Atw per step gives {step:%Y-%m-%d}, at the end only {end:%Y-%m-%d}. The later date is given.")
+    return max(end, step), notes
+
+
+def report(event: date, periods: list[str]) -> str:
+    """Plain-text result, shared by the CLI and the site's /termijn endpoint."""
+    period = sum((parse_period(p) for p in periods), timedelta())
+    end, notes = chain_end(event, periods)
+    lines = [
+        f"event:     {event:%Y-%m-%d %a}",
+        f"term:      {period.days} days, starts {event + timedelta(days=1):%Y-%m-%d %a}",
+        f"last day:  {end:%Y-%m-%d %a}",
+        f"day after: {end + timedelta(days=1):%Y-%m-%d %a}",
+    ]
+    return "\n".join(lines + [f"note:      {note}" for note in notes]) + "\n"
+
+
 def main(argv: list[str]) -> None:
     if len(argv) < 2:
         sys.exit(__doc__)
-    event = date.fromisoformat(argv[0])
-    period = sum((parse_period(p) for p in argv[1:]), timedelta())
-    end, notes = last_day(event, period, atw_applies(argv[1:]))
-    print(f"event:     {event:%Y-%m-%d %a}")
-    print(f"term:      {period.days} days, starts {event + timedelta(days=1):%Y-%m-%d %a}")
-    print(f"last day:  {end:%Y-%m-%d %a}")
-    print(f"day after: {end + timedelta(days=1):%Y-%m-%d %a}")
-    for note in notes:
-        print(f"note:      {note}")
+    print(report(date.fromisoformat(argv[0]), argv[1:]), end="")
 
 
 if __name__ == "__main__":

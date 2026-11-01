@@ -60,9 +60,11 @@ tools/termijn.py 2026-11-02 6w 12d    # plus 12 days of suspension
 ```
 
 - The date is the event: receipt, notice, decision. The term starts the next day.
-- Periods add up first. The Atw then applies once, to the end of the total term. This is an assumption for chained terms; check it per case.
+- Chained periods (deferral, suspension): the Atw is applied per step and to the end of the total. The later date is given, because a premature ingebrekestelling has no effect. Which method is correct is not settled.
 - Atw rules: weekend and holiday extension (art. 1), at least two workdays (art. 2), holidays incl. Good Friday and 5 May (art. 3), not for terms over twelve weeks or 90 days (art. 4).
 - Not supported: terms counted backward (art. 1 lid 2), months, years before 2014.
+
+The site serves the same output at `/termijn?datum=2026-11-02&duur=4w,2w,12d`.
 
 Tests: `uv run --with pytest pytest tools/`.
 

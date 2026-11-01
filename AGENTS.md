@@ -85,9 +85,11 @@ Schrijfstijl in beide talen: ASD-STE100. Korte zinnen, één gedachte per zin, a
 
 De site (woo.dasopen.nl) is voor AI-agents die een verzoeker helpen. De agent kan geen tools uit deze repo draaien. Zet in `docs/`, `templates/` en `uitspraken/` dus geen tools of commando's. Die horen in dit bestand of in [`tools/README.md`](tools/README.md).
 
-- De site is de markdown uit de repo, ongewijzigd: `docs/`, `templates/`, `uitspraken/`, alle `wetten/` en de bestanden waarnaar zij linken. Een link naar een ander bestand wijst naar GitHub.
+- [`site/app.py`](site/app.py) serveert de markdown uit de repo, ongewijzigd: `docs/`, `templates/`, `uitspraken/`, alle `wetten/` en de bestanden waarnaar zij linken. Een link naar een ander bestand wijst naar GitHub.
 - `/llms.txt` is de ingang: werkwijze ([`site/llms.md`](site/llms.md)) en een index uit de front matter.
-- `/` is één regel voor mensen ([`site/index.html`](site/index.html)): geef uw agent `llms.txt`.
+- `/termijn?datum=JJJJ-MM-DD&duur=4w,2w` rekent een termijn uit met `tools/termijn.py`. Dit is de enige rekenfunctie op de site.
+- Een map of een pad zonder `.md` verwijst door naar het bestand, bijv. `/wetten/woo/` naar `/wetten/woo/_wet.md`. Een onbekend pad geeft een 404 in markdown, met links naar de indexen.
+- Mensen krijgen dezelfde inhoud als HTML: `/` is `llms.txt`, `/<pad>.html` is `/<pad>.md`.
 
 ## Tools
 
@@ -101,4 +103,4 @@ Zie [`tools/README.md`](tools/README.md). Kort:
 | Uitspraak ophalen (volledige tekst) | `tools/uitspraak.py` |
 | Links en ankers controleren | `tools/check_links.py` |
 | Bronnen ophalen en omzetten | `tools/collect/` |
-| Website bouwen en publiceren (woo.dasopen.nl) | `site/build.py` (`site/build.py deploy`) |
+| Website bouwen en publiceren (woo.dasopen.nl) | `site/app.py` (lokaal: http://localhost:8000) |
