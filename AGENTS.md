@@ -38,7 +38,7 @@ Schrijfstijl in beide talen: ASD-STE100. Korte zinnen, één gedachte per zin, a
 
 - Eén onderwerp per document. Doel: < 200 regels.
 - Documenten in `docs/`, `templates/` en `uitspraken/` beginnen met YAML front matter: minimaal `title` en `summary`.
-- Bestandsnamen: kleine letters, koppeltekens, geen nummers vooraf. De volgorde staat in de TOC. `docs/` en `templates/` hebben ook `weight` in de front matter, gelijk aan de TOC: de site sorteert daarop.
+- Bestandsnamen: kleine letters, koppeltekens, geen nummers vooraf. De volgorde staat in de TOC. `docs/` en `templates/` hebben ook `weight` in de front matter, gelijk aan de TOC: `llms.txt` sorteert daarop.
 - Wijzig `wetten/`, `bronnen/` en `uitspraken/tekst/` niet met de hand. Gebruik de tools in [`tools/`](tools/README.md).
 - Draai `tools/check_links.py` na elke wijziging in `docs/`, `templates/` of `uitspraken/`.
 
@@ -83,10 +83,11 @@ Schrijfstijl in beide talen: ASD-STE100. Korte zinnen, één gedachte per zin, a
 
 ## Site
 
-De site (woo.dasopen.nl) is voor juristen, niet voor ontwikkelaars. Zet in `docs/`, `templates/` en `uitspraken/` geen tools, commando's, bestandsformaten of werkinstructies voor agents. Die horen in dit bestand of in [`tools/README.md`](tools/README.md).
+De site (woo.dasopen.nl) is voor AI-agents die een verzoeker helpen. De agent kan geen tools uit deze repo draaien. Zet in `docs/`, `templates/` en `uitspraken/` dus geen tools of commando's. Die horen in dit bestand of in [`tools/README.md`](tools/README.md).
 
-- Mensen: één pagina, "Woo doe je zo" (`site/content/_index.md`). Vijf stappen, kort, met links. Geen menu, geen zijbalk.
-- Agents: `/llms.txt` geeft de index. Elke pagina is ook markdown met front matter (bijv. `/docs/procedure.md`).
+- De site is de markdown uit de repo, ongewijzigd: `docs/`, `templates/`, `uitspraken/`, alle `wetten/` en de bestanden waarnaar zij linken. Een link naar een ander bestand wijst naar GitHub.
+- `/llms.txt` is de ingang: werkwijze ([`site/llms.md`](site/llms.md)) en een index uit de front matter.
+- `/` is één regel voor mensen ([`site/index.html`](site/index.html)): geef uw agent `llms.txt`.
 
 ## Tools
 
@@ -100,4 +101,4 @@ Zie [`tools/README.md`](tools/README.md). Kort:
 | Uitspraak ophalen (volledige tekst) | `tools/uitspraak.py` |
 | Links en ankers controleren | `tools/check_links.py` |
 | Bronnen ophalen en omzetten | `tools/collect/` |
-| Website bouwen en publiceren (woo.dasopen.nl) | `site/` (`inv build`, `inv deploy`) |
+| Website bouwen en publiceren (woo.dasopen.nl) | `site/build.py` (`site/build.py deploy`) |
