@@ -9,3 +9,25 @@ blockquote.warning { border-left-color: #f59e0b; background: #f59e0b1f; }
 blockquote:is(.note, .warning) > :is(h1, h2, h3, h4, h5, h6) { margin-bottom: .5rem; }
 blockquote.note > :is(h1, h2, h3, h4, h5, h6) { color: #3b82f6; }
 blockquote.warning > :is(h1, h2, h3, h4, h5, h6) { color: #d97706; }
+/* Landing page example chat: a ChatGPT window in browser chrome, so it reads as a screenshot. */
+.chat { --bg: #212121; --fg: #ececec; --bubble: #303030; --line: #ffffff26; --chrome: #181818;
+  background: var(--bg); color: var(--fg); border: 1px solid var(--chrome); border-radius: .75rem; overflow: hidden;
+  box-shadow: 0 1.5rem 3rem -1rem #00000059, 0 .25rem .75rem #0000001f; margin: 1.5rem auto 2.5rem; max-width: 46rem;
+  font: 15px/1.6 ui-sans-serif, -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif; }
+.chat :is(p, li, h3, strong, td, th) { color: var(--fg); font-size: inherit; }
+.chat :is(td, th) { background: transparent; border-color: var(--line); padding: .4rem .6rem; }
+.chat-bar { display: flex; align-items: center; gap: .4rem; padding: .55rem .75rem; background: var(--chrome); }
+.chat-bar i { width: .75rem; height: .75rem; border-radius: 50%; background: #ff5f57; }
+.chat-bar i:nth-child(2) { background: #febc2e; }
+.chat-bar i:nth-child(3) { background: #28c840; }
+.chat-bar span { flex: 1; margin: 0 2.5rem 0 1rem; text-align: center; font-size: .8rem; background: #2f2f2f; color: #b4b4b4; border-radius: .4rem; padding: .1rem; }
+.chat-body { max-height: 34rem; overflow-y: auto; padding: 0 1.5rem; }
+.chat-model { position: sticky; top: 0; background: var(--bg); font-size: 1.1rem; padding: .75rem 0; }
+.chat-model::after { content: " ⌄"; color: #afafaf; }
+.chat-user { background: var(--bubble); border-radius: 1.5rem; padding: .6rem 1.1rem; margin: 1.25rem 0 1.25rem auto; max-width: 75%; width: fit-content; overflow-wrap: anywhere; }
+.chat-file { display: block; font-size: .85rem; margin-bottom: .4rem; opacity: .8; }
+.chat-ai { margin-bottom: 1rem; }
+.chat-ai h3 { font-size: 1.05rem; margin: 1.25rem 0 .5rem; }
+.chat-ai table { display: table; font-size: .9rem; }
+.chat-input { margin: .5rem 1.5rem 1.25rem; border: 1px solid var(--line); border-radius: 1.75rem; padding: .75rem 1.25rem; background: var(--bubble); color: #afafaf; }
+@media (max-width: 576px) { .chat-body { padding: 0 1rem; } .chat-input { margin: .5rem 1rem 1rem; } .chat-user { max-width: 90%; } }
