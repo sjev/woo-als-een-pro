@@ -3,3 +3,9 @@ main.container { max-width: 52rem; }
 table { display: block; overflow-x: auto; }
 article h3 { margin-bottom: .5rem; font-size: 1.1rem; }
 article p { margin-bottom: 0; }
+blockquote.note, blockquote.warning { border-left-width: 4px; border-radius: 0 var(--pico-border-radius) var(--pico-border-radius) 0; padding: .75rem 1rem; }
+blockquote.note { border-left-color: #3b82f6; background: #3b82f61a; }
+blockquote.warning { border-left-color: #f59e0b; background: #f59e0b1f; }
+blockquote:is(.note, .warning) > :is(h1, h2, h3, h4, h5, h6) { margin-bottom: .5rem; }
+blockquote.note > :is(h1, h2, h3, h4, h5, h6) { color: #3b82f6; }
+blockquote.warning > :is(h1, h2, h3, h4, h5, h6) { color: #d97706; }

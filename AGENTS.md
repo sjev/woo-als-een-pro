@@ -39,6 +39,7 @@ Schrijfstijl in beide talen: ASD-STE100. Korte zinnen, één gedachte per zin, a
 - Eén onderwerp per document. Doel: < 200 regels.
 - Documenten in `docs/`, `templates/` en `uitspraken/` beginnen met YAML front matter: minimaal `title` en `summary`.
 - Bestandsnamen: kleine letters, koppeltekens, geen nummers vooraf. De volgorde staat in de TOC. `docs/` en `templates/` hebben ook `weight` in de front matter, gelijk aan de TOC: `llms.txt` sorteert daarop.
+- Een notitie: `> [!NOTE]` (info) of `> [!WARNING]` (let op) als eerste regel van een citaatblok. De site toont die als gekleurd blok. Een kop is optioneel, bijv. `> ### Let op`.
 - Wijzig `wetten/`, `bronnen/` en `uitspraken/tekst/` niet met de hand. Gebruik de tools in [`tools/`](tools/README.md).
 - Draai `tools/check_links.py` na elke wijziging in `docs/`, `templates/` of `uitspraken/`.
 

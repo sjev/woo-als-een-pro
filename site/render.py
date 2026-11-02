@@ -22,6 +22,9 @@ es.onmessage = () => location.reload();
 es.onopen = () => { if (up) location.reload(); up = true; };
 </script>"""
 CSS = Path(__file__).with_name("style.css")
+# GitHub alert syntax: "> [!WARNING]" renders as a styled note; raw markdown stays a plain quote.
+# The marker only sets the style; the author writes any heading below it.
+ALERT = re.compile(r"<blockquote>\n<p>\[!(NOTE|WARNING)\](</p>\n|\s*)")
 
 
 def slug(heading: str) -> str:
@@ -37,6 +40,7 @@ def to_html(text: str, title: str, source: str) -> str:
         return m[1] + m[2][:-3] + ".html" if m[2].endswith(".md") and not SCHEME.match(m[2]) else m[0]
 
     body = MD.render(LINK.sub(link, text))
+    body = ALERT.sub(lambda m: f'<blockquote class="{m[1].lower()}">\n' + ("" if m[2].startswith("</p>") else "<p>"), body)
     return f"""<!doctype html>
 <html lang="nl">
 <head>
