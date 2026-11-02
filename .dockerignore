@@ -1,0 +1,10 @@
+# Secrets: never bake them into a public image.
+.env
+.git
+.venv
+.claude
+**/__pycache__
+.pytest_cache
+out
+temp
+wip

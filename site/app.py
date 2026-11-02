@@ -231,20 +231,17 @@ def main() -> None:
     parser.add_argument("--port", type=int, default=8000)
     parser.add_argument("--reload", action="store_true", help="dev: restart on code changes, refresh pages on content changes")
     args = parser.parse_args()
-    if args.reload:
-        os.environ["WOO_LIVE"] = "1"  # inherited by the reloader's worker process
-        uvicorn.run(
-            "app:app",
-            app_dir=str(SITE),
-            host=args.host,
-            port=args.port,
-            reload=True,
-            reload_dirs=[str(SITE), str(REPO / "tools")],
-            timeout_graceful_shutdown=1,  # open /_live streams would block a restart
-        )
-        return
-    # Behind Caddy: take scheme and host for llms.txt from the forwarded headers.
-    uvicorn.run(app, host=args.host, port=args.port, proxy_headers=True, forwarded_allow_ips="*")
+    # No lifespan hooks; a short grace period so one Ctrl+C or `docker stop` ends open connections.
+    opts = {"host": args.host, "port": args.port, "lifespan": "off", "timeout_graceful_shutdown": 1}
+    try:
+        if args.reload:
+            os.environ["WOO_LIVE"] = "1"  # inherited by the reloader's worker process
+            uvicorn.run("app:app", app_dir=str(SITE), reload=True, reload_dirs=[str(SITE), str(REPO / "tools")], **opts)
+        else:
+            # Behind Caddy: take scheme and host for llms.txt from the forwarded headers.
+            uvicorn.run(app, proxy_headers=True, forwarded_allow_ips="*", **opts)
+    except KeyboardInterrupt:
+        pass
 
 
 if __name__ == "__main__":

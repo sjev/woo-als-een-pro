@@ -105,4 +105,5 @@ Zie [`tools/README.md`](tools/README.md). Kort:
 | Uitspraak ophalen (volledige tekst) | `tools/uitspraak.py` |
 | Links en ankers controleren | `tools/check_links.py` |
 | Bronnen ophalen en omzetten | `tools/collect/` |
-| Website bouwen en publiceren (woo.dasopen.nl) | `site/app.py` (lokaal: http://localhost:8000) |
+| Website lokaal draaien | `site/app.py` (http://localhost:8000) |
+| Image bouwen en naar Docker Hub pushen (`DOCKERHUB_USER`, `DOCKERHUB_TOKEN` in `.env`) | `inv deploy` |
