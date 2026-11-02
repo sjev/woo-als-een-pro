@@ -9,7 +9,7 @@
     site/app.py --port 8080
     site/app.py --reload      # dev: restart on code changes, refresh pages on content changes
 
-/llms.txt is the agent entry point; / is the same content as HTML.
+/llms.txt is the agent entry point; / is the page for people (site/home.md).
 /<path>.md is the raw file; /<path>.html renders it. Files are read on each request.
 A folder or extensionless path redirects to its file; a miss returns a markdown 404 with index links.
 /termijn computes a deadline with tools/termijn.py.
@@ -197,7 +197,7 @@ if LIVE:
 
 @app.api_route("/", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def home() -> str:
-    return to_html(llms("/"), "Woo als een pro", "/llms.txt")
+    return to_html((SITE / "home.md").read_text("utf8"), "Woo als een pro", "/llms.txt")
 
 
 @app.api_route("/{path:path}", methods=["GET", "HEAD"])

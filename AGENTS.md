@@ -89,7 +89,8 @@ De site (woo.dasopen.nl) is voor AI-agents die een verzoeker helpen. De agent ka
 - `/llms.txt` is de ingang: werkwijze ([`site/llms.md`](site/llms.md)) en een index uit de front matter.
 - `/termijn?datum=JJJJ-MM-DD&duur=4w,2w` rekent een termijn uit met `tools/termijn.py`. Dit is de enige rekenfunctie op de site.
 - Een map of een pad zonder `.md` verwijst door naar het bestand, bijv. `/wetten/woo/` naar `/wetten/woo/_wet.md`. Een onbekend pad geeft een 404 in markdown, met links naar de indexen.
-- Mensen krijgen dezelfde inhoud als HTML: `/` is `llms.txt`, `/<pad>.html` is `/<pad>.md`.
+- `/` is de pagina voor mensen: [`site/home.md`](site/home.md). Kort, in jij-vorm.
+- Mensen krijgen dezelfde inhoud als HTML: `/<pad>.html` is `/<pad>.md`.
 
 ## Tools
 
