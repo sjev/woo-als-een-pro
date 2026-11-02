@@ -189,7 +189,7 @@ if LIVE:
     async def live() -> StreamingResponse:
         async def events() -> AsyncIterator[str]:
             yield "retry: 500\n\n"
-            async for _ in awatch(REPO, watch_filter=lambda _, p: p.endswith(".md")):
+            async for _ in awatch(REPO, watch_filter=lambda _, p: p.endswith((".md", ".css"))):
                 yield "data: reload\n\n"
 
         return StreamingResponse(events(), media_type="text/event-stream")
