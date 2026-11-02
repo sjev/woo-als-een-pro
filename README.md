@@ -1,9 +1,8 @@
 # Woo als een pro
 
-Kennisbank en tools voor Woo-verzoeken. Doelgroep: LLM-agents en mensen.
-Documenten zijn kort. Zij verwijzen naar wetstekst en jurisprudentie.
+Kennisbank en tools voor Woo-verzoeken. Doelgroep: primair LLM-agents, ook leesbaar voor mensen.
 
-Deze repo bevat kennis, geen zaakgegevens. Een zaak beheert u in een eigen systeem (bijv. ODAS).
+Documenten zijn kort. Zij verwijzen naar wetstekst en jurisprudentie.
 Agents: lees eerst [`AGENTS.md`](AGENTS.md).
 
 ## Structuur

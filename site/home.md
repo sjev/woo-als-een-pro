@@ -12,12 +12,13 @@
 
 
 
->[!NOTE]
->## Kennisbank gebruiken met AI
->
->Plak deze instructie in ChatGPT, Claude of een andere AI-assistent:
->
-> `Lees https://woo.dasopen.nl/llms.txt en help me met mijn Woo-verzoek.`
+
+## Kennisbank gebruiken met AI
+
+Plak deze instructie in ChatGPT, Claude of een andere AI-assistent:
+
+
+`Lees https://woo.dasopen.nl/llms.txt en help me met mijn Woo-verzoek.`
 
 ## Kennisbank
 
