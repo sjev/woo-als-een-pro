@@ -91,21 +91,26 @@ def rewrite(src: Path, links: set[Path]) -> str:
     return LINK.sub(fix, src.read_text("utf8"))
 
 
-def entry(md: Path, base: str) -> tuple[object, str]:
+def entry(md: Path, base: str, ext: str) -> tuple[object, str]:
     """Sort key and index line. Rulings: newest first, title as description."""
-    m, url = split(md.read_text("utf8"))[0], base + md.relative_to(REPO).as_posix()
+    m, url = split(md.read_text("utf8"))[0], base + md.relative_to(REPO).with_suffix(ext).as_posix()
     if "ecli" in m:
         return str(m["datum"]), f"- [{m['ecli']}]({url}) ({m['datum']}): {m['title']}"
     return -m.get("weight", 99), f"- [{m['title']}]({url}): {m['summary']}"
 
 
+def index(base: str, ext: str = ".md") -> str:
+    """Front matter index of all sections: llms.txt for agents, the home page for people."""
+    parts = []
+    for folder, name in SECTIONS.items():
+        entries = sorted((entry(md, base, ext) for md in (REPO / folder).glob("*.md") if md.name != "README.md"), reverse=True)
+        parts.append(f"## {name}\n\n" + "\n".join(line for _, line in entries))
+    return "\n\n".join(parts)
+
+
 def llms(base: str) -> str:
     """site/llms.md links from the site root (`](/...`); base makes them absolute."""
-    parts = [(SITE / "llms.md").read_text("utf8").rstrip().replace("](/", "](" + base)]
-    for folder, name in SECTIONS.items():
-        entries = sorted((entry(md, base) for md in (REPO / folder).glob("*.md") if md.name != "README.md"), reverse=True)
-        parts.append(f"## {name}\n\n" + "\n".join(line for _, line in entries))
-    return "\n\n".join(parts) + "\n"
+    return (SITE / "llms.md").read_text("utf8").rstrip().replace("](/", "](" + base) + "\n\n" + index(base) + "\n"
 
 
 NOT_FOUND = """# Niet gevonden
@@ -197,7 +202,8 @@ if LIVE:
 
 @app.api_route("/", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def home() -> str:
-    return to_html((SITE / "home.md").read_text("utf8"), "Woo als een pro", "/llms.txt")
+    text = (SITE / "home.md").read_text("utf8").replace("<!-- index -->", index("/", ".html"))
+    return to_html(text, "Woo als een pro", "/llms.txt")
 
 
 @app.api_route("/pico.min.css", methods=["GET", "HEAD"])

@@ -99,17 +99,16 @@ Heb je sinds 14 oktober nog post van de gemeente gekregen? Deel die, dan bepaal 
 
 -----------
 
-## Kennisbank
-
-
 > [!NOTE]
 > **Deze kennisbank is geoptimaliseerd voor AI-assistenten.** De structuur en inhoud zijn zo opgezet dat AI-systemen informatie snel kunnen vinden en gebruiken. Sommige pagina's bevatten daarom expliciete instructies en verwijzingen naar machineleesbare documenten. Die zijn vooral bedoeld voor AI-systemen en kunnen voor menselijke bezoekers wat ongebruikelijk overkomen.
 
+<!-- index -->
+
+## Hulpmiddelen
+
 <div class="grid">
-<article><h3><a href="/docs/stappenplan.html">Stappenplan</a></h3><p>Begin hier.</p></article>
-<article><h3><a href="/templates/README.html">Briefsjablonen</a></h3><p>Voorbeelden voor elke stap.</p></article>
 <article><h3><a href="/termijn.html">Termijn berekenen</a></h3><p>Wanneer moet de overheid reageren?</p></article>
-<article><h3><a href="/wetten/README.html">Wetten</a> en <a href="/uitspraken/README.html">uitspraken</a></h3><p>Wetgeving en jurisprudentie als bron.</p></article>
+<article><h3><a href="/wetten/README.html">Wetten</a></h3><p>De wetstekst per artikel.</p></article>
 </div>
 
 ## Dossier opbouwen
