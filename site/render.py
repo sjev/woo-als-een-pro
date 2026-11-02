@@ -42,14 +42,19 @@ def to_html(text: str, title: str, source: str) -> str:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<link rel="stylesheet" href="/pico.min.css">
 <title>{html.escape(title)}</title>
 <link rel="alternate" type="text/markdown" href="{source}">
 <style>
 {CSS.read_text('utf8')}</style>
 </head>
 <body>
-<nav><a href="/">Woo als een pro</a> · <a href="/termijn.html">termijn berekenen</a> ·<a href="{source}">llms.txt</a></nav>
-<main>
+<header class="container"><nav>
+<ul><li><a href="/"><strong>Woo als een pro</strong></a></li></ul>
+<ul><li><a href="/termijn.html">Termijn berekenen</a></li><li><a href="{source}">llms.txt</a></li></ul>
+</nav></header>
+<main class="container">
 {body}</main>
 {LIVE_JS if LIVE else ''}
 </body>

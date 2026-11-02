@@ -31,7 +31,7 @@ from urllib.parse import quote
 import uvicorn
 import yaml
 from fastapi import FastAPI, Request
-from fastapi.responses import HTMLResponse, PlainTextResponse, RedirectResponse, Response, StreamingResponse
+from fastapi.responses import FileResponse, HTMLResponse, PlainTextResponse, RedirectResponse, Response, StreamingResponse
 from watchfiles import awatch
 
 SITE = Path(__file__).resolve().parent
@@ -198,6 +198,11 @@ if LIVE:
 @app.api_route("/", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def home() -> str:
     return to_html((SITE / "home.md").read_text("utf8"), "Woo als een pro", "/llms.txt")
+
+
+@app.api_route("/pico.min.css", methods=["GET", "HEAD"])
+def pico() -> FileResponse:
+    return FileResponse(SITE / "pico.min.css", headers={"Cache-Control": "public, max-age=86400"})
 
 
 @app.api_route("/{path:path}", methods=["GET", "HEAD"])
