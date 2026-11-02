@@ -1,12 +1,13 @@
 #!/usr/bin/env -S uv run --script
 # /// script
 # requires-python = ">=3.10"
-# dependencies = ["fastapi", "uvicorn", "markdown-it-py", "mdit-py-plugins", "pyyaml"]
+# dependencies = ["fastapi", "uvicorn", "markdown-it-py", "mdit-py-plugins", "pyyaml", "watchfiles"]
 # ///
 """Serve woo.dasopen.nl: repo markdown for agents, the same pages as HTML for people.
 
     site/app.py               # http://localhost:8000
     site/app.py --port 8080
+    site/app.py --reload      # dev: restart on code changes, refresh pages on content changes
 
 /llms.txt is the agent entry point; / is the same content as HTML.
 /<path>.md is the raw file; /<path>.html renders it. Files are read on each request.
@@ -18,8 +19,11 @@ from __future__ import annotations
 
 import argparse
 import html
+import logging
+import os
 import re
 import sys
+from collections.abc import AsyncIterator
 from datetime import date
 from pathlib import Path
 from urllib.parse import quote
@@ -27,12 +31,13 @@ from urllib.parse import quote
 import uvicorn
 import yaml
 from fastapi import FastAPI, Request
-from fastapi.responses import HTMLResponse, PlainTextResponse, RedirectResponse, Response
+from fastapi.responses import HTMLResponse, PlainTextResponse, RedirectResponse, Response, StreamingResponse
+from watchfiles import awatch
 
 SITE = Path(__file__).resolve().parent
 REPO = SITE.parent
 sys.path[:0] = [str(SITE), str(REPO / "tools")]
-from render import LINK, SCHEME, to_html  # noqa: E402
+from render import LINK, LIVE, SCHEME, to_html  # noqa: E402
 from termijn import report  # noqa: E402
 
 TERMIJN_USAGE = """Usage: /termijn?datum=YYYY-MM-DD&duur=4w[,2w,12d]
@@ -177,6 +182,19 @@ def termijn_form(datum: str = "", duur: str = "4w") -> str:
     return to_html(text, "Termijn berekenen", f"/termijn?datum={quote(datum)}&duur={quote(duur)}")
 
 
+if LIVE:
+    logging.getLogger("uvicorn.access").addFilter(lambda r: "/_live" not in r.getMessage())
+
+    @app.get("/_live")
+    async def live() -> StreamingResponse:
+        async def events() -> AsyncIterator[str]:
+            yield "retry: 500\n\n"
+            async for _ in awatch(REPO, watch_filter=lambda _, p: p.endswith(".md")):
+                yield "data: reload\n\n"
+
+        return StreamingResponse(events(), media_type="text/event-stream")
+
+
 @app.api_route("/", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def home() -> str:
     return to_html(llms("/"), "Woo als een pro", "/llms.txt")
@@ -206,7 +224,20 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=8000)
+    parser.add_argument("--reload", action="store_true", help="dev: restart on code changes, refresh pages on content changes")
     args = parser.parse_args()
+    if args.reload:
+        os.environ["WOO_LIVE"] = "1"  # inherited by the reloader's worker process
+        uvicorn.run(
+            "app:app",
+            app_dir=str(SITE),
+            host=args.host,
+            port=args.port,
+            reload=True,
+            reload_dirs=[str(SITE), str(REPO / "tools")],
+            timeout_graceful_shutdown=1,  # open /_live streams would block a restart
+        )
+        return
     # Behind Caddy: take scheme and host for llms.txt from the forwarded headers.
     uvicorn.run(app, host=args.host, port=args.port, proxy_headers=True, forwarded_allow_ips="*")
 

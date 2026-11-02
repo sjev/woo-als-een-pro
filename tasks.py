@@ -10,10 +10,9 @@ PORT = 8000
 
 @task(help={"port": f"Port; default {PORT}"})
 def serve(c: Context, port: int = PORT) -> None:
-    """Serve the site from the working tree at http://localhost:<port>."""
-    # app.py reads the markdown on each request: content edits show without a restart.
+    """Serve the site at http://localhost:<port>; pages refresh on content changes."""
     with c.cd(str(ROOT)):
-        c.run(f"site/app.py --port {port}", pty=True)
+        c.run(f"site/app.py --port {port} --reload", pty=True)
 
 
 @task

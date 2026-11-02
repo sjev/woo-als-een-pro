@@ -1,4 +1,4 @@
-# Woo als een pro
+# Woo handleiding 
 
 > Kennis voor AI-agents die een verzoeker helpen bij een Woo-verzoek (Wet open overheid): welke stap, welke termijn, welke brief, welke grondslag.
 

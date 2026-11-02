@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import html
+import os
 import re
 
 from markdown_it import MarkdownIt
@@ -10,6 +11,15 @@ from mdit_py_plugins.anchors import anchors_plugin
 
 LINK = re.compile(r"(\]\()([^)\s#]+)")
 SCHEME = re.compile(r"[a-z]+:")
+# Dev only (site/app.py --reload): the server pushes on content changes.
+# A reconnect means the server restarted after a code change: reload too.
+LIVE = os.environ.get("WOO_LIVE") == "1"
+LIVE_JS = """<script>
+let up = false;
+const es = new EventSource("/_live");
+es.onmessage = () => location.reload();
+es.onopen = () => { if (up) location.reload(); up = true; };
+</script>"""
 CSS = """
 :root { color-scheme: light dark; }
 body { font: 1rem/1.6 system-ui, sans-serif; max-width: 48rem; margin: 2rem auto; padding: 0 1rem; }
@@ -47,6 +57,7 @@ def to_html(text: str, title: str, source: str) -> str:
 <nav><a href="/">Woo als een pro</a> · <a href="/termijn.html">termijn berekenen</a> ·<a href="{source}">bron voor agents</a></nav>
 <main>
 {body}</main>
+{LIVE_JS if LIVE else ''}
 </body>
 </html>
 """
