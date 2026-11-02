@@ -44,7 +44,7 @@ def to_html(text: str, title: str, source: str) -> str:
 <style>{CSS}</style>
 </head>
 <body>
-<nav><a href="/">Woo als een pro</a> · <a href="{source}">bron voor agents</a></nav>
+<nav><a href="/">Woo als een pro</a> · <a href="/termijn.html">termijn berekenen</a> ·<a href="{source}">bron voor agents</a></nav>
 <main>
 {body}</main>
 </body>

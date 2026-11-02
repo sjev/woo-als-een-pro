@@ -17,10 +17,12 @@ A folder or extensionless path redirects to its file; a miss returns a markdown 
 from __future__ import annotations
 
 import argparse
+import html
 import re
 import sys
 from datetime import date
 from pathlib import Path
+from urllib.parse import quote
 
 import uvicorn
 import yaml
@@ -39,6 +41,14 @@ datum: the event (receipt, notice, decision). The term starts the day after.
 duur:  one or more periods, comma-separated; w = weeks, d = days.
 Chained periods: the Algemene termijnenwet is applied per step and at the end; the later date is given.
 """
+TERMIJN_OPTIONS = {
+    "2w": "2 weken",
+    "4w": "4 weken",
+    "4w,2w": "4 + 2 weken (verdaagd)",
+    "6w": "6 weken",
+    "8w": "8 weken",
+    "12w": "12 weken",
+}
 GITHUB = "https://github.com/sjev/woo-als-een-pro/tree/main/"
 RAW = "https://raw.githubusercontent.com/sjev/woo-als-een-pro/main/"
 # Served in full, with the files they link to (full texts of rulings, sources).
@@ -141,6 +151,30 @@ def termijn(datum: str = "", duur: str = "") -> PlainTextResponse:
         return PlainTextResponse(report(date.fromisoformat(datum), duur.split(",")))
     except ValueError as e:
         return PlainTextResponse(f"Error: {e}\n\n{TERMIJN_USAGE}", status_code=400)
+
+
+@app.api_route("/termijn.html", methods=["GET", "HEAD"], response_class=HTMLResponse)
+def termijn_form(datum: str = "", duur: str = "4w") -> str:
+    datum = datum or date.today().isoformat()
+    try:
+        result = report(date.fromisoformat(datum), duur.split(","))
+    except ValueError as e:
+        result = f"Error: {e}\n"
+    options = "".join(
+        f'<option value="{v}"{" selected" if v == duur else ""}>{label}</option>' for v, label in TERMIJN_OPTIONS.items()
+    )
+    form = (
+        '<form action="/termijn.html">'
+        f'<label>Datum gebeurtenis <input type="date" name="datum" value="{html.escape(datum)}" required></label> '
+        f'<label>Termijn <select name="duur">{options}</select></label> '
+        "<button>Bereken</button></form>"
+    )
+    text = (
+        "# Termijn berekenen\n\nDe termijn begint de dag na de gebeurtenis. "
+        "De regels staan in [Termijn berekenen](/docs/stappenplan.md#termijn-berekenen).\n\n"
+        f"{form}\n\n```\n{result}```\n"
+    )
+    return to_html(text, "Termijn berekenen", f"/termijn?datum={quote(datum)}&duur={quote(duur)}")
 
 
 @app.api_route("/", methods=["GET", "HEAD"], response_class=HTMLResponse)
